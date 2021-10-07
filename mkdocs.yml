@@ -1,0 +1,43 @@
+
+site_name: Computational light laboratory
+site_description: The computational light laboratory at University College London.
+site_author: Kaan Akşit
+site_url: 'https://complight.github.io'
+
+repo_name: complight
+repo_url: 'https://github.com/complight'
+
+copyright: 'Copyright &copy; 2021'
+
+nav:
+  - Getting started: 'index.md'
+
+theme:
+    name: material
+    theme:
+        features:
+            - navigation.instant
+            - navigation.tabs
+    palette:
+        primary: youtube
+        scheme: youtube
+    highlightjs: true
+    hljs_languages:
+        - python
+
+plugins:
+   - search
+markdown_extensions:
+   - pymdownx.arithmatex:
+       generic: true
+extra_javascript:
+  - 'javascripts/config.js'
+  - 'https://polyfill.io/v3/polyfill.min.js?features=es6'
+  - 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/complightlab
+
+extra_css:
+  - stylesheets/extra.css
