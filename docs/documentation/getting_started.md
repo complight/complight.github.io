@@ -1,4 +1,4 @@
-# Welcome message
+# Welcome aboard!
 Welcome aboard!
 
 **The computational light laboratory conducts research and development in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.**
@@ -15,15 +15,33 @@ We don't shy away from going public and participate in public demonstrations wit
 
 [Kaan Akşit](https://kaanaksit.com)
 
-# Getting aboard!
+## Getting aboard!
 In the rest of this documentation, you will find a checklist that will help you establish yourself as a member of the Computational light laboratory.
 There is also an additional subsection that provides a list of suggestions to help you get you to establish collaborative work ethics.
 Note that this and the other documents that you will find on this website are always subject to change.
 In fact, as a member, please do not hesitate to suggest improvements and be the change by actually having a pull request in the [source repository](https://github.com/complight/complight.github.io).
 
-## Checklist
+### Checklist
 
-## Suggestions
+- Are you full registered for the graduate programme? Is all the administrator work done? Relevant contact: [cs.phdadmissions@ucl.ac.uk](mailto:cs.phdadmissions@ucl.ac.uk).
+- Do you know when you will receive your first paycheck? Relevant contact: [cs.phdadmissions@ucl.ac.uk](mailto:cs.phdadmissions@ucl.ac.uk).
+- Do you have a UCL identity card? Relevant contact: [securitysystems@ucl.ac.uk](mailto:securitysystems@ucl.ac.uk).
+- Do you know which building is our office building? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Can you get into the building where our office is using your UCL identity card? Relevant contact: [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
+- Do you have a desk and a chair reserved for you in the office? Relevant contact: [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
+- Do you know where Kaan's office is? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you know where our laboratory space is? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you have a computer to conduct your research? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk). For queries such as where to get a display mount, cable for this and that, try reaching out to [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
+- Do you have access to remote computational resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you have access to hardware resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Make sure to meet other members. Send emails! They are listed on [this website.](../../people)
+- Do you know what you will be focusing on? Do you know what projects are [carried out](../../publications) in the team? Are you up-to-date with what the team has achieved [recently](../../timeline)?
+- Are you listed as a member in the [GitHub organization](https://github.com/complight/)? In that organization which team do you belong to? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Are you receiving calendar invitations for weekly group meetings? Reach out to Kaan or any other team member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you have a research plan? What are your goals? How will your research impact the society in the near and far future? Tinker deeply in a structured manner. Agree with Kaan and your other supervisors. Reach out to them and initiate conversations about your roadmap towards your degree.
+
+### Suggestions
 These are some suggestions to help you get establishing yourself as a collaborative member of the group.
 
  - Install software that helps you send emails. With that software, make sure you can schedule emails. Please do not send emails to people you don't know well outside 8 am to 6 pm (unless they are in a different time zone).

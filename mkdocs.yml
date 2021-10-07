@@ -11,6 +11,7 @@ copyright: 'Copyright &copy; 2021'
 
 nav:
   - Welcome: 'index.md'
+  - People: 'people.md'
   - Timeline: 'timeline.md'
   - Publications: 'publications.md'
   - Teaching: 'teaching.md'
