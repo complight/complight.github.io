@@ -6,6 +6,8 @@
 ### 1 October 2021 
 <img align='left' src="../people/oliver_kingshott.png" width="80" alt/>
 [Oliver Kingshott](http://oliver.kingshott.com/) joined [University College London's](https://www.ucl.ac.uk) [computer science department](https://www.ucl.ac.uk/computer-science/) as a PhD student.
+He is now a member of [Computational light laboratory](https://complight.github.io/).
+His PhD is supervised by [Kaan Akşit](https://kaanaksit.com) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/).
 <br clear="left"/>
 
 ### 4 January 2021
