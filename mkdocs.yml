@@ -10,7 +10,12 @@ repo_url: 'https://github.com/complight'
 copyright: 'Copyright &copy; 2021'
 
 nav:
-  - Getting started: 'index.md'
+  - Welcome: 'index.md'
+  - Timeline: 'timeline.md'
+  - Publications: 'publications.md'
+  - Teaching: 'teaching.md'
+  - Documentation: 'documentation.md'
+  - Seminars: 'seminars.md'
 
 theme:
     name: material
