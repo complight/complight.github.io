@@ -1,6 +1,37 @@
 # Publications
 
 ## 2014
+<img align="left" src="media/head_worn_projector.png" width="200" alt/>
+**Head-worn Mixed Reality Projection Display Application**
+
+[K. Akşit](https://kaanaksit.com),  D. Kade, O. Özcan and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1145/2663806.2663826)
+:material-web: [Project site](https://kaanaksit.com/portfolio/head-worn-mixed-reality-projection-display-application/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/3782.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=7F3Z-4UZWUc)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{Aksit:2014:HMR:2663806.2663826,
+	 author = {Ak\c{s}it, Kaan and Kade, Daniel and \"{O}zcan, O\u{g}uzhan and \"{U}rey, Hakan},
+	 title = {Head-worn Mixed Reality Projection Display Application},
+	 booktitle = {Proceedings of the 11th Conference on Advances in Computer Entertainment Technology},
+	 series = {ACE '14},
+	 year = {2014},
+	 isbn = {978-1-4503-2945-3},
+	 location = {Funchal, Portugal},
+	 pages = {11:1--11:9},
+	 articleno = {11},
+	 numpages = {9},
+	 url = {http://doi.acm.org/10.1145/2663806.2663826},
+	 doi = {10.1145/2663806.2663826},
+	 acmid = {2663826},
+	 publisher = {ACM},
+	 address = {New York, NY, USA},
+	 keywords = {head-mounted projection display, immersive environments, laser projector, mixed reality, motion capture},
+	} 
+	```
+<br clear="left"/>
 <img align="left" src="media/super_stereoscopy.png" width="200" alt/>
 **Super stereoscopy technique for comfortable and realistic 3D displays**
 
