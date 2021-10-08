@@ -9,8 +9,8 @@ The computational light laboratory is lead by [Kaan Akşit](https://kaanaksit.co
 We are here to invent the next in light-based techniques and unlock the mystery of light.
 
 The computational light laboratory conducts [research and development](../publications) in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
-Our primary software toolkit to tackle our research problem is public and open-source.
-We published our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
+Our primary software toolkit to tackle our research problems is public and open-source.
+We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
 These are all public as we trust in people!
 
