@@ -15,7 +15,8 @@ nav:
     - Current members and alumni: 'people/index.md'
   - Timeline: 
     - Recent news: 'timeline/index.md'
-  - Publications: 'publications.md'
+  - Publications:
+    - Complete list: 'publications/index.md'
   - Teaching:
     - Lectures: 'teaching/index.md'
   - Documentation:
