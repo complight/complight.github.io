@@ -5,6 +5,57 @@ Overall, seminars are a blend of internal and external presenters.
 
 ## 2021
 
+### Paul Linton (City, University of London)
+??? Details
+    **Date:**
+    23rd June 2021
+    
+    **Presenters:** [Paul Linton](https://linton.vision/), Research Fellow, Centre for Applied Vision Research, City, University of London
+    
+    **Title:** Size and Distance Perception for Virtual Reality
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbBViX_S8eZPvxUTVL0oW88BsyM3LVptasrpupR7DDaqKg?e=NdrkQS)
+
+
+
+### Luca Morreale and Lisa Izzouzi (UCL)
+??? Details
+    **Date:**
+    16th June 2021
+    
+    **Presenters:**
+    
+    - Luca Morreale, PhD student at UCL
+    - Lisa Izzouzi, Phd student at UCL
+    
+    **Title:**
+    - Interpretable Neural Surface Maps
+    - Meaningful meetups in Virtual Reality
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EahZaVqtSLpEssJ_YUel--IBK_7Vfw9c6etIL7M486VM8g?e=Yav4Vz)
+
+### Rafał Mantiuk (Cambridge University)
+??? Details
+    **Date:**
+    9th June 2021
+    
+    **Presenter:** [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/), Reader in Graphics and Displays at the University of Cambridge
+    
+    **Title:** Modelling the quality of high frame-rate graphics for adaptive refresh rate and resolution
+    
+    **Watch:** [Recording (Password protected)]()
+
+### Peter Shirley (NVIDIA)
+??? Details
+    **Date:**
+    2nd June 2021
+    
+    **Presenter:** [Peter Shirley](https://www.petershirley.com/), Distinguished Research Scientist at NVIDIA
+    
+    **Title:** A tour of the rapidly moving target of computer graphics
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfIjHtTS3UVBvam7-tGZ3AYBK_Vo0JmRPMsNH2pw09y-5A?e=ScxSDb)
+
 ### David Walton and Rafel Kuffner dos Anjos (UCL)
 ??? Details
     **Date:** 

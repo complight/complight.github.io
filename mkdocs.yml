@@ -10,13 +10,19 @@ repo_url: 'https://github.com/complight'
 copyright: 'Copyright &copy; 2021'
 
 nav:
-  - Welcome: 'index.md'
-  - People: 'people.md'
-  - Timeline: 'timeline.md'
+  - Home: 'index.md'
+  - People:
+    - Current members and alumni: 'people/index.md'
+  - Timeline: 
+    - Recent news: 'timeline/index.md'
   - Publications: 'publications.md'
   - Teaching: 'teaching.md'
-  - Documentation: 'documentation.md'
-  - Seminars: 'seminars.md'
+  - Documentation:
+    - List: 'documentation/index.md'
+    - Getting started: 'documentation/getting_started.md'
+    - Logo of the team: 'documentation/logo.md'
+  - Seminars:
+    - All seminars: 'seminars/index.md'
 
 theme:
     name: material
@@ -37,7 +43,7 @@ theme:
         - search.highlight
         - search.share
         - search.suggest
-    # - toc.integrate
+       # - toc.integrate
         - navigation.instant
         - navigation.indexes
         - navigation.top
