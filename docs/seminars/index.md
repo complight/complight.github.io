@@ -9,6 +9,18 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2021
 
 
+### Wenzel Jakob (École Polytechnique Fédérale de Lausanne)
+??? Details
+    **Date:**
+    6th October 2021
+    
+    **Presenters:** [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/), assistant professor at École Polytechnique Fédérale de Lausanne
+     
+    **Title:** Differentiable Simulation of Light
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERtrHoiLiW1HiN15xhfEbO4BHzohd4lvInuvS_m6UIKYCQ?e=taG9ec)
+
+
 ### Gordon Wetzstein (Stanford University)
 ??? Details
     **Date:**
