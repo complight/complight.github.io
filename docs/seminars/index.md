@@ -1,5 +1,5 @@
 # Seminars
-We organize weekly seminar series of [Virtual Reality and Computer Graphics group](http://vecg.cs.ucl.ac.uk/) (VECG).
+We organize [Virtual Reality and Computer Graphics group's](http://vecg.cs.ucl.ac.uk/) (VECG's) weekly seminar series.
 VECG weekly seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
 

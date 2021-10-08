@@ -35,6 +35,7 @@ In fact, as a member, please do not hesitate to suggest improvements and be the 
 - Do you have access to remote computational resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 - Do you have access to hardware resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 - Make sure to meet other members. Send emails! They are listed on [this website.](../../people). Ask about their experiences and thoughts. Explore what they are conducting in their research.
+- Make sure to discuss with Kaan Akşit to see how you can contribute to [Odak](https://github.com/kunguz/odak) in the near future.
 - Do you know what you will be focusing on? Do you know what projects are [carried out](../../publications) in the team? Are you up-to-date with what the team has achieved [recently](../../timeline)?
 - Are you listed as a member in the [GitHub organization](https://github.com/complight/)? In that organization which team do you belong to? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 - Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
