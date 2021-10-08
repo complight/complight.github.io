@@ -1,19 +1,23 @@
 # Welcome aboard!
-Welcome aboard!
+!!! quote
+	Welcome aboard!
 
-**The computational light laboratory conducts research and development in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.**
+	**The computational light laboratory conducts research and development in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.**
 
-**Our core mission is to show our societies that there can be better services, experiences, and goods that serve the benefits of humanity by using light.**
-We are here to invent the next in light-based techniques and unlock the mystery of light.
+	**Our core mission is to show our societies that there can be better services, experiences, and goods that serve the benefits of humanity by using light.**
+	We are here to invent the next in light-based techniques and unlock the mystery of light.
 
-We build [our tools](https://github.com/kunguz/odak) to perform work and invent new methods to improve state of the art. 
-Most importantly, we document [our steps](https://complight.github.io/documentation) so that the others can follow.
-Finally, we release our work to the public on our [GitHub organization](https://github.com/complight). 
-We have multiple social media outlets to promote our work. 
-These include our [Twitter account](https://twitter.com/complightlab), our LinkedIn account, our YouTube account and [our webpage](https://complight.github.io/). 
-We don't shy away from going public and participate in public demonstrations with our prototypes.
+	We build [our tools](https://github.com/kunguz/odak) to perform work and invent new methods to improve state of the art. 
+	Most importantly, we document [our steps](https://complight.github.io/documentation) so that the others can follow.
+	Finally, we release our work to the public on our [GitHub organization](https://github.com/complight). 
+	We have multiple social media outlets to promote our work. 
+	These include our [Twitter account](https://twitter.com/complightlab), our LinkedIn account, our YouTube account and [our webpage](https://complight.github.io/). 
+	We don't shy away from going public and participate in public demonstrations with our prototypes.
 
-[Kaan Akşit](https://kaanaksit.com)
+	I wholeheartedly welcome every member at every stage to the Computational light laboratory.
+	We can improve the state of the world, and I need your help in doing that!
+
+	[Kaan Akşit](https://kaanaksit.com)
 
 ## Getting aboard!
 In the rest of this documentation, you will find a checklist that will help you establish yourself as a member of the Computational light laboratory.
