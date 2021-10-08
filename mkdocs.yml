@@ -41,6 +41,9 @@ theme:
         - navigation.indexes
         - navigation.top
         - navigation.expand
+    hide:
+        - navigation
+        - toc
     palette:
         primary: youtube
         scheme: youtube
