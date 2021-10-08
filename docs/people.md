@@ -11,6 +11,8 @@ Kaan Akşit
 
 Office: 409
 
+[k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk)
+
 [Web page](https://kaanaksit.com)
 <br clear="left"/>
 
