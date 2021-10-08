@@ -19,7 +19,7 @@ nav:
   - Teaching: 'teaching.md'
   - Documentation:
     - List: 'documentation/index.md'
-    - Getting started: 'documentation/getting_started.md'
+    - Welcome aboard!: 'documentation/getting_started.md'
     - Logo of the team: 'documentation/logo.md'
   - Seminars:
     - All seminars: 'seminars/index.md'
@@ -69,7 +69,9 @@ plugins:
 markdown_extensions:
    - toc:
        permalink: true
-   - pymdownx.details:
+   - admonition
+   - pymdownx.superfences
+   - pymdownx.details
    - pymdownx.arithmatex:
        generic: true
    - pymdownx.emoji:

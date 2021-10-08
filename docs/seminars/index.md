@@ -3,6 +3,9 @@ We organize weekly seminar series of [Virtual Reality and Computer Graphics grou
 VECG weekly seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
 
+!!! Question
+    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).
+
 ## 2021
 
 ### Paul Linton (City, University of London)
@@ -43,7 +46,7 @@ Overall, seminars are a blend of internal and external presenters.
     
     **Title:** Modelling the quality of high frame-rate graphics for adaptive refresh rate and resolution
     
-    **Watch:** [Recording (Password protected)]()
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ec61lv7Y2CdBsFRsfHii93MBXcEq-cROXHUlGhvUN_zXYA?e=Bc51iN)
 
 ### Peter Shirley (NVIDIA)
 ??? Details
