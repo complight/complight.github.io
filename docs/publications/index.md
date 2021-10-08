@@ -1,6 +1,37 @@
 # Publications
 
 ## 2013
+<img align="left" src="media/dynamic_exit_pupil.png" width="200" alt/>
+**Dynamic exit pupil trackers for autostereoscopic displays**
+
+[K. Akşit](https://kaanaksit.com), H. Baghsiahi, P. Surman, S. Ӧlçer, E. Willman, D. R. Selviah, S. Day and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.014331)
+:material-web: [Project site](https://kaanaksit.com/portfolio/dynamic-exit-pupil-trackers-for-autostereoscopic-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/oe-21-12-14331.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=Oh1xDgdbvYU)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{Aksit:13, 
+	author = {Kaan Ak\c{s}it and Hadi Baghsiahi and Phil Surman and Selim Ӧl\c{c}er and Eero Willman and David R. Selviah and Sally Day and Hakan Urey}, 
+	journal = {Opt. Express}, 
+	keywords = {Displays; Optical systems; Optoelectronics; Laser beam shaping; Vision - binocular and stereopsis},
+	number = {12}, 
+	pages = {14331--14341}, 
+	publisher = {OSA},
+	title = {Dynamic exit pupil trackers for autostereoscopic displays}, 
+	volume = {21}, 
+	month = {Jun},
+	year = {2013},
+	url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-21-12-14331},
+	doi = {10.1364/OE.21.014331},
+	abstract = {This paper describes the first demonstrations of two dynamic exit pupil (DEP) tracker techniques for autostereoscopic displays. The first DEP tracker forms an exit pupil pair for a single viewer in a defined space with low intraocular crosstalk using a pair of moving shutter glasses located within the optical system. A display prototype using the first DEP tracker is constructed from a pair of laser projectors, pupil-forming optics, moving shutter glasses at an intermediate pupil plane, an image relay lens, and a Gabor superlens based viewing screen. The left and right eye images are presented time-sequentially to a single viewer and seen as a 3D image without wearing glasses and allows the viewer to move within a region of 40 cm {\texttimes} 20 cm in the lateral plane, and 30 cm along the axial axis. The second DEP optics can move the exit pupil location dynamically in a much larger 3D space by using a custom spatial light modulator (SLM) forming an array of shutters. Simultaneous control of multiple exit pupils in both lateral and axial axes is demonstrated for the first time and provides a viewing volume with an axial extent of 0.6{\textminus}3 m from the screen and within a lateral viewing angle of {\textpm} 20{\textdegree} for multiple viewers. This system has acceptable crosstalk (\&lt; 5\%) between the stereo image pairs. In this novel version of the display the optical system is used as an advanced dynamic backlight for a liquid crystal display (LCD). This has advantages in terms of overall display size as there is no requirement for an intermediate image, and in image quality. This system has acceptable crosstalk (\&lt; 5\%) between the stereo image pairs.},
+	}
+	```
+<br clear="left"/>
+
+
+
 <img align="left" src="media/rotating_3d.png" width="200" alt/>
 **Multi-view autostereoscopic projection display using rotating screen**
 
