@@ -1,5 +1,57 @@
 # Publications
 
+## 2016
+<img align="left" src="media/gaze_sensing_leds.png" width="200" alt/>
+**Slim near-eye display using pinhole aperture arrays**
+
+[K. Akşit](https://kaanaksit.com), [J. Kautz](https://www.jankautz.com/) and [D. Luebke](https://luebke.us/)
+
+:material-web-box: [Publisher site](https://arxiv.org/abs/2003.08499)
+:material-web: [Project site](https://kaanaksit.com/portfolio/gaze-sensing-leds-for-head-mounted-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2020/02/script.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=vV4CiNsfUYY)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{akcsit2020gaze,
+	  title={Gaze-sensing leds for head mounted displays},
+	  author={Ak{\c{s}}it, Kaan and Kautz, Jan and Luebke, David},
+	  journal={arXiv preprint arXiv:2003.08499},
+	  year={2020}
+	}
+	```
+<br clear="left"/>
+
+## 2015
+<img align="left" src="media/pinhole.png" width="200" alt/>
+**Slim near-eye display using pinhole aperture arrays**
+
+[K. Akşit](https://kaanaksit.com), [J. Kautz](https://www.jankautz.com/) and [D. Luebke](https://luebke.us/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1364/AO.54.003422)
+:material-web: [Project site](https://kaanaksit.com/portfolio/slim-near-eye-display-using-pinhole-aperture-arrays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/slim-near-eye-display-using-pinhole-aperture-arrays.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=UYGa6n_0aUs&)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{Aksit:15, 
+	author = {Kaan Ak\c{s}it and Jan Kautz and David Luebke}, 
+	journal = {Appl. Opt.}, 
+	keywords = {Apertures; Vision - binocular and stereopsis ; Computational imaging},
+	number = {11}, 
+	pages = {3422--3427}, 
+	publisher = {OSA},
+	title = {Slim near-eye display using pinhole aperture arrays}, 
+	volume = {54}, 
+	month = {Apr},
+	year = {2015},
+	url = {http://ao.osa.org/abstract.cfm?URI=ao-54-11-3422},
+	doi = {10.1364/AO.54.003422},
+	abstract = {We report a new technique for building a wide-angle, lightweight, thin-form-factor, cost-effective, easy-to-manufacture near-eye head-mounted display (HMD) for virtual reality applications. Our approach adopts an aperture mask containing an array of pinholes and a screen as a source of imagery. We demonstrate proof-of-concept HMD prototypes with a binocular field of view (FOV) of 70\&amp;\#xB0;\&amp;\#xD7;45\&amp;\#xB0;, or total diagonal FOV of 83\&amp;\#xB0;. This FOV should increase with increasing display panel size. The optical angular resolution supported in our prototype can go down to 1.4\&amp;\#x2013;2.1 arcmin by adopting a display with 20\&amp;\#x2013;30\&amp;\#xA0;\&amp;\#x3BC;m pixel pitch.},
+	}
+	```
+<br clear="left"/>
+
+
 ## 2014
 <img align="left" src="media/head_worn_projector.png" width="200" alt/>
 **Head-worn Mixed Reality Projection Display Application**
@@ -32,6 +84,8 @@
 	} 
 	```
 <br clear="left"/>
+
+
 <img align="left" src="media/super_stereoscopy.png" width="200" alt/>
 **Super stereoscopy technique for comfortable and realistic 3D displays**
 
