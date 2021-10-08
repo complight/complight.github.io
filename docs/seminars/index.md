@@ -8,6 +8,43 @@ Overall, seminars are a blend of internal and external presenters.
 
 ## 2021
 
+
+### Gordon Wetzstein (Stanford University)
+??? Details
+    **Date:**
+    29th September 2021
+    
+    **Presenters:** [Gordon Wetzstein](https://stanford.edu/~gordonwz/), Associate Professor at Stanford University
+     
+    **Title:** Towards Neural Signal Processing and Imaging
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcokYFA0A65BsQRC_AKQ_2EBWDa7Jkphm_d1ISDKAvyCXw?e=vFNpJl)
+
+
+### Anjul Patney (NVIDIA)
+??? Details
+    **Date:**
+    22nd September 2021
+    
+    **Presenters:** [Anjul Patney](https://anjulpatney.com/), Principal Scientist at NVIDIA
+     
+    **Title:** Peripheral Perception & Pixels
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZKlgCP8Z2FLt_ct1iG0ilIB_kWrPaAcDusG-KdXo6HCnA?e=YnwfDo)
+
+
+### Douglas Lanman (Facebook)
+??? Details
+    **Date:**
+    15th September 2021
+    
+    **Presenters:** [Douglas Lanman](https://alumni.media.mit.edu/~dlanman/), Director of Display Systems Research at Facebook Reality Labs, Affiliate Instructor at University of Washington
+     
+    **Title:** How to Pass the Visual Turing Test with AR/VR Displays
+    
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ed0LTDZoxZ5Ar1B-EAksycgBLrMVSyGXLlhtGu9YFEYFOA?e=XVOyZh)
+
+
 ### Sylvia Xueni Pan (Gold Smiths, University of London)
 ??? Details
     **Date:**
@@ -18,7 +55,6 @@ Overall, seminars are a blend of internal and external presenters.
     **Title:** Virtual Social Interaction in VR
     
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETE1DpOkDHtGvvDGMFT8FFEBCbMhn5XxAREbfHzykz_zFQ?e=FyMlXH)
-
 
 
 ### Duygu Ceylan (Adobe)
