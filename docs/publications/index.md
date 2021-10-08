@@ -1,5 +1,61 @@
 # Publications
 
+## 2017
+<img align="left" src="media/see_through_hoe.png" width="200" alt/>
+**Near-Eye Varifocal Augmented Reality Display using See-Through Screens**
+
+[Kaan Akşit](https://kaanaksit.com),
+Ward Lopes,
+[Jonghyun Kim](http://j-kim.kr/),
+[Peter Shirley](https://www.petershirley.com/),
+and [David Luebke](https://luebke.us/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1145/3130800.3130892)
+:material-web: [Project site](https://kaanaksit.com/portfolio/near-eye-varifocal-augmented-reality-display-using-see-through-screens/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2017/08/aksitetal_siggraphasia2017_near-eye-varifocal-augmented-reality-display-using-see-through-screens1.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=dN-8X0lUig4)
+??? info ":material-tag-text: Bibtex"
+	```
+	@Article{Aksit2017Varifocal,
+	Title      = {Near-Eye Varifocal Augmented Reality Display using See-Through Screens},
+	Author     = {K. Ak{\c{s}}it and W. Lopes and J. Kim and P. Shirley and D. Luebke},
+	journal    = {ACM Trans. Graph. (SIGGRAPH)},
+	issue      = {36},
+	number     = {6},
+	year = {2017}}
+	```
+<br clear="left"/>
+
+
+
+<img align="left" src="media/varifocal_membrane.png" width="200" alt/>
+**Wide Field Of View Varifocal Near-Eye Display Using See-Through Deformable Membrane Mirrors**
+
+:fontawesome-solid-award: **Best paper award at IEEE VR 2017**
+
+:fontawesome-solid-award: **SIGGRAPH 2017 Emerging Technologies DCEXPO Special Prize**
+
+[David Dunn](http://www.qenops.com/), Cary Tippets, Kent Torell, [Petr Kellnhofer](https://kellnhofer.xyz/), [K. Akşit](https://kaanaksit.com), [Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), [Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), [D. Luebke](https://luebke.us/), [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2017.2657058)
+:material-web: [Project site](https://kaanaksit.com/portfolio/wide-field-of-view-varifocal-near-eye-display-using-see-through-deformable-membrane-mirrors/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2017/01/dunn_2017_tvcg_membranear.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=aRZrtZfVKv0&feature=youtu.be)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{dunn2017wide,
+	title={Wide Field Of View Varifocal Near-Eye Display Using See-Through Deformable Membrane Mirrors},
+	author={Dunn, David and Tippets, Cary and Torell, Kent and Kellnhofer, Petr and Ak{\c{s}}it, Kaan and Didyk, Piotr and Myszkowski, Karol and Luebke, David and Fuchs, Henry},
+	journal={IEEE Transactions on Visualization and Computer Graphics},
+	volume={23},
+	number={4},
+	pages={1322--1331},
+	year={2017},
+	publisher={IEEE}
+	}}
+	```
+<br clear="left"/>
+
 ## 2016
 <img align="left" src="media/gaze_sensing_leds.png" width="200" alt/>
 **Slim near-eye display using pinhole aperture arrays**
