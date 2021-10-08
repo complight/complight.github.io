@@ -28,7 +28,7 @@ Oliver Kingshott
 ### Master Students
 
 #### 2021
-- Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging`, 2021.
-- Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography`, 2021.
-- Chengkun Li, `Neural Optical Beam Propagation`, 2021.
-- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms`, 2021.
+- Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging`.
+- Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography`.
+- Chengkun Li, `Neural Optical Beam Propagation`.
+- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms`.
