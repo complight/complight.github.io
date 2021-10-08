@@ -1,5 +1,86 @@
 # Publications
 
+## 2014
+<img align="left" src="media/super_stereoscopy.png" width="200" alt/>
+**Super stereoscopy technique for comfortable and realistic 3D displays**
+
+[K. Akşit](https://kaanaksit.com), A. Niaki, E. Ulusoy and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1364/OL.39.006903)
+:material-web: [Project site](https://kaanaksit.com/portfolio/super-stereoscopy-technique-for-comfortable-and-realistic-3d-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/ol-39-24-6903.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{Aksit:14, 
+	author = {Kaan Ak\c{s}it and Amir Hossein Ghanbari Niaki and Erdem Ulusoy and Hakan Urey}, 
+	journal = {Opt. Lett.}, 
+	keywords = {Displays; Vision - binocular and stereopsis ; Visual optics, accommodation},
+	number = {24}, 
+	pages = {6903--6906}, 
+	publisher = {OSA},
+	title = {Super stereoscopy technique for comfortable and realistic 3D displays}, 
+	volume = {39}, 
+	month = {Dec},
+	year = {2014},
+	url = {http://ol.osa.org/abstract.cfm?URI=ol-39-24-6903},
+	doi = {10.1364/OL.39.006903},
+	abstract = {Two well-known problems of stereoscopic displays are the accommodation-convergence conflict and the lack of natural blur for defocused objects. We present a new technique that we name Super Stereoscopy (SS3D) to provide a convenient solution to these problems. Regular stereoscopic glasses are replaced by SS3D glasses which deliver at least two parallax images per eye through pinholes equipped with light selective filters. The pinholes generate blur-free retinal images so as to enable correct accommodation, while the delivery of multiple parallax images per eye creates an approximate blur effect for defocused objects. Experiments performed with cameras and human viewers indicate that the technique works as desired. In case two, pinholes equipped with color filters per eye are used; the technique can be used on a regular stereoscopic display by only uploading a new content, without requiring any change in display hardware, driver, or frame rate. Apart from some tolerable loss in display brightness and decrease in natural spatial resolution limit of the eye because of pinholes, the technique is quite promising for comfortable and realistic 3D vision, especially enabling the display of close objects that are not possible to display and comfortably view on regular 3DTV and cinema.},
+	}
+	```
+<br clear="left"/>
+
+
+<img align="left" src="media/sound_to_light.png" width="200" alt/>
+**From Sound to Sight: Using Audio Processing to enable Visible Light Communication**
+
+S. Schmid, D. Schwyn, [K. Akşit](https://kaanaksit.com), G. Corbellini, T. Gross and S. Mangold
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/GLOCOMW.2014.7063484)
+:material-web: [Project site](https://kaanaksit.com/portfolio/from-sound-to-sight-using-audio-processing-to-enable-visible-light-communication/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/from-sound-to-sight-using-audio-processing-to-enable-visible-light-communication-paper.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+	@INPROCEEDINGS{7063484,
+	author={S. Schmid and D. Schwyn and K. Akşit and G. Corbellini and T. R. Gross and S. Mangold},
+	booktitle={2014 IEEE Globecom Workshops (GC Wkshps)},
+	title={From sound to sight: Using audio processing to enable visible light communication},
+	year={2014},
+	pages={518-523},
+	keywords={audio signal processing;light emitting diodes;mobile handsets;optical communication;photodiodes;protocols;audio jack;audio processing;communication protocols;electrical signals;light signals;microphone input;mobile phones;on-board audio signal processing;passive components;peripheral device;photodiode;visible light communication;Decoding;Hardware;Lifting equipment;Light emitting diodes;Photodiodes;Protocols;Throughput},
+	doi={10.1109/GLOCOMW.2014.7063484},
+	ISSN={2166-0077},
+	month={Dec},}
+	```
+<br clear="left"/>
+
+
+<img align="left" src="media/connect_toys.png" width="200" alt/>
+**Connecting Networks of Toys and Smartphones with Visible Light Communication**
+
+G. Corbellini, [K. Akşit](https://kaanaksit.com), S. Mangold, S. Schmid and T. R. Gross
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/MCOM.2014.6852086)
+:material-web: [Project site](https://kaanaksit.com/portfolio/connecting-networks-of-toys-and-smartphones-with-visible-light-communication/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/06852086.pdf)
+:material-file-video: [Video](https://www.youtube.com/watch?v=10lv_FwlqMo)
+??? info ":material-tag-text: Bibtex"
+	```
+	@ARTICLE{6852086,
+	author={G. Corbellini and K. Aksit and S. Schmid and S. Mangold and T. R. Gross},
+	journal={IEEE Communications Magazine},
+	title={Connecting networks of toys and smartphones with visible light communication},
+	year={2014},
+	volume={52},
+	number={7},
+	pages={72-78},
+	keywords={light emitting diodes;optical communication;optical receivers;smart phones;LED;VLC systems;brightness;consumer electronics;illumination;light emitting diodes;light receivers;microcontrollers;public environment;residential environment;smartphones;toys;visible light communication;wireless communication interface;Cameras;Commercialization;Frequency measurement;Illumination;Light emitting diodes;Microcontrollers;Receivers;Smart phones;Transceivers},
+	doi={10.1109/MCOM.2014.6852086},
+	ISSN={0163-6804},
+	month={July},}
+	```
+<br clear="left"/>
+
+
 ## 2013
 <img align="left" src="media/dynamic_exit_pupil.png" width="200" alt/>
 **Dynamic exit pupil trackers for autostereoscopic displays**
