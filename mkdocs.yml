@@ -27,6 +27,8 @@ nav:
 theme:
     name: material
     logo: logo/logo.png
+    icon:
+      logo: logo
     language: en
     features:
         - content.code.annotate
