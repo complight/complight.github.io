@@ -9,7 +9,6 @@ The computational light laboratory conducts [research and development](../public
 Our primary software toolkit to tackle our research problems is public and open-source.
 We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
-These are all public as we trust in people!
 
 To read more about our recent activities, please visit our [recent news timeline](../timeline).
 
