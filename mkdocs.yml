@@ -16,7 +16,7 @@ nav:
   - Timeline: 
     - Recent news: 'timeline/index.md'
   - Publications:
-    - Complete list: 'publications/index.md'
+    - List of publications: 'publications/index.md'
   - Teaching:
     - Lectures: 'teaching/index.md'
   - Documentation:
