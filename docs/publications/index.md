@@ -1,8 +1,165 @@
 # Publications
 
 ## 2021
+<img align="left" src="media/telelife.png" width="200" alt/>
+**Telelife: The Future of Remote Living**
+
+[Jason Orlosky](https://www.jeoresearch.com/research),
+[Misha Sra](https://sites.cs.ucsb.edu/~sra/),
+[Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9),
+[Huaishu Peng](https://www.cs.umd.edu/people/huaishu),
+[Jeeeun Kim](http://www.jeeeunkim.com/),
+[Nataliya Kosmyna](https://www.braini.io/),
+[Tobias Hollerer](https://sites.cs.ucsb.edu/~holl/),
+[Anthony Steed](http://vecg.cs.ucl.ac.uk/),
+[Kiyoshi Kiyokawa](https://carelab.info/en/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf)
+<br clear="left"/>
+
+
+<img align="left" src="media/learned_light.gif" width="200" alt/>
+**Learned Holographic Light Transport**
+
+Koray Kavaklı,
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/)
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://kaanaksit.com/portfolio/learned-holographic-light-transport/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/09/learned_holographic_light_transport.pdf)
+:material-file-code: [Code](https://github.com/complight/realistic_holography)
+<br clear="left"/>
+
+
+
+<img align="left" src="media/sensicut.png" width="200" alt/>
+**SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning**
+
+[Mustafa Doga Dogan](https://www.dogadogan.com/),
+Steven Vidal Acevedo Colon,
+Varnika Sinha,
+[Kaan Akşit](https://kaanaksit.com)
+and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
+
+:material-web: [Project site](https://hcie.csail.mit.edu/research/sensicut/sensicut.html)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/2021-uist-sensicut-paper.pdf)
+:material-video-account: [Project video](https://www.youtube.com/watch?v=BdvSAJaukI8)
+<br clear="left"/>
+
+
+<img align="left" src="media/beyond_blur.png" width="200" alt/>
+**Beyond Blur: Ventral Metamers for Foveated Rendering**
+
+[David R. Walton](https://drwalton.github.io/),
+[Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
+Sebastian Friston,
+David Swapp,
+[Kaan Akşit](https://kaanaksit.com),
+[Anthony Steed](http://vecg.cs.ucl.ac.uk/)
+and Tobias Ritschel
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2021.3067764)
+:material-web: [Project site](https://www.homepages.ucl.ac.uk/~ucabdw0/beyondblur.html)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/beyond_blur_preprint.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{walton2021beyond,
+	    author = {David R. Walton and Rafael Kuffner Dos Anjos and Sebastian Friston and David Swapp and Kaan Akşit and Anthony Steed and Tobias Ritschel},
+	    title    = {Beyond Blur: Ventral Metamers for Foveated Rendering},
+	    journal = {ACM Trans. Graph. (Proc. SIGGRAPH 2021)},
+	    year = {2021},
+	    volume = {40},
+	    number = {4},
+	}
+	```
+<br clear="left"/>
+
+
+<img align="left" src="media/beaming_displays.png" width="200" alt/>
+**Beaming Displays**
+
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
+Takumi Kaminokado
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2021.3067764)
+:material-web: [Project site](https://kaanaksit.com/portfolio/beaming-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf)
+:material-video-account: [Project video](https://www.youtube.com/watch?v=TKl1l3b-LDs)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=7_hMGwTGdhg)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{itoh2021beaming,
+	    author = {Yuta Itoh, Takumi Kaminokado, and Kaan Ak{s}it},
+	    keywords = {Near-eye displays},
+	    publisher = {IEEE VR},
+	    title = {Beaming Displays},
+	    month = {April},
+	    year = {2021}
+	}
+	```
+<br clear="left"/>
+
 
 ## 2020
+<img align="left" src="media/single_pixel_gaze.png" width="200" alt/>
+**Optical Gaze Tracking with Spatially-Sparse Single-Pixel Detectors**
+
+[Richard Li](https://lichard49.github.io),
+[Eric Whitmire](https://www.ericwhitmire.com/),
+[Michael Stengel](https://graphics.tu-bs.de/people/stengel),
+Ben Boudaoud,
+[Jan Kautz](https://www.jankautz.com/) 
+[David Luebke](https://luebke.us/),
+[Shwetak Patel](https://homes.cs.washington.edu/~shwetak/)
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/ISMAR50242.2020.00033)
+:material-web: [Project site](https://lichard49.github.io/nextgaze.html)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2009.06875)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=j0nY4_cauZY&feature=emb_logo)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{li2020opticalgaze,
+	    author = {Richard Li, Eric Whitmire, Michael Stengel, Ben Boudaoud, Jan Kautz, David Luebke, Shwetak Patel, and Kaan Ak{s}it},
+	    keywords = {Gaze tracking, eye tracking, LEDs, photodiodes},
+	    publisher = {ISMAR},
+	    title = {Optical Gaze Tracking with Spatially-Sparse Single-Pixel Detectors},
+	    month = {Nov},
+	    year = {2020}
+	}
+	```
+<br clear="left"/>
+
+
+<img align="left" src="media/patch_scan.png" width="200" alt/>
+**Patch scanning displays: spatiotemporal enhancement for displays**
+
+[Kaan Akşit](https://kaanaksit.com)
+
+:material-web-box: [Publisher site](https://doi.org/10.1364/OE.380858)
+:material-web: [Project site](https://kaanaksit.com/portfolio/patch-scanning-displays-spatiotemporal-enhancement-for-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2020/01/oe-28-2-2107.pdf)
+:material-video-account: [Project video](https://youtu.be/c3okd_gIlrg)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{aksit2020patch,
+	    author = {Kaan Ak\c{s}it},
+	    journal = {Opt. Express},
+	    keywords = {Digital micromirror devices; Image quality; Image reconstruction; Light sources; Optical components; Three dimensional imaging},
+	    number = {2},
+	    pages = {2107--2121},
+	    publisher = {OSA},
+	    title = {Patch scanning displays: spatiotemporal enhancement for displays},
+	    volume = {28},
+	    month = {Jan},
+	    year = {2020},
+	    url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-2-2107}
+	}
+	```
+<br clear="left"/>
+
 
 ## 2019
 <img align="left" src="media/next_displays.png" width="200" alt/>
@@ -12,7 +169,7 @@
 [Kaan Akşit](https://kaanaksit.com),
 [Michael Stengel](https://graphics.tu-bs.de/people/stengel),
 [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
-[Kateriina Mania](http://surreal.tuc.gr/),
+[Katerina Mania](http://surreal.tuc.gr/)
 and [Christian Richardt](https://richardt.name/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1111/cgf.13654)
@@ -43,7 +200,7 @@ and [Christian Richardt](https://richardt.name/)
 [Youngmo Jeong](http://www.youngmoj.com/),
 [Michael Stengel](https://graphics.tu-bs.de/people/stengel),
 [Kaan Akşit](https://kaanaksit.com),
-[Rachel Albert](http://www.rachelabrown.com/)
+[Rachel Albert](http://www.rachelabrown.com/),
 Ben Boudaoud,
 Trey Greer,
 Joohwan Kim,
@@ -51,7 +208,7 @@ Ward Lopes,
 Zander Majercik,
 [Peter Shirley](https://www.petershirley.com/),
 [Josef Spjut](http://josef.spjut.me/),
-[Morgan Mcguire](https://casual-effects.com/morgan/index.html),
+[Morgan Mcguire](https://casual-effects.com/morgan/index.html)
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/3306346.3322987)
@@ -83,7 +240,7 @@ and [David Luebke](https://luebke.us/)
 
 [Praneeth Chakravarthula](http://www.cs.unc.edu/~cpk/),
 [David Dunn](http://www.qenops.com/), 
-[Kaan Akşit](https://kaanaksit.com),
+[Kaan Akşit](https://kaanaksit.com)
 and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2018.2868532)
@@ -114,7 +271,7 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 [Praneeth Chakravarthula](http://www.cs.unc.edu/~cpk/),
 [Kishore Rathinavel](https://sites.google.com/site/kishorerathinavel/),
 [Youngmo Jeong](http://www.youngmoj.com/),
-[Rachel Albert](http://www.rachelabrown.com/)
+[Rachel Albert](http://www.rachelabrown.com/),
 [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 and [David Luebke](https://luebke.us/)
 
@@ -147,7 +304,7 @@ and [David Luebke](https://luebke.us/)
 [Kaan Akşit](https://kaanaksit.com),
 Ward Lopes,
 [Jonghyun Kim](http://j-kim.kr/),
-[Peter Shirley](https://www.petershirley.com/),
+[Peter Shirley](https://www.petershirley.com/)
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/3130800.3130892)
@@ -399,7 +556,7 @@ P. Surman,
 Selim Ӧlçer, 
 E. Willman, 
 David R. Selviah, 
-Sally Day 
+Sally Day
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.014331)
@@ -498,7 +655,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 Giovanni Cennini, 
 Jeremie Arguel, 
-[Kaan Akşit](https://kaanaksit.com), 
+[Kaan Akşit](https://kaanaksit.com)
 and Arno van Leest
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.18.004867)
