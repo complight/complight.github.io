@@ -1,6 +1,6 @@
 # Welcome
 
-**You have reached the website for the Computational light laboratory.**
+**You have reached the website for the computational light laboratory.**
 
 The computational light laboratory is a part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
 The computational light laboratory is lead by [Kaan Akşit](https://kaanaksit.com).
