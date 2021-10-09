@@ -179,7 +179,7 @@ and [David Luebke](https://luebke.us/)
 Cary Tippets, 
 Kent Torell, 
 [Petr Kellnhofer](https://kellnhofer.xyz/), 
-[K. Akşit](https://kaanaksit.com), 
+[Kaan Akşit](https://kaanaksit.com), 
 [Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), 
 [Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), 
 [D. Luebke](https://luebke.us/), 
@@ -208,9 +208,9 @@ Kent Torell,
 <img align="left" src="media/gaze_sensing_leds.png" width="200" alt/>
 **Slim near-eye display using pinhole aperture arrays**
 
-[K. Akşit](https://kaanaksit.com), 
-[J. Kautz](https://www.jankautz.com/) 
-and [D. Luebke](https://luebke.us/)
+[Kaan Akşit](https://kaanaksit.com), 
+[Jan Kautz](https://www.jankautz.com/) 
+and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://arxiv.org/abs/2003.08499)
 :material-web: [Project site](https://kaanaksit.com/portfolio/gaze-sensing-leds-for-head-mounted-displays/)
@@ -231,9 +231,9 @@ and [D. Luebke](https://luebke.us/)
 <img align="left" src="media/pinhole.png" width="200" alt/>
 **Slim near-eye display using pinhole aperture arrays**
 
-[K. Akşit](https://kaanaksit.com), 
-[J. Kautz](https://www.jankautz.com/) 
-and [D. Luebke](https://luebke.us/)
+[Kaan Akşit](https://kaanaksit.com), 
+[Jan Kautz](https://www.jankautz.com/) 
+and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/AO.54.003422)
 :material-web: [Project site](https://kaanaksit.com/portfolio/slim-near-eye-display-using-pinhole-aperture-arrays/)
@@ -264,7 +264,10 @@ and [D. Luebke](https://luebke.us/)
 <img align="left" src="media/head_worn_projector.png" width="200" alt/>
 **Head-worn Mixed Reality Projection Display Application**
 
-[K. Akşit](https://kaanaksit.com),  D. Kade, O. Özcan and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+[Kaan Akşit](https://kaanaksit.com),
+Daniel Kade,
+Oğuzhan Özcan 
+and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/2663806.2663826)
 :material-web: [Project site](https://kaanaksit.com/portfolio/head-worn-mixed-reality-projection-display-application/)
@@ -297,7 +300,10 @@ and [D. Luebke](https://luebke.us/)
 <img align="left" src="media/super_stereoscopy.png" width="200" alt/>
 **Super stereoscopy technique for comfortable and realistic 3D displays**
 
-[K. Akşit](https://kaanaksit.com), A. Niaki, E. Ulusoy and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+[Kaan Akşit](https://kaanaksit.com),
+Amir Niaki, 
+Erdem Ulusoy 
+and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OL.39.006903)
 :material-web: [Project site](https://kaanaksit.com/portfolio/super-stereoscopy-technique-for-comfortable-and-realistic-3d-displays/)
@@ -326,7 +332,12 @@ and [D. Luebke](https://luebke.us/)
 <img align="left" src="media/sound_to_light.png" width="200" alt/>
 **From Sound to Sight: Using Audio Processing to enable Visible Light Communication**
 
-S. Schmid, D. Schwyn, [K. Akşit](https://kaanaksit.com), G. Corbellini, T. Gross and S. Mangold
+Stefan Schmid, 
+D. Schwyn, 
+[Kaan Akşit](https://kaanaksit.com), 
+Giorgio Corbellini, 
+Thomas Gross 
+and [Stefan Mangold](https://www.lovefield.ch/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/GLOCOMW.2014.7063484)
 :material-web: [Project site](https://kaanaksit.com/portfolio/from-sound-to-sight-using-audio-processing-to-enable-visible-light-communication/)
@@ -350,7 +361,11 @@ S. Schmid, D. Schwyn, [K. Akşit](https://kaanaksit.com), G. Corbellini, T. Gros
 <img align="left" src="media/connect_toys.png" width="200" alt/>
 **Connecting Networks of Toys and Smartphones with Visible Light Communication**
 
-G. Corbellini, [K. Akşit](https://kaanaksit.com), S. Mangold, S. Schmid and T. R. Gross
+Giorgio Corbellini, 
+[Kaan Akşit](https://kaanaksit.com), 
+[Stefan Mangold](https://www.lovefield.ch/)
+Stefan Schmid 
+and Thomas R. Gross
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/MCOM.2014.6852086)
 :material-web: [Project site](https://kaanaksit.com/portfolio/connecting-networks-of-toys-and-smartphones-with-visible-light-communication/)
@@ -378,7 +393,14 @@ G. Corbellini, [K. Akşit](https://kaanaksit.com), S. Mangold, S. Schmid and T. 
 <img align="left" src="media/dynamic_exit_pupil.png" width="200" alt/>
 **Dynamic exit pupil trackers for autostereoscopic displays**
 
-[K. Akşit](https://kaanaksit.com), H. Baghsiahi, P. Surman, S. Ӧlçer, E. Willman, D. R. Selviah, S. Day and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+[Kaan Akşit](https://kaanaksit.com), 
+Hadi Baghsiahi, 
+P. Surman, 
+Selim Ӧlçer, 
+E. Willman, 
+David R. Selviah, 
+Sally Day 
+and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.014331)
 :material-web: [Project site](https://kaanaksit.com/portfolio/dynamic-exit-pupil-trackers-for-autostereoscopic-displays/)
@@ -411,7 +433,9 @@ G. Corbellini, [K. Akşit](https://kaanaksit.com), S. Mangold, S. Schmid and T. 
 
 :material-eye: **[Spotlight on Optics](https://www.osapublishing.org/spotlight/summary.cfm?uri=oe-21-23-29043)**
 
-O. Eldes, [K. Akşit](https://kaanaksit.com) and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+Osman Eldes, 
+[Kaan Akşit](https://kaanaksit.com) 
+and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.029043)
 :material-web: [Project site](https://kaanaksit.com/portfolio/multi-view-autostereoscopic-projection-display-using-rotating-screen/)
@@ -444,7 +468,11 @@ O. Eldes, [K. Akşit](https://kaanaksit.com) and [H. Urey](https://mysite.ku.edu
 
 :fontawesome-solid-award: **Best 3D product award of International 3D Society (4th year)**
 
-[K. Akşit](https://kaanaksit.com), O. Eldeş, S. Viswanathan, M. Freeman and [H. Urey](https://mysite.ku.edu.tr/hurey/)
+[Kaan Akşit](https://kaanaksit.com), 
+Osman Eldeş, 
+Selvan Viswanathan, 
+Mark Freeman 
+and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/JDT.2012.2205664)
 :material-web: [Project site](https://kaanaksit.com/portfolio/portable-3d-laser-projector-using-mixed-polarization-technique/)
@@ -468,7 +496,10 @@ O. Eldes, [K. Akşit](https://kaanaksit.com) and [H. Urey](https://mysite.ku.edu
 <img align="left" src="media/heart_rate.png" width="200" alt/>
 **Heart rate monitoring via remote photoplethysmography with motion artifacts reduction**
 
-G. Cennini, J. Arguel, [K. Akşit](https://kaanaksit.com), and A. van Leest
+Giovanni Cennini, 
+Jeremie Arguel, 
+[Kaan Akşit](https://kaanaksit.com), 
+and Arno van Leest
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.18.004867)
 :material-web: [Project site](https://kaanaksit.com/portfolio/heart-rate-monitoring-via-remote-photoplethysmography-with-motion-artifacts-reduction/)
