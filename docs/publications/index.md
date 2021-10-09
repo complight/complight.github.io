@@ -52,7 +52,7 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 **Beyond Blur: Ventral Metamers for Foveated Rendering**
 
 [David R. Walton](https://drwalton.github.io/),
-[Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
+Rafael Kuffner Dos Anjos,
 Sebastian Friston,
 David Swapp,
 [Kaan Akşit](https://kaanaksit.com),
