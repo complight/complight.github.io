@@ -1,5 +1,141 @@
 # Publications
 
+## 2019
+<img align="left" src="media/next_displays.png" width="200" alt/>
+**Near-Eye Display and Tracking Technologies for Virtual and Augmented Reality**
+
+[George Alex Koulieris](https://koulieris.com/)
+[Kaan Akşit](https://kaanaksit.com),
+[Michael Stengel](https://graphics.tu-bs.de/people/stengel),
+[Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
+[Kateriina Mania](http://surreal.tuc.gr/),
+and [Christian Richardt](https://richardt.name/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1111/cgf.13654)
+:material-web: [Project site](https://kaanaksit.com/portfolio/near-eye-display-and-tracking-technologies-for-virtual-and-augmented-reality/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2019/05/neareyedisplayandtracking-koulierisetal-cgf2019-star.pdf)
+:material-video-account: [Project video](https://youtu.be/e-A2dgKV5-I)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{NearEyeDisplayAndTrackingSTAR,
+	author  = {George Alex Koulieris and Kaan Ak{\c{s}}it and Michael Stengel and Rafa{\l} K. Mantiuk and Katerina Mania and Christian Richardt},
+	title   = {Near-Eye Display and Tracking Technologies for Virtual and Augmented Reality},
+	journal = {Computer Graphics Forum},
+	year    = {2019},
+	volume  = {38},
+	number  = {2},
+	url     = {https://richardt.name/nedtt/},
+	}
+	```
+<br clear="left"/>
+
+
+<img align="left" src="media/foveated_displays.png" width="200" alt/>
+**Foveated AR: Dynamically-Foveated Augmented Reality Display**
+
+:fontawesome-solid-award: **Emerging Technology best in show award at SIGGRAPH 2019**
+
+[Jonghyun Kim](http://j-kim.kr/),
+[Youngmo Jeong](http://www.youngmoj.com/),
+[Michael Stengel](https://graphics.tu-bs.de/people/stengel),
+[Kaan Akşit](https://kaanaksit.com),
+[Rachel Albert](http://www.rachelabrown.com/)
+Ben Boudaoud,
+Trey Greer,
+Joohwan Kim,
+Ward Lopes,
+Zander Majercik,
+[Peter Shirley](https://www.petershirley.com/),
+[Josef Spjut](http://josef.spjut.me/),
+[Morgan Mcguire](https://casual-effects.com/morgan/index.html),
+and [David Luebke](https://luebke.us/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1145/3306346.3322987)
+:material-web: [Project site](https://kaanaksit.com/portfolio/foveated-ar-dynamically-foveated-augmented-reality-display/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2019/07/foveated_ar___v2-15.pdf)
+:material-video-account: [Project video](https://www.youtube.com/watch?v=IknBUoRGUkM)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{kim2019foveated,
+	  title={Foveated AR: dynamically-foveated augmented reality display},
+	  author={Kim, Jonghyun and Jeong, Youngmo and Stengel, Michael and Ak{\c{s}}it, Kaan and Albert, Rachel and Boudaoud, Ben and Greer, Trey and Kim, Joohwan and Lopes, Ward and Majercik, Zander and others},
+	  journal={ACM Transactions on Graphics (TOG)},
+	  volume={38},
+	  number={4},
+	  pages={1--15},
+	  year={2019},
+	  publisher={ACM New York, NY, USA}
+	}
+	```
+<br clear="left"/>
+
+## 2018
+<img align="left" src="media/focusar.png" width="200" alt/>
+**FocusAR: Auto-focus Augmented Reality Eyeglasses for both Real and Virtual**
+
+:fontawesome-solid-award: **Best paper award at ISMAR 2018**
+
+:material-eye: **Presented at SIGGRAPH ASIA 2018**
+
+[Praneeth Chakravarthula](http://www.cs.unc.edu/~cpk/),
+[David Dunn](http://www.qenops.com/), 
+[Kaan Akşit](https://kaanaksit.com),
+and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2018.2868532)
+:material-web: [Project site](https://kaanaksit.com/portfolio/684/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2018/10/10-1109tvcg-2018-2868532.pdf)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=6rC_XGXk3CY&feature=emb_logo)
+:material-presentation: [Presentation source](https://docs.google.com/presentation/d/1EOhFAtlxEzt3j6aRtu5sEHOLaiWp1amaz7h62PlZx1k/edit?usp=sharing)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{chakravarthula2018focusar,
+	  title={focusar: auto-focus augmented reality eyeglasses for both real and virtual},
+	  author={chakravarthula, praneeth and dunn, david and ak{\c{s}}it, kaan and fuchs, henry},
+	  journal={ieee transactions on visualization and computer graphics},
+	  year={2018},
+	  publisher={ieee}
+	}
+	```
+<br clear="left"/>
+
+<img align="left" src="media/manufacturing_displays.png" width="200" alt/>
+**Manufacturing Application-Driven Foveated Near-Eye Displays**
+
+:fontawesome-solid-award: **Best paper nominee at IEEE VR 2018**
+
+:fontawesome-solid-award: **Emerging Technology best in show award at SIGGRAPH 2018**
+
+[Kaan Akşit](https://kaanaksit.com),
+[Praneeth Chakravarthula](http://www.cs.unc.edu/~cpk/),
+[Kishore Rathinavel](https://sites.google.com/site/kishorerathinavel/),
+[Youngmo Jeong](http://www.youngmoj.com/),
+[Rachel Albert](http://www.rachelabrown.com/)
+[Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
+and [David Luebke](https://luebke.us/)
+
+:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2019.2898781)
+:material-web: [Project site](https://kaanaksit.com/portfolio/manufacturing-application-driven-near-eye-displays/)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2018/08/08642529.pdf)
+:material-file-video: [Project video](https://youtu.be/dBUeB8RLYCU)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=jYWjqPeMSw8&feature=emb_logo)
+:material-presentation: [Presentation source](https://docs.google.com/presentation/d/15mrXj3Rv_dHP7BYUtCid8Mi7FJRl912LOIryE1PDqk8/edit?usp=sharing)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{akcsit2019manufacturing,
+	  title={Manufacturing application-driven foveated near-eye displays},
+	  author={Ak{\c{s}}it, Kaan and Chakravarthula, Praneeth and Rathinavel, Kishore and Jeong, Youngmo and Albert, Rachel and Fuchs, Henry and Luebke, David},
+	  journal={IEEE transactions on visualization and computer graphics},
+	  volume={25},
+	  number={5},
+	  pages={1928--1939},
+	  year={2019},
+	  publisher={IEEE}
+	}
+	```
+<br clear="left"/>
+
+
 ## 2017
 <img align="left" src="media/see_through_hoe.png" width="200" alt/>
 **Near-Eye Varifocal Augmented Reality Display using See-Through Screens**
@@ -35,7 +171,15 @@ and [David Luebke](https://luebke.us/)
 
 :fontawesome-solid-award: **SIGGRAPH 2017 Emerging Technologies DCEXPO Special Prize**
 
-[David Dunn](http://www.qenops.com/), Cary Tippets, Kent Torell, [Petr Kellnhofer](https://kellnhofer.xyz/), [K. Akşit](https://kaanaksit.com), [Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), [Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), [D. Luebke](https://luebke.us/), [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
+[David Dunn](http://www.qenops.com/), 
+Cary Tippets, 
+Kent Torell, 
+[Petr Kellnhofer](https://kellnhofer.xyz/), 
+[K. Akşit](https://kaanaksit.com), 
+[Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), 
+[Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), 
+[D. Luebke](https://luebke.us/), 
+[Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2017.2657058)
 :material-web: [Project site](https://kaanaksit.com/portfolio/wide-field-of-view-varifocal-near-eye-display-using-see-through-deformable-membrane-mirrors/)
@@ -60,7 +204,9 @@ and [David Luebke](https://luebke.us/)
 <img align="left" src="media/gaze_sensing_leds.png" width="200" alt/>
 **Slim near-eye display using pinhole aperture arrays**
 
-[K. Akşit](https://kaanaksit.com), [J. Kautz](https://www.jankautz.com/) and [D. Luebke](https://luebke.us/)
+[K. Akşit](https://kaanaksit.com), 
+[J. Kautz](https://www.jankautz.com/) 
+and [D. Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://arxiv.org/abs/2003.08499)
 :material-web: [Project site](https://kaanaksit.com/portfolio/gaze-sensing-leds-for-head-mounted-displays/)
@@ -81,7 +227,9 @@ and [David Luebke](https://luebke.us/)
 <img align="left" src="media/pinhole.png" width="200" alt/>
 **Slim near-eye display using pinhole aperture arrays**
 
-[K. Akşit](https://kaanaksit.com), [J. Kautz](https://www.jankautz.com/) and [D. Luebke](https://luebke.us/)
+[K. Akşit](https://kaanaksit.com), 
+[J. Kautz](https://www.jankautz.com/) 
+and [D. Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/AO.54.003422)
 :material-web: [Project site](https://kaanaksit.com/portfolio/slim-near-eye-display-using-pinhole-aperture-arrays/)
