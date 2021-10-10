@@ -9,18 +9,22 @@ All our current members are located in `169 Euston Road, London NW1 2AE, United 
 <img align="left" src="../people/kaan_aksit.png" width="160" alt/>
 [Kaan Akşit](https://kaanaksit.com)
 
-E-mail: [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk)
+Associate Professor
 
-Office: 409
+:material-email: [E-mail](mailto:k.aksit@ucl.ac.uk)
+
+:material-office-building: Office: 409
 <br clear="left"/>
 
 ### Doctoral Students
 <img align='left' src="../people/oliver_kingshott.png" width="160" alt/>
 [Oliver Kingshott](http://oliver.kingshott.com/)
 
-E-mail: [oliver.kingshott.19@ucl.ac.uk](mailto:oliver.kingshott.19@ucl.ac.uk)
+PhD student
 
-Office: 
+:material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
+
+:material-office-building: Office: 
 <br clear="left"/>
 
 ## Alumni
