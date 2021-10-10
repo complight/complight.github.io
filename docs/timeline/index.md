@@ -39,5 +39,5 @@ We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual
 #### 1 August 2020
 
 <img align="left" src="../people/kaan_aksit.png" width="80" alt/>
-[Kaan Akşit](https://kaanaksit.com) has left his Senior Research scientist position in the US, and accepted the offer from [University College London's](https://www.ucl.ac.uk).
+[Kaan Akşit](https://kaanaksit.com) has left his Senior Research scientist position at NVIDIA in the US, and accepted to join [University College London's](https://www.ucl.ac.uk) [computer science department](https://www.ucl.ac.uk/computer-science/) as an Associate Professor.
 <br clear="left"/>
