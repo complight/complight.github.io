@@ -20,7 +20,7 @@ Associate Professor
 <img align='left' src="../people/oliver_kingshott.png" width="160" alt/>
 [Oliver Kingshott](http://oliver.kingshott.com/)
 
-PhD student
+PhD student (Second supervisor: [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/))
 
 :material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
 
