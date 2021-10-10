@@ -19,4 +19,4 @@ To read more about our recent activities, please visit our [recent timeline](../
     Our laboratory organizes weekly seminars. To get more information about these seminars, please [click here](../seminars).
 
 !!! Question
-    If you are interested in joining our group as an intern, an undergraduate student, a master student, PhD student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).
+    If you are interested in joining our group as an intern, an undergraduate student, a master student, a PhD student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).
