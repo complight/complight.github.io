@@ -19,6 +19,7 @@ nav:
     - List of publications: 'publications/index.md'
   - Teaching:
     - Lectures: 'teaching/index.md'
+    - COMP0160 Perception and Interfaces: 'teaching/comp0160_perception_and_interfaces.md'
   - Documentation:
     - List: 'documentation/index.md'
     - Welcome aboard!: 'documentation/getting_started.md'
