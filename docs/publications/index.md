@@ -45,6 +45,7 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 :material-web: [Project site](https://hcie.csail.mit.edu/research/sensicut/sensicut.html)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/2021-uist-sensicut-paper.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=BdvSAJaukI8)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=fxD5GEMQ8kk)
 <br clear="left"/>
 
 
