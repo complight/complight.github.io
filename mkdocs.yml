@@ -29,6 +29,7 @@ nav:
 
 theme:
     name: material
+    custom_dir: overrides
     logo: logo/logo.png
     icon:
       logo: logo
