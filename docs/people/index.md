@@ -13,7 +13,7 @@ Associate Professor
 
 :material-email: [E-mail](mailto:k.aksit@ucl.ac.uk)
 
-:material-office-building: Office: 409
+:material-office-building: Office: R409
 <br clear="left"/>
 
 ### Doctoral Students
@@ -24,7 +24,7 @@ PhD student (Second supervisor: [Tobias Ritschel](https://www.homepages.ucl.ac.u
 
 :material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
 
-:material-office-building: Office: 
+:material-office-building: Office: R404.185
 <br clear="left"/>
 
 ## Alumni
