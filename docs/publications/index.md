@@ -20,7 +20,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 <img align="left" src="media/learned_light.gif" width="200" alt/>
-**Learned Holographic Light Transport**
+**Learned Holographic Light Transport** :material-star: (INVITED)
 
 Koray Kavaklı,
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
