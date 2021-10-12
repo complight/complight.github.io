@@ -42,6 +42,7 @@ Varnika Sinha,
 [Kaan Akşit](https://kaanaksit.com)
 and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 
+:material-web-box: [Publisher site](https://dl.acm.org/doi/10.1145/3472749.3474733)
 :material-web: [Project site](https://hcie.csail.mit.edu/research/sensicut/sensicut.html)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/2021-uist-sensicut-paper.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=BdvSAJaukI8)
