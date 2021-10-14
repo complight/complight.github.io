@@ -17,7 +17,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Date:**
     14th October 2021
 
-    **Presenters:** [Morgan Mcguire](https://casual-effects.com/), chief scientist at Roblox
+    **Presenters:** [Morgan Mcguire](https://casual-effects.com/), Chief Scientist at Roblox
 
     **Title:** Metaverse Research
 
@@ -29,7 +29,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Date:**
     6th October 2021
     
-    **Presenters:** [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/), assistant professor at École Polytechnique Fédérale de Lausanne
+    **Presenters:** [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/), Assistant Professor at École Polytechnique Fédérale de Lausanne
      
     **Title:** Differentiable Simulation of Light
     
