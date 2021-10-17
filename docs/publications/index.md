@@ -47,6 +47,18 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/2021-uist-sensicut-paper.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=BdvSAJaukI8)
 :material-video-account: [Presentation recording](https://www.youtube.com/watch?v=fxD5GEMQ8kk)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{dogan2021sensicut,
+	  title={SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning},
+	  author={Dogan, Mustafa Doga and Acevedo Colon, Steven Vidal and Sinha, Varnika and Ak{\c{s}}it, Kaan and Mueller, Stefanie},
+	  booktitle={The 34th Annual ACM Symposium on User Interface Software and Technology},
+	  pages={24--38},
+	  year={2021}
+	}
+
+	```
+
 <br clear="left"/>
 
 
