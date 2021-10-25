@@ -1,8 +1,13 @@
 # Publications
 
 ## 2021
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/telelife.png" width="200" alt/>
-**Telelife: The Future of Remote Living**
+</div>
+**Telelife: the future of remote living**
+
+<img src="https://img.shields.io/badge/-Frontiers in Optics-ff69b4">
 
 [Jason Orlosky](https://www.jeoresearch.com/research),
 [Misha Sra](https://sites.cs.ucsb.edu/~sra/),
@@ -17,10 +22,18 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf)
 <br clear="left"/>
+ 
+ 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/learned_light.gif" width="200" alt/>
-**Learned Holographic Light Transport** :material-star: (INVITED)
+</div>
+**Learned holographic light transport**
+
+<img src="https://img.shields.io/badge/-Applied Optics-blueviolet">
+
+:fontawesome-solid-award: **Invited**
 
 Koray Kavaklı,
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
@@ -30,11 +43,15 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/09/learned_holographic_light_transport.pdf)
 :material-file-code: [Code](https://github.com/complight/realistic_holography)
 <br clear="left"/>
+ 
+ 
 
-
-
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/sensicut.png" width="200" alt/>
-**SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning**
+</div>
+**SensiCut: material-aware laser cutting using speckle sensing and deep learning**
+
+<img src="https://img.shields.io/badge/-UIST-9cf">
 
 [Mustafa Doga Dogan](https://www.dogadogan.com/),
 Steven Vidal Acevedo Colon,
@@ -60,10 +77,16 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 	```
 
 <br clear="left"/>
+ 
+ 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/beyond_blur.png" width="200" alt/>
-**Beyond Blur: Ventral Metamers for Foveated Rendering**
+</div>
+**Beyond blur: ventral metamers for foveated rendering**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
 
 [David R. Walton](https://drwalton.github.io/),
 Rafael Kuffner Dos Anjos,
@@ -88,10 +111,18 @@ and Tobias Ritschel
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/beaming_displays.png" width="200" alt/>
-**Beaming Displays**
+</div>
+**Beaming displays**
+
+<img src="https://img.shields.io/badge/-IEEE VR-important">
+
+:fontawesome-solid-award: **Best paper nominee at IEEE VR 2021**
 
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 Takumi Kaminokado
@@ -114,11 +145,18 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2020
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/single_pixel_gaze.png" width="200" alt/>
-**Optical Gaze Tracking with Spatially-Sparse Single-Pixel Detectors**
+</div>
+**Optical gaze tracking with spatially-sparse single-pixel detectors**
+
+<img src="https://img.shields.io/badge/-ISMAR-yellow">
 
 [Richard Li](https://lichard49.github.io),
 [Eric Whitmire](https://www.ericwhitmire.com/),
@@ -145,10 +183,16 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/patch_scan.png" width="200" alt/>
+</div>
 **Patch scanning displays: spatiotemporal enhancement for displays**
+
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 [Kaan Akşit](https://kaanaksit.com)
 
@@ -173,11 +217,18 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2019
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/next_displays.png" width="200" alt/>
-**Near-Eye Display and Tracking Technologies for Virtual and Augmented Reality**
+</div>
+**Near-eye display and tracking technologies for virtual and augmented reality**
+
+<img src="https://img.shields.io/badge/-Eurographics-lightgrey">
 
 [George Alex Koulieris](https://koulieris.com/)
 [Kaan Akşit](https://kaanaksit.com),
@@ -203,10 +254,16 @@ and [Christian Richardt](https://richardt.name/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/foveated_displays.png" width="200" alt/>
-**Foveated AR: Dynamically-Foveated Augmented Reality Display**
+</div>
+**Foveated AR: dynamically-foveated augmented reality display**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
 
 :fontawesome-solid-award: **Emerging Technology best in show award at SIGGRAPH 2019**
 
@@ -243,10 +300,17 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 ## 2018
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/focusar.png" width="200" alt/>
-**FocusAR: Auto-focus Augmented Reality Eyeglasses for both Real and Virtual**
+</div>
+**FocusAR: auto-focus augmented reality eyeglasses for both real and virtual**
+
+<img src="https://img.shields.io/badge/-ISMAR-yellow">
 
 :fontawesome-solid-award: **Best paper award at ISMAR 2018**
 
@@ -273,9 +337,16 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/manufacturing_displays.png" width="200" alt/>
-**Manufacturing Application-Driven Foveated Near-Eye Displays**
+</div>
+**Manufacturing application-driven foveated near-eye displays**
+
+<img src="https://img.shields.io/badge/-IEEE VR-important">
 
 :fontawesome-solid-award: **Best paper nominee at IEEE VR 2018**
 
@@ -309,11 +380,18 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2017
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/see_through_hoe.png" width="200" alt/>
-**Near-Eye Varifocal Augmented Reality Display using See-Through Screens**
+</div>
+**Near-Eye varifocal augmented reality display using see-through screens**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
 
 [Kaan Akşit](https://kaanaksit.com),
 Ward Lopes,
@@ -336,11 +414,17 @@ and [David Luebke](https://luebke.us/)
 	year = {2017}}
 	```
 <br clear="left"/>
+ 
+ 
 
 
 
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/varifocal_membrane.png" width="200" alt/>
-**Wide Field Of View Varifocal Near-Eye Display Using See-Through Deformable Membrane Mirrors**
+</div>
+**Wide field of view varifocal near-eye display using see-through deformable membrane mirrors**
+
+<img src="https://img.shields.io/badge/-IEEE VR-important">
 
 :fontawesome-solid-award: **Best paper award at IEEE VR 2017**
 
@@ -374,10 +458,17 @@ Kent Torell,
 	}}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 ## 2016
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/gaze_sensing_leds.png" width="200" alt/>
-**Slim near-eye display using pinhole aperture arrays**
+</div>
+**Gaze-sensing LEDs for head mounted displays**
+
+<img src="https://img.shields.io/badge/-Arxiv-yellowgreen">
 
 [Kaan Akşit](https://kaanaksit.com), 
 [Jan Kautz](https://www.jankautz.com/) 
@@ -398,9 +489,14 @@ and [David Luebke](https://luebke.us/)
 	```
 <br clear="left"/>
 
+
 ## 2015
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/pinhole.png" width="200" alt/>
+</div>
 **Slim near-eye display using pinhole aperture arrays**
+
+<img src="https://img.shields.io/badge/-Applied Optics-blueviolet">
 
 [Kaan Akşit](https://kaanaksit.com), 
 [Jan Kautz](https://www.jankautz.com/) 
@@ -429,11 +525,18 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2014
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/head_worn_projector.png" width="200" alt/>
-**Head-worn Mixed Reality Projection Display Application**
+</div>
+**Head-worn mixed reality projection display application**
+
+<img src="https://img.shields.io/badge/-ACE-inactive">
 
 [Kaan Akşit](https://kaanaksit.com),
 Daniel Kade,
@@ -466,10 +569,17 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	} 
 	```
 <br clear="left"/>
+ 
+ 
 
 
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/super_stereoscopy.png" width="200" alt/>
+</div>
 **Super stereoscopy technique for comfortable and realistic 3D displays**
+
+<img src="https://img.shields.io/badge/-Optics Letters-blue">
 
 [Kaan Akşit](https://kaanaksit.com),
 Amir Niaki, 
@@ -498,10 +608,17 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
 
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/sound_to_light.png" width="200" alt/>
+</div>
 **From Sound to Sight: Using Audio Processing to enable Visible Light Communication**
+
+<img src="https://img.shields.io/badge/-Globecom-brightgreen">
 
 Stefan Schmid, 
 D. Schwyn, 
@@ -527,10 +644,17 @@ and [Stefan Mangold](https://www.lovefield.ch/)
 	month={Dec},}
 	```
 <br clear="left"/>
+ 
+ 
 
 
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/connect_toys.png" width="200" alt/>
+</div>
 **Connecting Networks of Toys and Smartphones with Visible Light Communication**
+
+<img src="https://img.shields.io/badge/-Communications magazine-green">
 
 Giorgio Corbellini, 
 [Kaan Akşit](https://kaanaksit.com), 
@@ -558,11 +682,18 @@ and Thomas R. Gross
 	month={July},}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2013
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/dynamic_exit_pupil.png" width="200" alt/>
+</div>
 **Dynamic exit pupil trackers for autostereoscopic displays**
+
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 [Kaan Akşit](https://kaanaksit.com), 
 Hadi Baghsiahi, 
@@ -596,11 +727,18 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
 
 
 
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/rotating_3d.png" width="200" alt/>
+</div>
 **Multi-view autostereoscopic projection display using rotating screen**
+
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 :material-eye: **[Spotlight on Optics](https://www.osapublishing.org/spotlight/summary.cfm?uri=oe-21-23-29043)**
 
@@ -631,11 +769,18 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 
 ## 2012
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/portable_3d.png" width="200" alt/>
+</div>
 **Portable 3D Laser Projector Using Mixed Polarization Technique**
+
+<img src="https://img.shields.io/badge/-Journal of Display Technology-orange">
 
 :fontawesome-solid-award: **Best 3D product award of International 3D Society (4th year)**
 
@@ -662,10 +807,17 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	  doi={10.1109/JDT.2012.2205664}}
 	```
 <br clear="left"/>
+ 
+ 
+
 
 ## 2010
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/heart_rate.png" width="200" alt/>
+</div>
 **Heart rate monitoring via remote photoplethysmography with motion artifacts reduction**
+
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 Giovanni Cennini, 
 Jeremie Arguel, 
@@ -695,3 +847,7 @@ and Arno van Leest
 	}
 	```
 <br clear="left"/>
+ 
+ 
+
+
