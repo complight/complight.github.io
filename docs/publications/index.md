@@ -7,7 +7,7 @@
 </div>
 **Telelife: the future of remote living**
 
-<img src="https://img.shields.io/badge/-Frontiers in Optics-ff69b4">
+<img src="https://img.shields.io/badge/-Frontiers in Virtual Reality-ff69b4">
 
 [Jason Orlosky](https://www.jeoresearch.com/research),
 [Misha Sra](https://sites.cs.ucsb.edu/~sra/),
