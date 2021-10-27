@@ -26,7 +26,6 @@ Associate Professor
 [David Robert Walton](https://drwalton.github.io/)
 
 Research fellow
-
 (Reports to [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/))
 
 :material-email: [E-mail](mailto:david.walton.13@ucl.ac.uk)
