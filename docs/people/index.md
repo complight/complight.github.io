@@ -6,7 +6,10 @@ At the end of the page, you will also find our alumni list as a separate section
 All our current members are located in `169 Euston Road, London NW1 2AE, United Kingdom`.
 
 ### Faculty
+
+<div style="float: left; height:200px;" class="boxed">
 <img align="left" src="../people/kaan_aksit.png" width="160" alt/>
+</div>
 [Kaan Akşit](https://kaanaksit.com)
 
 Associate Professor
@@ -16,8 +19,25 @@ Associate Professor
 :material-office-building: Office: R409
 <br clear="left"/>
 
-### Doctoral Students
+### Post-doctoral and visiting researchers
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/david_walton.png" width="160" alt/>
+</div>
+[David Robert Walton](https://drwalton.github.io/)
+
+Research fellow
+
+(Reports to [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/))
+
+:material-email: [E-mail](mailto:david.walton.13@ucl.ac.uk)
+
+:material-office-building: Office: R404.181
+<br clear="left"/>
+
+### Doctoral students
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/oliver_kingshott.png" width="160" alt/>
+</div>
 [Oliver Kingshott](http://oliver.kingshott.com/)
 
 PhD student (Second supervisor: [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/))
