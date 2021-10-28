@@ -45,7 +45,7 @@ In fact, as a member, please do not hesitate to suggest improvements and be the 
 - Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 - Are you receiving calendar invitations for weekly group meetings? Reach out to Kaan or any other team member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 - Do you have a research plan? What are your goals? How will your research impact the society in the near and far future? Tinker deeply in a structured manner. Agree with Kaan and your other supervisors. Reach out to them and initiate conversations about your roadmap towards your degree.
-- Do you know where you can find the term dates and closures? Visit [this website](https://www.ucl.ac.uk/students/life-ucl/term-dates-and-closures-2021-22) for more.
+- Do you know where you can find the term dates and closures? Visit [this website](https://www.ucl.ac.uk/students/life-ucl/term-dates-and-closures-2021-22) and [this website](https://www.ucl.ac.uk/estates/sites/estates/files/cal_term_times_2021_2022.pdf) for more.
 
 ### Suggestions
 These are some suggestions to help you get establishing yourself as a collaborative member of the group.
