@@ -1,7 +1,7 @@
 # COMP0160: Perception and interfaces
 
 ## Summary
-"COMP0160: Perception and interfaces course" offers students a gateway to get familiar with various aspects of perception. Greater details of the course and its broad description can be found in [course website](https://www.ucl.ac.uk/module-catalogue/modules/perception-and-interfaces-COMP0160).
+**COMP0160: Perception and interfaces course** offers students a gateway to get familiar with various aspects of perception. Greater details of the course and its broad description can be found in [course website](https://www.ucl.ac.uk/module-catalogue/modules/perception-and-interfaces-COMP0160).
 
 Computational light laboratory contributes to `COMP0160: Perception and Interfaces` by providing two lectures introducing the human visual system, its relation with graphics and displays, and sensing modalities in emerging devices (e.g., near-eye displays for virtual reality and augmented reality).
 Each of these lectures is two hours long. In addition, we support these lectures with laboratory assignments for the students, which are vital for completing the course.
