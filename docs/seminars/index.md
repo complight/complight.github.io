@@ -12,6 +12,18 @@ Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com).
 Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D), [Oliver Kingshott](http://oliver.kingshott.com/), [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/), [Tim Weyrich](https://reality.cs.ucl.ac.uk/weyrich.html) and [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) for moderation and organization of several of these events.
 
 
+### Katharina Krösl (VRVis Zentrum für Virtual Reality and Visualisierung)
+??? Details
+    **Date:**
+    20th October 2021
+
+    **Presenters:** [Katharina Krösl](https://dblp.uni-trier.de/pid/220/2980.html), Researcher at VRVis Zentrum für Virtual Reality und Visualisierung
+
+    **Title:** Simulating Vision Impairments in XR
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVM3v-kW2GJGsOLin5AMzbUB8woPiqjf7gYZiElDaD9ndg?e=e6aC1n)
+
+
 ### Morgan Mcguire (Roblox)
 ??? Details
     **Date:**
