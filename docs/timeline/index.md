@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/royal_society.png" width="80" alt/>
 </div>
-We are grateful to the Royal Society for awarding us with their [research grants 2021 round two scheme](https://royalsociety.org/grants-schemes-awards/grants/research-grants/). Their award will enable us to invent new holographic light transport models in the future.
+We are grateful to the Royal Society for awarding us with their [research grants 2021 round two scheme](https://royalsociety.org/grants-schemes-awards/grants/research-grants/). Their award will enable us to invent new holographic light transport models in the future. This is award is worth `14994.65 GBP`.
 <br clear="left"/>
 
 
