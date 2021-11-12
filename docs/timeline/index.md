@@ -3,6 +3,14 @@
 ## 2021
 
 ### November
+#### 12 November 2021
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+Our invited work, "Learned Holographic Light Transport", is published at [Optica's Applied Optics](https://doi.org/10.1364/AO.439401). We show that light transport can be made more accurate by learning hardware dependent kernels.
+<br clear="left"/>
+
+
 #### 8 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/royal_society.png" width="80" alt/>

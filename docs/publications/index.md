@@ -39,9 +39,29 @@ Koray Kavaklı,
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
 
+:material-web-box: [Publisher site](https://doi.org/10.1364/AO.439401)
 :material-web: [Project site](https://kaanaksit.com/portfolio/learned-holographic-light-transport/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/09/learned_holographic_light_transport.pdf)
 :material-file-code: [Code](https://github.com/complight/realistic_holography)
+??? info ":material-tag-text: Bibtex"
+	```
+        @article{Kavakli:22,
+          author = {Koray Kavakl{i} and Hakan Urey and Kaan Ak\c{s}it},
+          journal = {Appl. Opt.},
+          keywords = {Holographic displays; Holographic recording; Holographic techniques; Image quality; Image reconstruction; Visible light communications},
+          number = {5},
+          pages = {B50--B55},
+          publisher = {OSA},
+          title = {Learned holographic light transport: invited},
+          volume = {61},
+          month = {Feb},
+          year = {2022},
+          url = {http://www.osapublishing.org/ao/abstract.cfm?URI=ao-61-5-B50},
+          doi = {10.1364/AO.439401},
+        }
+	```
+
+
 <br clear="left"/>
  
  
