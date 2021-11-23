@@ -12,6 +12,21 @@ Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com).
 Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D), [Oliver Kingshott](http://oliver.kingshott.com/), [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/), [Tim Weyrich](https://reality.cs.ucl.ac.uk/weyrich.html) and [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) for moderation and organization of several of these events.
 
 
+### Wolfgang Stürzlinger (Simon Fraser University)
+??? Details
+    **Date:**
+    17th November 2021
+
+    **Presenter:** Wolfgang Stürzlinger, Professor at Simon Fraser University
+    
+ 
+    **Title:** Current Challenges and Solutions for Virtual and Augmented Reality
+
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUNrfimPuj9Lu5P7IWsJ2p4BT6gcxqRBtotIUqyHHYaTeA?e=SnLtwb)
+
+
+
 ### Nels Numan (University College London) and Koray Kavaklı (Koç University)
 ??? Details
     **Date:**
@@ -35,7 +50,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Date:**
     3th November 2021
 
-    **Presenters:** Nels Numan, PhDSenior Research Fellow at University College London
+    **Presenters:** David Swapp, PhDSenior Research Fellow at University College London
 
     **Title:** Who are VR systems designed for?
 
