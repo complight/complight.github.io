@@ -23,7 +23,7 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 
 :octicons-location-16: [Chandler House G15](https://goo.gl/maps/ge653oFfLG9gfhP36)
 
-## Lecture 2: Visual perception in graphics and displays
+## Lecture 2: Visual perception in perceptual graphics and computational displays
 
 :material-calendar: Winter 2022
 
