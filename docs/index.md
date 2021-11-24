@@ -6,6 +6,7 @@ The computational light laboratory is part of [Computer Science Department](http
 [Kaan Akşit](https://kaanaksit.com) leads the computational light laboratory.
 
 The computational light laboratory conducts [research and development](../publications) in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
+We share our scientific output in the form of [published articles and papers](https://complightlab.com/publications/).
 Our primary software toolkit to tackle our research problems is public and open-source.
 We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
