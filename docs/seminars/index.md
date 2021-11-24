@@ -1,15 +1,28 @@
 # Seminars
-We organize [Virtual Reality and Computer Graphics group's](http://vecg.cs.ucl.ac.uk/) (VECG's) weekly seminar series.
-VECG weekly seminar series is an exclusive event where we host experts across the industry and academia.
+We organize virtual environments and computer graphics weekly seminar series.
+Virtual environments and comptuer graphics weekly seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
 
 !!! Question
-    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).
+    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/vecg-seminars) (only within University College London's network).
 
 ## 2021
 The seminar series of 2021 is conducted with the help of several key people at UCL.
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D), [Oliver Kingshott](http://oliver.kingshott.com/), [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/), [Tim Weyrich](https://reality.cs.ucl.ac.uk/weyrich.html) and [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) for moderation and organization of several of these events.
+
+### Sebastian Friston (University College London)
+??? Details
+    **Date:**
+    24th November 2021
+
+    **Presenter:** Sebastian Friston, Research Associate at University College London
+    
+ 
+    **Title:** Ubiq
+
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUNrfimPuj9Lu5P7IWsJ2p4BT6gcxqRBtotIUqyHHYaTeA?e=SnLtwb)
 
 
 ### Wolfgang Stürzlinger (Simon Fraser University)
