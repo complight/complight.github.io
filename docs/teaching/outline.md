@@ -40,9 +40,8 @@ This lecture focuses on human visual perception and its applications in computer
 
 **Chapters:**
 
-- Basic introduction to visual perception and its biology (20 minutes).
-- Basic geometric raytracing (20 minutes).
-- Modeling simplified binocular visual system using raytracing (20 minutes).
+- Introduction to human visual system (20 minutes).
+- Geometric raytracing of human visual system (40 minutes).
 - Visual, colour and depth acuity (20 minutes).
 - Brief description of ventral processing (20 minutes).
 - Case studies in computer graphics and computational displays (20 minutes).
