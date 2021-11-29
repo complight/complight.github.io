@@ -3,6 +3,14 @@
 ## 2021
 
 ### November
+#### 29 November 2021
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/frontiers.png" width="80" alt/>
+</div>
+Our vision, "Telelife: The Future of Remote Living", is published at [Frontiers in Virtual Reality](https://doi.org/10.3389/frvir.2021.763340). We share our vision for the future, specifically in the year 2035.
+<br clear="left"/>
+
+
 #### 12 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>

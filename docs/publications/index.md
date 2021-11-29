@@ -20,7 +20,25 @@
 [Kiyoshi Kiyokawa](https://carelab.info/en/),
 and [Kaan Akşit](https://kaanaksit.com)
 
+:material-web-box: [Publisher site](https://doi.org/10.3389/frvir.2021.763340)
+:material-web: [Project site](https://kaanaksit.com/portfolio/telelife-the-future-of-remote-living/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+	@ARTICLE{10.3389/frvir.2021.763340,
+	AUTHOR={Orlosky, Jason and Sra, Misha and Bektaş, Kenan and Peng, Huaishu and Kim, Jeeeun and Kos’myna, Nataliya and Höllerer, Tobias and Steed, Anthony and Kiyokawa, Kiyoshi and Ak\c{s}it, Kaan},   
+	TITLE={Telelife: The Future of Remote Living},      
+	JOURNAL={Frontiers in Virtual Reality},      
+	VOLUME={2},      
+	PAGES={147},     
+	YEAR={2021},      
+	URL={https://www.frontiersin.org/article/10.3389/frvir.2021.763340},       
+	DOI={10.3389/frvir.2021.763340},      
+	ISSN={2673-4192},   
+	}
+	```
+
+
 <br clear="left"/>
  
  
