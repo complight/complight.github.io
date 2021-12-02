@@ -39,7 +39,7 @@ Research fellow
 </div>
 [Oliver Kingshott](http://oliver.kingshott.com/)
 
-PhD student (Second supervisor: [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/))
+PhD student
 
 :material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
 
