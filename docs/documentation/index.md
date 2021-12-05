@@ -2,6 +2,12 @@
 This page provides links to a list of documents.
 These documents vary in their topics, from workplace guidances to technical digests.
 
+## For candidates
+| Documents | Description   |
+| ------------- |:-------------:|
+| [`How to become a doctoral student in our laboratory`](become_phd_student.md) | This documentation describes the steps involved in becoming a doctoral student at our laboratory. |
+
+
 ## For newcomers
 | Documents | Description   |
 | ------------- |:-------------:|
