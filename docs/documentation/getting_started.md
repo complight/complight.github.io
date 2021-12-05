@@ -2,7 +2,7 @@
 !!! quote
 	Welcome aboard!
 
-	**The computational light laboratory conducts research and development in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.**
+	**The computational light laboratory conducts research and development in light related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.**
 
 	**Our core mission is to show our societies that there can be better services, experiences, and goods that serve the benefits of humanity by using light.**
 	We are here to invent the next in light-based techniques and unlock the mystery of light.
