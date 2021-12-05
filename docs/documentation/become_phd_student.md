@@ -29,9 +29,9 @@ We value that kind of uniqueness.
 To highlight such uniqueness in your character, you need evidence from your previous experiences that can inform us to understand you better.
 This evidence can be all or some of these listed items:
 
-- You are an exceptional person in your current programme (academic or industrial), and the highest-ranked person you work with is ready to support your case.
-- You maintain public software or hardware related projects that are part of your previous research. 
-- You have helped organize events in your research field or participated in exciting venues where you demonstrated your work in public to other people.
+- You are an exceptional person in your current programme (academic or industrial), and the highest-ranked person you work with is ready to support your case by providing a reference letter.
+- You maintain public software or hardware related projects that are part of your previous research, and these repositories are exciting other people. 
+- You have helped organize events in your research field or participated in exciting venues where you demonstrated your work in public to other people, and they got excited.
 - You publish at highly reputable top-tier conferences or journals that are relevant to our laboratory's work. Here are some examples of these conferences and journals: `ACM SIGGRAPH, ACM SIGCHI, ACM UIST, IEEE VR, IEEE ISMAR, Optica Optica, Optica Optics Express, Nature Photonics, Nature Light or alike`.
 - (Optional -- not a must) You have an award or funding to support your doctoral studies in the future.
 
