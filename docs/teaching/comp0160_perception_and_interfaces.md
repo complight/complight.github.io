@@ -28,7 +28,9 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 :material-calendar: Winter 2022
 
 :octicons-location-16: [Online](https://moodle.ucl.ac.uk/)
+
 :octicons-video-16: [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/comp0160/comp0160_lecture_2.mkv?csf=1&web=1&e=FxyAUz)
+
 :octicons-paste-16: [Slides (Invitation required)](https://docs.google.com/presentation/d/1XkandEa4MssyTB7c0IgvDkFTqIjWaDygNUk9kFynkEw/edit?usp=sharing)
 
 
