@@ -9,7 +9,7 @@ Each of these lectures is two hours long. In addition, we support these lectures
 ## Timetable
 The timetable provided below show parts of COMP0160 that are provided by computational light laboratory.
 
-| Date                                  |  Instructor                  | Contents        |
+| Date                                  |  Instructor(s)               | Content         |
 | :-------------:                       | :-------------:              | :-------------: | 
 | 14 January 2022 - 27th March 2022     | Kaan Akşit, Oliver Kingshott | Practical                                  |
 | 17th January 2022 - 23th January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
@@ -43,7 +43,7 @@ This lecture focuses on human visual perception and its applications in computer
     Towards the end of this lecture, students will have enough information to build a simplified optical model of a human eye.
     They will be encouraged to build an eye model using this simplified optical simulation of the human eye.
 
-## Multisensory integration and sensors
+## Lecture 3: Multisensory integration and sensors
 
 :material-calendar: Winter 2022
 
