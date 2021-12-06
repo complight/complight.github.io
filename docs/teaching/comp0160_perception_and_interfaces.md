@@ -9,11 +9,11 @@ Each of these lectures is two hours long. In addition, we support these lectures
 ## Timetable
 The timetable provided below show parts of COMP0160 that are provided by computational light laboratory.
 
-| Date                                  |  Lecturer       | Contents        |
-| :-------------:                       | :-------------: | :-------------: | 
-| 14 January 2022 - 27th March 2022     | Kaan Akşit      | Practical                                  |
-| 17th January 2022 - 23th January 2022 | Kaan Akşit      | Visual Perception in graphics and displays | 
-| 28th February 2022 - 6th March 2022   | Kaan Akşit      | Sensors and multisensory integration       | 
+| Date                                  |  Instructor                  | Contents        |
+| :-------------:                       | :-------------:              | :-------------: | 
+| 14 January 2022 - 27th March 2022     | Kaan Akşit, Oliver Kingshott | Practical                                  |
+| 17th January 2022 - 23th January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
+| 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Sensors and multisensory integration       | 
 
 ### Parts
 
