@@ -1,7 +1,7 @@
-# COMP0160: Perception and interfaces
+# COMP0160: Perception and Interfaces
 
 ## Summary
-**COMP0160: Perception and interfaces course** offers students a gateway to get familiar with various aspects of perception. Greater details of the course and its broad description can be found in [course website](https://www.ucl.ac.uk/module-catalogue/modules/perception-and-interfaces-COMP0160).
+**COMP0160: Perception and Interfaces course** offers students a gateway to get familiar with various aspects of perception and interfaces. Greater details of the course and its broad description can be found in [course website](https://www.ucl.ac.uk/module-catalogue/modules/perception-and-interfaces-COMP0160).
 
 Computational light laboratory contributes to `COMP0160: Perception and Interfaces` by providing two lectures introducing the human visual system, its relation with graphics and displays, and sensing modalities in emerging devices (e.g., near-eye displays for virtual reality and augmented reality).
 Each of these lectures is two hours long. In addition, we support these lectures with laboratory assignments for the students, which are vital for completing the course.
@@ -12,7 +12,7 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 | Date                                  |  Instructor(s)               | Content         |
 | :-------------:                       | :-------------:              | :-------------: | 
 | 14 January 2022 - 27th March 2022     | Kaan Akşit, Oliver Kingshott | Practical                                  |
-| 17th January 2022 - 23th January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
+| 17th January 2022 - 23rd January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
 | 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Sensors and multisensory integration       | 
 
 ### Parts
@@ -22,6 +22,8 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 :material-calendar: 12:00 noon to 1:00 pm, Thursdays, 14th January 2022 - 27th March 2022
 
 :octicons-location-16: [Chandler House G15](https://goo.gl/maps/ge653oFfLG9gfhP36)
+
+:octicons-checklist-16: [Description (Public)](comp0160_practical)
 
 ## Lecture 2: Visual perception in perceptual graphics and computational displays
 
