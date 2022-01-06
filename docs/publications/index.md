@@ -1,5 +1,32 @@
 # Publications
 
+## 2022
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/metameric.png" width="200" alt/>
+</div>
+**Metameric Varifocal Holography**
+
+<img src="https://img.shields.io/badge/-IEEE VR-important">
+
+[David R. Walton](https://drwalton.github.io/),
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
+Rafael Kuffner Dos Anjos,
+David Swapp,
+[Tim Weyrich](https://reality.tf.fau.de/weyrich.html),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Anthony Steed](http://vecg.cs.ucl.ac.uk/),
+Tobias Ritschel,
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2110.01981)
+:material-video-account: [Project video](https://vimeo.com/623474853)
+:material-file-code: [Code](https://github.com/complight/metameric_holography)
+
+
+<br clear="left"/>
+
+
 ## 2021
 
 <div style="float: left; height:340px;" class="boxed">
@@ -53,7 +80,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 :fontawesome-solid-award: **Invited**
 
-Koray Kavaklı,
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
 
