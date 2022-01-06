@@ -45,7 +45,7 @@ This lecture focuses on human visual perception and its applications in computer
     Towards the end of this lecture, students will have enough information to build a simplified optical model of a human eye.
     They will be encouraged to build an eye model using this simplified optical simulation of the human eye.
 
-## Lecture 3: Multisensory integration and sensors
+## Lecture 7: Multisensory integration and sensors
 
 :material-calendar: Winter 2022
 

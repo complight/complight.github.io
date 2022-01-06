@@ -6,4 +6,4 @@ The lectures that we have offered so far are as follows:
 | Term            | Instructor(s)                | Course          | Content         |
 | :-------------: | :-------------:              | :-------------: | :-------------: |
 | Winter 2022     | Kaan Akşit, Oliver Kingshott | COMP0160        | [Lecture 2: Visual perception in perceptual graphics and computational displays](comp0160_perception_and_interfaces.md) |
-| Winter 2022     | Kaan Akşit, Oliver Kingshott | COMP0160        | [Lecture 3: Multisensory integration and sensors](comp0160_perception_and_interfaces.md) |
+| Winter 2022     | Kaan Akşit, Oliver Kingshott | COMP0160        | [Lecture 7: Multisensory integration and sensors](comp0160_perception_and_interfaces.md) |
