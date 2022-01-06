@@ -1,5 +1,15 @@
 # Timeline
 
+## 2022
+### January
+#### 24 January 2022
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/photonics_west" width="80" alt/>
+</div>
+We presented two invited talks at [SPIE's Photonics West](https://spie.org/conferences-and-exhibitions/photonics-west?SSO=1). Our first talk is on [Perceptually guided computer-generated holography](https://spie.org/photonics-west/presentation/Perceptually-guided-computer-generated-holography/12024-4?SSO=1), and our second talk is on [Beaming Displays: Towards Displayless Augmented Reality Near-eye Displays](https://spie.org/photonics-west/presentation/Beaming-Displays-Towards-Displayless-Augmented-Reality-Near-eye-Displays/12019-3).
+<br clear="left"/>
+
+
 ## 2021
 
 ### November
