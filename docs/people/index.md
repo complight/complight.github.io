@@ -35,6 +35,19 @@ Research fellow
 
 ### Doctoral students
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/koray_kavakli.png" width="160" alt/>
+</div>
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ)
+
+PhD student
+
+:material-email: E-mail
+
+:material-office-building: Office: TBD
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/oliver_kingshott.png" width="160" alt/>
 </div>
 [Oliver Kingshott](http://oliver.kingshott.com/)
