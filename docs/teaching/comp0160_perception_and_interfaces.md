@@ -46,6 +46,7 @@ This lecture focuses on human visual perception and its applications in computer
     They will be encouraged to build an eye model using this simplified optical simulation of the human eye.
     
     **References:**
+
 	* Panero, Julius, and Martin Zelnik. Human dimension & interior space: a source book of design reference standards. Watson-Guptill, 1979.
 
 	* Bekerman, Inessa, Paul Gottlieb, and Michael Vaiman. "Variations in eyeball diameters of the healthy adults." Journal of ophthalmology 2014 (2014).
