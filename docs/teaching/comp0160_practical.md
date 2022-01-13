@@ -26,6 +26,7 @@ We create that environment to elaborate by not strictly telling you which steps 
 **Please make sure to bring your personal laptop with you if you are physically attending.**
 
 Once again welcome to COMP0160 practical sessions!
+
 [Kaan Akşit](https://kaanaksit.com)
 
 # Background (15 minutes)
