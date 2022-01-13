@@ -1,4 +1,15 @@
+---
+header-includes:
+  - \hypersetup{colorlinks=false,
+            allbordercolors={0 0 0},
+            pdfborderstyle={/S/U/W 1}}
+---
 # Welcome
+
+**Start date:** 12:00 pm, 14th January 2022,
+
+**Duration:** This description is valid for first four weeks of practical sessions.
+
 Welcome to the practical session for COMP0160: Perception and Interfaces. This course is designed to offer you, the students, a gateway to get familiar with various aspects of perception and interfaces.
 
 In your lectures, you will learn about the human visual system and how humans perceive light from their surroundings.
@@ -13,6 +24,9 @@ This case is because everybody learns things in a slightly different way.
 We create that environment to elaborate by not strictly telling you which steps to take.
 
 **Please make sure to bring your personal laptop with you if you are physically attending.**
+
+Once again welcome to COMP0160 practical sessions!
+[Kaan Akşit](https://kaanaksit.com)
 
 # Background (15 minutes)
 
