@@ -21,7 +21,7 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 
 :material-calendar: 12:00 noon to 1:00 pm, Fridays, 14th January 2022 - 27th March 2022
 
-:octicons-location-16: [Chandler House G15](https://goo.gl/maps/ge653oFfLG9gfhP36)
+:octicons-location-16: [Chandler House G15](https://goo.gl/maps/kpSwAXVQ3tAwr4zYA)
 
 :octicons-checklist-16: [Description (Public)](comp0160_practical.md)
 
