@@ -5,7 +5,7 @@
 
 **Due date:** hour on Day/02/2022
 
-**Instructor:** Kaan Akşit
+**Instructor:** [Kaan Akşit](https://kaanaksit.com)
 
 
 ## Background
