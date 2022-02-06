@@ -1,10 +1,5 @@
 # Welcome
 
-<div style="height:300px;" class="boxed">
-<img src="./media/research_statement_future.png" width="500" class="center" alt/>
-</div>
-
-
 **You have reached the website for the computational light laboratory.**
 
 The computational light laboratory is part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
@@ -17,6 +12,10 @@ We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
 
 To read more about our recent activities, please visit our [recent timeline](../timeline).
+
+<div style="height:300px;" class="boxed">
+<img src="./media/research_statement_future.png" width="500" class="center" alt/>
+</div>
 
 !!! Info
     Computational light laboratory is located at `room G06, 169 Euston Road, London NW1 2AE, United Kingdom`.
