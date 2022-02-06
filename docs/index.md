@@ -13,9 +13,7 @@ We translate our scientific output to actual [lecture modules](../teaching), and
 
 To read more about our recent activities, please visit our [recent timeline](../timeline).
 
-<div style="height:300px;" class="boxed">
-<img src="./media/research_statement_future.png" width="500" class="center" alt/>
-</div>
+<img src="./media/research_statement_future.png" width="500" class="center">
 
 !!! Info
     Computational light laboratory is located at `room G06, 169 Euston Road, London NW1 2AE, United Kingdom`.
