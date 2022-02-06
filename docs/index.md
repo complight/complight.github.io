@@ -1,7 +1,7 @@
 # Welcome
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="./media/research_statement_future.png" width="160" alt/>
+<img src="./media/research_statement_future.png" width="300" alt/>
 </div>
 
 
