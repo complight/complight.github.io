@@ -1,5 +1,3 @@
-Dear all,
-
 We started a public Slack group dedicated to scientists researching computer graphics, human visual perception, computational photography and computational displays. We aim to build a single hub for everyone and provide all members with a gateway to:
 
 - meet others in the field,
@@ -15,8 +13,3 @@ But most of all, the primary goal is to stay connected to sustain a healthy rese
 [https://join.slack.com/t/slack-u0p8663/shared_invite/zt-12wcv87tz-_92yVoTgl9aKlrDanK8NMg](https://join.slack.com/t/slack-u0p8663/shared_invite/zt-12wcv87tz-_92yVoTgl9aKlrDanK8NMg)
 
 Please do not hesitate to share the invitation link with other people in your field.
-
-Best regards,
-Kaan Akşit
-Associate Professor | University College London
-https://kaanaksit.com | https://complightlab.com
