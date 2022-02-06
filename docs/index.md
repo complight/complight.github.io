@@ -12,7 +12,7 @@ We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
 
 To read more about our recent activities, please visit our [recent timeline](../timeline).
-Our research focus in terms of applications is depicted as in the below image.
+Our research focus in terms of applications is depicted in the below conceptual figure.
 
 <p class="aligncenter">
     <img src="./media/research_statement_future.png" alt=/>
