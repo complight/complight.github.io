@@ -1,5 +1,10 @@
 # Welcome
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="./media/research_statement_future.png" width="160" alt/>
+</div>
+
+
 **You have reached the website for the computational light laboratory.**
 
 The computational light laboratory is part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
