@@ -12,8 +12,11 @@ We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
 
 To read more about our recent activities, please visit our [recent timeline](../timeline).
+Our research focus in terms of applications is depicted as in the below image.
 
-<img src="./media/research_statement_future.png" width="500" class="center">
+<p class="aligncenter">
+    <img src="./media/research_statement_future.png" alt=/>
+</p>
 
 !!! Info
     Computational light laboratory is located at `room G06, 169 Euston Road, London NW1 2AE, United Kingdom`.
