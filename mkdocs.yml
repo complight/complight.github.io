@@ -27,6 +27,7 @@ nav:
     - Our laboratory's logo: 'documentation/logo.md'
   - Seminars:
     - Recent seminars: 'seminars/index.md'
+  - Research hub: 'research_hub.md'
 
 theme:
     name: material
