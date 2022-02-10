@@ -13,4 +13,4 @@ But most of all, the primary goal is to stay connected to sustain a healthy rese
 
 [https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg](https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg)
 
-Please do not hesitate to share the invitation link with other people in your field.
+Please do not hesitate to share the invitation link with other people in your field. If you encounter any issue with the link, please do not hesitate to reach us using [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
