@@ -10,6 +10,7 @@ We started a public Slack group dedicated to scientists researching computer gra
 
 But most of all, the primary goal is to stay connected to sustain a healthy research field. To join our Slack channel and contribute to future conversations, please use the provided below link:
 
-[https://join.slack.com/t/slack-u0p8663/shared_invite/zt-12wcv87tz-_92yVoTgl9aKlrDanK8NMg](https://join.slack.com/t/slack-u0p8663/shared_invite/zt-12wcv87tz-_92yVoTgl9aKlrDanK8NMg)
+
+[https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg](https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg)
 
 Please do not hesitate to share the invitation link with other people in your field.
