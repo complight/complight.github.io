@@ -1,9 +1,9 @@
 # Course work I: COMP0160 Perception and Interfaces
 
 
-**Release date:** hour on Day/01/2022
+**Release date:** 24th January 2022
 
-**Due date:** hour on Day/02/2022
+**Due date:**  7th February 2022
 
 **Instructor:** [Kaan Akşit](https://kaanaksit.com)
 
