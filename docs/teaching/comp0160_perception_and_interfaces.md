@@ -25,6 +25,10 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 
 :octicons-checklist-16: [Description (Public)](comp0160_practical.md)
 
+## Coursework
+
+:octicons-file-16: [First coursework](comp0160_coursework_1.md)
+
 ## Lecture 2: Visual perception in perceptual graphics and computational displays
 
 :material-calendar: Winter 2022
