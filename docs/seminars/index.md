@@ -11,6 +11,20 @@ The seminar series of 2022 is conducted with the help of several key people at U
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for moderation and organization of several of these events.
 
+### Doğa Doğan (Massachusetts Institute of Technology)
+??? Details
+    **Date:**
+    16th February 2022
+
+    **Presenter:** Doğa Doğan, Phd Candidate at Massachusetts Institute of Technology
+    
+ 
+    **Title:** Unobtrusive Machine-Readable Tags for Seamless Ineractions with Real-World Objects
+
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETMEDDJOZlROgGpR-YxV-hYBS50vfpDhERSX-qk0sVRgyg?e=f645PW)
+
+
 ### Anthony Steed (University College London)
 ??? Details
     **Date:**
