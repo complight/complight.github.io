@@ -13,7 +13,7 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 | :-------------:                       | :-------------:              | :-------------: | 
 | 14 January 2022 - 27th March 2022     | Kaan Akşit, Oliver Kingshott | Practical                                  |
 | 17th January 2022 - 23rd January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
-| 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Sensors and multisensory integration       | 
+| 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Integrating Sensory Information in Computational Displays  | 
 
 ### Parts
 
@@ -91,7 +91,7 @@ This lecture focuses on human visual perception and its applications in computer
 
 	* Kim, Jonghyun, et al. "Foveated AR: dynamically-foveated augmented reality display." ACM Transactions on Graphics (TOG) 38.4 (2019): 1-15.
 
-## Lecture 7: Multisensory integration and sensors
+## Lecture 7: Integrating Sensory Information in Computational Displays
 
 :material-calendar: Winter 2022
 
