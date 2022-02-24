@@ -97,6 +97,34 @@ This lecture focuses on human visual perception and its applications in computer
 
 :octicons-location-16: [Online](https://moodle.ucl.ac.uk/)
 
+??? Details
+    **Summary:**
+    In this course, students will learn about sensors and their integration into modern display systems such as Virtual and Augmented Reality near-eye displays and three-dimensional displays.
+    In the first half, a review of various kinds of sensors that could capture vital signs from a user, such as heart rate and gaze orientation, will be provided.
+    The second half will cover applications that use captured sensory information. These applications will be sampled from actual products on the market and research prototypes at the forefront of science.
+
+    * Cennini, G., Arguel, J., Akşit, K., & van Leest, A. (2010). Heart rate monitoring via remote photoplethysmography with motion artifacts reduction. Optics express, 18(5), 4867-4875.
+
+    * Li, Richard, Eric Whitmire, Michael Stengel, Ben Boudaoud, Jan Kautz, David Luebke, Shwetak Patel, and Kaan Akşit. "Optical gaze tracking with spatially-sparse single-pixel detectors." In 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), pp. 117-126. IEEE, 2020.
+
+    * Angelopoulos, Anastasios N., Julien NP Martel, Amit P. Kohli, Jorg Conradt, and Gordon Wetzstein. "Event-Based Near-Eye Gaze Tracking Beyond 10,000 Hz." IEEE transactions on visualization and computer graphics 27, no. 5 (2021): 2577-2586.
+
+    * Wei, Shih-En, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, and Yaser Sheikh. "Vr facial animation via multiview image translation." ACM Transactions on Graphics (TOG) 38, no. 4 (2019): 1-16.
+
+    * Yaldiz, Mustafa B., Andreas Meuleman, Hyeonjoong Jang, Hyunho Ha, and Min H. Kim. "DeepFormableTag: end-to-end generation and recognition of deformable fiducial markers." ACM Transactions on Graphics (TOG) 40, no. 4 (2021): 1-14.
+
+    * Glauser, O., Wu, S., Panozzo, D., Hilliges, O., & Sorkine-Hornung, O. (2019). Interactive hand pose estimation using a stretch-sensing soft glove. ACM Transactions on Graphics (TOG), 38(4), 1-15.
+
+    * Glauser, O., Panozzo, D., Hilliges, O., & Sorkine-Hornung, O. (2019). Deformation capture via soft and stretchable sensor arrays. ACM Transactions on Graphics (TOG), 38(2), 1-16.
+
+    * [HP Reverb G2 VR Headset](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html)
+
+    * [MediaPipe Iris: Real-time Iris Tracking and Depth Estimation](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
+
+    * [Brelyon: a window to a whole new world](http://brelyon.com/)
+
+    * [Tobii's eye and head tracking for professional esports](https://gaming.tobii.com/)
+
 ## Team
 
 <div style="float: left; height:120px;" class="boxed">
