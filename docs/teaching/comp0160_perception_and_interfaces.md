@@ -101,6 +101,8 @@ This lecture focuses on human visual perception and its applications in computer
 
 :octicons-paste-16: [Slides (Invitation required)]()
 
+This lecture focuses on integrating various kinds of sensory information to the next generation displays.
+
 ??? Details
     **Summary:**
     In this course, students will learn about sensors and their integration into modern display systems such as Virtual and Augmented Reality near-eye displays and three-dimensional displays.
