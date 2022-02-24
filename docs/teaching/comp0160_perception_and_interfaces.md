@@ -97,6 +97,10 @@ This lecture focuses on human visual perception and its applications in computer
 
 :octicons-location-16: [Online](https://moodle.ucl.ac.uk/)
 
+:octicons-video-16: [Recording (Password protected)]()
+
+:octicons-paste-16: [Slides (Invitation required)]()
+
 ??? Details
     **Summary:**
     In this course, students will learn about sensors and their integration into modern display systems such as Virtual and Augmented Reality near-eye displays and three-dimensional displays.
