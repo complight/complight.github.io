@@ -99,7 +99,7 @@ This lecture focuses on human visual perception and its applications in computer
 
 :octicons-video-16: [Recording (Password protected)]()
 
-:octicons-paste-16: [Slides (Invitation required)]()
+:octicons-paste-16: [Slides (Invitation required)](https://docs.google.com/presentation/d/1WSsOJc2bWvnjFWwB4yhPfjUzsjayjOmXtoGWRaK-vHI)
 
 This lecture focuses on integrating various kinds of sensory information to the next generation displays.
 
