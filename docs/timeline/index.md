@@ -55,14 +55,6 @@ In collaboration with Meta Reality Laboratory's Douglas Lanman, we helped organi
 <br clear="left"/>
 
 ### October
-#### 1 October 2021 
-<div style="float: left; height:100px;" class="boxed">
-<img align='left' src="../people/oliver_kingshott.png" width="80" alt/>
-</div>
-[Oliver Kingshott](http://oliver.kingshott.com/) joined [University College London's](https://www.ucl.ac.uk) [computer science department](https://www.ucl.ac.uk/computer-science/) as a PhD student.
-He is now a member of [Computational light laboratory](https://complight.github.io/) and [Virtual Reality and Computer Graphics group](http://vecg.cs.ucl.ac.uk/academics.html).
-His PhD studies will be supervised by [Kaan Akşit](https://kaanaksit.com) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/).
-<br clear="left"/>
 
 ### February
 #### 18 February 2021
