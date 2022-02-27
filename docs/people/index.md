@@ -46,19 +46,6 @@ PhD student
 :material-office-building: Office: TBD
 <br clear="left"/>
 
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/oliver_kingshott.png" width="160" alt/>
-</div>
-[Oliver Kingshott](http://oliver.kingshott.com/)
-
-PhD student
-
-:material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
-
-:material-office-building: Office: R404.185
-<br clear="left"/>
-
 ## Alumni
 
 ### Master Students
