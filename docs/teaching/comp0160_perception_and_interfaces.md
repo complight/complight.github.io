@@ -11,7 +11,7 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 
 | Date                                  |  Instructor(s)               | Content         |
 | :-------------:                       | :-------------:              | :-------------: | 
-| 14 January 2022 - 27th March 2022     | Kaan Akşit, Oliver Kingshott | Practical                                  |
+| 14 January 2022 - 27th March 2022     | Kaan Akşit                   | Practical                                  |
 | 17th January 2022 - 23rd January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
 | 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Integrating Sensory Information in Computational Displays  | 
 
@@ -141,17 +141,6 @@ This lecture focuses on integrating various kinds of sensory information to the 
 Instructor
 
 :material-email: [E-mail](mailto:k.aksit@ucl.ac.uk)
-<br clear="left"/>
-
-
-<div style="float: left; height:120px;" class="boxed">
-<img align='left' src="../../people/oliver_kingshott.png" width="120" alt/>
-</div>
-[Oliver Kingshott](http://oliver.kingshott.com/)
-
-Teaching assistant
-
-:material-email: [E-mail](mailto:oliver.kingshott.19@ucl.ac.uk)
 <br clear="left"/>
 
 ## Contact Us
