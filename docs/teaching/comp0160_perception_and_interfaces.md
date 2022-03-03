@@ -97,7 +97,7 @@ This lecture focuses on human visual perception and its applications in computer
 
 :octicons-location-16: [Online](https://moodle.ucl.ac.uk/)
 
-:octicons-video-16: [Recording (Password protected)]()
+:octicons-video-16: [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EXqXjm-vInxOmBgFHg2bixYB6i7VruA1SUOaWClFxtHtZw?e=kR5a2k)
 
 :octicons-paste-16: [Slides (Invitation required)](https://docs.google.com/presentation/d/1WSsOJc2bWvnjFWwB4yhPfjUzsjayjOmXtoGWRaK-vHI)
 
