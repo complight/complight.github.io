@@ -14,6 +14,17 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2203.04353)
+??? info ":material-tag-text: Bibtex"
+	```
+        @misc{kingshott2022unrolled,
+              title={Unrolled Primal-Dual Networks for Lensless Cameras},
+              author={Oliver Kingshott and Nick Antipa and Emrah Bostan and Kaan Akşit},
+              year={2022},
+              eprint={2203.04353},
+              archivePrefix={arXiv},
+              primaryClass={cs.CV}
+             }
+	```
 
 
 <br clear="left"/>
@@ -40,6 +51,18 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2110.01981)
 :material-video-account: [Project video](https://vimeo.com/623474853)
 :material-file-code: [Code](https://github.com/complight/metameric_holography)
+??? info ":material-tag-text: Bibtex"
+	```
+        @misc{kingshott2022unrolled,
+              title={Unrolled Primal-Dual Networks for Lensless Cameras},
+              author={Oliver Kingshott and Nick Antipa and Emrah Bostan and Kaan Akşit},
+              year={2022},
+              eprint={2203.04353},
+              archivePrefix={arXiv},
+              primaryClass={cs.CV}
+             }
+	```
+
 
 
 <br clear="left"/>
