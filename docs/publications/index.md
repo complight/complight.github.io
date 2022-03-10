@@ -6,7 +6,7 @@
 </div>
 **Unrolled Primal-Dual Networks for Lensless Cameras**
 
-<img src="https://img.shields.io/badge/-ArxiV-important">
+<img src="https://img.shields.io/badge/-ArxiV-yellow">
 
 [Oliver Kingshott](https://oliver.kingshott.com/),
 [Nick Antipa](http://nickantipa.com/),
