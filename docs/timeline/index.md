@@ -8,7 +8,14 @@
 </div>
 [Kaan Akşit](https://kaanaksit.com) together with [Jannick Rolland](https://www.hajim.rochester.edu/optics/people/faculty/rolland_jannick/index.html) and [Babak Amirsolaimani](https://www.linkedin.com/in/ACoAAAzN_NcBzf3_TVXGZymiZkuN3dyLA1ZIyMM?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bnca4SqheQuu0wdRw8Kfg4A%3D%3D) is acting as a guest editor for [Journal of Optical Microsystems](https://www.spiedigitallibrary.org/journals/journal-of-optical-microsystems/call-for-papers#navBarAnchor) from [SPIE](https://spie.org/?SSO=1) at a special issue targetting optics research in augmented, virtual and mixed reality.
 Here is a [link](../media/jom_ar_vr_mr_call.png) for call flyer and to submit your work, please follow this [link](https://www.spiedigitallibrary.org/journals/journal-of-optical-microsystems/call-for-papers#navBarAnchor).
+<br clear="left"/>
 
+### February
+#### 23 February 2022
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/egsr2022.png" width="80" alt/>
+</div>
+[Kaan Akşit](https://kaanaksit.com) serves as a program committee for [EGSR 2022](https://egsr.eu/2022/committee/), which will take place as a hybrid conference, virtual and physically located in Czech Republic's Prag.
 <br clear="left"/>
 
 
