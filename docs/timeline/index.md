@@ -2,6 +2,16 @@
 
 ## 2022
 ### March
+
+#### 14 March 2022
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ieeevr2022.png" width="80" alt/>
+</div>
+We introduce our work, [Metameric Varifocal Holograms](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/), at [IEEE VR 2022](https://ieeevr.org/2022/program/papers/#displays).
+This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuffner dos Anjos, David Swapp, Tim Weyrich, Hakan Urey, [Anthony Steed], Tobias Ritschel and Kaan Akşit.
+[David Walton](https://drwalton.github.io/) presented the work at the conference. 
+<br clear="left"/>
+
 #### 11 March 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/jom_ar_vr_mr_call.png" width="80" alt/>
@@ -17,7 +27,6 @@ Here is a [link](../media/jom_ar_vr_mr_call.png) for call flyer and to submit yo
 </div>
 [Kaan Akşit](https://kaanaksit.com) serves as a program committee for [EGSR 2022](https://egsr.eu/2022/committee/), which will take place as a hybrid conference, virtual and physically located in Czech Republic's Prag.
 <br clear="left"/>
-
 
 ### January
 #### 24 January 2022
