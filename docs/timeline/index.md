@@ -8,7 +8,7 @@
 <img align="left" src="../media/ieeevr2022.png" width="80" alt/>
 </div>
 We introduce our work, [Metameric Varifocal Holograms](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/), at [IEEE VR 2022](https://ieeevr.org/2022/program/papers/#displays).
-This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuffner dos Anjos, David Swapp, Tim Weyrich, Hakan Urey, [Anthony Steed], Tobias Ritschel and Kaan Akşit.
+This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuffner dos Anjos, David Swapp, Tim Weyrich, Hakan Urey, Anthony Steed, Tobias Ritschel and Kaan Akşit.
 [David Walton](https://drwalton.github.io/) presented the work at the conference. 
 <br clear="left"/>
 
