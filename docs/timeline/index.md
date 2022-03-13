@@ -16,7 +16,7 @@ This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuff
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee_vgtc_2022_award.png" width="80" alt/>
 </div>
-[Kaan Akşit](https://kaanaksit.com) served as [program committee](https://ieeevr.org/2022/committees/program-committee/) for journal papers, and also as [technical achievement and lifetime achievement awards committee members](../media/ieee_vgtc_2022_award.png).
+[Kaan Akşit](https://kaanaksit.com) served as [program committee](https://ieeevr.org/2022/committees/program-committee/) for journal papers, and also as [technical achievement and lifetime achievement awards committee member](../media/ieee_vgtc_2022_award.png).
 <br clear="left"/>
 
 
