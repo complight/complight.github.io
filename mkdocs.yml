@@ -7,7 +7,7 @@ site_url: 'https://complightlab.com'
 repo_name: complight
 repo_url: 'https://github.com/complight'
 
-copyright: 'Copyright &copy; 2021'
+copyright: 'Copyright &copy; 2022'
 
 nav:
   - Home: 'index.md'
