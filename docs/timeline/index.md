@@ -12,6 +12,7 @@ This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuff
 [David Walton](https://drwalton.github.io/) presented the work at the conference. 
 <br clear="left"/>
 
+
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee_vgtc_2022_award.png" width="80" alt/>
 </div>
