@@ -48,9 +48,9 @@ PhD student
 
 ## Alumni
 
-### Master Students
+### 2021
 
-#### 2021
+#### Master Students
 - Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging`.
 - Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography`.
 - Chengkun Li, `Neural Optical Beam Propagation`.
