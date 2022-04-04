@@ -53,14 +53,13 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-file-code: [Code](https://github.com/complight/metameric_holography)
 ??? info ":material-tag-text: Bibtex"
 	```
-        @misc{kingshott2022unrolled,
-              title={Unrolled Primal-Dual Networks for Lensless Cameras},
-              author={Oliver Kingshott and Nick Antipa and Emrah Bostan and Kaan Akşit},
-              year={2022},
-              eprint={2203.04353},
-              archivePrefix={arXiv},
-              primaryClass={cs.CV}
-             }
+        @article{walton2021metameric,
+                 title={Metameric Varifocal Holography},
+                 author={Walton, David R and Kavakl{\i}, Koray and Anjos, Rafael Kuffner dos and Swapp, David and Weyrich, Tim and Urey, Hakan and Steed, Anthony and Ritschel, Tobias and Ak{\c{s}}it, Kaan},
+                 publisher = {IEEE VR},
+                 month = {March},
+                 year={2022}
+                }
 	```
 
 

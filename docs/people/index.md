@@ -7,6 +7,7 @@ All our current members are located in `169 Euston Road, London NW1 2AE, United 
 
 ### Faculty
 
+
 <div style="float: left; height:200px;" class="boxed">
 <img align="left" src="../people/kaan_aksit.png" width="160" alt/>
 </div>
@@ -18,6 +19,7 @@ Associate Professor
 
 :material-office-building: Office: R409
 <br clear="left"/>
+
 
 ### Post-doctoral and visiting researchers
 <div style="float: left; height:200px;" class="boxed">
@@ -33,6 +35,7 @@ Research fellow
 :material-office-building: Office: R404.181
 <br clear="left"/>
 
+
 ### Doctoral students
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/koray_kavakli.png" width="160" alt/>
@@ -44,6 +47,19 @@ PhD student
 :material-email: E-mail
 
 :material-office-building: Office: TBD
+<br clear="left"/>
+
+
+### Interns
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/praveen_selvaraj.png" width="160" alt/>
+</div>
+[Praveen Selvaraj](https://in.linkedin.com/in/pravsels)
+
+Master student
+
+:material-email: [E-mail](praveen.selvaraj.21@ucl.ac.uk)
+
 <br clear="left"/>
 
 ## Alumni
