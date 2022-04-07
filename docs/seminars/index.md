@@ -11,12 +11,30 @@ The seminar series of 2022 is conducted with the help of several key people at U
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for moderation and organization of several of these events.
 
+### Dan Archer and Animesh Karnewar (University College London)
+??? Details
+    **Date:**
+    23rd March 2022
+
+    **Presenter:**
+
+    - Dan Archer, PhD Student at University College London
+    - Animesh Karnewar, Phd Student at University College London
+
+    **Title:**
+    
+    - Optimizing Performance through Stress and Embodiment Levels in Virtual Reality Using Autonomic Responses
+    - ReLU Fields: The Little Non-linearity That Could ...
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ee_tswBpAgRBuhE437vMNAAB-jc-OWt8IMzH39QLjzUMEQ?e=oU09hZ)
+
+
 ### Oya Celiktutan (King's College London)
 ??? Details
     **Date:**
     23rd March 2022
 
-    **Presenter:** Oya Celiktutan
+    **Presenter:** Oya Celiktutan, Assistant Professor at King's College London
 
     **Title:** Towards Building Socially Informed and Adaptive Robotic Systems
 
@@ -28,7 +46,7 @@ Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [K
     **Date:**
     17th March 2022
 
-    **Presenter:** Iuri Frosio
+    **Presenter:** Iuri Frosio, Principal Research Scientist at NVIDIA
  
     **Title:** Research & videogames @ NVIDIA – the cases of saliency estimation and cheating prevention
 
@@ -52,7 +70,7 @@ Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [K
     **Date:**
     2nd March 2022
 
-    **Presenter:** Vinoba Vinayagamoorthy
+    **Presenter:** Vinoba Vinayagamoorthy, Researcher at British Broadcasting Corporation
  
     **Title:** Designing for the Future: Exploring the Impact of (Immersive) Experiences on BBC Audiences
 
