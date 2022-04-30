@@ -128,6 +128,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web: [Project site](https://kaanaksit.com/portfolio/learned-holographic-light-transport/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/09/learned_holographic_light_transport.pdf)
 :material-file-code: [Code](https://github.com/complight/realistic_holography)
+:material-database: [Dataset](https://rdr.ucl.ac.uk/articles/dataset/Phase-only_holograms_and_captured_photographs/15087867)
 ??? info ":material-tag-text: Bibtex"
 	```
         @article{Kavakli:22,
