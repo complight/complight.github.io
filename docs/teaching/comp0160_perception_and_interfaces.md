@@ -12,8 +12,8 @@ The timetable provided below show parts of COMP0160 that are provided by computa
 | Date                                  |  Instructor(s)               | Content         |
 | :-------------:                       | :-------------:              | :-------------: | 
 | 14 January 2022 - 27th March 2022     | Kaan Akşit                   | Practical                                  |
-| 17th January 2022 - 23rd January 2022 | Kaan Akşit                   | Visual Perception in graphics and displays | 
-| 28th February 2022 - 6th March 2022   | Kaan Akşit                   | Integrating Sensory Information in Computational Displays  | 
+| 17th January 2022 - 23rd January 2022 | Kaan Akşit                   | [Visual Perception in graphics and displays](#lecture-2:-visual-perception-in-perceptual-graphics-and-computational-displays) | 
+| 28th February 2022 - 6th March 2022   | Kaan Akşit                   | [Integrating Sensory Information in Computational Displays](#lecture-7:-integrating-sensory-information-in-computational-displays)  | 
 
 ### Parts
 
