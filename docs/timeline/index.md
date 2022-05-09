@@ -5,7 +5,7 @@
 ### May
 #### 5 May 2022
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/ieeevr2022.png" width="80" alt/>
+<img align="left" src="../media/chi2022.png" width="80" alt/>
 </div>
 Our panel, [Telelife: A Vision of Remote Living in 2035](https://programs.sigchi.org/chi/2022/program/session/73405), is presented at [CHI 2022](https://chi2022.acm.org/).
 This work is a collaboration between [Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9), [Jeeeun Kim](http://www.jeeeunkim.com/), [Kiyoshi Kiyokawa](https://carelab.info/en/), [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/), [Tobias Höllerer](https://sites.cs.ucsb.edu/~holl/), [Nataliya Kosmyna](https://www.media.mit.edu/people/nkosmyna/overview/), [Misha Sra](https://sites.cs.ucsb.edu/~sra/), [Jason Orlosky](https://www.jeoresearch.com/research) and Kaan Akşit.
