@@ -9,14 +9,14 @@
 <img src="https://img.shields.io/badge/-ArxiV-yellow">
 
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
-[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](realistic_defocus_cgh.md)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/)
-:material-video-account: [Project video](https://vimeo.com/623474853)
-:material-file-code: [Code](https://github.com/complight/metameric_holography)
+:material-video-account: [Project video]()
+:material-file-code: [Code](https://github.com/complight/realistic_defocus)
 ??? info ":material-tag-text: Bibtex"
 	```
         @misc{kavakli2022realistic_defocus,
