@@ -69,7 +69,7 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../../media/royal_society.png" width="160" alt/>
 </div>
-The authors would like to thank reviewers for their valuable feedback.
+[comment]: <> (The authors would like to thank reviewers for their valuable feedback.)
 We also thank 
 Erdem Ulusoy and Güneş Aydındoğan for discussions in the early phases of the project; 
 Tim Weyrich and Makoto Yamada for dedicating GPU resources in various experimentation phases;
