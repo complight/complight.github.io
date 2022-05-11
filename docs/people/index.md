@@ -58,7 +58,7 @@ PhD student
 
 Master student
 
-:material-email: [E-mail](praveen.selvaraj.21@ucl.ac.uk)
+:material-email: [E-mail](mailto:praveen.selvaraj.21@ucl.ac.uk)
 
 <br clear="left"/>
 
