@@ -17,6 +17,7 @@ nav:
     - Recent news: 'timeline/index.md'
   - Publications:
     - List of publications: 'publications/index.md'
+    - Realistic Defocus for Multiplane Computer-Generated Holography: 'publications/realistic_defocus_cgh.md'
   - Teaching:
     - Lectures: 'teaching/index.md'
     - COMP0160 Perception and Interfaces: 'teaching/comp0160_perception_and_interfaces.md'
