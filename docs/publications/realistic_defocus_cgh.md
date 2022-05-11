@@ -1,4 +1,4 @@
-# Realistic Defocus for Multiplane Computer-Generated Holography
+# Realistic Defocus Blur for Multiplane Computer-Generated Holography
 
 # People
 <table class=""  style="margin: 10px auto;">

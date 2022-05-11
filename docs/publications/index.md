@@ -2,6 +2,39 @@
 
 ## 2022
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/realistic_defocus_cgh.png" width="200" alt/>
+</div>
+**Realistic Defocus Blur for Multiplane Computer-Generated Holography**
+
+<img src="https://img.shields.io/badge/-ArxiV-yellow">
+
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](realistic_defocus_cgh.md)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/)
+:material-video-account: [Project video](https://vimeo.com/623474853)
+:material-file-code: [Code](https://github.com/complight/metameric_holography)
+??? info ":material-tag-text: Bibtex"
+	```
+        @misc{kavakli2022realistic_defocus,
+              title={Realistic Defocus Blur for Multiplane Computer-Generated Holography},
+              author={Kaan Akşit and Yuta Itoh and Hakan Urey and Kaan Akşit},
+              year={2022},
+              eprint={XXXX.YYYY},
+              archivePrefix={arXiv},
+              primaryClass={cs.CV}
+             }
+	```
+
+
+
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/unrolled_primal_dual.png" width="200" alt/>
 </div>
 **Unrolled Primal-Dual Networks for Lensless Cameras**
