@@ -73,4 +73,4 @@ The authors would like to thank reviewers for their valuable feedback.
 We also thank 
 Erdem Ulusoy and Güneş Aydındoğan for discussions in the early phases of the project; 
 Tim Weyrich and Makoto Yamada for dedicating GPU resources in various experimentation phases;
-Kaan Akşit supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype.
+Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype.
