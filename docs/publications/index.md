@@ -235,7 +235,7 @@ David Swapp,
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/)
 and Tobias Ritschel
 
-:material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2021.3067764)
+:material-web-box: [Publisher site](https://doi.org/10.1145/3450626.3459943)
 :material-web: [Project site](https://www.homepages.ucl.ac.uk/~ucabdw0/beyondblur.html)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/08/beyond_blur_preprint.pdf)
 ??? info ":material-tag-text: Bibtex"
