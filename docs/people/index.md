@@ -13,7 +13,7 @@ All our current members are located in `169 Euston Road, London NW1 2AE, United 
 </div>
 [Kaan Akşit](https://kaanaksit.com)
 
-Associate Professor
+Associate Professor of Computational Light
 
 :material-email: [E-mail](mailto:k.aksit@ucl.ac.uk)
 
