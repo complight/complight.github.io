@@ -64,6 +64,11 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <img src="../../media/realistic_defocus_ar_prototype.png" width="800" alt=/>
 <p style="text-align:center;"><a href="../../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
 
+# Contact
+
+[k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk)
+
+[Computational Light Laboratory](https://complightlab.com)
 
 # Acknowledgements
 <div style="float: left; height:200px;" class="boxed">
