@@ -23,7 +23,6 @@ Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [K
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EXdNxkztrdlOmJkWWY1KN-IBJwon0PZ9kMUZtT3zq82L0g?e=1Wg7vj)
 
 
-
 ### Tim Weyrich (FAU and UCL)
 ??? Details
     **Date:**
