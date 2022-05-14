@@ -70,7 +70,7 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 # Relevant works from our group
 Here are relevanti research works from our group:
 
-- [Odak](https://github.com/kunguz/odak), scientific computing library for optics, computer graphics and visual perception,
+- [Odak](https://github.com/kunguz/odak),
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography),
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography),
 
