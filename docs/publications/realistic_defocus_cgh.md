@@ -65,18 +65,48 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <p style="text-align:center;"><a href="../../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
 
 # Contact
-
-[k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk)
-
-[Computational Light Laboratory](https://complightlab.com)
+Have any queries, questions, suggestions or comments, contact us via [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 
 # Acknowledgements
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../../media/royal_society.png" width="160" alt/>
-</div>
 [comment]: <> (The authors would like to thank reviewers for their valuable feedback.)
 We also thank 
 Erdem Ulusoy and Güneş Aydındoğan for discussions in the early phases of the project; 
 Tim Weyrich and Makoto Yamada for dedicating GPU resources in various experimentation phases;
 David Walton for their feedback on the manuscript;
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/jst_forest.png" width="200" alt/>
+</div>
+Yuta Itoh is supported by the JST FOREST Program Grant Number JPMJPR17J2 and JSPS KAKENHI Grant Number JP20H05958 and JP21K19788.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/eu_horizon2020.png" width="200" alt/>
+</div>
+Hakan Urey is supported by the European Innovation Council's HORIZON-EIC-2021-TRANSITION-CHALLENGES program Grant Number 101057672.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/royal_society.png" width="200" alt/>
+</div>
 Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
