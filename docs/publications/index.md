@@ -66,7 +66,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/metameric.png" width="200" alt/>
 </div>
-**Metameric Varifocal Holography**
+**Metameric Varifocal Holograms**
 
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
