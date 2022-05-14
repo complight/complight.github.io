@@ -37,12 +37,12 @@
         ```
 
 # Abstract
-This paper introduces essential components for representing near-accurate defocus blur in multiplane Computer-Generated Holography (CGH).
-Our proposal introduces a new targeting scheme that accounts for defocused parts at each target plane.
-In addition, we introduce a new loss function for carefully analyzing focused and defocused parts in reconstructed images.
-While our targeting scheme and loss function support phase-only hologram calculation using various iterative (e.g., Gerchberg-Saxton, Gradient Descent) and non-iterative (e.g., Double Phase) CGH techniques, we share our gradient descent based recipe that leads to improved image quality overall.
-To verify our method, we also build a proof-of-concept holographic display.
-Our findings suggest that our method can reconstruct high-quality images in an artifact-free manner with natural-looking defocus blur.
+This paper introduces a new multiplane CGH computation method to reconstruct artefact-free high-quality holograms with natural-looking defocus blur. 
+Our method introduces a new targeting scheme and a new loss function.
+While the targeting scheme accounts for defocused parts of the scene at each depth plane, the new loss function analyzes focused and defocused parts separately in reconstructed images.
+Our method support phase-only CGH calculations using various iterative (e.g., Gerchberg-Saxton, Gradient Descent) and non-iterative (e.g., Double Phase) CGH techniques. 
+We achieve our best image quality using a modified gradient descent-based optimization recipe where we introduce a constraint inspired by the double phase method.
+We validate our method experimentally using our proof-of-concept holographic display, comparing various algorithms, including multi-depth scenes with sparse and dense contents.
 
 # Results
 In this work, we demonstrate a new rendering pipeline for multiplane Computer-Generated Holography that can provide near-accurate defocus blur.
