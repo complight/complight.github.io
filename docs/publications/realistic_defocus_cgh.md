@@ -68,7 +68,7 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <p style="text-align:center;"><a href="../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
 
 # Relevant works from our group
-Here are relevanti research works from our group:
+Here are relevant research works from our group:
 
 - [Odak](https://github.com/kunguz/odak)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
