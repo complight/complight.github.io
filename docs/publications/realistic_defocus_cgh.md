@@ -18,7 +18,7 @@
   </tbody>
 </table>
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>The University of Tokyo</p>
-<p style="text-align:center;">Available on arXiv.</p>
+<p style="text-align:center;"><b>Available on arXiv.</b></p>
 
 # Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org)
