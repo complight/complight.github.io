@@ -49,7 +49,7 @@ We validate our method experimentally using our proof-of-concept holographic dis
 # Results
 In this work, we demonstrate a new rendering pipeline for multiplane Computer-Generated Holography that can provide near-accurate defocus blur.
 <img src="../media/realistic_defocus_focus_stack.gif" width="800" alt="Focal stack">
-<p style="text-align:center;"><a href="../media/realistic_defocus_focus_stack.png">+Zoom</a></p>
+<p style="text-align:center;"><a href="../media/realistic_defocus_focus_stack.gif">+Zoom</a></p>
 
 Our results suggest that our work can help alliviate unintended artifacts found on existing rendering pipelines for Computer-Generated Holography.
 <img src="../media/realistic_defocus_teaser.png" width="800" alt="Comparsion with state-of-art">
