@@ -52,6 +52,18 @@ PhD student
 
 ### Interns
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/yichen_zou.png" width="160" alt/>
+</div>
+[Yichen Zou]()
+
+Undergraduate student
+
+:material-email: [E-mail](mailto:18yz293@queensu.ca)
+
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/debosmit_neogi.png" width="160" alt/>
 </div>
 [Debosmit Neogi](https://debosmit-neogi.github.io/portfolio/about/)
