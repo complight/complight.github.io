@@ -54,7 +54,7 @@ PhD student
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yichen_zou.png" width="160" alt/>
 </div>
-[Yichen Zou]()
+[Yichen Zou](https://www.linkedin.com/in/yichen-zou-9b7116240/)
 
 Undergraduate student
 
