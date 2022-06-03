@@ -61,12 +61,12 @@ theme:
       - scheme: youtube
         primary: light
         toggle:
-          icon: material/toggle-switch-off-outline
+          icon: material/eye
           name: Switch to dark mode
       - scheme: youtube
         primary: dark
         toggle:
-          icon: material/toggle-switch
+          icon: material/eye
           name: Switch to light mode
     highlightjs: true
     hljs_languages:
