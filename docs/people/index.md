@@ -120,3 +120,4 @@ Undergraduate student
 - Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography`.
 - Chengkun Li, `Neural Optical Beam Propagation`.
 - Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms`.
+
