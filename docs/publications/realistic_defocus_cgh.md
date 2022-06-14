@@ -84,7 +84,7 @@ Have any queries, questions, suggestions or comments, contact us via [k.aksit@uc
 We also thank 
 Erdem Ulusoy and Güneş Aydındoğan for discussions in the early phases of the project; 
 Tim Weyrich and Makoto Yamada for dedicating GPU resources in various experimentation phases;
-David Walton for their feedback on the manuscript;
+David Walton for his feedback on the manuscript;
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../../media/jst_forest.png" width="200" alt/>
