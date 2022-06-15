@@ -59,7 +59,7 @@ PhD student
 
 Master Student
 
-:material-email: [E-mail](xxxxxx.akinola-alli.21@ucl.ac.uk)
+:material-email: [E-mail](mailto:xxxxxx.akinola-alli.21@ucl.ac.uk)
 
 <br clear="left"/>
 
