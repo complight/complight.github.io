@@ -55,7 +55,7 @@ PhD student
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yilin_qu.png" width="160" alt/>
 </div>
-[Yilin Qui]()
+[Yilin Qui](https://github.com/YILINQ)
 
 Master Student
 
