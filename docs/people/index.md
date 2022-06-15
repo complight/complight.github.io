@@ -53,6 +53,18 @@ PhD student
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/gbemisola_akinola_alli.png" width="160" alt/>
+</div>
+[Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/)
+
+Master Student
+
+:material-email: [E-mail](xxxxxx.akinola-alli.21@ucl.ac.uk)
+
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/praveen_selvaraj.png" width="160" alt/>
 </div>
 [Praveen Selvaraj](https://in.linkedin.com/in/pravsels)
