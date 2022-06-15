@@ -53,6 +53,18 @@ PhD student
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/yilin_qu.png" width="160" alt/>
+</div>
+[Yilin Qui]()
+
+Master Student
+
+:material-email: [E-mail](mailto:yilin.qu.21@ucl.ac.uk)
+
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/gbemisola_akinola_alli.png" width="160" alt/>
 </div>
 [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/)
