@@ -20,3 +20,4 @@ These documents vary in their topics, from workplace guidances to technical dige
 | ------------- |:-------------:|
 | [`Learn more about computer-generated holography`](https://kunguz.github.io/odak/cgh/) | This documentation will link you to Odak's documentation on computer-generated holography. It is an excellent place to get ideas on how to get started on computer-generated holography. |
 | [`Explore our printable designs`](https://github.com/complight/optomechanics) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
+| [`Tips and tricks for using our 3D printer`](3d_printing.md) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
