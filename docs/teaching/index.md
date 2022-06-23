@@ -5,5 +5,6 @@ The lectures that we have offered so far are as follows:
 
 | Term            | Instructor(s)                | Course          | Content         |
 | :-------------: | :-------------:              | :-------------: | :-------------: |
+| Summer 2022     | Kaan Akşit                   | SIGGRAPH 2022   | [Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception](siggraph2022_optimizing_vision_and_visuals.md) |
 | Winter 2022     | Kaan Akşit                   | COMP0160        | [Lecture 2: Visual perception in perceptual graphics and computational displays](comp0160_perception_and_interfaces.md) |
 | Winter 2022     | Kaan Akşit                   | COMP0160        | [Lecture 7: Integrating Sensory Information in Computational Displays](comp0160_perception_and_interfaces.md) |
