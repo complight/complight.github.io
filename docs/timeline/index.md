@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/meta_reality_labs.png" width="80" alt/>
 </div>
-We are grateful to the Meta Reality Labs for supporting our research through the inclusive rendering initiative 2022
+We are grateful to the Meta Reality Labs for supporting our research through the inclusive rendering initiative 2022.
 Their award will enable us to investigate inclusive graphics pipelines in terms of human visual perception.
 Their award is worth `75000 USD`.
 
