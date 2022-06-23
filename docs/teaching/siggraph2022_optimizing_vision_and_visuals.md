@@ -61,13 +61,18 @@ This course targets a wide range of audiences, from domain experts to newcomers.
 To do so, examples from this course will be based on our in-house toolkit to be replicable for future use.
 The course material will provide example codes and a broad survey with crucial information on cameras, displays and perception.
 
-# Relevant researchworks
+# Relevant research works
 Here are relevant research works from the authors:
 
 - [Odak](https://github.com/kunguz/odak)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Unrolled Primal-Dual Networks for Lensless Cameras](https://arxiv.org/abs/2203.04353)
+
+# Outreach
+We host a Slack group with more than 250 members.
+This Slack group focuses on the topics of rendering, perception, displays and cameras.
+The group is open to public and you can become a member by following [this link](../research_hub.md).
 
 ## Contact Us
 !!! Warning
