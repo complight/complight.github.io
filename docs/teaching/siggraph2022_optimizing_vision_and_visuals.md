@@ -46,7 +46,7 @@
         ```
 
 # Abstract
-The evolution of the internet is underway, where immersive virtual 3D environments (commonly known as $\textit{metaverse}$ or $\textit{telelife}$) will replace flat 2D interfaces.
+The evolution of the internet is underway, where immersive virtual 3D environments (commonly known as metaverse or telelife) will replace flat 2D interfaces.
 Crucial ingredients in this transformation are next-generation displays and cameras representing genuinely 3D visuals while meeting the human visual system's perceptual requirements.
 
 This course will provide a fast-paced introduction to optimization methods for next-generation interfaces geared towards immersive virtual 3D environments.
@@ -60,3 +60,19 @@ Our audience will gather experience in integrating perception to display and cam
 This course targets a wide range of audiences, from domain experts to newcomers.
 To do so, examples from this course will be based on our in-house toolkit to be replicable for future use.
 The course material will provide example codes and a broad survey with crucial information on cameras, displays and perception.
+
+# Acknowledgements
+The authors would like to thank reviewers for their valuable feedback.
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/royal_society.png" width="100" alt/>
+<img align='left' src="../../media/meta_reality_labs.png" width="100" alt/>
+</div>
+Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype used in generating the course material. Kaan Akşit is also supported by Meta Reality Labs inclusive rendering initiative.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
