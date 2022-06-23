@@ -1,9 +1,12 @@
 # Welcome
 
+
 **You have reached the website for the computational light laboratory.**
 
 The computational light laboratory is part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
 [Kaan Akşit](https://kaanaksit.com) leads the computational light laboratory.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zJXnHBuhRW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 The computational light laboratory conducts [research and development](../publications) in light sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
 We share our scientific output in the form of [published articles and papers](https://complightlab.com/publications/).
