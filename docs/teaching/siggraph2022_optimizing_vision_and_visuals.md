@@ -61,6 +61,10 @@ This course targets a wide range of audiences, from domain experts to newcomers.
 To do so, examples from this course will be based on our in-house toolkit to be replicable for future use.
 The course material will provide example codes and a broad survey with crucial information on cameras, displays and perception.
 
+## Contact Us
+!!! Warning
+    Please do not reach us through [email](mailto:k.aksit@ucl.ac.uk) or through [GitHub issues](https://github.com/complight/cameras-displays-perception-course/issues) to ask your questions or to provide your feedback and comments.
+
 # Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.
 
