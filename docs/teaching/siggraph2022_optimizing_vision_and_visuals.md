@@ -61,6 +61,14 @@ This course targets a wide range of audiences, from domain experts to newcomers.
 To do so, examples from this course will be based on our in-house toolkit to be replicable for future use.
 The course material will provide example codes and a broad survey with crucial information on cameras, displays and perception.
 
+# Relevant researchworks
+Here are relevant research works from the authors:
+
+- [Odak](https://github.com/kunguz/odak)
+- [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
+- [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
+- [Unrolled Primal-Dual Networks for Lensless Cameras](https://arxiv.org/abs/2203.04353)
+
 ## Contact Us
 !!! Warning
     Please do not reach us through [email](mailto:k.aksit@ucl.ac.uk) or through [GitHub issues](https://github.com/complight/cameras-displays-perception-course/issues) to ask your questions or to provide your feedback and comments.
