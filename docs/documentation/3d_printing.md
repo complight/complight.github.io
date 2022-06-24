@@ -4,7 +4,7 @@ The Computational Light Laboratory has a [Snapmaker 2.0 3D Printer](https://snap
 
 
 <p class="aligncenter">
-    <img src="../../docs/media/printer.jpg" alt/>
+    <img src="../../media/printer.jpg" alt/>
 </p>
 
 ## Software
@@ -23,13 +23,13 @@ Snapmaker provide their own slicing software, [Snapmaker Luban](https://snapmake
 * Select your model in the printer interface, and begin the print.
 
 <p class="aligncenter">
-    <img src="../../docs/media/printer_USB.jpg" alt/>
+    <img src="../../media/printer_USB.jpg" alt/>
 </p>
 
 Note that supports are disabled by default, but depending on your model, switching them on may be necessary. Also by default a skirt will be printed, but we recommend disabling this setting as they can be challenging to remove from the build plate (under `Adhesion`, set the type to `None`).
 
 <p class="aligncenter">
-    <img src="../../docs/media/print_settings.png" alt/>
+    <img src="../../media/print_settings.png" alt/>
 </p>
 
 ## Filaments
@@ -39,7 +39,7 @@ Profiles are provided for PLA and ABS filaments. We also have PETG filament in t
 I recommend adding a PETG profile by clicking the black `+` symbol under Material, and setting the temperatures as appropriate. The following settings performed well with the Snapmaker official PETG filament:
 
 <p class="aligncenter">
-    <img src="../../docs/media/petg_settings.png" alt/>
+    <img src="../../media/petg_settings.png" alt/>
 </p>
 
 As a quick safety note, these settings heat up the build plate substantially more than when printing PLA. Please take extra care when removing prints, and allow the build plate to cool to a safe temperature before removing it. The temperature is displayed on the printer's screen as it cools.
