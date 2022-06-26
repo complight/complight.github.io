@@ -53,6 +53,18 @@ PhD student
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/kerem_eroglu.png" width="160" alt/>
+</div>
+[Kerem Eroğlu](https://www.linkedin.com/mwlite/in/kerem-ero%C4%9Flu-52b065241)
+
+Master Student
+
+:material-email: [E-mail](mailto:keremeroglu555@gmail.com)
+
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yilin_qu.png" width="160" alt/>
 </div>
 [Yilin Qui](https://github.com/YILINQ)
