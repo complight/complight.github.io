@@ -57,7 +57,7 @@ PhD student
 </div>
 [Kerem Eroğlu](https://www.linkedin.com/mwlite/in/kerem-ero%C4%9Flu-52b065241)
 
-Master Student
+Undergraduate Student
 
 :material-email: [E-mail](mailto:keremeroglu555@gmail.com)
 
