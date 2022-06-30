@@ -53,18 +53,6 @@ PhD student
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/kerem_eroglu.png" width="160" alt/>
-</div>
-[Kerem Eroğlu](https://www.linkedin.com/mwlite/in/kerem-ero%C4%9Flu-52b065241)
-
-Undergraduate Student
-
-:material-email: [E-mail](mailto:keremeroglu555@gmail.com)
-
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yilin_qu.png" width="160" alt/>
 </div>
 [Yilin Qui](https://github.com/YILINQ)
@@ -113,6 +101,19 @@ Master student
 
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/ahmet_guzel.png" width="160" alt/>
+</div>
+[Ahmet Güzel](https://aguzel.github.io)
+
+Master Student
+
+:material-email: [E-mail](mailto:od20ahg@leeds.ac.uk)
+
+<br clear="left"/>
+
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yichen_zou.png" width="160" alt/>
 </div>
 [Yichen Zou](https://www.linkedin.com/in/yichen-zou-9b7116240/)
@@ -146,6 +147,18 @@ Undergraduate student
 :material-email: [E-mail](mailto:nerea.melon.21@ucl.ac.uk)
 
 <br clear="left"/>
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/kerem_eroglu.png" width="160" alt/>
+</div>
+[Kerem Eroğlu](https://www.linkedin.com/mwlite/in/kerem-ero%C4%9Flu-52b065241)
+
+Undergraduate Student
+
+:material-email: [E-mail](mailto:keremeroglu555@gmail.com)
+
+<br clear="left"/>
+
 
 ## Alumni
 
