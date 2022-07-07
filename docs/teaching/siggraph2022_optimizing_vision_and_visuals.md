@@ -24,8 +24,12 @@
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>University of California San Diego, <sup>4</sup>University of Cambridge, <sup>5</sup>Meta Reality Labs, <sup>6</sup>University of Washington  </p>
 <p style="text-align:center;"><b><a href="https://s2022.siggraph.org/presentation/?id=gensub_228&sess=sess168">SIGGRAPH 2022</a></b></p>
 
+# Lecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuHQ3DVt60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Resources
-:material-video-account: [Lecture recording](https://www.youtube.com/watch?v=Ohloqfl8ofI)
+:material-video-account: [Lecture recording](https://youtu.be/nuHQ3DVt60c)
 :material-file-code: [Code](https://github.com/complight/cameras-displays-perception-course)
 :material-newspaper-variant: [Foreword](https://github.com/complight/cameras-displays-perception-course/blob/main/latex/course.pdf)
 ??? info ":material-tag-text: Bibtex"
