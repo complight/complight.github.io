@@ -25,8 +25,9 @@
 <p style="text-align:center;"><b><a href="https://s2022.siggraph.org/presentation/?id=gensub_228&sess=sess168">SIGGRAPH 2022</a></b></p>
 
 # Lecture
-
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuHQ3DVt60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # Resources
 :material-video-account: [Lecture recording](https://youtu.be/nuHQ3DVt60c)
