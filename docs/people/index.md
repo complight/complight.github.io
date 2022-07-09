@@ -21,21 +21,6 @@ Associate Professor of Computational Light
 <br clear="left"/>
 
 
-### Post-doctoral and visiting researchers
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/david_walton.png" width="160" alt/>
-</div>
-[David Robert Walton](https://drwalton.github.io/)
-
-Research fellow
-(Reports to [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/))
-
-:material-email: [E-mail](mailto:david.walton.13@ucl.ac.uk)
-
-:material-office-building: Office: R404.181
-<br clear="left"/>
-
-
 ### Doctoral students
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/koray_kavakli.png" width="160" alt/>
