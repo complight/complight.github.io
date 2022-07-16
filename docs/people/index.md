@@ -31,7 +31,7 @@ PhD student
 
 :material-email: E-mail
 
-:material-office-building: Office: TBD
+:material-office-building: Office: R404.189
 <br clear="left"/>
 
 
