@@ -25,8 +25,9 @@
 <p style="text-align:center;"><b><a href="https://s2022.siggraph.org/presentation/?id=gensub_228&sess=sess168">SIGGRAPH 2022</a></b></p>
 
 # Resources
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z_AtSgct6_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_AtSgct6_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 :material-video-account: [Lecture recording](https://youtu.be/nuHQ3DVt60c)
 :material-file-code: [Code](https://github.com/complight/cameras-displays-perception-course)
