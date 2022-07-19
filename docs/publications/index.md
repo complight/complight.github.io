@@ -769,7 +769,6 @@ Thomas Gross
 and [Stefan Mangold](https://www.lovefield.ch/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/GLOCOMW.2014.7063484)
-:material-web: [Project site](https://kaanaksit.com/portfolio/from-sound-to-sight-using-audio-processing-to-enable-visible-light-communication/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/from-sound-to-sight-using-audio-processing-to-enable-visible-light-communication-paper.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
@@ -804,7 +803,6 @@ Stefan Schmid
 and Thomas R. Gross
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/MCOM.2014.6852086)
-:material-web: [Project site](https://kaanaksit.com/portfolio/connecting-networks-of-toys-and-smartphones-with-visible-light-communication/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/06852086.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=10lv_FwlqMo)
 ??? info ":material-tag-text: Bibtex"
