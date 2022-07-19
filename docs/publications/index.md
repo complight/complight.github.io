@@ -846,7 +846,6 @@ Sally Day
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.014331)
-:material-web: [Project site](https://kaanaksit.com/portfolio/dynamic-exit-pupil-trackers-for-autostereoscopic-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/oe-21-12-14331.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=Oh1xDgdbvYU)
 ??? info ":material-tag-text: Bibtex"
@@ -888,7 +887,6 @@ Osman Eldes,
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.029043)
-:material-web: [Project site](https://kaanaksit.com/portfolio/multi-view-autostereoscopic-projection-display-using-rotating-screen/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/oe-21-23-29043.pdf)
 :material-file-video: [Video](http://youtu.be/853-4knJ2Nc)
 ??? info ":material-tag-text: Bibtex"
@@ -932,7 +930,6 @@ Mark Freeman
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/JDT.2012.2205664)
-:material-web: [Project site](https://kaanaksit.com/portfolio/portable-3d-laser-projector-using-mixed-polarization-technique/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/06297485.pdf)
 :material-file-video: [Video](http://youtu.be/mZXOTRDEyg0)
 ??? info ":material-tag-text: Bibtex"
@@ -966,7 +963,6 @@ Jeremie Arguel,
 and Arno van Leest
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.18.004867)
-:material-web: [Project site](https://kaanaksit.com/portfolio/heart-rate-monitoring-via-remote-photoplethysmography-with-motion-artifacts-reduction/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/oe-18-5-4867.pdf)
 :material-file-video: [Video](http://youtu.be/5X1clsjqQnw)
 ??? info ":material-tag-text: Bibtex"
