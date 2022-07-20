@@ -123,7 +123,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web-box: [Publisher site](https://doi.org/10.3389/frvir.2021.763340)
-:material-web: [Project site](https://kaanaksit.com/portfolio/telelife-the-future-of-remote-living/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
@@ -160,7 +159,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/AO.439401)
-:material-web: [Project site](https://kaanaksit.com/portfolio/learned-holographic-light-transport/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/09/learned_holographic_light_transport.pdf)
 :material-file-code: [Code](https://github.com/complight/realistic_holography)
 :material-database: [Dataset](https://rdr.ucl.ac.uk/articles/dataset/Phase-only_holograms_and_captured_photographs/15087867)
@@ -270,7 +268,6 @@ Takumi Kaminokado
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2021.3067764)
-:material-web: [Project site](https://kaanaksit.com/portfolio/beaming-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=TKl1l3b-LDs)
 :material-video-account: [Presentation recording](https://www.youtube.com/watch?v=7_hMGwTGdhg)
@@ -338,7 +335,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Kaan Akşit](https://kaanaksit.com)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.380858)
-:material-web: [Project site](https://kaanaksit.com/portfolio/patch-scanning-displays-spatiotemporal-enhancement-for-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2020/01/oe-28-2-2107.pdf)
 :material-video-account: [Project video](https://youtu.be/c3okd_gIlrg)
 ??? info ":material-tag-text: Bibtex"
@@ -379,7 +375,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Christian Richardt](https://richardt.name/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1111/cgf.13654)
-:material-web: [Project site](https://kaanaksit.com/portfolio/near-eye-display-and-tracking-technologies-for-virtual-and-augmented-reality/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2019/05/neareyedisplayandtracking-koulierisetal-cgf2019-star.pdf)
 :material-video-account: [Project video](https://youtu.be/e-A2dgKV5-I)
 ??? info ":material-tag-text: Bibtex"
@@ -424,7 +419,6 @@ Zander Majercik,
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/3306346.3322987)
-:material-web: [Project site](https://kaanaksit.com/portfolio/foveated-ar-dynamically-foveated-augmented-reality-display/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2019/07/foveated_ar___v2-15.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=IknBUoRGUkM)
 ??? info ":material-tag-text: Bibtex"
@@ -463,7 +457,6 @@ and [David Luebke](https://luebke.us/)
 and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2018.2868532)
-:material-web: [Project site](https://kaanaksit.com/portfolio/684/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2018/10/10-1109tvcg-2018-2868532.pdf)
 :material-video-account: [Presentation recording](https://www.youtube.com/watch?v=6rC_XGXk3CY&feature=emb_logo)
 :material-presentation: [Presentation source](https://docs.google.com/presentation/d/1EOhFAtlxEzt3j6aRtu5sEHOLaiWp1amaz7h62PlZx1k/edit?usp=sharing)
@@ -502,7 +495,6 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2019.2898781)
-:material-web: [Project site](https://kaanaksit.com/portfolio/manufacturing-application-driven-near-eye-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2018/08/08642529.pdf)
 :material-file-video: [Project video](https://youtu.be/dBUeB8RLYCU)
 :material-video-account: [Presentation recording](https://www.youtube.com/watch?v=jYWjqPeMSw8&feature=emb_logo)
@@ -541,7 +533,6 @@ Ward Lopes,
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/3130800.3130892)
-:material-web: [Project site](https://kaanaksit.com/portfolio/near-eye-varifocal-augmented-reality-display-using-see-through-screens/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2017/08/aksitetal_siggraphasia2017_near-eye-varifocal-augmented-reality-display-using-see-through-screens1.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=dN-8X0lUig4)
 ??? info ":material-tag-text: Bibtex"
@@ -582,7 +573,7 @@ Kent Torell,
 [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2017.2657058)
-:material-web: [Project site](https://kaanaksit.com/portfolio/wide-field-of-view-varifocal-near-eye-display-using-see-through-deformable-membrane-mirrors/)
+:material-web: [Project site](http://www.qenops.com/publications/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2017/01/dunn_2017_tvcg_membranear.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=aRZrtZfVKv0&feature=youtu.be)
 ??? info ":material-tag-text: Bibtex"
@@ -616,7 +607,6 @@ Kent Torell,
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://arxiv.org/abs/2003.08499)
-:material-web: [Project site](https://kaanaksit.com/portfolio/gaze-sensing-leds-for-head-mounted-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2020/02/script.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=vV4CiNsfUYY)
 ??? info ":material-tag-text: Bibtex"
@@ -685,7 +675,6 @@ Oğuzhan Özcan
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/2663806.2663826)
-:material-web: [Project site](https://kaanaksit.com/portfolio/head-worn-mixed-reality-projection-display-application/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/3782.pdf)
 :material-file-video: [Video](https://www.youtube.com/watch?v=7F3Z-4UZWUc)
 ??? info ":material-tag-text: Bibtex"
@@ -728,7 +717,6 @@ Erdem Ulusoy
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OL.39.006903)
-:material-web: [Project site](https://kaanaksit.com/portfolio/super-stereoscopy-technique-for-comfortable-and-realistic-3d-displays/)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/ol-39-24-6903.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
