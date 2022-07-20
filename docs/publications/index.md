@@ -270,7 +270,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2021.3067764)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=TKl1l3b-LDs)
-:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=7_hMGwTGdhg)
+:material-video-account: [Presentation recording](https://www.youtube.com/watch?v=j0nY4_cauZY)
 ??? info ":material-tag-text: Bibtex"
 	```
 	@article{itoh2021beaming,
