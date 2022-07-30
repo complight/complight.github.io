@@ -147,6 +147,17 @@ Undergraduate Student
 
 ## Alumni
 
+### 2022
+
+#### Post-Doctoral Researchers
+- [David Robert Walton](https://drwalton.github.io/), investigation on perceptually guided display technology.
+
+
+#### Interns
+- Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/).
+- Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/).
+
+
 ### 2021
 
 #### Master Students
