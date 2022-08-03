@@ -22,7 +22,7 @@
 
 # Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
-:material-video-account: [Project video]()
+:material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
 :material-file-code: [Code](https://github.com/complight/realistic_defocus)
 ??? info ":material-tag-text: Bibtex"
         ```
@@ -37,6 +37,9 @@
           copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
         }
         ```
+
+# Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5tG8SaJGpUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Abstract
 This paper introduces a new multiplane CGH computation method to reconstruct artefact-free high-quality holograms with natural-looking defocus blur. 
