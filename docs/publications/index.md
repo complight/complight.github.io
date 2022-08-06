@@ -2,6 +2,41 @@
 
 ## 2022
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/optimizing_vision_and_visuals.png" width="200" alt/>
+</div>
+**Optimizing vision and visuals: lectures on cameras, displays and perception**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
+[David Robert Walton](https://drwalton.github.io/),
+[Nick Antipa](http://nickantipa.com/),
+[Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
+[Douglas Lanman](https://alumni.media.mit.edu/~dlanman/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://complightlab.com/teaching/siggraph2022_optimizing_vision_and_visuals/)
+:material-web-box: [Publisher site](https://doi.org/10.1145/3532720.3535650)
+:material-newspaper-variant: [Manuscript](https://github.com/complight/cameras-displays-perception-course/blob/main/latex/course.pdf)
+:material-video-account: [Project video](https://youtu.be/z_AtSgct6_I)
+:material-file-code: [Code](https://github.com/complight/cameras-displays-perception-course)
+??? info ":material-tag-text: Bibtex"
+	```
+        @incollection{kavakli2022optimizing,
+          title = {Optimizing vision and visuals: lectures on cameras, displays and perception},
+          author = {Kavaklı, Koray and Walton, David Robert and Antipa, Nick and Mantiuk, Rafał and Lanman, Douglas and Ak{\c{s}}it, Kaan},
+          booktitle = {ACM SIGGRAPH 2022 Courses},
+          pages = {1--66},
+          year = {2022},
+          doi = {https://doi.org/10.1145/3532720.3535650},
+          video = {https://youtu.be/z_AtSgct6_I},
+        }
+	```
+<br clear="left"/>
+
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/realistic_defocus_cgh.png" width="200" alt/>
 </div>
 **Realistic Defocus Blur for Multiplane Computer-Generated Holography**
@@ -15,7 +50,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](realistic_defocus_cgh.md)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
-:material-video-account: [Project video]()
+:material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
 :material-file-code: [Code](https://github.com/complight/realistic_defocus)
 ??? info ":material-tag-text: Bibtex"
 	```
