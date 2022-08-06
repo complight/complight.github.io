@@ -145,6 +145,19 @@ Undergraduate Student
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/serhat_aksoy.png" width="160" alt/>
+</div>
+[Serhat Aksoy](https://tr.linkedin.com/in/serhat-aksoy)
+
+Undergraduate Student
+
+:material-email: [E-mail](mailto:aksoyse19@itu.edu.tr)
+
+<br clear="left"/>
+
+
+
 ## Alumni
 
 ### 2022
