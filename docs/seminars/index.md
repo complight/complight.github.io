@@ -4,7 +4,7 @@ High-beams seminar series is an exclusive event where we host experts across the
 Overall, seminars are a blend of internal and external presenters.
 
 !!! Question
-    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (only within University College London's network).
+    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/vecg-seminars) (only within University College London's network).
 
 ## 2022
 The seminar series of 2022 is conducted with the help of several key people at University College London.
