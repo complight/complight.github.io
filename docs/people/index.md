@@ -44,7 +44,7 @@ PhD student
 
 :material-email: [E-mail](mailto:k.brandstatter@ucl.ac.uk)
 
-:material-office-building: Office: R404
+:material-office-building: Office: R404.182
 <br clear="left"/>
 
 
