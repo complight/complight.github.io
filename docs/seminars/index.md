@@ -9,7 +9,7 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2022
 The seminar series of 2022 is conducted with the help of several key people at University College London.
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
-Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for moderation and organization of several of these events.
+Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for the moderation and organization of several of these events.
 
 ### Yulia Gryaditskaya (Surrey Institute for People-Centred Artifical Intelligence)
 ??? Details
