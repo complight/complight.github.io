@@ -29,7 +29,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z_AtSgct6_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-:material-video-account: [Lecture recording](https://youtu.be/nuHQ3DVt60c)
+:material-video-account: [Lecture recording](https://youtu.be/z_AtSgct6_I)
 :material-file-code: [Code](https://github.com/complight/cameras-displays-perception-course)
 :material-newspaper-variant: [Foreword](https://github.com/complight/cameras-displays-perception-course/blob/main/latex/course.pdf)
 ??? info ":material-tag-text: Bibtex"

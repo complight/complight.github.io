@@ -35,6 +35,19 @@ PhD student
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/klara_brandstatter.png" width="160" alt/>
+</div>
+[Klara Brandstätter](https://www.linkedin.com/in/klara-brandstaetter-79b72820b/)
+
+PhD student
+
+:material-email: [E-mail](mailto:k.brandstatter@ucl.ac.uk)
+
+:material-office-building: Office: R404.182
+<br clear="left"/>
+
+
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
@@ -143,6 +156,19 @@ Undergraduate Student
 :material-email: [E-mail](mailto:keremeroglu555@gmail.com)
 
 <br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/serhat_aksoy.png" width="160" alt/>
+</div>
+[Serhat Aksoy](https://tr.linkedin.com/in/serhat-aksoy)
+
+Undergraduate Student
+
+:material-email: [E-mail](mailto:aksoyse19@itu.edu.tr)
+
+<br clear="left"/>
+
 
 
 ## Alumni

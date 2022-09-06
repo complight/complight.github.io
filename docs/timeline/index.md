@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/siggraph2022.png" width="80" alt/>
 </div>
-Our course, [Optimizing Vision and VIsuals: Lectures on Cameras, Displays and Perception](https://complightlab.com/teaching/siggraph2022_optimizing_vision_and_visuals/) is available and online in [SIGGRAPH 2022](https://s2022.siggraph.org/).
+Our course, [Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception](https://complightlab.com/teaching/siggraph2022_optimizing_vision_and_visuals/) is available and online in [SIGGRAPH 2022](https://s2022.siggraph.org/).
 This work is a collaboration between [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ), [David Walton](https://drwalton.github.io/), [Nick Antipa](https://scholar.google.com/citations?user=15xSd1gAAAAJ&hl=en), [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/), [Douglas Lanman](https://alumni.media.mit.edu/~dlanman/) and [Kaan Akşit](https://kaanaksit.com).
 
 
