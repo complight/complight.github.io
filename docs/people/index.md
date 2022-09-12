@@ -152,7 +152,7 @@ Undergraduate Student
 ### 2022
 
 #### Post-Doctoral Researchers
-- [David Robert Walton](https://drwalton.github.io/), investigation on perceptually guided display technology.
+- [David Robert Walton](https://drwalton.github.io/), `investigation on perceptually guided display technology`.
 
 #### Master Students
 - Yilin Qu, `Predicting Next Frames of a RGBD video`.
