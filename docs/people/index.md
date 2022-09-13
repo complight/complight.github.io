@@ -100,18 +100,6 @@ Undergraduate student
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/debosmit_neogi.png" width="160" alt/>
-</div>
-[Debosmit Neogi](https://debosmit-neogi.github.io/portfolio/about/)
-
-Undergraduate student
-
-:material-email: [E-mail](mailto:debosmit.cse@gmail.com)
-
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/nerea_sainz_de_la_maza_melon.png" width="160" alt/>
 </div>
 [Nerea Sainz De La Maza](https://www.linkedin.com/in/nerea-sainz-de-la-maza-482796221/)
@@ -159,6 +147,7 @@ Undergraduate Student
 - Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts`.
 
 #### Interns
+- Debosmit Neogi, `Compressing RGBD data`
 - Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/).
 - Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/).
 
