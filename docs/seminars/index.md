@@ -1,6 +1,6 @@
 # Seminars
-We organize a seminar series named `High-beams`.
-High-beams seminar series is an exclusive event where we host experts across the industry and academia.
+We organize a seminar series named `High-Beams`.
+High-Beams seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
 
 !!! Question
