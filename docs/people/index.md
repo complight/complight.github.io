@@ -51,18 +51,6 @@ PhD student
 ### Interns
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/praveen_selvaraj.png" width="160" alt/>
-</div>
-[Praveen Selvaraj](https://in.linkedin.com/in/pravsels)
-
-Master student
-
-:material-email: [E-mail](mailto:praveen.selvaraj.21@ucl.ac.uk)
-
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/jeanne_beyazian.png" width="160" alt/>
 </div>
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/)
@@ -100,36 +88,13 @@ Undergraduate student
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/nerea_sainz_de_la_maza_melon.png" width="160" alt/>
+<img align='left' src="../people/praveen_selvaraj.png" width="160" alt/>
 </div>
-[Nerea Sainz De La Maza](https://www.linkedin.com/in/nerea-sainz-de-la-maza-482796221/)
+[Praveen Selvaraj](https://in.linkedin.com/in/pravsels)
 
-Undergraduate student
+Master student
 
-:material-email: [E-mail](mailto:nerea.melon.21@ucl.ac.uk)
-
-<br clear="left"/>
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/kerem_eroglu.png" width="160" alt/>
-</div>
-[Kerem Eroğlu](https://www.linkedin.com/mwlite/in/kerem-ero%C4%9Flu-52b065241)
-
-Undergraduate Student
-
-:material-email: [E-mail](mailto:keremeroglu555@gmail.com)
-
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/serhat_aksoy.png" width="160" alt/>
-</div>
-[Serhat Aksoy](https://tr.linkedin.com/in/serhat-aksoy)
-
-Undergraduate Student
-
-:material-email: [E-mail](mailto:aksoyse19@itu.edu.tr)
+:material-email: [E-mail](mailto:praveen.selvaraj.21@ucl.ac.uk)
 
 <br clear="left"/>
 
@@ -147,6 +112,9 @@ Undergraduate Student
 - Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts`.
 
 #### Interns
+- Nerea Sainz De La Maza, `Printable camera casing design`
+- Kerem Eroğlu, `Embedding data to images`
+- Serhat Aksoy, `Volume rendering tool`
 - Debosmit Neogi, `Compressing RGBD data`
 - Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/).
 - Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/).
