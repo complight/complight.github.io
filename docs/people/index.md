@@ -112,10 +112,10 @@ Undergraduate student
 - Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts`.
 
 #### Interns
-- Nerea Sainz De La Maza, `Printable camera casing design`
-- Kerem Eroğlu, `Embedding data to images`
-- Serhat Aksoy, `Volume rendering tool`
-- Debosmit Neogi, `Compressing RGBD data`
+- Nerea Sainz De La Maza, `Printable camera casing design`.
+- Kerem Eroğlu, `Embedding data to images`.
+- Serhat Aksoy, `Volume rendering tool`.
+- Debosmit Neogi, `Compressing RGBD data`.
 - Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/).
 - Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/).
 
