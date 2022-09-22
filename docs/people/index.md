@@ -29,7 +29,7 @@ Associate Professor of Computational Light
 
 PhD student
 
-:material-email: E-mail
+:material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
 
 :material-office-building: Office: R404.189
 <br clear="left"/>
