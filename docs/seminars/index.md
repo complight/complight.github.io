@@ -12,6 +12,18 @@ Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com).
 Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for the moderation and organization of several of these events.
 
 
+### Rob Lindeman (University of Canterbury)
+??? Details
+    **Date:**
+    21st September 2022
+
+    **Presenter:** Rob Lindeman, Professor at the University of Canterbury
+
+    **Title:** Comfortable VR: Supporting Regular and Long-term Immersion
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EdIuOR-JnjtLpOT0Bx2eWrgBPfjCQjclTLflwQV9VOzAfQ?e=ICCa81)
+
+
 ### Felix Heide (Princenton University)
 ??? Details
     **Date:**
