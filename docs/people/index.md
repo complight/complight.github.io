@@ -74,19 +74,6 @@ Master Student
 <br clear="left"/>
 
 
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/praveen_selvaraj.png" width="160" alt/>
-</div>
-[Praveen Selvaraj](https://in.linkedin.com/in/pravsels)
-
-Master student
-
-:material-email: [E-mail](mailto:praveen.selvaraj.21@ucl.ac.uk)
-
-<br clear="left"/>
-
-
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yichen_zou.png" width="160" alt/>
 </div>
