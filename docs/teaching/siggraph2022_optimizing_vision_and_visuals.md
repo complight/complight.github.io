@@ -34,18 +34,20 @@
 :material-newspaper-variant: [Foreword](https://github.com/complight/cameras-displays-perception-course/blob/main/latex/course.pdf)
 ??? info ":material-tag-text: Bibtex"
         ```
-        @inproceedings{OptimizingVisionAndVisual2022,
-          author = {Koray Kavaklı and
-                    David Robert Walton and
-                    Nick Antipa and
-                    Rafał Mantiuk and
-                    Douglas Lanman and
-                    Kaan Akşit},
-          title = {Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception},
-          booktitle = {SIGGRAPH Courses},
-          year = {2022},
-          doi = {XXXXX/YYYY},
-          copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+        @inproceedings{10.1145/3532720.3535650,
+         author = {Kavakli, Koray and Walton, David Robert and Antipa, Nick and Mantiuk, Rafa\l{} and Lanman, Douglas and Ak\c{s}it, Kaan},
+         title = {Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception},
+         year = {2022},
+         isbn = {9781450393621},
+         publisher = {Association for Computing Machinery},
+         address = {New York, NY, USA},
+         url = {https://doi.org/10.1145/3532720.3535650},
+         doi = {10.1145/3532720.3535650},
+         booktitle = {ACM SIGGRAPH 2022 Courses},
+         articleno = {17},
+         numpages = {66},
+         location = {Vancouver, British Columbia, Canada},
+         series = {SIGGRAPH '22}
         }
         ```
 
