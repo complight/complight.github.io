@@ -17,7 +17,7 @@ This work is a collaboration between [Rafael Kuffner dos Anjos](https://rafaelku
 <img align="left" src="../media/frontiers_in_optics.png" width="80" alt/>
 </div>
 In collaboration with Meta Reality Laboratory's [Douglas Lanman](https://alumni.media.mit.edu/~dlanman/), we helped organise a successful [augmented reality and virtual reality theme](https://www.frontiersinoptics.com/home/program/theme-virtual-reality/) at [Optica's Frontiers in Optics 2022](https://www.frontiersinoptics.com/home/).
-[Kaan Akşit](https://kaanaksit.com) presented with a talk titled `Realistic Image Reconstruction with Multiplane Computer-Generated Holography`, while [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) presented a talk titled `Introduction to Odak: a Differentiable Toolkit for Optical Sciences, Vision Sciences and Computer Graphics`.
+[Kaan Akşit](https://kaanaksit.com) presented a talk titled `Realistic Image Reconstruction with Multiplane Computer-Generated Holography`, while [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) presented a talk titled `Introduction to Odak: a Differentiable Toolkit for Optical Sciences, Vision Sciences and Computer Graphics`.
 
 
 ### August
