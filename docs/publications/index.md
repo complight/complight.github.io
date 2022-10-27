@@ -22,7 +22,7 @@ Tobias Ritschel
 	```
         @ARTICLE{Kuffner_Dos_Anjos2022-hm,
             title    = "Metameric inpainting for image warping",
-            author   = "Kuffner Dos Anjos, Rafael and Walton, David R and Aksit, Kaan and
+            author   = "Kuffner Dos Anjos, Rafael and Walton, David R and Akşit, Kaan and
                         Friston, Sebastian and Swapp, David and Steed, Anthony and
                         Ritschel, Tobias",
             journal  = "IEEE Trans. Vis. Comput. Graph.",
