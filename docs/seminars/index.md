@@ -11,10 +11,23 @@ The seminar series of 2022 is conducted with the help of several key people at U
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for the moderation and organization of several of these events.
 
+
+### Ana Serrano (Universidad de Zaragoza)
+??? Details
+    **Date:**
+    3rd November 2022
+
+    **Presenter:** Ana Serrano, Universidad de Zaragoza
+
+    **Title:** Material Appearance Perception and Applications
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcBnevu-u3lGt6x2adXYpj0BqN0NDWY0XzfTEi_S-htUJA?e=DJ6WCK)
+
+
 ### Praneeth Chakravarthula (Princenton University)
 ??? Details
     **Date:**
-    27th OctoberSeptember 2022
+    27th October 2022
 
     **Presenter:** Praneeth Chakravarthula, Research Scholar at Princenton University
 
@@ -26,7 +39,7 @@ Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [K
 ### Koki Nagano (NVIDIA)
 ??? Details
     **Date:**
-    12th OctoberSeptember 2022
+    12th October 2022
 
     **Presenter:** Koki Nagano, Senior Research Scientist at NVIDIA
 
