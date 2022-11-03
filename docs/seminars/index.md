@@ -15,7 +15,7 @@ Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [K
 ### Ana Serrano (Universidad de Zaragoza)
 ??? Details
     **Date:**
-    3rd November 2022
+    2nd November 2022
 
     **Presenter:** Ana Serrano, Universidad de Zaragoza
 
