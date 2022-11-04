@@ -2,6 +2,39 @@
 
 ## 2022
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/metameric_inpainting.png" width="200" alt/>
+</div>
+**Metameric Inpainting for Image Warping**
+
+<img src="https://img.shields.io/badge/-IEEE-important">
+[Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
+[David R. Walton](https://drwalton.github.io/),
+[Kaan Akşit](https://kaanaksit.com)
+[Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/),
+[David Swapp](https://scholar.google.co.in/citations?user=sQhgJh4AAAAJ&hl=en),
+[Anthony Steed](http://vecg.cs.ucl.ac.uk/),
+Tobias Ritschel
+
+
+:material-web-box: [Publisher site](https://doi.org/10.1145/3532720.3535650)
+:material-newspaper-variant: [Manuscript](https://media.githubusercontent.com/media/kaanaksit/kaanaksit.github.io/main/assets/pdf/KuffnerEtAl_IEEETVCG2022_Metameric_inpainting_for_image_warping.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+        @ARTICLE{Kuffner_Dos_Anjos2022-hm,
+            title    = "Metameric inpainting for image warping",
+            author   = "Kuffner Dos Anjos, Rafael and Walton, David R and Akşit, Kaan and
+                        Friston, Sebastian and Swapp, David and Steed, Anthony and
+                        Ritschel, Tobias",
+            journal  = "IEEE Trans. Vis. Comput. Graph.",
+            volume   = "PP",
+            month    =  oct,
+            year     =  2022,
+        }
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/optimizing_vision_and_visuals.png" width="200" alt/>
 </div>
 **Optimizing vision and visuals: lectures on cameras, displays and perception**

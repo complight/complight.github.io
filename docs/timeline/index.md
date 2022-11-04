@@ -2,6 +2,24 @@
 
 ## 2022
 
+
+### October
+#### 25 October 2022
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ieee.png" width="80" alt/>
+</div>
+[Our paper](https://doi.org/10.1109/TVCG.2022.3216712), `Metameric Inpainting for Image Warping`, is published at IEEE's Transaction on Visualization and Computer Graphics.
+This work is a collaboration between [Rafael Kuffner dos Anjos](https://rafaelkuffner.github.io/), [David Robert Walton](https://drwalton.github.io/), [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/), [David Swapp](http://www.cs.ucl.ac.uk/people/D.Swapp/), [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/).
+
+
+#### 19 October 2022
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/frontiers_in_optics.png" width="80" alt/>
+</div>
+In collaboration with Meta Reality Laboratory's [Douglas Lanman](https://alumni.media.mit.edu/~dlanman/), we helped organise a successful [augmented reality and virtual reality theme](https://www.frontiersinoptics.com/home/program/theme-virtual-reality/) at [Optica's Frontiers in Optics 2022](https://www.frontiersinoptics.com/home/).
+[Kaan Akşit](https://kaanaksit.com) presented a talk titled `Realistic Image Reconstruction with Multiplane Computer-Generated Holography`, while [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) presented a talk titled `Introduction to Odak: a Differentiable Toolkit for Optical Sciences, Vision Sciences and Computer Graphics`.
+
+
 ### August
 #### 3 August 2022
 <div style="float: left; height:100px;" class="boxed">
@@ -119,6 +137,7 @@ We are grateful to the Royal Society for awarding us with their [research grants
 In collaboration with Meta Reality Laboratory's Douglas Lanman, we helped organise a successful [augmented reality and virtual reality theme](https://www.frontiersinoptics.com/home/program/theme-virtual-reality/) at [Optica's Frontiers in Optics 2021](https://www.frontiersinoptics.com/home/). [Kaan Akşit](https://kaanaksit.com) presented his work on holographic beaming displays proposal at the same event.
 <br clear="left"/>
 
+
 ### October
 
 ### February
@@ -129,6 +148,7 @@ In collaboration with Meta Reality Laboratory's Douglas Lanman, we helped organi
 We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual-ucl-osaka-strategic-partner-funds-recipients) for receiving UCL-Osaka university strategic partnership fund.
 <br clear="left"/>
 
+
 ### January
 #### 4 January 2021
 <div style="float: left; height:100px;" class="boxed">
@@ -136,6 +156,7 @@ We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual
 </div>
 [Kaan Akşit](https://kaanaksit.com) joined [University College London's](https://www.ucl.ac.uk) [computer science department](https://www.ucl.ac.uk/computer-science/) as an Associate Professor. He is now part of the [Virtual Reality and Computer Graphics group](http://vecg.cs.ucl.ac.uk/academics.html), and he leads the [Computational light laboratory](https://complight.github.io/).
 <br clear="left"/>
+
 
 ## 2020
 
