@@ -16,7 +16,7 @@
 Tobias Ritschel
 
 
-:material-web-box: [Publisher site](https://doi.org/10.1145/3532720.3535650)
+:material-web-box: [Publisher site](https://doi.org/10.1109/tvcg.2022.3216712)
 :material-newspaper-variant: [Manuscript](https://media.githubusercontent.com/media/kaanaksit/kaanaksit.github.io/main/assets/pdf/KuffnerEtAl_IEEETVCG2022_Metameric_inpainting_for_image_warping.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
