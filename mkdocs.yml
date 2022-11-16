@@ -61,14 +61,12 @@ theme:
         - navigation.expand
     palette:
       - scheme: youtube
-        primary: light
         toggle:
-          icon: material/eye
+          icon: material/brightness-7
           name: Switch to dark mode
-      - scheme: youtube
-        primary: dark
+      - scheme: slate
         toggle:
-          icon: material/eye
+          icon: material/brightness-4
           name: Switch to light mode
     highlightjs: true
     hljs_languages:
