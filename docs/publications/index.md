@@ -109,7 +109,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Unrolled Primal-Dual Networks for Lensless Cameras**
 
-<img src="https://img.shields.io/badge/-ArxiV-yellow">
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 [Oliver Kingshott](https://oliver.kingshott.com/),
 [Nick Antipa](http://nickantipa.com/),
@@ -120,14 +120,15 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-file-code: [Code](https://github.com/oliland/lensless-primal-dual)
 ??? info ":material-tag-text: Bibtex"
 	```
-        @misc{kingshott2022unrolled,
-              title={Unrolled Primal-Dual Networks for Lensless Cameras},
-              author={Oliver Kingshott and Nick Antipa and Emrah Bostan and Kaan Akşit},
-              year={2022},
-              eprint={2203.04353},
-              archivePrefix={arXiv},
-              primaryClass={cs.CV}
-             }
+        @article{kingshott2022unrolled,
+           selected={true},
+           title={Unrolled Primal-Dual Networks for Lensless Cameras},
+           author={Kingshott, Oliver and Antipa, Nick and Bostan, Emrah and Akşit, Kaan},
+           journal={Optics Express},
+           year={2022},
+           preview={unrolled_primal_dual.png},
+           doi={https://doi.org/10.48550/arXiv.2203.04353}
+        }
 	```
 
 
