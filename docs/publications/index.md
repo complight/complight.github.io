@@ -7,6 +7,7 @@
 **Metameric Inpainting for Image Warping**
 
 <img src="https://img.shields.io/badge/-IEEE-important">
+
 [Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
 [David R. Walton](https://drwalton.github.io/),
 [Kaan Akşit](https://kaanaksit.com)
