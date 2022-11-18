@@ -2,6 +2,12 @@
 
 ## 2022
 
+### November
+### 18 November 2022
+[Our paper](https://arxiv.org/abs/2203.04353), `Unrolled Primal-Dual Networks for Lensless Cameras`, is published at Optica's Optics Express.
+A copy of the manuscript can be found [here](https://arxiv.org/pdf/2203.04353.pdf).
+This work is a result of a collaboration with [Oliver Kingshott](https://oliver.kingshott.com/), [Nick Antipa](http://nickantipa.com/) and [Emrah Bostan](https://emrahbostan.com/).
+
 
 ### October
 #### 25 October 2022
