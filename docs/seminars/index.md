@@ -12,6 +12,19 @@ Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com).
 Kaan has received help from [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for the moderation and organization of several of these events.
 
 
+### Aykut Erdem (Koç University)
+??? Details
+    **Date:**
+    23th November 2022
+
+    **Presenter:** Aykut Erdem, Associate Professor at Koç University.
+
+    **Title:** Disentangling Content and Motion for Text-Based Neural Video Manipulation
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EaW799IAeIJAtpFmcCzMMwwB81I8nSHEdvmXlfr6vkAwSg?e=76rMCT)
+
+
+
 ### Gül Varol (École des Ponts ParisTech)
 ??? Details
     **Date:**
