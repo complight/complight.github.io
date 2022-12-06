@@ -17,20 +17,42 @@ nav:
     - Recent news: 'timeline/index.md'
   - Publications:
     - List of publications: 'publications/index.md'
-    - Realistic Defocus for Multiplane Computer-Generated Holography: 'publications/realistic_defocus_cgh.md'
-    - Optimizing Vision and Visuals: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
+    - Highlighted works:
+      - Realistic Defocus for Multiplane Computer-Generated Holography: 'publications/realistic_defocus_cgh.md'
+      - Optimizing Vision and Visuals: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
   - Teaching:
-    - Lectures: 'teaching/index.md'
-    - SIGGRAPH 2022 Optimizing Vision and Visuals: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
-    - COMP0160 Perception and Interfaces: 'teaching/comp0160_perception_and_interfaces.md'
+    - Courses: 'teaching/index.md'
+    - SIGGRAPH 2022 Optimizing Vision and Visuals (Summer 2022):
+      - Description: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
+      - Secret link: 'lectures/index.md'
+    - COMP0160 Perception and Interfaces (Spring 2022):
+      - Description: 'teaching/comp0160_perception_and_interfaces.md'
+      - Coursework 1: 'teaching/comp0160_coursework_1.md'
+      - Practical: 'teaching/comp0160_practical.md' 
+    - COMP088 Introduction to Machine Learning (Winter 2023):
+      - How to setup your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
+      - How to implement Gradient Descent solver using Numpy: 'https://youtu.be/-ilAaJlUvYI'
+      - How to compile your first Perceptron using Numpy: 'https://youtu.be/ENpJoyDc1rg'
+      - How to compile your first model in PyTorch: 'https://youtu.be/PunWQMssqPU'
   - Documentation:
     - List: 'documentation/index.md'
-    - Become a doctoral student: 'documentation/become_phd_student.md'
-    - Welcome aboard!: 'documentation/getting_started.md'
-    - Our laboratory's logo: 'documentation/logo.md'
+    - For candidates:
+      - Become a doctoral student: 'documentation/become_phd_student.md'
+    - For newcomers:
+      - Welcome aboard!: 'documentation/getting_started.md'
+      - Our laboratory's logo: 'documentation/logo.md'
+      - Explore our completed projects: 'https://complightlab.com/publications/'
+      - Explore our codebase: 'https://github.com/complight'
+      - Explore our toolkit: 'https://github.com/kaanaksit/odak'
+      - Explore our printable designs: 'https://github.com/complight/optomechanics'
+      - Learn more about computer-generated holography: 'https://kaanaksit.github.io/odak/cgh/'
+      - Tips and tricks for using our 3D printer: 'documentation/3d_printing.md'
   - Seminars:
-    - Recent seminars: 'seminars/index.md'
-  - Research hub: 'research_hub.md'
+    - Description: 'seminars/index.md'
+    - Join our mailing List: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
+  - Research hub:
+    - Description: 'research_hub.md'
+    - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
 
 theme:
     name: material
