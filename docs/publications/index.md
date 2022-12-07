@@ -14,7 +14,7 @@
 [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/),
 [David Swapp](https://scholar.google.co.in/citations?user=sQhgJh4AAAAJ&hl=en),
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/),
-Tobias Ritschel
+and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/tvcg.2022.3216712)
@@ -150,7 +150,7 @@ David Swapp,
 [Tim Weyrich](https://reality.tf.fau.de/weyrich.html),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/),
-Tobias Ritschel,
+[Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/),
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/)
