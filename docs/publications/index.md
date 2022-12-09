@@ -1,5 +1,35 @@
 # Publications
 
+
+## 2023
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/learned_prescription.png" width="200" alt/>
+</div>
+**ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
+
+<img src="https://img.shields.io/badge/-ArxiV-yellow">
+
+[Ahmet Güzel](https://aguzel.github.io/),
+[Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian-736824183),
+[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+
+:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.04264.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+        @ARTICLE{guzel2022prescription,
+          preview  = {learned_prescription.png},
+          title    = "ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance",
+          author   = "Güzel, Ahmet and Beyazian, Jeanne and Chakravarthula, Praneeth and Akşit, Kaan",
+          journal  = "arxiv",
+          month    =  jan,
+          year     =  2023,
+        }
+	```
+<br clear="left"/>
+
+
 ## 2022
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/metameric_inpainting.png" width="200" alt/>
