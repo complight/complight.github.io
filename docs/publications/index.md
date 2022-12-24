@@ -3,6 +3,31 @@
 
 ## 2023
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/holobeam.png" width="200" alt/>
+</div>
+**HoloBeam: Paper-Thin Near-Eye Displays**
+
+<img src="https://img.shields.io/badge/-ArxiV-yellow">
+
+[Kaan Akşit](https://kaanaksit.com),
+and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
+
+
+:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.05057.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+        @ARTICLE{aksit2022holobeam,
+          title    = "HoloBeam: Paper-Thin Near-Eye Displays",
+          author   = "Akşit, Kaan and Itoh, Yuta",
+          journal  = "arxiv",
+          month    =  jan,
+          year     =  2023,
+        }
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/learned_prescription.png" width="200" alt/>
 </div>
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
@@ -19,7 +44,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 ??? info ":material-tag-text: Bibtex"
 	```
         @ARTICLE{guzel2022prescription,
-          preview  = {learned_prescription.png},
           title    = "ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance",
           author   = "Güzel, Ahmet and Beyazian, Jeanne and Chakravarthula, Praneeth and Akşit, Kaan",
           journal  = "arxiv",
