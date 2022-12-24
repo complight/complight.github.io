@@ -148,6 +148,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2203.04353)
+:material-newspaper-variant: [Supplementary](https://media.githubusercontent.com/media/kaanaksit/kaanaksit.github.io/master/assets/pdf/KingshottEtAl_OpticsExpress2022_Unrolled_primal_dual_networks_for_lensless_cameras_Supplementarty.pdf)
 :material-file-code: [Code](https://github.com/oliland/lensless-primal-dual)
 ??? info ":material-tag-text: Bibtex"
 	```
