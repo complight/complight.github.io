@@ -2,7 +2,8 @@
 
 ## 2023
 
-## 3 January 2023
+### January
+#### 3 January 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/oracle.png" width="80" alt/>
 </div>
@@ -13,7 +14,7 @@ We had to decline their award as we have purchased new computational resources m
 ## 2022
 
 ### November
-### 18 November 2022
+#### 18 November 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
