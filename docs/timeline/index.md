@@ -3,6 +3,13 @@
 ## 2023
 
 ### January
+#### 4 January 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/oracle.png" width="80" alt/>
+</div>
+We are thankful to [TÜBİTAK](https://tubitak.gov.tr/tr/destekler/bilimsel-etkinlik/etkinliklere-katilma-destekleri/icerik-2224-a-yurt-disi-bilimsel-etkinliklere-katilimi-destekleme-programi) for supporting our valuable member and a PhD student, [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) in presenting his work at [SPIE's Photonics West 2023](https://spie.org/conferences-and-exhibitions/photonics-west?SSO=1).
+
+
 #### 3 January 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/oracle.png" width="80" alt/>
