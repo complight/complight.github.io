@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/tubitak.png" width="80" alt/>
 </div>
-We are thankful to [TÜBİTAK's](https://tubitak.gov.tr/tr/destekler/bilimsel-etkinlik/etkinliklere-katilma-destekleri/icerik-2224-a-yurt-disi-bilimsel-etkinliklere-katilimi-destekleme-programi) 2224 support for our valuable member and a PhD student, [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) in presenting his work at [SPIE's Photonics West 2023](https://spie.org/conferences-and-exhibitions/photonics-west?SSO=1).
+We are thankful to [TÜBİTAK's](https://tubitak.gov.tr/en/funds/scientific-events/national-support-programmes/content-2224-a-grant-program-for-participation-in-scientific-meetings-abroad) 2224-A support for our valuable member and a PhD student, [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao) in presenting his work at [SPIE's Photonics West 2023](https://spie.org/conferences-and-exhibitions/photonics-west?SSO=1).
 This fund covers a significant portion of his attendance at SPIE's Photonics West.
 
 
