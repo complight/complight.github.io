@@ -1,5 +1,15 @@
 # Timeline
 
+## 2023
+
+## 3 January 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/oracle.png" width="80" alt/>
+</div>
+We are thankful to [Oracle](https://www.oracle.com/cloud/compute/gpu/) for offering us to relay their cloud infrastructure support for our computational loads.
+We had to decline their award as we have purchased new computational resources most recently.
+
+
 ## 2022
 
 ### November
