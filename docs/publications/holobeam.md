@@ -45,9 +45,10 @@ In addition, HoloBeam prototypes demonstrate near retinal resolutions ($24$ cycl
 Here are relevant research works from the authors:
 
 - [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh)
-- [Odak](https://github.com/kunguz/odak)
+- [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals/)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
+- [Odak](https://github.com/kunguz/odak)
 
 
 # Outreach
