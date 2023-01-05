@@ -13,6 +13,7 @@
 and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
 
 
+:material-web: [Project site](holobeam.md)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.05057.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
