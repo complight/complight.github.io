@@ -18,6 +18,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - HoloBeam Paper-Thin Near-Eye Displays: 'publications/holobeam.md'
       - Realistic Defocus for Multiplane Computer-Generated Holography: 'publications/realistic_defocus_cgh.md'
       - Optimizing Vision and Visuals: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
   - Teaching:

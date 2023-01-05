@@ -7,7 +7,7 @@
 </div>
 **HoloBeam: Paper-Thin Near-Eye Displays**
 
-<img src="https://img.shields.io/badge/-ArxiV-yellow">
+<img src="https://img.shields.io/badge/-IEEE VR-important">
 
 [Kaan Akşit](https://kaanaksit.com),
 and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
@@ -52,6 +52,37 @@ and [Kaan Akşit](https://kaanaksit.com)
         }
 	```
 <br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/realistic_defocus_cgh.png" width="200" alt/>
+</div>
+**Realistic Defocus Blur for Multiplane Computer-Generated Holography**
+
+<img src="https://img.shields.io/badge/-IEEE VR-important">
+
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](realistic_defocus_cgh.md)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
+:material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
+:material-file-code: [Code](https://github.com/complight/realistic_defocus)
+??? info ":material-tag-text: Bibtex"
+	```
+        @misc{kavakli2022realisticdefocus,
+          doi = {10.48550/ARXIV.2205.07030},
+          url = {https://arxiv.org/abs/2205.07030},
+          author = {Kavaklı, Koray and Itoh, Yuta and Urey, Hakan and Akşit, Kaan},
+          keywords = {Computer Vision and Pattern Recognition (cs.CV), Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences, I.3.3},
+          title = {Realistic Defocus Blur for Multiplane Computer-Generated Holography},
+          publisher = {arXiv},
+          year = {2022},
+          copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+        }
+	```
 
 
 ## 2022
@@ -122,37 +153,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
 <br clear="left"/>
 
-
-
-<div style="float: left; height:340px;" class="boxed">
-<img align="left" src="media/realistic_defocus_cgh.png" width="200" alt/>
-</div>
-**Realistic Defocus Blur for Multiplane Computer-Generated Holography**
-
-<img src="https://img.shields.io/badge/-ArxiV-yellow">
-
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
-[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
-[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
-and [Kaan Akşit](https://kaanaksit.com)
-
-:material-web: [Project site](realistic_defocus_cgh.md)
-:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
-:material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
-:material-file-code: [Code](https://github.com/complight/realistic_defocus)
-??? info ":material-tag-text: Bibtex"
-	```
-        @misc{kavakli2022realisticdefocus,
-          doi = {10.48550/ARXIV.2205.07030},
-          url = {https://arxiv.org/abs/2205.07030},
-          author = {Kavaklı, Koray and Itoh, Yuta and Urey, Hakan and Akşit, Kaan},
-          keywords = {Computer Vision and Pattern Recognition (cs.CV), Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences, I.3.3},
-          title = {Realistic Defocus Blur for Multiplane Computer-Generated Holography},
-          publisher = {arXiv},
-          year = {2022},
-          copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
-        }
-	```
 
 
 

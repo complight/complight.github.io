@@ -18,7 +18,7 @@
   </tbody>
 </table>
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>The University of Tokyo</p>
-<p style="text-align:center;"><b>Available on arXiv.</b></p>
+<p style="text-align:center;"><b><a href="https://ieeevr.org/2023/">IEEE VR 2023</a></b></p>
 
 # Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
