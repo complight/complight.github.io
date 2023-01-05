@@ -74,3 +74,16 @@ Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 
 <br />
 <br />
 <br />
+
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/jst_forest.png" width="200" alt/>
+</div>
+Yuta Itoh is supported by the JST FOREST Grant Number JPMJFR206E and JSPS KAKENHI Grant Number JP20J14971, 20H05958, and 21K19788, Japan.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
