@@ -20,7 +20,7 @@ nav:
     - Highlighted works:
       - HoloBeam Paper-Thin Near-Eye Displays: 'publications/holobeam.md'
       - Realistic Defocus for Multiplane Computer-Generated Holography: 'publications/realistic_defocus_cgh.md'
-      - Optimizing Vision and Visuals: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
+      - Optimizing Vision and Visuals Lectures on Cameras, Displays and Perception: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
   - Teaching:
     - Courses: 'teaching/index.md'
     - SIGGRAPH 2022 Optimizing Vision and Visuals (Summer 2022):
