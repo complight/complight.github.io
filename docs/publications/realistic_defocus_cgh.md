@@ -39,7 +39,9 @@
         ```
 
 # Video
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5tG8SaJGpUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # Abstract
 This paper introduces a new multiplane CGH computation method to reconstruct artefact-free high-quality holograms with natural-looking defocus blur. 
