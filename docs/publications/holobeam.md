@@ -98,6 +98,7 @@ The group is open to public and you can become a member by following [this link]
 
 # Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.
+The authors wish to thank Koray Kavaklı for fruitful discussions.
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../../media/royal_society.png" width="100" alt/>
