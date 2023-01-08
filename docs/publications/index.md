@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
-[Kaan Akşit](https://kaanaksit.com),
+[Kaan Akşit](https://kaanaksit.com)
 and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
 
 
@@ -37,7 +37,7 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
 
 [Ahmet Güzel](https://aguzel.github.io/),
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian-736824183),
-[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/),
+[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 
@@ -64,7 +64,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
-[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](realistic_defocus_cgh.md)
@@ -99,7 +99,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Kaan Akşit](https://kaanaksit.com)
 [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/),
 [David Swapp](https://scholar.google.co.in/citations?user=sQhgJh4AAAAJ&hl=en),
-[Anthony Steed](http://vecg.cs.ucl.ac.uk/),
+[Anthony Steed](http://vecg.cs.ucl.ac.uk/)
 and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 
 
@@ -132,7 +132,7 @@ and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 [David Robert Walton](https://drwalton.github.io/),
 [Nick Antipa](http://nickantipa.com/),
 [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
-[Douglas Lanman](https://alumni.media.mit.edu/~dlanman/),
+[Douglas Lanman](https://alumni.media.mit.edu/~dlanman/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://complightlab.com/teaching/siggraph2022_optimizing_vision_and_visuals/)
@@ -169,7 +169,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 [Oliver Kingshott](https://oliver.kingshott.com/),
 [Nick Antipa](http://nickantipa.com/),
-[Emrah Bostan](https://emrahbostan.com/),
+[Emrah Bostan](https://emrahbostan.com/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2203.04353)
@@ -206,7 +206,7 @@ David Swapp,
 [Tim Weyrich](https://reality.tf.fau.de/weyrich.html),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/),
-[Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/),
+[Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/)
@@ -246,7 +246,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Nataliya Kosmyna](https://www.braini.io/),
 [Tobias Hollerer](https://sites.cs.ucsb.edu/~holl/),
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/),
-[Kiyoshi Kiyokawa](https://carelab.info/en/),
+[Kiyoshi Kiyokawa](https://carelab.info/en/)
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web-box: [Publisher site](https://doi.org/10.3389/frvir.2021.763340)
@@ -696,8 +696,8 @@ Kent Torell,
 [Kaan Akşit](https://kaanaksit.com), 
 [Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), 
 [Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), 
-[D. Luebke](https://luebke.us/), 
-[Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
+[David Luebke](https://luebke.us/)
+and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/TVCG.2017.2657058)
 :material-web: [Project site](http://www.qenops.com/publications/)
