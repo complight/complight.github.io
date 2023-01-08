@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
 [Kaan Akşit](https://kaanaksit.com)
-and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh).
+and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 
 
 :material-web: [Project site](holobeam.md)
