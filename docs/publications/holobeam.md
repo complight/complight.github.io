@@ -104,7 +104,7 @@ The authors wish to thank Koray Kavaklı for fruitful discussions.
 <img align='left' src="../../media/royal_society.png" width="100" alt/>
 <img align='left' src="../../media/meta_reality_labs.png" width="100" alt/>
 </div>
-Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype used in generating the course material. Kaan Akşit is also supported by Meta Reality Labs inclusive rendering initiative 2022.
+Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype. Kaan Akşit is also supported by Meta Reality Labs inclusive rendering initiative 2022.
 <br />
 <br />
 <br />
