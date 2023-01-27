@@ -21,8 +21,8 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
         @ARTICLE{aksit2022holobeam,
           title    = "HoloBeam: Paper-Thin Near-Eye Displays",
           author   = "Akşit, Kaan and Itoh, Yuta",
-          journal  = "arxiv",
-          month    =  jan,
+          journal  = "IEEE VR 2023",
+          month    =  Mar,
           year     =  2023,
         }
 	```
@@ -42,6 +42,9 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 and [Kaan Akşit](https://kaanaksit.com)
 
 
+:material-web: [Project site](http://complightlab.com/ChromaCorrect/)
+:material-file-code: [Code](https://github.com/complight/ChromaCorrect)
+:material-video-account: [Project video](https://www.youtube.com/watch?v=fjexa7ga-tQ&feature=youtu.be)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.04264.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
@@ -80,8 +83,9 @@ and [Kaan Akşit](https://kaanaksit.com)
           author = {Kavaklı, Koray and Itoh, Yuta and Urey, Hakan and Akşit, Kaan},
           keywords = {Computer Vision and Pattern Recognition (cs.CV), Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences, I.3.3},
           title = {Realistic Defocus Blur for Multiplane Computer-Generated Holography},
-          publisher = {arXiv},
-          year = {2022},
+          publisher = {IEEE VR 2023},
+          month = {Mar},
+          year = {2023},
           copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
         }
 	```
