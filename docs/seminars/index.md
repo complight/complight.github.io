@@ -6,6 +6,24 @@ Overall, seminars are a blend of internal and external presenters.
 !!! Question
     If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
 
+
+## 2023
+These seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
+
+
+### Towaki Takikawa 
+??? Details
+    **Date:**
+    8th February 2023
+
+    **Presenter:** Towaki Takikawa, Research Scientist at NVIDIA
+
+    **Title:** Towards Volumetric Multimedia Compression and Transport with Neural Fields
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Efr-VEfjSFhPqmHkVovGgmIBad34FVqNkWZl3oHZaZ6DyA?e=Ql1TDU)
+
+
+
 ## 2022
 The seminar series of 2022 is conducted with the help of several key people at University College London.
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
