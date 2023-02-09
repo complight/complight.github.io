@@ -37,17 +37,6 @@ PhD student
 
 ### Interns
 
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/jeanne_beyazian.png" width="160" alt/>
-</div>
-[Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/)
-
-Master student
-
-:material-email: [E-mail](mailto:jeanne.beyazian.21@ucl.ac.uk)
-
-<br clear="left"/>
-
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/ahmet_guzel.png" width="160" alt/>
@@ -69,6 +58,7 @@ Master Student
 - [David Robert Walton](https://drwalton.github.io/), `investigation on perceptually guided display technology`.
 
 #### Master Students
+- Jeanne Beyazian, `Hologram Compression`.
 - Yilin Qu, `Predicting Next Frames of a RGBD video`.
 - Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts`.
 
