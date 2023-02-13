@@ -11,7 +11,7 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 
 
-### Towaki Takikawa 
+### Towaki Takikawa (NVIDIA)
 ??? Details
     **Date:**
     8th February 2023
