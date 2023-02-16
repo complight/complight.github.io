@@ -35,15 +35,12 @@ PhD student
 <br clear="left"/>
 
 
-### Interns
-
-
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/ahmet_guzel.png" width="160" alt/>
 </div>
 [Ahmet Güzel](https://aguzel.github.io)
 
-Master Student
+PhD Student
 
 :material-email: [E-mail](mailto:od20ahg@leeds.ac.uk)
 
