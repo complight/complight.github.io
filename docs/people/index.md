@@ -31,7 +31,7 @@ PhD student
 
 :material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
 
-:material-office-building: Office: R404.189
+:material-office-building: Office: R404.188
 <br clear="left"/>
 
 
