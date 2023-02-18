@@ -2,6 +2,15 @@
 
 ## 2023
 
+### February
+### 7 February 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/university_of_rochester.png" width="80" alt/>
+</div>
+Kaan presented an invited talk titled [`Could holographic displays be the key to achieving realism?`](https://youtu.be/kqOQLFaTZwU?t=702).
+We are thankful to [University of Rochester's institute of optics](https://www.hajim.rochester.edu/optics/) for their kind hospitality.
+
+
 ### January
 #### 4 January 2023
 <div style="float: left; height:100px;" class="boxed">
