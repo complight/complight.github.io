@@ -3,7 +3,7 @@
 ## 2023
 
 ### February
-### 7 February 2023
+### 6 February 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/university_of_rochester.png" width="80" alt/>
 </div>
