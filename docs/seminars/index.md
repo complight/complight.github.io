@@ -8,7 +8,19 @@ Overall, seminars are a blend of internal and external presenters.
 
 
 ## 2023
-These seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
+These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+
+
+### Qi Sun (NYU)
+??? Details
+    **Date:**
+    21st February 2023
+
+    **Presenter:** Qi Sun, Assistant Professor at NYU
+
+    **Title:** Co-Optimizing Human-System Performance in VR/AR
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Eek3p9fo4zxOtIPBuBdfpmIBd-bdBJJU-MFVNsshRhOxpw?e=mc5wxe)
 
 
 ### Towaki Takikawa (NVIDIA)
