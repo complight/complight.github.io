@@ -11,6 +11,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+### Ruth Rosenholtz (Massachusetts Institute of Technology)
+??? Details
+    **Date:**
+    1st March 2023
+
+    **Presenter:** Ruth Rosenholtz, Massachusetts Institute of Technology
+
+    **Title:** Human vision at a glance
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ed-5GYuiBqtOu0G99oEpCVoBTwRSnqKiz8ukIIazM4Ai5g?e=J5OltU)
+
+
 ### Qi Sun (NYU)
 ??? Details
     **Date:**
