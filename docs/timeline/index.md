@@ -13,7 +13,7 @@ This work is a collaboration between
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 and [Kaan Akşit](https://kaanaksit.com).
 
-
+<br>
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
