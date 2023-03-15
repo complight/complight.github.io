@@ -4,7 +4,28 @@
 
 
 ### March
-### 15 February 2023
+### 28 March 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ieee.png" width="80" alt/>
+</div>
+[Our paper](https://complightlab.com/publications/holobeam/), `HoloBeam: Paper-Thin Near-Eye Displays`, is presented at [IEEE VR 2023](https://ieeevr.org/2023/).
+This work is a collaboration between
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ieee.png" width="80" alt/>
+</div>
+[Our paper](https://complightlab.com/publications/realistic_defocus_cgh/), `Realistic Defocus Blur for Multiplane Computer-Generated Holography`, is presented at [IEEE VR 2023](https://ieeevr.org/2023/).
+This work is a collaboration between
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
+[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
+[Hakan Ürey](https://mysite.ku.edu.tr/hurey/),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
+### 15 March 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/huawei.png" width="80" alt/>
 </div>
