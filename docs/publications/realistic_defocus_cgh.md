@@ -74,12 +74,20 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <img src="../media/realistic_defocus_ar_prototype.png" width="800" alt="Augmented Reality results">
 <p style="text-align:center;"><a href="../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
 
+
+# Presentation
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5CQvtoOggU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+
 # Relevant works from our group
 Here are relevant research works from our group:
 
 - [Odak](https://github.com/kunguz/odak)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
+- [HoloBeam: Paper-Thin Near-Eye Displays](https://complightlab.com/publications/holobeam/)
 
 # Contact
 Have any queries, questions, suggestions or comments, contact us via [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
