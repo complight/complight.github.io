@@ -11,6 +11,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+### Josef Spjut (NVIDIA)
+??? Details
+    **Date:**
+    15th March 2023
+
+    **Presenter:** Josef Spjut, Senior Research Scientist at NVIDIA
+
+    **Title:** Esports Rendering and Display: Psychophysical Experimentation
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EXw5wDtA8yFGnAxayTcMU-ABI8bq5L7Tq5FqSWwgmwX86A?e=VFcTGK)
+
+
+
 ### Ruth Rosenholtz (Massachusetts Institute of Technology)
 ??? Details
     **Date:**
