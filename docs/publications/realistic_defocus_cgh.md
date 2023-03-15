@@ -38,6 +38,12 @@
         }
         ```
 
+# Presentation
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5CQvtoOggU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+
 # Video
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5tG8SaJGpUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -73,12 +79,6 @@ Note that each image is focused at a different depth level.
 Here we show a photograph of our holographic display prototype with Augmented Reality support.
 <img src="../media/realistic_defocus_ar_prototype.png" width="800" alt="Augmented Reality results">
 <p style="text-align:center;"><a href="../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
-
-
-# Presentation
-<p style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5CQvtoOggU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
 
 
 # Relevant works from our group
