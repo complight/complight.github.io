@@ -2,6 +2,16 @@
 
 ## 2023
 
+
+### March
+### 15 February 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/huawei.png" width="80" alt/>
+</div>
+Kaan presented an invited talk titled `Could holographic displays be the key to achieving realism in displays?`.
+We are thankful to [Huawei, United Kingdom](https://www.huawei.com/uk/) for their kind hospitality.
+
+
 ### February
 ### 6 February 2023
 <div style="float: left; height:100px;" class="boxed">
