@@ -30,6 +30,13 @@
         }
         ```
 
+
+# Presentation
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDs0rAXX2yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+
 # Abstract
 An emerging alternative to conventional Augmented Reality (AR) glasses designs, Beaming displays promise slim AR glasses free from challenging design trade-offs, including battery-related limits or computational budget-related issues.
 These beaming displays remove active components such as batteries and electronics from AR glasses and move them to a projector that projects images to a user from a distance (1-2 meters), where users wear only passive optical eyepieces.
