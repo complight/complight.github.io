@@ -4,7 +4,7 @@
 
 
 ### March
-### 28 March 2023
+#### 28 March 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
@@ -25,7 +25,7 @@ This work is a collaboration between
 and [Kaan Akşit](https://kaanaksit.com).
 
 
-### 15 March 2023
+#### 15 March 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/huawei.png" width="80" alt/>
 </div>
@@ -34,7 +34,7 @@ We are thankful to [Huawei, United Kingdom](https://www.huawei.com/uk/) for thei
 
 
 ### February
-### 6 February 2023
+#### 6 February 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/university_of_rochester.png" width="80" alt/>
 </div>
