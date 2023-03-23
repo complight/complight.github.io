@@ -10,6 +10,17 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+### Taejun Kim (KAIST)
+??? Details
+    **Date:**
+    22nd March 2023
+
+    **Presenter:** Taejun Kim, PhD Student at KAIST
+
+    **Title:** Interface Control with Eye Movement
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbOatV5rwKFLukmjwOEp1EUBwqczlXUDgIK-DU5AXLYxuQ?e=apJVjC)
+
 
 ### Josef Spjut (NVIDIA)
 ??? Details
