@@ -87,7 +87,7 @@ Here are relevant research works from the authors:
 
 
 - [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf)
-- [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh)
+- [Realistic Defocus for Multiplane Computer-Generated Holography](../realistic_defocus_cgh)
 - [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals/)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
