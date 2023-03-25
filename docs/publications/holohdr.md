@@ -134,7 +134,7 @@ The authors wish to thank Koray Kavaklı for fruitful discussions.
 <img align='left' src="../../media/royal_society.png" width="100" alt/>
 <img align='left' src="../../media/meta_reality_labs.png" width="100" alt/>
 </div>
-Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype. Kaan Akşit is also supported by Meta Reality Labs inclusive rendering initiative 2022.
+Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 2021 Round 2 in building the hardware prototype. Kaan Akşit is also supported by Meta Reality Labs inclusive rendering initiative 2022. Liang Shi is supported by Meta Research PhD fellowship (2021-2023).
 <br />
 <br />
 <br />
@@ -144,14 +144,3 @@ Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 
 <br />
 
 
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../../media/meta_reality_labs.png" width="200" alt/>
-</div>
-Liang Shi is supported by Meta Research PhD fellowship (2021-2023).
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
