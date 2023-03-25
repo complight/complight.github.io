@@ -126,8 +126,6 @@ The group is open to public and you can become a member by following [this link]
     Please reach us through [email](mailto:k.aksit@ucl.ac.uk) to provide your feedback and comments.
 
 ## Acknowledgements
-The authors would like to thank reviewers for their valuable feedback.
-
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../../media/royal_society.png" width="100" alt/>
