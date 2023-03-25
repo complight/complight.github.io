@@ -1,6 +1,6 @@
 # Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception
 
-# People
+## People
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
@@ -24,7 +24,7 @@
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>University of California San Diego, <sup>4</sup>University of Cambridge, <sup>5</sup>Meta Reality Labs, <sup>6</sup>University of Washington  </p>
 <p style="text-align:center;"><b><a href="https://s2022.siggraph.org/presentation/?id=gensub_228&sess=sess168">SIGGRAPH 2022</a></b></p>
 
-# Resources
+## Resources
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z_AtSgct6_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -49,7 +49,7 @@
          series = {SIGGRAPH '22}
         }
 
-# Abstract
+## Abstract
 The evolution of the internet is underway, where immersive virtual 3D environments (commonly known as metaverse or telelife) will replace flat 2D interfaces.
 Crucial ingredients in this transformation are next-generation displays and cameras representing genuinely 3D visuals while meeting the human visual system's perceptual requirements.
 
@@ -65,7 +65,7 @@ This course targets a wide range of audiences, from domain experts to newcomers.
 To do so, examples from this course will be based on our in-house toolkit to be replicable for future use.
 The course material will provide example codes and a broad survey with crucial information on cameras, displays and perception.
 
-# Relevant research works
+## Relevant research works
 Here are relevant research works from the authors:
 
 - [Odak](https://github.com/kunguz/odak)
@@ -73,7 +73,7 @@ Here are relevant research works from the authors:
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Unrolled Primal-Dual Networks for Lensless Cameras](https://arxiv.org/abs/2203.04353)
 
-# Outreach
+## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
 The group is open to public and you can become a member by following [this link](../research_hub.md).
@@ -82,7 +82,7 @@ The group is open to public and you can become a member by following [this link]
 !!! Warning
     Please reach us through [email](mailto:k.aksit@ucl.ac.uk) or through [GitHub issues](https://github.com/complight/cameras-displays-perception-course/issues) to ask your questions or to provide your feedback and comments.
 
-# Acknowledgements
+## Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.
 
 <div style="float: left; height:200px;" class="boxed">

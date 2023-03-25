@@ -1,6 +1,6 @@
 # HoloBeam: Paper-Thin Near-Eye Displays
 
-# People
+## People
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
@@ -16,7 +16,7 @@
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>The University of Tokyo</p>
 <p style="text-align:center;"><b><a href="https://ieeevr.org/2023/">IEEE VR 2023</a></b></p>
 
-# Resources
+## Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.05057.pdf)
 :material-file-code: [Code](https://github.com/complight/multiholo)
 ??? info ":material-tag-text: Bibtex"
@@ -29,13 +29,13 @@
         }
 
 
-# Presentation
+## Presentation
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDs0rAXX2yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
-# Abstract
+## Abstract
 An emerging alternative to conventional Augmented Reality (AR) glasses designs, Beaming displays promise slim AR glasses free from challenging design trade-offs, including battery-related limits or computational budget-related issues.
 These beaming displays remove active components such as batteries and electronics from AR glasses and move them to a projector that projects images to a user from a distance (1-2 meters), where users wear only passive optical eyepieces.
 However, earlier implementations of these displays delivered poor resolutions (7 cycles per degree) without any optical focus cues and were introduced with a bulky form-factor eyepiece ($\sim50~mm$ thick).
@@ -46,7 +46,7 @@ Our HoloBeam prototypes demonstrate the thinnest AR glasses to date with a submi
 In addition, HoloBeam prototypes demonstrate near retinal resolutions ($24$ cycles per degree) with a $70$ degrees wide field of view.
 
 
-# Results
+## Results
 As a next step in [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf) , our work offers the thinnest and lightweight near-eye display to date.
 Our wearable eyepieces could just be a lens or a holographic optical element.
 <p style="text-align:center;">
@@ -80,7 +80,7 @@ Although we showed monochrome results mostly, HoloBeam can also show full color 
 <p style="text-align:center;"><a href="../media/holobeam_full_color.png">+Zoom</a></p>
 
 
-# Relevant research works
+## Relevant research works
 Here are relevant research works from the authors:
 
 
@@ -92,7 +92,7 @@ Here are relevant research works from the authors:
 - [Odak](https://github.com/kunguz/odak)
 
 
-# Outreach
+## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
 The group is open to public and you can become a member by following [this link](../research_hub.md).
@@ -101,7 +101,7 @@ The group is open to public and you can become a member by following [this link]
 !!! Warning
     Please reach us through [email](mailto:k.aksit@ucl.ac.uk) to provide your feedback and comments.
 
-# Acknowledgements
+## Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.
 The authors wish to thank Koray Kavaklı for fruitful discussions.
 

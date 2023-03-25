@@ -1,6 +1,6 @@
 # HoloHDR: Multi-color Holograms Improve Dynamic Range
 
-# People
+## People
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
@@ -27,7 +27,7 @@
 </p>
 <p style="text-align:center;"><b>arXiv</b></p>
 
-# Resources
+## Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
 :material-file-code: [Code](https://github.com/complight/holohdr)
 ??? info ":material-tag-text: Bibtex"
@@ -40,7 +40,7 @@
         }
 
 
-# Abstract
+## Abstract
 Holographic displays generate Three-Dimensional (3D) images by displaying single-color holograms time-sequentially, each lit by a single-color light source.
 However, representing each color one by one limits peak brightness and dynamic range in holographic displays.
 
@@ -51,7 +51,7 @@ We co-optimize multi-color holograms and required brightness levels from each li
 We experimentally demonstrate that HoloHDR can increase the brightness levels in holographic displays up to three times with support for a broader dynamic range, unlocking new potentials for perceptual realism in holographic displays.
 
 
-# Results
+## Results
 
 Conventional holographic displays use a single Spatial Light Modulator (SLM) and reconstruct full-color images by time-sequentially displaying single-color holograms, each dedicated to a color channel.
 When holographic displays reconstruct scenes with brightness levels beyond the peak intensity of their corresponding color channels, the result could often lead to darker images than the intended levels and produce visual distortions or color mismatches (see conventional case below figure).
@@ -104,7 +104,7 @@ HoloHDR can also support three-dimensional multiplanar images.
 
 
 
-# Relevant research works
+## Relevant research works
 Here are relevant research works from the authors:
 
 
@@ -116,7 +116,7 @@ Here are relevant research works from the authors:
 - [Odak](https://github.com/kunguz/odak)
 
 
-# Outreach
+## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
 The group is open to public and you can become a member by following [this link](../research_hub.md).
@@ -125,7 +125,7 @@ The group is open to public and you can become a member by following [this link]
 !!! Warning
     Please reach us through [email](mailto:k.aksit@ucl.ac.uk) to provide your feedback and comments.
 
-# Acknowledgements
+## Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.
 The authors wish to thank Koray Kavaklı for fruitful discussions.
 

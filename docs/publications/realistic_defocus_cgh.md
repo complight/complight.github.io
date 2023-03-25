@@ -1,6 +1,6 @@
 # Realistic Defocus Blur for Multiplane Computer-Generated Holography
 
-# People
+## People
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
@@ -20,7 +20,7 @@
 <p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>The University of Tokyo</p>
 <p style="text-align:center;"><b><a href="https://ieeevr.org/2023/">IEEE VR 2023</a></b></p>
 
-# Resources
+## Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2205.07030)
 :material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
 :material-file-code: [Code](https://github.com/complight/realistic_defocus)
@@ -38,18 +38,18 @@
         }
         ```
 
-# Presentation
+## Presentation
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5CQvtoOggU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
-# Video
+## Video
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5tG8SaJGpUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-# Abstract
+## Abstract
 This paper introduces a new multiplane CGH computation method to reconstruct artefact-free high-quality holograms with natural-looking defocus blur. 
 Our method introduces a new targeting scheme and a new loss function.
 While the targeting scheme accounts for defocused parts of the scene at each depth plane, the new loss function analyzes focused and defocused parts separately in reconstructed images.
@@ -57,7 +57,7 @@ Our method support phase-only CGH calculations using various iterative (e.g., Ge
 We achieve our best image quality using a modified gradient descent-based optimization recipe where we introduce a constraint inspired by the double phase method.
 We validate our method experimentally using our proof-of-concept holographic display, comparing various algorithms, including multi-depth scenes with sparse and dense contents.
 
-# Results
+## Results
 In this work, we demonstrate a new rendering pipeline for multiplane Computer-Generated Holography that can provide near-accurate defocus blur.
 <img src="../media/realistic_defocus_focus_stack.gif" width="800" alt="Focal stack">
 <p style="text-align:center;"><a href="../media/realistic_defocus_focus_stack.gif">+Zoom</a></p>
@@ -81,7 +81,7 @@ Here we show a photograph of our holographic display prototype with Augmented Re
 <p style="text-align:center;"><a href="../media/realistic_defocus_ar_prototype.png">+Zoom</a></p>
 
 
-# Relevant works from our group
+## Relevant works from our group
 Here are relevant research works from our group:
 
 - [Odak](https://github.com/kunguz/odak)
@@ -89,10 +89,10 @@ Here are relevant research works from our group:
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [HoloBeam: Paper-Thin Near-Eye Displays](https://complightlab.com/publications/holobeam/)
 
-# Contact
+## Contact
 Have any queries, questions, suggestions or comments, contact us via [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
 
-# Acknowledgements
+## Acknowledgements
 [comment]: <> (The authors would like to thank reviewers for their valuable feedback.)
 We also thank 
 Erdem Ulusoy and Güneş Aydındoğan for discussions in the early phases of the project; 
