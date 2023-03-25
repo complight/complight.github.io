@@ -25,7 +25,6 @@
 :material-video-account: [Project video](https://youtu.be/5tG8SaJGpUc)
 :material-file-code: [Code](https://github.com/complight/realistic_defocus)
 ??? info ":material-tag-text: Bibtex"
-        ```
         @misc{kavakli2022realisticdefocus,
           doi = {10.48550/ARXIV.2205.07030},
           url = {https://arxiv.org/abs/2205.07030},
@@ -36,7 +35,6 @@
           year = {2022},
           copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
         }
-        ```
 
 ## Presentation
 <p style="text-align:center;">
