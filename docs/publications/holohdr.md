@@ -78,7 +78,7 @@ We experimentally verify our findings using a holographic display prototype by s
 
 Below figure shows photographs from our holographic display for conventional and \projectname schemes (more sample results in our supplementary).
 For such a scene, HoloHDR can safely support up to $\times1.8$ peak brightness without causing significant image distortions or artifacts.
-On the other hand, the conventional hologram fails to support peak brightness higher than 1.0.
+On the other hand, the conventional hologram fails to support peak brightness higher than $\times1.0$.
 Beyond $\times1.8$ peak brightness levels, images are typically heavily dominated by noise in the conventional case.
 
 
