@@ -24,7 +24,6 @@ We share our scientific output in the form of [published articles and papers](ht
 Our primary software toolkit to tackle our research problems is public and open-source.
 We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
 We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
-
 To read more about our recent activities, please visit our [recent timeline](../timeline).
 Our research focus in terms of applications is depicted in the below conceptual figure.
 
