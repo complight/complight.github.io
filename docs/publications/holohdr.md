@@ -142,3 +142,16 @@ Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 
 <br />
 <br />
 <br />
+
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/meta_reality_labs.png" width="200" alt/>
+</div>
+Liang Shi is supported by Meta Research PhD fellowship (2021-2023).
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
