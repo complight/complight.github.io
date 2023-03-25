@@ -33,7 +33,6 @@
 :material-file-code: [Code](https://github.com/complight/cameras-displays-perception-course)
 :material-newspaper-variant: [Foreword](https://github.com/complight/cameras-displays-perception-course/blob/main/latex/course.pdf)
 ??? info ":material-tag-text: Bibtex"
-        ```
         @inproceedings{10.1145/3532720.3535650,
          author = {Kavakli, Koray and Walton, David Robert and Antipa, Nick and Mantiuk, Rafa\l{} and Lanman, Douglas and Ak\c{s}it, Kaan},
          title = {Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception},
@@ -49,7 +48,6 @@
          location = {Vancouver, British Columbia, Canada},
          series = {SIGGRAPH '22}
         }
-        ```
 
 # Abstract
 The evolution of the internet is underway, where immersive virtual 3D environments (commonly known as metaverse or telelife) will replace flat 2D interfaces.
