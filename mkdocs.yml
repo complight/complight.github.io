@@ -10,7 +10,14 @@ repo_url: 'https://github.com/complight'
 copyright: 'Copyright &copy; 2023'
 
 nav:
-  - Home: 'index.md'
+  - Home:
+    - Welcome: 'index.md'
+    - Recent news: 'timeline/index.md'
+    - List of publications: 'publications/index.md'
+    - Current members and alumni: 'people/index.md'
+    - Courses: 'teaching/index.md'
+    - Seminars: 'seminars/index.md'
+    - Research Hub: 'research_hub.md'
   - People:
     - Current members and alumni: 'people/index.md'
   - Timeline: 

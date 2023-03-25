@@ -8,7 +8,9 @@
     Computational light laboratory is located at `room G06, 169 Euston Road, London NW1 2AE, United Kingdom`.
 
 
-## Highlighted Presentations
+## Highlighted Works
+To learn more about our work beyond highlighted ones, please visit our [publications page.](publications)
+
 <center>
 <iframe width="240" height="155" src="https://www.youtube.com/embed/kqOQLFaTZwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="240" height="155" src="https://www.youtube.com/embed/5tG8SaJGpUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,14 +33,13 @@ Our research focus in terms of applications is depicted in the below conceptual 
 </p>
 
 
-## Announcements and Useful Information
+## Useful Information
 
 !!! Info
     Our laboratory organizes weekly seminars. To get more information about these seminars, please [click here](../seminars).
 
 !!! Info
     Our laboratory hosts a research hub in the form of a public Slack group. To get more information about these seminars, please [click here](../research_hub).
-
 
 !!! Question
     If you are interested in joining our group as an intern, an undergraduate student, a master student, a PhD student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).
