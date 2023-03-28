@@ -64,7 +64,7 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 </div>
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 
-<img src="https://img.shields.io/badge/-ArxiV-yellow">
+<img src="https://img.shields.io/badge/-Optics Express-informational">
 
 [Ahmet Güzel](https://aguzel.github.io/),
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian-736824183),
