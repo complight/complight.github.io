@@ -141,3 +141,17 @@ Kaan Akşit is supported by the Royal Society's RGS\R2\212229 - Research Grants 
 <br />
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../../media/eu_horizon2020.png" width="100" alt/>
+<img align='left' src="../../media/tubitak.png" width="100" alt/>
+</div>
+Hakan Urey is supported by the European Innovation Council’s HORIZON-EIC-2021-TRANSITION-CHALLENGES program Grant Number 101057672 and Tübitak’s 2247-A National Lead Researchers Program, Project Number 120C145.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
