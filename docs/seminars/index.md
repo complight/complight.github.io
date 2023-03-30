@@ -10,6 +10,19 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+### Yuhao Zhu (University of Rochester)
+??? Details
+    **Date:**
+    29th March 2023
+
+    **Presenter:** Yuhao Zhu, University of Rochester
+
+    **Title:** Perceptually-Driven Visual Computing Systems Design
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Yuhao%20Zhu,%20University%20of%20Rochester.mp4?csf=1&web=1&e=qFabyM)
+
+
 ### Taejun Kim (KAIST)
 ??? Details
     **Date:**
