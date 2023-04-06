@@ -62,6 +62,19 @@ MSc Student
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/yicheng_zhan.png" width="160" alt/>
+</div>
+[Yicheng Zhan](https://github.com/AlberTgarY)
+
+MSc Student
+
+:material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
+
+:material-office-building: Office: G06
+<br clear="left"/>
+
+
 ## Alumni
 
 ### 2022
