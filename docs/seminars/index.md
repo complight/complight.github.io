@@ -11,7 +11,6 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
-
 ### Zerrin Yumak (Utrecht University)
 ??? Details
     **Date:**
