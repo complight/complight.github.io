@@ -17,12 +17,23 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     12th April 2023
 
-    **Presenter:** Zerrin Yumak, Utrecht University
+    **Presenter:** [Zerrin Yumak](https://www.zerrinyumak.com/), Assistant Professor at Utrecht University
 
     **Title:** AI-driven Virtual Humans with Non-verbal Communication Skills
 
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESkvk_XoW3REmYhaiF-W338BzRBAct16ihurRQtNh-8o4w?e=YbSwIa)
 
+
+### Elia Gatti (University College London)
+??? Details
+    **Date:**
+    5th April 2023
+
+    **Presenter:** [Elia Gatti](https://scholar.google.it/citations?user=t3l5yRoAAAAJ&hl=en), Assistant Professor at University College London
+
+    **Title:** AI-driven Virtual Humans with Non-verbal Communication Skills
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETwBtQxoEf9HgdcnSISyJrQBpi_FIeU7425i3tXKm7dYLw?e=fqzbqp)
 
 
 ### Yuhao Zhu (University of Rochester)
@@ -30,7 +41,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     29th March 2023
 
-    **Presenter:** Yuhao Zhu, University of Rochester
+    **Presenter:** [Yuhao Zhu](https://yuhaozhu.com/), University of Rochester
 
     **Title:** Rethinking Imaging-Computing Interface
 
@@ -42,7 +53,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     22nd March 2023
 
-    **Presenter:** Taejun Kim, PhD Student at KAIST
+    **Presenter:** [Taejun Kim](https://taejun13.github.io/), PhD Student at KAIST
 
     **Title:** Interface Control with Eye Movement
 
@@ -54,7 +65,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     15th March 2023
 
-    **Presenter:** Josef Spjut, Senior Research Scientist at NVIDIA
+    **Presenter:** [Josef Spjut](http://josef.spjut.me/), Senior Research Scientist at NVIDIA
 
     **Title:** Esports Rendering and Display: Psychophysical Experimentation
 
@@ -67,7 +78,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     1st March 2023
 
-    **Presenter:** Ruth Rosenholtz, Massachusetts Institute of Technology
+    **Presenter:** [Ruth Rosenholtz](http://persci.mit.edu/people/rosenholtz), Principal Research Scientist at Massachusetts Institute of Technology
 
     **Title:** Human vision at a glance
 
@@ -79,7 +90,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     21st February 2023
 
-    **Presenter:** Qi Sun, Assistant Professor at NYU
+    **Presenter:** [Qi Sun](http://qisun.me/), Assistant Professor at NYU
 
     **Title:** Co-Optimizing Human-System Performance in VR/AR
 
@@ -91,7 +102,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     8th February 2023
 
-    **Presenter:** Towaki Takikawa, Research Scientist at NVIDIA
+    **Presenter:** [Towaki Takikawa](https://tovacinni.github.io/), Research Scientist at NVIDIA
 
     **Title:** Towards Volumetric Multimedia Compression and Transport with Neural Fields
 
