@@ -132,7 +132,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 [Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
 [David R. Walton](https://drwalton.github.io/),
-[Kaan Akşit](https://kaanaksit.com)
+[Kaan Akşit](https://kaanaksit.com),
 [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/),
 [David Swapp](https://scholar.google.co.in/citations?user=sQhgJh4AAAAJ&hl=en),
 [Anthony Steed](http://vecg.cs.ucl.ac.uk/)
