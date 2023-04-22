@@ -2,6 +2,13 @@
 
 ## 2023
 
+### April
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+[Our paper](http://complightlab.com/ChromaCorrect/), `ChromaCorrect: Prescription Correction in VIrtual Reality Headsets through Perceptual Guidance`, is published at Optica's Biomedical Optics Express.
+This work is a result of a collaboration with [Ahmet H. Güzel](https://aguzel.github.io/), [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/?trk=public_profile_browsemap&originalSubdomain=uk) and [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/).
+
 
 ### March
 #### 28 March 2023
