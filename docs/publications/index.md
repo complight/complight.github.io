@@ -37,7 +37,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="https://img.shields.io/badge/-Biomedical Optics Express-informational">
 
 [Ahmet Güzel](https://aguzel.github.io/),
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian-736824183),
