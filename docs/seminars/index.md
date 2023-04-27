@@ -15,7 +15,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     26th April 2023
 
-    **Presenter:** [İnci Ayhanı](https://psychology.boun.edu.tr/İnciAyhan), Associate Professor at Bogazici University
+    **Presenter:** [İnci Ayhan](https://psychology.boun.edu.tr/İnciAyhan), Associate Professor at Bogazici University
 
     **Title:** Cognitive Embodiment and Affordance Perception in the Virtual Reality Environment
 
