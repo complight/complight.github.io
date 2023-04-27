@@ -10,6 +10,17 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+### İnci Ayhan (Bogazici University)
+??? Details
+    **Date:**
+    26th April 2023
+
+    **Presenter:** [İnci Ayhanı](https://psychology.boun.edu.tr/İnciAyhan), Associate Professor at Bogazici University
+
+    **Title:** Cognitive Embodiment and Affordance Perception in the Virtual Reality Environment
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX1rHHCoaF1Nj6ZYwsP_LkcBxKJhd3oTFMtxmvEWZinlnQ?e=DdNdHV)
+
 
 ### Zerrin Yumak (Utrecht University)
 ??? Details
