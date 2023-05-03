@@ -10,6 +10,20 @@ Overall, seminars are a blend of internal and external presenters.
 ## 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+### Michael Proulx (Meta Reality Labs and University of Bath)
+??? Details
+    **Date:**
+    3rd May 2023
+
+    **Presenter:** [Michael Proulx](https://researchportal.bath.ac.uk/en/persons/michael-proulx), Reader at University of Bath and Research Scientist at Meta Reality Labs
+
+    **Title:** Visual interactions in Extended Reality
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EazqGWiEhadFm4sJL_5sBU4Bk3K6SNn6Cm53yhHqUJBGdw?e=Zm2O03)
+
+
+
+
 ### İnci Ayhan (Bogazici University)
 ??? Details
     **Date:**
