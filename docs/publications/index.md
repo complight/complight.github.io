@@ -8,6 +8,7 @@
 **Autocolor: Learned Light Power Control for Multi-Color Holograms**
 
 <img src="https://img.shields.io/badge/-ArxiV-yellow">
+
 [Yicheng Zhan](https://github.com/AlberTgarY),
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
