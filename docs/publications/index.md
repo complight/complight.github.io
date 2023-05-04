@@ -3,6 +3,34 @@
 
 ## 2023
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/autocolor.png" width="200" alt/>
+</div>
+**Autocolor: Learned Light Power Control for Multi-Color Holograms**
+
+<img src="https://img.shields.io/badge/-ArxiV-yellow">
+[Yicheng Zhan](https://github.com/AlberTgarY),
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Qi Sun](https://qisun.me/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+
+:material-web: [Project site](autocolor)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2305.01611.pdf)
+:material-file-code: [Code](https://github.com/complight/autocolor)
+??? info ":material-tag-text: Bibtex"
+	```
+        @article{zhan2023autocolor,
+          title = {AutoColor: Learned Light Power Control for Multi-Color Holograms},
+          author = {Zhan, Yicheng and Kavakl{\i}, Koray and Urey, Hakan and Sun, Qi and Akşit, Kaan},
+          year = {2023},
+          month = may,
+        }
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/holohdr.png" width="200" alt/>
 </div>
 **HoloHDR: Multi-color Holograms Improve Dynamic Range**
