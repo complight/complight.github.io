@@ -16,7 +16,7 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 
-:material-web: [Project site](autocolor)
+:material-web: [Project site](autocolor_)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2305.01611.pdf)
 :material-file-code: [Code](https://github.com/complight/autocolor)
 ??? info ":material-tag-text: Bibtex"
