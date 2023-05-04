@@ -78,7 +78,7 @@ Here are relevant research works from the authors:
 ## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
-The group is open to public and you can become a member by following [this link](../research_hub.md).
+The group is open to public and you can become a member by following [this link](../outreach/index.md).
 
 ## Contact Us
 !!! Warning

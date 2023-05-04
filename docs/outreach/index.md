@@ -1,4 +1,26 @@
-# Seminars
+# Outreach
+
+## Research Hub
+!!! Info
+    We started a public Slack group dedicated to scientists researching computer graphics, human visual perception, computational photography and computational displays. We aim to build a single hub for everyone and provide all members with a gateway to:
+
+    - meet others in the field,
+    - find collaborators worldwide,
+    - introduce open-source tools for research,
+    - announce and plan events in major conferences (e.g., SIGGRAPH, CVPR, IEEE VR, SPIE PW),
+    - advertise opportunities for others (e.g., internships, jobs, initiatives, grants),
+    - promote their most recent research,
+    - find subjects for their experiments,
+
+    But ost of all, the primary goal is to stay connected to sustain a healthy research field. To join our Slack channel and contribute to future conversations, please use the provided below link:
+
+
+    [https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg](https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg)
+
+    Please do not hesitate to share the invitation link with other people in your field. If you encounter any issue with the link, please do not hesitate to reach us using [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+
+
+## Seminars
 We organize a seminar series named `High-Beams`.
 High-Beams seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
@@ -7,10 +29,10 @@ Overall, seminars are a blend of internal and external presenters.
     If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
 
 
-## 2023
+### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
-### Michael Proulx (Meta Reality Labs and University of Bath)
+#### Michael Proulx (Meta Reality Labs and University of Bath)
 ??? Details
     **Date:**
     3rd May 2023
@@ -24,7 +46,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
 
 
-### İnci Ayhan (Bogazici University)
+#### İnci Ayhan (Bogazici University)
 ??? Details
     **Date:**
     26th April 2023
@@ -36,7 +58,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX1rHHCoaF1Nj6ZYwsP_LkcBxKJhd3oTFMtxmvEWZinlnQ?e=DdNdHV)
 
 
-### Zerrin Yumak (Utrecht University)
+#### Zerrin Yumak (Utrecht University)
 ??? Details
     **Date:**
     12th April 2023
@@ -48,7 +70,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESkvk_XoW3REmYhaiF-W338BzRBAct16ihurRQtNh-8o4w?e=YbSwIa)
 
 
-### Elia Gatti (University College London)
+#### Elia Gatti (University College London)
 ??? Details
     **Date:**
     5th April 2023
@@ -60,7 +82,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETwBtQxoEf9HgdcnSISyJrQBpi_FIeU7425i3tXKm7dYLw?e=fqzbqp)
 
 
-### Yuhao Zhu (University of Rochester)
+#### Yuhao Zhu (University of Rochester)
 ??? Details
     **Date:**
     29th March 2023
@@ -72,7 +94,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Yuhao%20Zhu,%20University%20of%20Rochester.mp4?csf=1&web=1&e=qFabyM)
 
 
-### Taejun Kim (KAIST)
+#### Taejun Kim (KAIST)
 ??? Details
     **Date:**
     22nd March 2023
@@ -84,7 +106,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbOatV5rwKFLukmjwOEp1EUBwqczlXUDgIK-DU5AXLYxuQ?e=apJVjC)
 
 
-### Josef Spjut (NVIDIA)
+#### Josef Spjut (NVIDIA)
 ??? Details
     **Date:**
     15th March 2023
@@ -97,7 +119,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
 
 
-### Ruth Rosenholtz (Massachusetts Institute of Technology)
+#### Ruth Rosenholtz (Massachusetts Institute of Technology)
 ??? Details
     **Date:**
     1st March 2023
@@ -109,7 +131,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ed-5GYuiBqtOu0G99oEpCVoBTwRSnqKiz8ukIIazM4Ai5g?e=J5OltU)
 
 
-### Qi Sun (NYU)
+#### Qi Sun (NYU)
 ??? Details
     **Date:**
     21st February 2023
@@ -121,7 +143,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Eek3p9fo4zxOtIPBuBdfpmIBd-bdBJJU-MFVNsshRhOxpw?e=mc5wxe)
 
 
-### Towaki Takikawa (NVIDIA)
+#### Towaki Takikawa (NVIDIA)
 ??? Details
     **Date:**
     8th February 2023
@@ -134,12 +156,12 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
 
 
-## 2022
+### 2022
 The seminar series of 2022 is conducted with the help of several key people at University College London.
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citations?user=BHUj3DkAAAAJ&hl=en), [Oliver Kingshott](http://oliver.kingshott.com/), [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), and [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D) for the moderation and organization of several of these events.
 
-### Ernst Kruijff (Bonn-Rhein-Sieg University of Applied Sciences)
+#### Ernst Kruijff (Bonn-Rhein-Sieg University of Applied Sciences)
 ??? Details
     **Date:**
     29th November 2022
@@ -152,7 +174,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
 
 
 
-### Aykut Erdem (Koç University)
+#### Aykut Erdem (Koç University)
 ??? Details
     **Date:**
     23th November 2022
@@ -165,7 +187,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
 
 
 
-### Gül Varol (École des Ponts ParisTech)
+#### Gül Varol (École des Ponts ParisTech)
 ??? Details
     **Date:**
     16th November 2022
@@ -177,7 +199,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Efqh84EFAwhFt1t9_3g2U1wB3FQ65gN5f25A9J_ole8kLg?e=rdNQ6n)
 
 
-### Ana Serrano (Universidad de Zaragoza)
+#### Ana Serrano (Universidad de Zaragoza)
 ??? Details
     **Date:**
     2nd November 2022
@@ -189,7 +211,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcBnevu-u3lGt6x2adXYpj0BqN0NDWY0XzfTEi_S-htUJA?e=DJ6WCK)
 
 
-### Praneeth Chakravarthula (Princenton University)
+#### Praneeth Chakravarthula (Princenton University)
 ??? Details
     **Date:**
     27th October 2022
@@ -201,7 +223,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETJatVqxrzRNlA6ZU0FxCsQBufk5K7ekzF1LDEv9C8bs_A?e=aQuf5c)
 
 
-### Koki Nagano (NVIDIA)
+#### Koki Nagano (NVIDIA)
 ??? Details
     **Date:**
     12th October 2022
@@ -213,7 +235,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZ-uoPZXPYpEhB7Hd3shGsIBxqcQesyquCfB_zIg8G4eUg?e=tK9m1H)
 
 
-### Peter Wonka (King Abdullah University of Science and Technology)
+#### Peter Wonka (King Abdullah University of Science and Technology)
 ??? Details
     **Date:**
     28th September 2022
@@ -225,7 +247,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EeShuJI2SZJIohN-w3OCpUEB_UmPaUuLIJIdkmvy64fnUQ?e=5d72aQ)
 
 
-### Rob Lindeman (University of Canterbury)
+#### Rob Lindeman (University of Canterbury)
 ??? Details
     **Date:**
     21st September 2022
@@ -237,7 +259,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EdIuOR-JnjtLpOT0Bx2eWrgBPfjCQjclTLflwQV9VOzAfQ?e=ICCa81)
 
 
-### Felix Heide (Princenton University)
+#### Felix Heide (Princenton University)
 ??? Details
     **Date:**
     7th September 2022
@@ -249,7 +271,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfQnCtEC8etIpxwr5zd9OogB_ERZ_BEdaVSmtURAVxSPag?e=Ub0kTw)
 
 
-### Yulia Gryaditskaya (Surrey Institute for People-Centred Artifical Intelligence)
+#### Yulia Gryaditskaya (Surrey Institute for People-Centred Artifical Intelligence)
 ??? Details
     **Date:**
     1st June 2022
@@ -261,7 +283,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EQMrOUuUOHBJqaX-Uga8QEMBZ1DxdqrrXor-itwgO2qi3g?e=YARFKB)
 
 
-### Michael Bauer (NVIDIA)
+#### Michael Bauer (NVIDIA)
 ??? Details
     **Date:**
     25th May 2022
@@ -273,7 +295,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EesFeWu0PvBJlHe-Syn3mwABKPR9Bg95unz1CgsGyrtzMw?e=dItZ1f)
 
 
-### Mark Pauly (EPFL)
+#### Mark Pauly (EPFL)
 ??? Details
     **Date:**
     18th May 2022
@@ -285,7 +307,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUnZ8n8JQhJCtN7jtfTeWnoB6924sbc7tGaLDuQ5ieb3kA?e=FROpfR)
 
 
-### Tuanfeng Wang (Adobe)
+#### Tuanfeng Wang (Adobe)
 ??? Details
     **Date:**
     11th May 2022
@@ -297,7 +319,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EXdNxkztrdlOmJkWWY1KN-IBJwon0PZ9kMUZtT3zq82L0g?e=1Wg7vj)
 
 
-### Tim Weyrich (FAU and UCL)
+#### Tim Weyrich (FAU and UCL)
 ??? Details
     **Date:**
     4th May 2022
@@ -309,7 +331,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETcSzJLMbNpBstz8K4TNFnsBQ2dRfGduJmD3uU9e8TzRzg?e=95GFNY)
 
 
-### Sanjeev Muralikrishnan (UCL)
+#### Sanjeev Muralikrishnan (UCL)
 ??? Details
     **Date:**
     27th April 2022
@@ -321,7 +343,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYzPFm66WUpDohxIv8ivlMcB4qVUXT3dDKIHe892e7ViJw?e=pGZlw4)
 
 
-### Valentin Deschaintre (Adobe)
+#### Valentin Deschaintre (Adobe)
 ??? Details
     **Date:**
     20th April 2022
@@ -333,7 +355,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Eb9W-YEYIppEiFye5vxA5KEBtqKccUu-HIvlcg-RsM6j0w?e=AbvCLS)
 
 
-### Dan Archer (University College London) and Animesh Karnewar (University College London)
+#### Dan Archer (University College London) and Animesh Karnewar (University College London)
 ??? Details
     **Date:**
     23rd March 2022
@@ -351,7 +373,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ee_tswBpAgRBuhE437vMNAAB-jc-OWt8IMzH39QLjzUMEQ?e=oU09hZ)
 
 
-### Oya Celiktutan (King's College London)
+#### Oya Celiktutan (King's College London)
 ??? Details
     **Date:**
     23rd March 2022
@@ -363,7 +385,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUbiHFspo2JOkwEz4aa5JIUBCU956ey4Z3xeRV9ObaCudw?e=QUUlwD)
 
 
-### Iuri Frosio (NVIDIA)
+#### Iuri Frosio (NVIDIA)
 ??? Details
     **Date:**
     17th March 2022
@@ -375,7 +397,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfguBwfjiXFOj03v92MAKoQBExSvzy5dlKrxoGfqcr53Zg?e=hXQJwa)
 
 
-### Avi Bar-Zeev (RealityPrime)
+#### Avi Bar-Zeev (RealityPrime)
 ??? Details
     **Date:**
     9th March 2022
@@ -387,7 +409,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EWaDPH9aRRxPuK0z3IkLylkBFua1VZOtSZkYSAlOqLh5oQ?e=uZXgaa)
 
 
-### Vinoba Vinayagamoorthy (British Broadcasting Corporation)
+#### Vinoba Vinayagamoorthy (British Broadcasting Corporation)
 ??? Details
     **Date:**
     2nd March 2022
@@ -399,7 +421,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbdjstMaqBJIkhRqV-adNhsB1mC9VaLHgtba8-Bbwatt6w?e=kmzjJW)
 
 
-### Lauria Waller (University of California, Berkeley)
+#### Lauria Waller (University of California, Berkeley)
 ??? Details
     **Date:**
     23rd February 2022
@@ -411,7 +433,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbuXLxcFSJtPr0N0uGHGx1gBSlkXpkeEPDJA-Sd3lfazcQ?e=RWvdEH)
 
 
-### Doğa Doğan (Massachusetts Institute of Technology)
+#### Doğa Doğan (Massachusetts Institute of Technology)
 ??? Details
     **Date:**
     16th February 2022
@@ -425,7 +447,7 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETMEDDJOZlROgGpR-YxV-hYBS50vfpDhERSX-qk0sVRgyg?e=f645PW)
 
 
-### Anthony Steed (University College London)
+#### Anthony Steed (University College London)
 ??? Details
     **Date:**
     2nd February 2022
@@ -439,12 +461,12 @@ Kaan has received help from [Simon Julier](https://scholar.google.co.uk/citation
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZaBf_xBuN5Jk4_4CuIkwkcBv04hEnpeDX53fg-G8tkSXQ?e=eUsrD4)
 
 
-## 2021
+### 2021
 The seminar series of 2021 is conducted with the help of several key people at University College London.
 Many of these seminars are coordinated by [Kaan Akşit](https://kaanaksit.com). 
 Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/klara-brandst%C3%A4tter-79b72820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxbCdu1E4RmWqTPAsdCipMw%3D%3D), [Felix Thiel](https://www.linkedin.com/in/felix-thiel-97a22215a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGgHpsDNOTWeGPFWcUC5M6A%3D%3D), [Oliver Kingshott](http://oliver.kingshott.com/), [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/), [Tim Weyrich](https://reality.cs.ucl.ac.uk/weyrich.html) and [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) for moderation and organization of several of these events.
 
-### Sebastian Friston (University College London)
+#### Sebastian Friston (University College London)
 ??? Details
     **Date:**
     24th November 2021
@@ -458,7 +480,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYH8Yq_yXBBHhLG9CRWfUVEBBxURiNmzAOSc82GEm7E6Dg?e=wVdCgL)
 
 
-### Wolfgang Stürzlinger (Simon Fraser University)
+#### Wolfgang Stürzlinger (Simon Fraser University)
 ??? Details
     **Date:**
     17th November 2021
@@ -473,7 +495,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
 
 
 
-### Nels Numan (University College London) and Koray Kavaklı (Koç University)
+#### Nels Numan (University College London) and Koray Kavaklı (Koç University)
 ??? Details
     **Date:**
     10th November 2021
@@ -491,7 +513,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETIIv8O6ekNCuL65-zzNzMUBd8ijx_bj4iBkxbAVJ-8XRQ?e=NL2VeV)
 
 
-### David Swapp (University College London)
+#### David Swapp (University College London)
 ??? Details
     **Date:**
     3th November 2021
@@ -503,7 +525,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVxGxcDUd9dFkge_K6yOkIMB0EgtYj6DGlZ-dFqOFCK1_w?e=Uj94I4)
 
 
-### Katharina Krösl (VRVis Zentrum für Virtual Reality and Visualisierung)
+#### Katharina Krösl (VRVis Zentrum für Virtual Reality and Visualisierung)
 ??? Details
     **Date:**
     20th October 2021
@@ -515,7 +537,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVM3v-kW2GJGsOLin5AMzbUB8woPiqjf7gYZiElDaD9ndg?e=e6aC1n)
 
 
-### Morgan Mcguire (Roblox)
+#### Morgan Mcguire (Roblox)
 ??? Details
     **Date:**
     14th October 2021
@@ -527,7 +549,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EQGEx6HwqJhCnkZWeL-dg6EB4q_6K9Rg5bZUi7XRmODuwQ?e=AY7xs5)
 
 
-### Wenzel Jakob (École Polytechnique Fédérale de Lausanne)
+#### Wenzel Jakob (École Polytechnique Fédérale de Lausanne)
 ??? Details
     **Date:**
     6th October 2021
@@ -539,7 +561,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERtrHoiLiW1HiN15xhfEbO4BHzohd4lvInuvS_m6UIKYCQ?e=taG9ec)
 
 
-### Gordon Wetzstein (Stanford University)
+#### Gordon Wetzstein (Stanford University)
 ??? Details
     **Date:**
     29th September 2021
@@ -551,7 +573,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcokYFA0A65BsQRC_AKQ_2EBWDa7Jkphm_d1ISDKAvyCXw?e=vFNpJl)
 
 
-### Anjul Patney (NVIDIA)
+#### Anjul Patney (NVIDIA)
 ??? Details
     **Date:**
     22nd September 2021
@@ -563,7 +585,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZKlgCP8Z2FLt_ct1iG0ilIB_kWrPaAcDusG-KdXo6HCnA?e=YnwfDo)
 
 
-### Douglas Lanman (Facebook)
+#### Douglas Lanman (Facebook)
 ??? Details
     **Date:**
     15th September 2021
@@ -575,7 +597,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ed0LTDZoxZ5Ar1B-EAksycgBLrMVSyGXLlhtGu9YFEYFOA?e=XVOyZh)
 
 
-### Sylvia Xueni Pan (Gold Smiths, University of London)
+#### Sylvia Xueni Pan (Gold Smiths, University of London)
 ??? Details
     **Date:**
     8th September 2021
@@ -587,7 +609,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETE1DpOkDHtGvvDGMFT8FFEBCbMhn5XxAREbfHzykz_zFQ?e=FyMlXH)
 
 
-### Duygu Ceylan (Adobe)
+#### Duygu Ceylan (Adobe)
 ??? Details
     **Date:**
     28th July 2021
@@ -600,7 +622,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
 
 
 
-### Oliver Kingshott and Michael Fischer (University College London)
+#### Oliver Kingshott and Michael Fischer (University College London)
 ??? Details
     **Date:**
     21th July 2021
@@ -618,7 +640,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ET_IOcvnydpEsbrrIvEIj8gB8R8V5eue2lORC9K7OtWFCg?e=mZz485)
 
 
-### Yuta Itoh (Tokyo Institute of Technology)
+#### Yuta Itoh (Tokyo Institute of Technology)
 ??? Details
     **Date:**
     14th July 2021
@@ -631,7 +653,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
 
 
 
-### Kaan Akşit (University College London)
+#### Kaan Akşit (University College London)
 ??? Details
     **Date:**
     7th July 2021
@@ -644,7 +666,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
 
 
 
-### Cengiz Öztireli (University of Cambridge, Google)
+#### Cengiz Öztireli (University of Cambridge, Google)
 ??? Details
     **Date:**
     28th June 2021
@@ -656,7 +678,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVfZZBB69sFOj8-qUd40a_kBbATJEI6xMrUpI2OHawvnWw?e=gNwFX1)
 
 
-### Paul Linton (City, University of London)
+#### Paul Linton (City, University of London)
 ??? Details
     **Date:**
     23rd June 2021
@@ -668,7 +690,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbBViX_S8eZPvxUTVL0oW88BsyM3LVptasrpupR7DDaqKg?e=NdrkQS)
 
 
-### Luca Morreale and Lisa Izzouzi (University College London)
+#### Luca Morreale and Lisa Izzouzi (University College London)
 ??? Details
     **Date:**
     16th June 2021
@@ -684,7 +706,8 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EahZaVqtSLpEssJ_YUel--IBK_7Vfw9c6etIL7M486VM8g?e=Yav4Vz)
 
-### Rafał Mantiuk (Cambridge University)
+
+#### Rafał Mantiuk (Cambridge University)
 ??? Details
     **Date:**
     9th June 2021
@@ -695,7 +718,8 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ec61lv7Y2CdBsFRsfHii93MBXcEq-cROXHUlGhvUN_zXYA?e=Bc51iN)
 
-### Peter Shirley (NVIDIA)
+
+#### Peter Shirley (NVIDIA)
 ??? Details
     **Date:**
     2nd June 2021
@@ -706,7 +730,8 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfIjHtTS3UVBvam7-tGZ3AYBK_Vo0JmRPMsNH2pw09y-5A?e=ScxSDb)
 
-### David Walton and Rafel Kuffner dos Anjos (University College London)
+
+#### David Walton and Rafel Kuffner dos Anjos (University College London)
 ??? Details
     **Date:** 
     26th May 2021
@@ -723,7 +748,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERSe-PoUM-5GvbiAr9byQPUBy6iHYSQS7jXX54v-Tfw8SQ?e=936CsI)
 
-### Tobias Ritschel (University College London)
+#### Tobias Ritschel (University College London)
 ??? Details
     **Date:**
     19th May 2021
@@ -734,7 +759,8 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     
     **Watch:** Not recorded
 
-### Philip Henzler and David Griffiths (University College London)
+
+#### Philip Henzler and David Griffiths (University College London)
 ??? Details
     **Date:**
     12th May 2021
@@ -752,7 +778,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ef2lsn08ON5Orhcfr0PYntgBo2jmg8LU60Tuiq2rB5rDWA?e=dq7Ybu)
 
 
-### Klara Brandstätter and Felix Thiel (University College London)
+#### Klara Brandstätter and Felix Thiel (University College London)
 ??? Details
 	**Date:**
 	5th May 2021
@@ -770,7 +796,7 @@ Kaan has received help from [Klara Brandstätter](https://www.linkedin.com/in/kl
 	**Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ES1QJoG5CmxJqV6MjQmjqyYBylgNX-f60xT3B_llDG3R5Q?e=82oHr7)
 
 
-### Victoria Rege and Alex Titterton (Graphcore)
+#### Victoria Rege and Alex Titterton (Graphcore)
 ??? Details
 	**Date:**
 	28th April 2021

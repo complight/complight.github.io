@@ -16,8 +16,7 @@ nav:
     - List of publications: 'publications/index.md'
     - Current members and alumni: 'people/index.md'
     - Courses: 'teaching/index.md'
-    - Seminars: 'seminars/index.md'
-    - Research Hub: 'research_hub.md'
+    - Outreach: 'outreach/index.md'
   - People:
     - Current members and alumni: 'people/index.md'
     - Kaan Akşit: 'https://kaanaksit.com'
@@ -63,12 +62,11 @@ nav:
       - Explore our printable designs: 'https://github.com/complight/optomechanics'
       - Learn more about computer-generated holography: 'https://kaanaksit.github.io/odak/cgh/'
       - Tips and tricks for using our 3D printer: 'documentation/3d_printing.md'
-  - Seminars:
-    - Description: 'seminars/index.md'
-    - Join our mailing List: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
-  - Research hub:
-    - Description: 'research_hub.md'
+  - Outreach:
+    - Description: 'outreach/index.md'
     - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
+    - Join our mailing List: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
+
 
 theme:
     name: material
