@@ -23,19 +23,6 @@ Associate Professor of Computational Light
 
 ### Doctoral students
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/koray_kavakli.png" width="160" alt/>
-</div>
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ)
-
-PhD student
-
-:material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
-
-:material-office-building: Office: R404.188
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/ahmet_guzel.png" width="160" alt/>
 </div>
 [Ahmet Güzel](https://aguzel.github.io)
