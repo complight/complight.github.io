@@ -4,14 +4,12 @@
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
-      <td> <img src="../../people/koray_kavakli.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/liang_shi.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/hakan_urey.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/wojciech_matusik.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>1,2,*</sup></p></td>
       <td><p style="text-align:center;"><a href="https://people.csail.mit.edu/liangs/">Liang Shi</a><sup>3,*</sup></p></td>
       <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Urey</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://cdfg.csail.mit.edu/wojciech">Wojciech Matusik</a><sup>3</sup></p></td>

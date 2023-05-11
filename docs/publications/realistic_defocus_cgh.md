@@ -4,13 +4,11 @@
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
-      <td> <img src="../../people/koray_kavakli.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/yuta_itoh.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/hakan_urey.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ">Koray Kavaklı</a><sup>1,2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://www.ar.c.titech.ac.jp/people/yuta-itoh">Yuta Itoh</a><sup>3</p></td>
       <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Ürey</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
