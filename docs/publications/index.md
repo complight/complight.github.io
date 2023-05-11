@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/-ArxiV-yellow">
 
 [Yicheng Zhan](https://github.com/AlberTgarY),
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Qi Sun](https://qisun.me/),
 and [Kaan Akşit](https://kaanaksit.com)
@@ -23,7 +22,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
         @article{zhan2023autocolor,
           title = {AutoColor: Learned Light Power Control for Multi-Color Holograms},
-          author = {Zhan, Yicheng and Kavakl{\i}, Koray and Urey, Hakan and Sun, Qi and Akşit, Kaan},
+          author = {Zhan, Yicheng and Sun, Qi and Akşit, Kaan},
           year = {2023},
           month = may,
         }
@@ -38,7 +37,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 <img src="https://img.shields.io/badge/-ArxiV-yellow">
 
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
@@ -126,7 +124,6 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
@@ -193,7 +190,6 @@ and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 
 <img src="https://img.shields.io/badge/-SIGGRAPH-red">
 
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [David Robert Walton](https://drwalton.github.io/),
 [Nick Antipa](http://nickantipa.com/),
 [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
@@ -264,7 +260,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
 [David R. Walton](https://drwalton.github.io/),
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 Rafael Kuffner Dos Anjos,
 David Swapp,
 [Tim Weyrich](https://reality.tf.fau.de/weyrich.html),
@@ -302,7 +297,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 :fontawesome-solid-award: **Invited**
 
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
 
