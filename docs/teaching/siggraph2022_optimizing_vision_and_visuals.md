@@ -4,7 +4,6 @@
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
-      <td> <img src="../../people/koray_kavakli.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/david_walton.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/nick_antipa.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/rafal_mantiuk.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -12,7 +11,6 @@
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ">Koray Kavaklı</a><sup>1,2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://drwalton.github.io/">David Walton</a><sup>1</sup></p></td>
       <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=15xSd1gAAAAJ&hl=en">Nick Antipa</a><sup>3</sup></p></td>
       <td><p style="text-align:center;"><a href="https://www.cl.cam.ac.uk/~rkm38/">Rafał Mantiuk</a><sup>4</sup></p></td>
