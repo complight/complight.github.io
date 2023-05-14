@@ -49,35 +49,34 @@ In addition, HoloBeam prototypes demonstrate near retinal resolutions ($24$ cycl
 ## Results
 As a next step in [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf) , our work offers the thinnest and lightweight near-eye display to date.
 Our wearable eyepieces could just be a lens or a holographic optical element.
-<p style="text-align:center;">
-<img src="../media/holobeam_hires.png" width="600" alt="teaser"></p>
-<p style="text-align:center;"><a href="../media/holobeam_hires.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holobeam_hires.png){ width="600" }
+</figure>
 
 
 In order to beam images to our eyepieces, we built a phase-only holographic projector.
-<p style="text-align:center;">
-<img src="../media/holobeam_phase_only.png" width="600" alt="teaser"></p>
-<p style="text-align:center;"><a href="../media/holobeam_phase_only.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holobeam_phase_only.png){ width="600" }
+</figure>
 
 
 We also show that a cheaper alternative of this projector could be built using common spatial light modulators.
-<p style="text-align:center;">
-<img src="../media/holobeam_amplitude_only.png" width="600" alt="Amplitude-only Prototype"></p>
-<p style="text-align:center;"><a href="../media/holobeam_amplitude_only.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holobeam_amplitude_only.png){ width="600" }
+</figure>
 
 
 In this work, we demonstrate the first [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf) that can generate multiplane images using Computer-Generated Holography.
 Below image is a moving animation showing a focal sweep of images.
-<p style="text-align:center;">
-<img src="../media/holobeam_focal_sweep.gif" width="600" alt="Focal sweep"></p>
-<p style="text-align:center;">
-<a href="../media/holobeam_focal_sweep.gif">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holobeam_focal_sweep.gif){ width="600" }
+</figure>
 
 
 Although we showed monochrome results mostly, HoloBeam can also show full color images.
-<p style="text-align:center;">
-<img src="../media/holobeam_full_color.png" width="600" alt="Full color"></p>
-<p style="text-align:center;"><a href="../media/holobeam_full_color.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holobeam_full_color.png){ width="600" }
+</figure>
 
 
 ## Relevant research works

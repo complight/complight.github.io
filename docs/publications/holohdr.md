@@ -54,10 +54,9 @@ We experimentally demonstrate that HoloHDR can increase the brightness levels in
 Conventional holographic displays use a single Spatial Light Modulator (SLM) and reconstruct full-color images by time-sequentially displaying single-color holograms, each dedicated to a color channel.
 When holographic displays reconstruct scenes with brightness levels beyond the peak intensity of their corresponding color channels, the result could often lead to darker images than the intended levels and produce visual distortions or color mismatches (see conventional case below figure).
 In such cases, the dynamic range of the target is typically limited to the peak intensity of the light source, which is often not enough to deliver the desired visual experience.
-
-<p style="text-align:center;">
-<img src="../media/holohdr_visual_artifacts.png" width="200" alt="visual artifacts"></p>
-<p style="text-align:center;"><a href="../media/holohdr_visual_artifacts.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holohdr_visual_artifacts.png){ width="300" }
+</figure>
 
 
 Without altering hardware, we argue that holographic displays could dedicate extra time to each color channel to improve their perceived brightness levels, as demonstrated in below figure.
@@ -68,11 +67,9 @@ We calculate multi-color holograms using a Gradient Descent (GD) based solver gu
 In the meantime, we co-optimize the brightness levels required to illuminate each multi-color hologram.
 We experimentally verify our findings using a holographic display prototype by showing reconstructions of brighter scenes with a broader dynamic range in an artifact-free and color-accurate manner.
 
-
-<p style="text-align:center;">
-<img src="../media/holohdr_teaser.png" width="700" alt="teaser"></p>
-<p style="text-align:center;"><a href="../media/holohdr_teaser.png">+Zoom</a></p>
-
+<figure markdown>
+  ![Image title](../media/holohdr_teaser.png){ width="800" }
+</figure>
 
 Below figure shows photographs from our holographic display for conventional and HoloHDR schemes (more sample results in our supplementary).
 For such a scene, HoloHDR can safely support up to $\times1.8$ peak brightness without causing significant image distortions or artifacts.
@@ -80,26 +77,25 @@ On the other hand, the conventional hologram fails to support peak brightness hi
 Beyond $\times1.8$ peak brightness levels, images are typically heavily dominated by noise in the conventional case.
 
 
-<p style="text-align:center;">
-<img src="../media/holohdr_experimental_results_holographic_glasses.png" width="700" alt="Extending Dynamic range"></p>
-<p style="text-align:center;"><a href="../media/holohdr_experimental_results_holographic_glasses.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holohdr_experimental_results_holographic_glasses.png){ width="800" }
+</figure>
 
 
 In contrast, HoloHDR loses color integrity slightly or generates noises similar to the conventional case's $\times1.2$ peak brightness case.
 
 
-<p style="text-align:center;">
-<img src="../media/holohdr_experimental_results_fruit_lady.png" width="700" alt="Beyond limits"></p>
-<p style="text-align:center;"><a href="../media/holohdr_experimental_results_fruit_lady.png">+Zoom</a></p>
+<figure markdown>
+  ![Image title](../media/holohdr_experimental_results_fruit_lady.png){ width="800" }
+</figure>
 
 
 HoloHDR can also support three-dimensional multiplanar images.
 
 
-<p style="text-align:center;">
-<img src="../media/holohdr_three_dimensional_multi_text.png" width="700" alt="Three-dimensional images"></p>
-<p style="text-align:center;"><a href="../media/holohdr_three_dimensional_multi_text.png">+Zoom</a></p>
-
+<figure markdown>
+  ![Image title](../media/holohdr_three_dimensional_multi_text.png){ width="800" }
+</figure>
 
 
 ## Relevant research works

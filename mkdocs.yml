@@ -109,11 +109,40 @@ theme:
 
 plugins:
    - search
-
+   - mkdocstrings
+   - autorefs
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
 markdown_extensions:
    - toc:
        permalink: true
    - admonition
+   - attr_list
+   - md_in_html
+   - pymdownx.superfences
+   - pymdownx.details
+   - pymdownx.arithmatex:
+       generic: true
+   - pymdownx.emoji:
+       emoji_index: !!python/name:materialx.emoji.twemoji
+       emoji_generator: !!python/name:materialx.emoji.to_svg
+markdown_extensions:
+   - toc:
+       permalink: true
+   - admonition
+   - attr_list
+   - md_in_html
    - pymdownx.superfences
    - pymdownx.details
    - pymdownx.arithmatex:
