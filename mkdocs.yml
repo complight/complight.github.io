@@ -94,6 +94,7 @@ theme:
         - navigation.indexes
         - navigation.top
         - navigation.expand
+        - navigation.footer
     palette:
       - scheme: youtube
         toggle:
