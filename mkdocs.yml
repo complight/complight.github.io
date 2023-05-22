@@ -37,6 +37,7 @@ nav:
       - 'ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance': 'ChromaCorrect'
   - Teaching:
     - Courses: 'teaching/index.md'
+    - Computational Light (Spring 2024): 'https://kaanaksit.com/odak/course/'
     - SIGGRAPH 2022 Optimizing Vision and Visuals (Summer 2022):
       - Description: 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
       - Secret link: 'lectures/index.md'
