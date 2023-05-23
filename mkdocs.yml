@@ -111,6 +111,8 @@ theme:
 
 plugins:
    - search
+   - bibtex:
+       bib_file: "docs/references.bib"
    - mkdocstrings
    - autorefs
    - glightbox:
@@ -130,6 +132,7 @@ plugins:
 markdown_extensions:
    - toc:
        permalink: true
+   - footnotes
    - admonition
    - attr_list
    - md_in_html
