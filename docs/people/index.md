@@ -40,7 +40,7 @@ PhD Student
 </div>
 [Yicheng Zhan](https://github.com/AlberTgarY)
 
-MSc Student
+PhD Student
 
 :material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
 
