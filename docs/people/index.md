@@ -44,7 +44,7 @@ PhD Student
 
 :material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
 
-:material-office-building: Office: G06
+:material-office-building: Office: R404.188
 <br clear="left"/>
 
 
