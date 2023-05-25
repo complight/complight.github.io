@@ -38,7 +38,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     17th May 2023
 
-    **Presenter:** [Michael Fischer](), PhD student at University College London
+    **Presenter:** [Michael Fischer](https://mfischer-ucl.github.io/), PhD student at University College London
 
     **Title:** Advanced Machine Learning for Rendering
 
