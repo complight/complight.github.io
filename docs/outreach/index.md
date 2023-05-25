@@ -32,6 +32,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Michael Fischer (University College London)
+??? Details
+    **Date:**
+    17th May 2023
+
+    **Presenter:** [Michael Fischer](), PhD student at University College London
+
+    **Title:** Advanced Machine Learning for Rendering
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESIvh9-tN7hEvnjHreaHKggBaztsgb7XyonMKbu-uL7TMw?e=PQZdY)
+
+
 #### Michael Proulx (Meta Reality Labs and University of Bath)
 ??? Details
     **Date:**
