@@ -33,6 +33,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Omer Shapira (NVIDIA)
+??? Details
+    **Date:**
+    26th May 2023
+
+    **Presenter:** [Omer Shapira](https://omershapira.com), Engineer and Researcher at NVIDIA
+
+    **Title:** Cloud Computing Around the Body: Theoretical Limits and Practical Applications
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUI6pffClIhDneu-eXEKp1gBnltDvWoSMgN63NKYBWE64w?e=hIdAOb)
+
+
 #### Michael Fischer (University College London)
 ??? Details
     **Date:**
