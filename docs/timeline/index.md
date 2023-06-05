@@ -2,6 +2,15 @@
 
 ## 2023
 
+
+### June
+#### 1 June 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+In her latest article, "[The Promise of Holographic Displays](https://cacm.acm.org/news/273481-the-promise-of-holographic-displays/fulltext)," Sandrine Ceurstemont gathered perspectives on the promise of holographic displays and provided some space for ours. 
+
+
 ### April
 #### 21 April 2023
 <div style="float: left; height:100px;" class="boxed">
