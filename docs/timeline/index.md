@@ -9,6 +9,8 @@
 <img align="left" src="../media/acm.png" width="80" alt/>
 </div>
 In her latest article, "[The Promise of Holographic Displays](https://cacm.acm.org/news/273481-the-promise-of-holographic-displays/fulltext)," [Sandrine Ceurstemont](https://www.linkedin.com/in/sandrine-ceurstemont-314b701/) gathered perspectives on the promise of holographic displays and provided some space for ours. 
+<br />
+<br />
 
 
 ### April
