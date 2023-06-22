@@ -146,6 +146,7 @@ and [Kaan Akşit](https://kaanaksit.com)
           copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
         }
 	```
+<br clear="left"/>
 
 
 ## 2022
