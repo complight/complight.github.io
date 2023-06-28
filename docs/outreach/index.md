@@ -33,6 +33,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Silvia Sellán (University of Toronto)
+??? Details
+    **Date:**
+    14th JUne 2023
+
+    **Presenter:** [Silvia Sellán](https://www.silviasellan.com/), PhD student at University Toronto
+
+    **Title:** Uncertain Surface Reconstruction
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVkgktOQHpFJg74s2NjmbWwBf95nlRc72L2RePlZxu8XVw?e=E1I50H)
+
+
 #### Michael Fischer (University College London)
 ??? Details
     **Date:**
