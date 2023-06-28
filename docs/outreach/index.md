@@ -36,7 +36,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 #### Silvia Sellán (University of Toronto)
 ??? Details
     **Date:**
-    14th JUne 2023
+    14th June 2023
 
     **Presenter:** [Silvia Sellán](https://www.silviasellan.com/), PhD student at University Toronto
 
