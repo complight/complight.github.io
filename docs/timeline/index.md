@@ -8,7 +8,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/stanford_university.png" width="80" alt/>
 </div>
-Kaan presentoed an invited talk titled `Could holographic displays be the key to achieving realism?` at [Stanford University](https://scien.stanford.edu/index.php/event/professor-kaan-aksit-univ-college-london-on-holographic-displays/).
+Kaan presented an invited talk titled `Could holographic displays be the key to achieving realism?` at [Stanford University](https://scien.stanford.edu/index.php/event/professor-kaan-aksit-univ-college-london-on-holographic-displays/).
 <br />
 <br />
 
