@@ -30,7 +30,6 @@ nav:
     - List of publications: 'publications/index.md'
     - Highlighted works:
       - 'AutoColor: Learned Light Power Control for Multi-Color Holograms': 'autocolor_'
-      - 'HoloHDR: Multi-color Holograms Improve Dynamic Range': 'publications/holohdr.md'
       - 'HoloBeam: Paper-Thin Near-Eye Displays': 'publications/holobeam.md'
       - 'Realistic Defocus for Multiplane Computer-Generated Holography': 'publications/realistic_defocus_cgh.md'
       - 'Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
