@@ -2,6 +2,16 @@
 
 ## 2023
 
+### August
+#### 16 August 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+We are grateful to Optica for inviting our <a href="https://aguzel.github.io/">Ahmet Hamdi Güzel</a> to present his work at the Vision and Color summer data blast webinar. 
+Have you missed it? The recording is now <a href="https://www.optica.org/media_library/?videoId=6334035625112">online</a>.
+<br />
+<br />
+
 
 ### June
 #### 28 June 2023
