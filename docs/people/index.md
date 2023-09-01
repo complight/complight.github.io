@@ -1,5 +1,5 @@
 # People
-This page will give you a complete of our current members.
+This page will give you a complete list of our current members.
 At the end of the page, you will also find our alumni list as a separate section.
 
 ## Current members
