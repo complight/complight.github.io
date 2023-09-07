@@ -11,11 +11,11 @@
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>3,*</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://people.csail.mit.edu/liangs/">Liang Shi</a><sup>3,*</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Urey</a><sup>2</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://cdfg.csail.mit.edu/wojciech">Wojciech Matusik</a><sup>3</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1,*</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://people.csail.mit.edu/liangs/">Liang Shi</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Urey</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://cdfg.csail.mit.edu/wojciech">Wojciech Matusik</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>3</sup></p></td>
     </tr>
   </tbody>
 </table>
@@ -25,13 +25,13 @@
 <sup>3</sup>Massachusetts Institute of Technology
 <sup>*</sup>Corresponding Authors
 </p>
-<p style="text-align:center;"><b>arXiv</b></p>
+<p style="text-align:center;"><b>SIGGRAPH Asia 2023</b></p>
 
 ## Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
 :material-file-code: [Code](https://github.com/complight/multi_color)
 ??? info ":material-tag-text: Bibtex"
-        @ARTICLE{kavakli2023holohdr,
+        @ARTICLE{kavakli2023multicolor,
           title    = "Multi-color Holograms improve Brightness in Holographic Displays",
           author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
           journal  = "arxiv",
@@ -55,7 +55,7 @@ Conventional holographic displays use a single Spatial Light Modulator (SLM) and
 When holographic displays reconstruct scenes with brightness levels beyond the peak intensity of their corresponding color channels, the result could often lead to darker images than the intended levels and produce visual distortions or color mismatches (see conventional case below figure).
 In such cases, the dynamic range of the target is typically limited to the peak intensity of the light source, which is often not enough to deliver the desired visual experience.
 <figure markdown>
-  ![Image title](../media/holohdr_visual_artifacts.png){ width="300" }
+  ![Image title](media/multicolor_visual_artifacts.png){ width="300" }
 </figure>
 
 
@@ -68,7 +68,7 @@ In the meantime, we co-optimize the brightness levels required to illuminate eac
 We experimentally verify our findings using a holographic display prototype by showing reconstructions of brighter scenes with a broader dynamic range in an artifact-free and color-accurate manner.
 
 <figure markdown>
-  ![Image title](../media/holohdr_teaser.png){ width="800" }
+  ![Image title](media/multicolor_teaser.png){ width="800" }
 </figure>
 
 Below figure shows photographs from our holographic display for conventional and our schemes (more sample results in our supplementary).
@@ -78,7 +78,7 @@ Beyond $\times1.8$ peak brightness levels, images are typically heavily dominate
 
 
 <figure markdown>
-  ![Image title](../media/holohdr_experimental_results_holographic_glasses.png){ width="800" }
+  ![Image title](media/multicolor_experimental_results_holographic_glasses.png){ width="800" }
 </figure>
 
 
@@ -86,7 +86,7 @@ In contrast, our method loses color integrity slightly or generates noises simil
 
 
 <figure markdown>
-  ![Image title](../media/holohdr_experimental_results_fruit_lady.png){ width="800" }
+  ![Image title](media/multicolor_experimental_results_fruit_lady.png){ width="800" }
 </figure>
 
 
@@ -94,7 +94,7 @@ Our method can also support three-dimensional multiplanar images.
 
 
 <figure markdown>
-  ![Image title](../media/holohdr_three_dimensional_multi_text.png){ width="800" }
+  ![Image title](media/multicolor_three_dimensional_multi_text.png){ width="800" }
 </figure>
 
 
@@ -102,9 +102,9 @@ Our method can also support three-dimensional multiplanar images.
 Here are relevant research works from the authors:
 
 
-- [HoloBeam: Paper-Thin Near-Eye Displays](../holobeam)
-- [Realistic Defocus for Multiplane Computer-Generated Holography](../realistic_defocus_cgh)
-- [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals/)
+- [HoloBeam: Paper-Thin Near-Eye Displays](holobeam.md)
+- [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh.md)
+- [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
 - [Odak](https://github.com/kunguz/odak)

@@ -15,7 +15,7 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 
-:material-web: [Project site](../autocolor_)
+:material-web: [Project site](https://complightlab.com/autocolor_)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2305.01611.pdf)
 :material-file-code: [Code](https://github.com/complight/autocolor)
 ??? info ":material-tag-text: Bibtex"
@@ -31,7 +31,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 <div style="float: left; height:340px;" class="boxed">
-<img align="left" src="media/holohdr.png" width="200" alt/>
+<img align="left" src="media/multicolor.png" width="200" alt/>
 </div>
 **Multi-color Holograms Improve Brightnes in Holographic Displays**
 
@@ -49,7 +49,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-file-code: [Code](https://github.com/complight/multi_color)
 ??? info ":material-tag-text: Bibtex"
 	```
-        @ARTICLE{kavakli2023holohdr,
+        @ARTICLE{kavakli2023multicolor,
           title    = "Multi-color Holograms improve Brightness in Holographic Displays",
           author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
           journal  = "arxiv",

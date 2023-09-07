@@ -50,32 +50,32 @@ In addition, HoloBeam prototypes demonstrate near retinal resolutions ($24$ cycl
 As a next step in [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf) , our work offers the thinnest and lightweight near-eye display to date.
 Our wearable eyepieces could just be a lens or a holographic optical element.
 <figure markdown>
-  ![Image title](../media/holobeam_hires.png){ width="600" }
+  ![Image title](media/holobeam_hires.png){ width="600" }
 </figure>
 
 
 In order to beam images to our eyepieces, we built a phase-only holographic projector.
 <figure markdown>
-  ![Image title](../media/holobeam_phase_only.png){ width="600" }
+  ![Image title](media/holobeam_phase_only.png){ width="600" }
 </figure>
 
 
 We also show that a cheaper alternative of this projector could be built using common spatial light modulators.
 <figure markdown>
-  ![Image title](../media/holobeam_amplitude_only.png){ width="600" }
+  ![Image title](media/holobeam_amplitude_only.png){ width="600" }
 </figure>
 
 
 In this work, we demonstrate the first [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf) that can generate multiplane images using Computer-Generated Holography.
 Below image is a moving animation showing a focal sweep of images.
 <figure markdown>
-  ![Image title](../media/holobeam_focal_sweep.gif){ width="600" }
+  ![Image title](media/holobeam_focal_sweep.gif){ width="600" }
 </figure>
 
 
 Although we showed monochrome results mostly, HoloBeam can also show full color images.
 <figure markdown>
-  ![Image title](../media/holobeam_full_color.png){ width="600" }
+  ![Image title](media/holobeam_full_color.png){ width="600" }
 </figure>
 
 
@@ -84,8 +84,8 @@ Here are relevant research works from the authors:
 
 
 - [Beaming Displays](https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf)
-- [Realistic Defocus for Multiplane Computer-Generated Holography](../realistic_defocus_cgh)
-- [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals/)
+- [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh.md)
+- [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
 - [Odak](https://github.com/kunguz/odak)

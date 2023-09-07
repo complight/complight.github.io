@@ -9,7 +9,7 @@
 
 
 ## Highlighted Works
-To learn more about our work beyond highlighted ones, please visit our [publications page.](publications)
+To learn more about our work beyond highlighted ones, please visit our [publications page.](publications/index.md)
 
 <center>
 <iframe width="240" height="155" src="https://www.youtube.com/embed/kqOQLFaTZwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -19,12 +19,12 @@ To learn more about our work beyond highlighted ones, please visit our [publicat
 
 
 ## Our Research Focus
-The computational light laboratory conducts [research and development](../publications) in light related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
-We share our scientific output in the form of [published articles and papers](https://complightlab.com/publications/).
+The computational light laboratory conducts [research and development](publications/index.md) in light related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
+We share our scientific output in the form of [published articles and papers](publications/index.md).
 Our primary software toolkit to tackle our research problems is public and open-source.
 We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
-We translate our scientific output to actual [lecture modules](../teaching), and we create [useful documentation](../documentation) for our research and development.
-To read more about our recent activities, please visit our [recent timeline](../timeline).
+We translate our scientific output to actual [lecture modules](teaching/index.md), and we create [useful documentation](documentation/index.md) for our research and development.
+To read more about our recent activities, please visit our [recent timeline](timeline/index.md).
 Our research focus in terms of applications is depicted in the below conceptual figure.
 
 <p class="aligncenter">
@@ -35,10 +35,10 @@ Our research focus in terms of applications is depicted in the below conceptual 
 ## Useful Information
 
 !!! Info
-    Our laboratory organizes weekly seminars. To get more information about these seminars, please [click here](../outreach).
+    Our laboratory organizes weekly seminars. To get more information about these seminars, please [click here](outreach/index.md).
 
 !!! Info
-    Our laboratory hosts a research hub in the form of a public Slack group. To get more information about these seminars, please [click here](../outreach).
+    Our laboratory hosts a research hub in the form of a public Slack group. To get more information about these seminars, please [click here](outreach/index.md).
 
 !!! Question
     If you are interested in joining our group as an intern, an undergraduate student, a master student, a PhD student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:k.aksit@ucl.ac.uk).

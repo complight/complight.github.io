@@ -4,6 +4,7 @@
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
+      <td> <img src="../../people/koray_kavakli.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/david_walton.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/nick_antipa.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/rafal_mantiuk.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -11,15 +12,16 @@
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://drwalton.github.io/">David Walton</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://drwalton.github.io/">David Walton</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=15xSd1gAAAAJ&hl=en">Nick Antipa</a><sup>3</sup></p></td>
       <td><p style="text-align:center;"><a href="https://www.cl.cam.ac.uk/~rkm38/">Rafał Mantiuk</a><sup>4</sup></p></td>
       <td><p style="text-align:center;"><a href="https://alumni.media.mit.edu/~dlanman/">Douglas Lanman</a><sup>5,6</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>2</sup></p></td>
     </tr>
   </tbody>
 </table>
-<p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>University of California San Diego, <sup>4</sup>University of Cambridge, <sup>5</sup>Meta Reality Labs, <sup>6</sup>University of Washington  </p>
+<p style="text-align:center;"><sup>1</sup>Koç University, <sup>2</sup>University College London, <sup>3</sup>University of California San Diego, <sup>4</sup>University of Cambridge, <sup>5</sup>Meta Reality Labs, <sup>6</sup>University of Washington  </p>
 <p style="text-align:center;"><b><a href="https://s2022.siggraph.org/presentation/?id=gensub_228&sess=sess168">SIGGRAPH 2022</a></b></p>
 
 ## Resources

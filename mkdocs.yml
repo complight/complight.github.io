@@ -30,11 +30,11 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
-      - 'Multi-color Holograms Improve Brightness in Holographic Displays': 'multi_color'
+      - 'Multi-color Holograms Improve Brightness in Holographic Displays': 'publications/multi_color.md'
       - 'HoloBeam: Paper-Thin Near-Eye Displays': 'publications/holobeam.md'
       - 'Realistic Defocus for Multiplane Computer-Generated Holography': 'publications/realistic_defocus_cgh.md'
       - 'Optimizing Vision and Visuals: Lectures on Cameras, Displays and Perception': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
-      - 'ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance': 'ChromaCorrect'
+      - 'ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance': 'https://complightlab.com/ChromaCorrect'
   - Teaching:
     - Courses: 'teaching/index.md'
     - Computational Light (Spring 2024): 'https://kaanaksit.com/odak/course/'

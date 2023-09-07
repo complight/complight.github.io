@@ -10,14 +10,14 @@
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>3,*</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://www.ar.c.titech.ac.jp/people/yuta-itoh">Yuta Itoh</a><sup>3</p></td>
-      <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Ürey</a><sup>2</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://www.ar.c.titech.ac.jp/people/yuta-itoh">Yuta Itoh</a><sup>2</p></td>
+      <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Ürey</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>3</sup></p></td>
     </tr>
   </tbody>
 </table>
-<p style="text-align:center;"><sup>1</sup>University College London, <sup>2</sup>Koç University, <sup>3</sup>The University of Tokyo</p>
+<p style="text-align:center;"><sup>1</sup>Koç University, <sup>2</sup>The University of Tokyo <sup>3</sup>University College London</p>
 <p style="text-align:center;"><b><a href="https://ieeevr.org/2023/">IEEE VR 2023</a></b></p>
 
 ## Resources
