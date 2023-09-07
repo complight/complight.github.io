@@ -53,7 +53,7 @@ PhD Student
 </div>
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
 
-PhD Student (in collaboration with [Koç University](https://www.ku.edu.tr/))
+PhD Student ([Koç University](https://www.ku.edu.tr/))
 
 :material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
 
