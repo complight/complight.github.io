@@ -42,7 +42,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
-and [Kaan Akşit](https://kaanaksit.com)
+and [Kaan Akşit](https://kaanaksit.com) 
 
 
 [comment]: <> (:material-web: [Project site](multi_color.md))
