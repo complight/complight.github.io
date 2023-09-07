@@ -44,7 +44,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Kaan Akşit](https://kaanaksit.com)
 
 
-:material-web: [Project site](holohdr.md)
+:material-web: [Project site](multi_color.md)
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
 :material-file-code: [Code](https://github.com/complight/multi_color)
 ??? info ":material-tag-text: Bibtex"
@@ -125,6 +125,7 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
@@ -192,6 +193,7 @@ and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 
 <img src="https://img.shields.io/badge/-SIGGRAPH-red">
 
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [David Robert Walton](https://drwalton.github.io/),
 [Nick Antipa](http://nickantipa.com/),
 [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
@@ -262,6 +264,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 <img src="https://img.shields.io/badge/-IEEE VR-important">
 
 [David R. Walton](https://drwalton.github.io/),
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 Rafael Kuffner Dos Anjos,
 David Swapp,
 [Tim Weyrich](https://reality.tf.fau.de/weyrich.html),
@@ -299,6 +302,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 :fontawesome-solid-award: **Invited**
 
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 and [Kaan Akşit](https://kaanaksit.com)
 

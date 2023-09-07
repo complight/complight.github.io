@@ -1,15 +1,17 @@
-# HoloHDR: Multi-color Holograms Improve Dynamic Range
+# Multi-color Holograms Improve Brightness in Holographic Displays
 
 ## People
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
+      <td> <img src="../../people/koray_kavakli.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/liang_shi.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/hakan_urey.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/wojciech_matusik.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
+      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao">Koray Kavaklı</a><sup>3,*</sup></p></td>
       <td><p style="text-align:center;"><a href="https://people.csail.mit.edu/liangs/">Liang Shi</a><sup>3,*</sup></p></td>
       <td><p style="text-align:center;"><a href="https://mysite.ku.edu.tr/hurey/">Hakan Urey</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://cdfg.csail.mit.edu/wojciech">Wojciech Matusik</a><sup>3</sup></p></td>
@@ -27,10 +29,10 @@
 
 ## Resources
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
-:material-file-code: [Code](https://github.com/complight/holohdr)
+:material-file-code: [Code](https://github.com/complight/multi_color)
 ??? info ":material-tag-text: Bibtex"
         @ARTICLE{kavakli2023holohdr,
-          title    = "HoloHDR: Multi-color Holograms improve Dynamic Range",
+          title    = "Multi-color Holograms improve Brightness in Holographic Displays",
           author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
           journal  = "arxiv",
           month    =  jan,
@@ -40,14 +42,12 @@
 
 ## Abstract
 Holographic displays generate Three-Dimensional (3D) images by displaying single-color holograms time-sequentially, each lit by a single-color light source.
-However, representing each color one by one limits peak brightness and dynamic range in holographic displays.
-
-This paper introduces a new driving scheme, HoloHDR, for realizing higher dynamic range images in holographic displays.
-Unlike the conventional driving scheme, HoloHDR utilizes three light sources to illuminate each displayed hologram simultaneously at various brightness levels.
-In this way, HoloHDR reconstructs a multiplanar three-dimensional target scene using consecutive multi-color holograms and persistence of vision.
-We co-optimize multi-color holograms and required brightness levels from each light source using a gradient descent-based optimizer with a combination of application-specific loss terms.
-We experimentally demonstrate that HoloHDR can increase the brightness levels in holographic displays up to three times with support for a broader dynamic range, unlocking new potentials for perceptual realism in holographic displays.
-
+However, representing each color one by one limits brightness in holographic displays.
+This paper introduces a new driving scheme for realizing brighter images in holographic displays.
+Unlike the conventional driving scheme, our method utilizes three light sources to illuminate each displayed hologram simultaneously at various intensity levels.
+In this way, our method reconstructs a multiplanar three-dimensional target scene using consecutive multi-color holograms and persistence of vision.
+We co-optimize multi-color holograms and required intensity levels from each light source using a gradient descent-based optimizer with a combination of application-specific loss terms.
+We experimentally demonstrate that our method can increase the intensity levels in holographic displays up to three times, reaching a broader range and unlocking new potentials for perceptual realism in holographic displays.
 
 ## Results
 
@@ -61,7 +61,7 @@ In such cases, the dynamic range of the target is typically limited to the peak 
 
 Without altering hardware, we argue that holographic displays could dedicate extra time to each color channel to improve their perceived brightness levels, as demonstrated in below figure.
 Our work aims to improve holographic displays' dynamic range by more effectively but aggressively utilizing color primaries and holograms.
-For this purpose, we introduce a new Computer-Generated Holography (CGH) driving scheme called HoloHDR.
+For this purpose, we introduce a new Computer-Generated Holography (CGH) driving scheme.
 In this scheme, multi-color holograms simultaneously operate over multiple wavelengths of light and provide 3D multiplanar images. 
 We calculate multi-color holograms using a Gradient Descent (GD) based solver guided by a combination of application-specific loss functions.
 In the meantime, we co-optimize the brightness levels required to illuminate each multi-color hologram.
@@ -71,8 +71,8 @@ We experimentally verify our findings using a holographic display prototype by s
   ![Image title](../media/holohdr_teaser.png){ width="800" }
 </figure>
 
-Below figure shows photographs from our holographic display for conventional and HoloHDR schemes (more sample results in our supplementary).
-For such a scene, HoloHDR can safely support up to $\times1.8$ peak brightness without causing significant image distortions or artifacts.
+Below figure shows photographs from our holographic display for conventional and our schemes (more sample results in our supplementary).
+For such a scene, our method can safely support up to $\times1.8$ peak brightness without causing significant image distortions or artifacts.
 On the other hand, the conventional hologram fails to support peak brightness higher than $\times1.0$.
 Beyond $\times1.8$ peak brightness levels, images are typically heavily dominated by noise in the conventional case.
 
@@ -82,7 +82,7 @@ Beyond $\times1.8$ peak brightness levels, images are typically heavily dominate
 </figure>
 
 
-In contrast, HoloHDR loses color integrity slightly or generates noises similar to the conventional case's $\times1.2$ peak brightness case.
+In contrast, our method loses color integrity slightly or generates noises similar to the conventional case's $\times1.2$ peak brightness case.
 
 
 <figure markdown>
@@ -90,7 +90,7 @@ In contrast, HoloHDR loses color integrity slightly or generates noises similar 
 </figure>
 
 
-HoloHDR can also support three-dimensional multiplanar images.
+Our method can also support three-dimensional multiplanar images.
 
 
 <figure markdown>
