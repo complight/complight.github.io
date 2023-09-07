@@ -1,5 +1,5 @@
 # People
-This page will give you a complete list of our current members.
+This page will give you a complete of our current members.
 At the end of the page, you will also find our alumni list as a separate section.
 
 ## Current members
@@ -46,6 +46,20 @@ PhD Student
 
 :material-office-building: Office: R404.188
 <br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/koray_kavakli.png" width="160" alt/>
+</div>
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
+
+PhD Student (in collaboration with [Koç University](https://www.ku.edu.tr/))
+
+:material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
 
 
 ### Interns
