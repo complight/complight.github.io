@@ -45,9 +45,9 @@ and [Kaan Akşit](https://kaanaksit.com)
 and [Kaan Akşit](https://kaanaksit.com)
 
 
-:material-web: [Project site](multi_color.md)
-:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
-:material-file-code: [Code](https://github.com/complight/multi_color)
+[comment]: <> (:material-web: [Project site](multi_color.md))
+[comment]: <> (:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf))
+[comment]: <> (:material-file-code: [Code](https://github.com/complight/multi_color))
 ??? info ":material-tag-text: Bibtex"
 	```
         @ARTICLE{kavakli2023multicolor,
