@@ -23,6 +23,7 @@ and [Kaan Akşit](https://kaanaksit.com)
         @article{zhan2023autocolor,
           title = {AutoColor: Learned Light Power Control for Multi-Color Holograms},
           author = {Zhan, Yicheng and Sun, Qi and Akşit, Kaan},
+          journal  = "arxiv",
           year = {2023},
           month = may,
         }
