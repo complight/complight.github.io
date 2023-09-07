@@ -50,7 +50,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 ??? info ":material-tag-text: Bibtex"
 	```
         @ARTICLE{kavakli2023holohdr,
-          title    = "HoloHDR: Multi-color Holograms improve Dynamic Range",
+          title    = "Multi-color Holograms improve Brightness in Holographic Displays",
           author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
           journal  = "arxiv",
           month    =  jan,
