@@ -31,6 +31,36 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/holohdr.png" width="200" alt/>
+</div>
+**Multi-color Holograms Improve Brightnes in Holographic Displays**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
+[Liang Shi](https://people.csail.mit.edu/liangs/),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
+and [Kaan Akşit](https://kaanaksit.com)
+
+
+:material-web: [Project site](holohdr.md)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
+:material-file-code: [Code](https://github.com/complight/multi_color)
+??? info ":material-tag-text: Bibtex"
+	```
+        @ARTICLE{kavakli2023holohdr,
+          title    = "HoloHDR: Multi-color Holograms improve Dynamic Range",
+          author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
+          journal  = "arxiv",
+          month    =  jan,
+          year     =  2023,
+        }
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/learned_prescription.png" width="200" alt/>
 </div>
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
