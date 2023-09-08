@@ -32,6 +32,17 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Congli Wang (University of California, Berkeley)
+??? Details
+    **Date:**
+    6th September 2023
+
+    **Presenter:** [Congli Wang](https://congliwang.github.io/), Postdoctoral Researcher at University of California, Berkeley
+
+    **Title:** Computational sensing with intelligent optical instruments
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EU78HZbBaGdIngpEhaGmBqMBKDhr9ayNZEPiHkfXkyhNVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=7cGcgR)
+
 
 #### Silvia Sellán (University of Toronto)
 ??? Details
