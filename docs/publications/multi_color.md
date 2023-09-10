@@ -39,6 +39,10 @@
     }
 
 
+## Video
+<video controls>
+      <source src="https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4" id="“ type="video/mp4">
+</video>
 
 ## Abstract
 Holographic displays generate Three-Dimensional (3D) images by displaying single-color holograms time-sequentially, each lit by a single-color light source.
