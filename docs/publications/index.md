@@ -50,13 +50,13 @@ and [Kaan Akşit](https://kaanaksit.com)
 [comment]: <> (:material-file-code: [Code](https://github.com/complight/multi_color))
 ??? info ":material-tag-text: Bibtex"
 	```
-        @ARTICLE{kavakli2023multicolor,
-          title    = "Multi-color Holograms improve Brightness in Holographic Displays",
-          author   = "Kavaklı, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan",
-          journal  = "arxiv",
-          month    =  jan,
-          year     =  2023,
-        }
+    @inproceeding{kavakli2023multicolor,
+        title={Multi-color Holograms improve Brightness in Holographic Displays},
+        author={Kavakl{\i}, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan},
+        booktitle={ACM SIGGRAPH ASIA 2023 Conference Proceedings},
+        pages={--},
+    }
+
 	```
 <br clear="left"/>
 
