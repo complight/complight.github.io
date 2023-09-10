@@ -23,13 +23,13 @@
 <sup>1</sup>University College London,
 <sup>2</sup>Koç University,
 <sup>3</sup>Massachusetts Institute of Technology
-<sup>*</sup>Corresponding Authors
 </p>
 <p style="text-align:center;"><b>SIGGRAPH Asia 2023</b></p>
 
 ## Resources
-:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2301.09950.pdf)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/KavakliEtAl_SigAsia2023_Multi_color_holograms_improve_brightness_in_holographic_displays.pdf))
 :material-file-code: [Code](https://github.com/complight/multi_color)
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4)
 ??? info ":material-tag-text: Bibtex"
     @inproceeding{kavakli2023multicolor,
         title={Multi-color Holograms improve Brightness in Holographic Displays},
