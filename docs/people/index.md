@@ -29,7 +29,7 @@ Associate Professor of Computational Light
 
 PhD Student
 
-:material-email: [E-mail](mailto:od20ahg@leeds.ac.uk)
+:material-email: [E-mail](mailto:ahmet.guzel.23@ucl.ac.uk)
 
 :material-office-building: Office: R404.189
 <br clear="left"/>
