@@ -46,7 +46,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 :material-web: [Project site](multi_color.md)
-:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/KavakliEtAl_SigAsia2023_Multi_color_holograms_improve_brightness_in_holographic_displays.pdf))
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/KavakliEtAl_SigAsia2023_Multi_color_holograms_improve_brightness_in_holographic_displays.pdf)
 :material-file-code: [Code](https://github.com/complight/multi_color)
 :material-video-account: [Project video](https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4)
 ??? info ":material-tag-text: Bibtex"
