@@ -20,12 +20,12 @@
 :material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.05057.pdf)
 :material-file-code: [Code](https://github.com/complight/multiholo)
 ??? info ":material-tag-text: Bibtex"
-        @ARTICLE{aksit2022holobeam,
-          title    = "HoloBeam: Paper-Thin Near-Eye Displays",
-          author   = "Akşit, Kaan and Itoh, Yuta",
-          journal  = "arxiv",
-          month    =  jan,
-          year     =  2023,
+        @inproceedings{aksit2022holobeam,
+          title = "HoloBeam: Paper-Thin Near-Eye Displays",
+          author = "Akşit, Kaan and Itoh, Yuta",
+          booktitle ={2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR)},
+          pages = {581--591},
+          year = {2023},
         }
 
 

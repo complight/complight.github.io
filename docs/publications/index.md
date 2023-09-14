@@ -51,13 +51,13 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-video-account: [Project video](https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4)
 ??? info ":material-tag-text: Bibtex"
 	```
-    @inproceedings{kavakli2023multicolor,
-        title={Multi-color Holograms improve Brightness in Holographic Displays},
-        author={Kavakl{\i}, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan},
-        booktitle={ACM SIGGRAPH ASIA 2023 Conference Proceedings},
-        pages={--},
-    }
-
+        @inproceedings{aksit2022holobeam,
+          title = "HoloBeam: Paper-Thin Near-Eye Displays",
+          author = "Akşit, Kaan and Itoh, Yuta",
+          booktitle ={2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR)},
+          pages = {581--591},
+          year = {2023},
+        }
 	```
 <br clear="left"/>
 
