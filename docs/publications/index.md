@@ -76,9 +76,9 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 :material-web: [Project site](http://complightlab.com/ChromaCorrect/)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.04264.pdf)
 :material-file-code: [Code](https://github.com/complight/ChromaCorrect)
 :material-video-account: [Project video](https://www.youtube.com/watch?v=fjexa7ga-tQ&feature=youtu.be)
-:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2212.04264.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
         @ARTICLE{guzel2022prescription,

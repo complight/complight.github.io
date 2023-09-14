@@ -12,7 +12,8 @@
     - promote their most recent research,
     - find subjects for their experiments,
 
-    But ost of all, the primary goal is to stay connected to sustain a healthy research field. To join our Slack channel and contribute to future conversations, please use the provided below link:
+    But most of all, the primary goal is to stay connected to sustain a healthy research field. 
+    To join our Slack channel and contribute to future conversations, please use the provided below link:
 
 
     [https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg](https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg)
