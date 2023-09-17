@@ -56,6 +56,7 @@ and [Kaan Akşit](https://kaanaksit.com)
           author={Kavakl{\i}, Koray and Shi, Liang and Urey, Hakan and Matusik, Wojciech and Akşit, Kaan},
           booktitle={ACM SIGGRAPH ASIA 2023 Conference Proceedings},
           pages={--},
+          month={December},
           year={2023},
           doi={https://doi.org/10.1145/3610548.3618135}
         }
