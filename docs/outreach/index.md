@@ -33,6 +33,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Shariq Bhat (King Abdullah University of Science and Technology)
+??? Details
+    **Date:**
+    6th September 2023
+
+    **Presenter:** [Shariq Bhat](), PhD Student at King Abdullah University of Science and Technology
+
+    **Title:** A Journey Towards State-of-the-art Monocular Depth Estimation Using Adaptive Bins
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EQEOBYJq-XVOvQkkfBIuvUIBrJXItg0HbRGO2cVfX1vdbw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QCCoYa)
+
+
 #### Congli Wang (University of California, Berkeley)
 ??? Details
     **Date:**
