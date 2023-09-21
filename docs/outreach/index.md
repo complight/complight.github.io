@@ -33,13 +33,24 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Ulugbek Kamilov (University of Washington in Saint Louis)
+??? Details
+    **Date:**
+    20th September 2023
+
+    **Presenter:** [ULugbek Kamilov](https://cigroup.wustl.edu/), Associate Professor of Electrical & Systems Engineering and Computer Science & Engineering at Washington University in St. Louis 
+
+    **Title:** Plug-and-Play Models for Large-Scale Computational Imaging
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EWzcbpsGzvJPid-V3cWijdsBuLANYWu7gwHcWxkuhLlGVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=WNaPe2)
+
 
 #### Shariq Bhat (King Abdullah University of Science and Technology)
 ??? Details
     **Date:**
-    6th September 2023
+    13th September 2023
 
-    **Presenter:** [Shariq Bhat](), PhD Student at King Abdullah University of Science and Technology
+    **Presenter:** [Shariq Bhat](https://scholar.google.co.in/citations?user=nGbEcI8AAAAJ&hl=en), PhD Student at King Abdullah University of Science and Technology
 
     **Title:** A Journey Towards State-of-the-art Monocular Depth Estimation Using Adaptive Bins
 
