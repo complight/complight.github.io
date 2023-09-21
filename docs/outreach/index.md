@@ -38,7 +38,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     20th September 2023
 
-    **Presenter:** [ULugbek Kamilov](https://cigroup.wustl.edu/), Associate Professor of Electrical & Systems Engineering and Computer Science & Engineering at Washington University in St. Louis 
+    **Presenter:** [Ulugbek Kamilov](https://cigroup.wustl.edu/), Associate Professor of Electrical & Systems Engineering and Computer Science & Engineering at Washington University in St. Louis 
 
     **Title:** Plug-and-Play Models for Large-Scale Computational Imaging
 
