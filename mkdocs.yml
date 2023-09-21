@@ -67,6 +67,7 @@ nav:
     - Description: 'outreach/index.md'
     - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
     - Join our mailing List: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
+  - Toolkit: 'https://github.com/kaanaksit/odak'
 
 
 theme:
