@@ -33,6 +33,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Suyeon Choi (Stanford University)
+??? Details
+    **Date:**
+    27th September 2023
+
+    **Presenter:** [Suyeon Choi](https://choisuyeon.github.io/), PhD student at Stanford University 
+
+    **Title:** Neural Holography for Next-generation Virtual and Augmented Reality Displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EU3PiPSBgOxNn5IkrgNPMEsBiq52E0pKxDJG46VXJ4x3Rw?e=sk3FGM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjMxNzIuNTZ9fQ%3D%3D)
+
+
 #### Ulugbek Kamilov (University of Washington in Saint Louis)
 ??? Details
     **Date:**
