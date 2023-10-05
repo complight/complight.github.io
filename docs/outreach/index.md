@@ -34,6 +34,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Simeng Qiu
+??? Details
+    **Date:**
+    4th October 2023
+
+    **Presenter:** [Simeng Qiu](https://vccimaging.org/People/simeng/), PhD Candidate at King Abdullah University of Technology and Science
+
+    **Title:** MoireTag: Angular Measurement and Tracking with a Passive Marker
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ET66FVUupMtMnOgA_271U_UBoZAP06Jj5ZFo-7XPzTE_qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=hLVemh)
+
+
 #### Suyeon Choi (Stanford University)
 ??? Details
     **Date:**
