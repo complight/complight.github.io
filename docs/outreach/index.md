@@ -34,12 +34,12 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
-#### Simeng Qiu
+#### Simeng Qiu (King Abdullah University of Science and Technology)
 ??? Details
     **Date:**
     4th October 2023
 
-    **Presenter:** [Simeng Qiu](https://vccimaging.org/People/simeng/), PhD Candidate at King Abdullah University of Technology and Science
+    **Presenter:** [Simeng Qiu](https://vccimaging.org/People/simeng/), PhD Candidate at King Abdullah University of Science and Technology
 
     **Title:** MoireTag: Angular Measurement and Tracking with a Passive Marker
 
