@@ -20,6 +20,8 @@ These documents vary in their topics, from workplace guidances to technical dige
 ## Resources
 | Documents | Description   |
 | ------------- |:-------------:|
-| [`Learn more about computer-generated holography`](https://kaanaksit.github.io/odak/cgh/) | This documentation will link you to Odak's documentation on computer-generated holography. It is an excellent place to get ideas on how to get started on computer-generated holography. |
+| [`Learn Light, Computation and Computational Light`](https://kaanaksit.com/odak/course/) | This documentation will link you to our course notes. |
+| [`Learn more about raytracing and geometric optics`](https://kaanaksit.com/odak/course/geometric_optics/) | This documentation will link you to a specific section in our course notes. |
+| [`Learn more about computer-generated holography`](https://kaanaksit.com/odak/course/computer_generated_holography/) | This documentation will link you to a specific section in our course notes. |
 | [`Explore our printable designs`](https://github.com/complight/optomechanics) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
 | [`Tips and tricks for using our 3D printer`](3d_printing.md) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
