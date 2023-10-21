@@ -2,6 +2,29 @@
 
 ## 2023
 
+### October
+### 12-13 October 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+Kaan helped organizing [Optical Waveguides: A key to Socially Acceptable Augmented Reality Glasses?](https://www.optica.org/events/incubator_meetings/2023/optical_waveguides_a_key_to_socially_acceptable_ar_glasses/) as an Optica Incubator.
+Kaan also gave an invited talk titled `Role of Differentiable Models in Computational Display Research` at the same incubator event.
+<br />
+<br />
+
+
+
+### 9-10 October 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+Kaan helped organizing [Virtual Reality and Augmented Vision theme](https://www.frontiersinoptics.com/home/program/theme-virtual-reality/) at [Optica's Frontiers Optics](https://www.frontiersinoptics.com).
+Kaan also gave an invited talk on his group's work, `Headsetless Holographic Virtual Reality Displays` in the same theme.
+<br />
+<br />
+
+
+
 ### August
 #### 16 August 2023
 <div style="float: left; height:100px;" class="boxed">
