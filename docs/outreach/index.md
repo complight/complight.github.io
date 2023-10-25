@@ -32,6 +32,31 @@ Overall, seminars are a blend of internal and external presenters.
 
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+[Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
+
+
+#### Koya Narumi (The University of Tokyo)
+??? Details
+    **Date:**
+    25th October 2023
+
+    **Presenter:** [Koya Narumi](https://narumi.me/), Assistant Professor at the University of Tokyo
+
+    **Title:** Computational Origami Fabrication
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbKdy9qp4BBKuTk-b8NQRCQBTwn_z684jk_1FzH9j9O5qg?e=FsU46C)
+
+
+#### Stephen Ellis (NASA)
+??? Details
+    **Date:**
+    11th October 2023
+
+    **Presenter:** [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000)
+
+    **Title:** Complexity -complicated
+
+    **Watch:** N/A
 
 
 #### Simeng Qiu (King Abdullah University of Science and Technology)
