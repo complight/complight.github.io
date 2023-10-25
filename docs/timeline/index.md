@@ -14,7 +14,7 @@ Kaan also gave an invited talk titled `Role of Differentiable Models in Computat
 
 ### 11 October 2023
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/meta.png" width="80" alt/>
+<img align="left" src="../media/meta_reality_labs.png" width="80" alt/>
 </div>
 Kaan attended and presented at Meta's Academic forum 2023 upon Meta Reality Labs invitation.
 Kaan's talk is titled `Unlocking Next-Generation Display Technologies with Holography.`
