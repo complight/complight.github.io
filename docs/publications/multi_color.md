@@ -20,9 +20,9 @@
   </tbody>
 </table>
 <p style="text-align:center;">
-<sup>1</sup>University College London,
-<sup>2</sup>Koç University,
-<sup>3</sup>Massachusetts Institute of Technology
+<sup>1</sup>Koç University,
+<sup>2</sup>Massachusetts Institute of Technology,
+<sup>3</sup>University College London
 </p>
 <p style="text-align:center;"><b>SIGGRAPH Asia 2023</b></p>
 
