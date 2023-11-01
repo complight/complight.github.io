@@ -35,6 +35,18 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
 
 
+#### Kenan Bektas (University of Saint Gallen)
+??? Details
+    **Date:**
+    1st November 2023
+
+    **Presenter:** [Kenan Bektas](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/a75904c0-7a7c-462a-9dfe-d209a96cd904/), Postdoctoral Researcher at the University of Saint Gallen
+
+    **Title:** Gaze-Enabled Mixed Reality for Human Augmentation in Ubiquitous Computing Environments
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX07C8adnMdOlvB-REXLohoBeT3kEUJP2w0pvMdp0SgkpA?e=87iLiv)
+
+
 #### Koya Narumi (The University of Tokyo)
 ??? Details
     **Date:**
