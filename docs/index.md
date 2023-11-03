@@ -14,7 +14,7 @@
 ??? Question "Interested in registering to our seminars and discussion group?"
     Our laboratory organizes weekly seminars, and hosts a research hub in the form of a public Slack group.
 
-    [Subscribe to our mailing list and slack group](outreach){ .md-button .md-button--primary }
+    [Subscribe to our mailing list and slack group](outreach/index.md){ .md-button .md-button--primary }
 
 ??? Question "Where are we located?"
     The computational light laboratory is part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
