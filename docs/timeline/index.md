@@ -3,6 +3,14 @@
 ## 2023
 
 ### October
+### 30 October 2023
+
+We are pleased to announce an achievement at the recent UKRI AI CDT Conference 2023 in Bristol UK. Our research [ChromaCorrect](http://complightlab.com/ChromaCorrect/) was showcased among a diverse array of over 50 posters, and we're honored to have been awarded **First Prize for Best Poster**. This event was a gathering of the brightest minds from the ART-AI CDT at the University of Bath, the Interactive AI CDT at the University of Bristol, and the Foundational AI CDT at UCL, fostering an environment ripe for collaboration and innovation. This recognition underscores our commitment to excellence in Learned Models for Next-Generation Displays and Graphics research and our ongoing efforts to contribute meaningfully to the field.
+
+<img src="./media/ahmet_guzel_poster_award.jpg" alt="Ahmet Guzel's Poster Award" title="Ahmet Guzel - First Prize for Best Poster" width="300"/>
+
+
+
 ### 12-13 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
