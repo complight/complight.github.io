@@ -29,7 +29,7 @@ Overall, seminars are a blend of internal and external presenters.
 !!! Question
     If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
     
-    [Subscribe to mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
+    [Subscribe to our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
 
 
 ### 2023
