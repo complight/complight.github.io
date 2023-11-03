@@ -1,6 +1,6 @@
 ## Introduction
 ???+ Question "Who are we?"
-    Lead by [Kaan Akşit](https://kaanaksit.com), the computational light laboratory conducts [research and development](publications/index.md) in light related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays and visual perception.
+    Led by [Kaan Akşit](https://kaanaksit.com), the Computational light laboratory conducts [research and development](publications/index.md) in light-related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays, and visual perception.
     We share our scientific output in the form of [published articles and papers](publications/index.md).
     Our primary software toolkit to tackle our research problems is public and open-source.
     We host our toolkit as [Odak](https://github.com/kunguz/odak) in GitHub.
