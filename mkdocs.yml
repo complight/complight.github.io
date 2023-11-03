@@ -160,3 +160,4 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/card.css
