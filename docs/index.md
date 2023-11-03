@@ -63,7 +63,6 @@
 </div>
 </div>
 
-
 <div class="card">
   <div class="card_image"> <a href="teaching/siggraph2022_optimizing_vision_and_visuals/"><img src="teaching/media/optimizing_vision_and_visuals.png" /></a></div>
   <div class="card_title title-colorless">
@@ -71,6 +70,53 @@
 </div>
 </div>
 
+
+<div class="card">
+  <div class="card_image"> <a href="https://github.com/oliland/lensless-primal-dual"><img src="publications/media/unrolled_primal_dual.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Unrolled Primal-Dual Networks for Lensless Imaging (Optics Express)</p>
+</div>
+</div>
+
+
+<div class="card">
+  <div class="card_image"> <a href="https://github.com/complight/metameric_holography"><img src="publications/media/metameric.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Metameric Varifocal Holograms (IEEE VR 2022)</p>
+</div>
+</div>
+
+
+<div class="card">
+  <div class="card_image"> <a href="https://github.com/complight/realistic_holography"><img src="publications/media/learned_light.gif" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Learned Holographic Light Transport (Applied Optics)</p>
+</div>
+</div>
+
+
+<div class="card">
+  <div class="card_image"> <a href="https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf"><img src="publications/media/telelife.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Telelife: the future of remote living (Frontiers in VR)</p>
+</div>
+</div>
+
+
+<div class="card">
+  <div class="card_image"> <a href="https://hcie.csail.mit.edu/research/sensicut/sensicut.html"><img src="publications/media/sensicut.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>SensiCut: material-aware laser cutting using speckle sensing and deep learning (UIST 2021)</p>
+</div>
+</div>
+
+
+<div class="card">
+  <div class="card_image"> <a href="https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf"><img src="publications/media/beaming_displays.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Beaming Displays (IEEE VR 2021)</p>
+</div>
+</div>
 
 
 </div>
