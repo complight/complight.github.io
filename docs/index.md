@@ -37,7 +37,7 @@
 <div class="card">
   <div class="card_image"> <a href="timeline"><img src="timeline/media/ahmet_guzel_poster_award.jpg" /></a></div>
   <div class="card_title title-colorless">
-    <p>Ahmet Güzel received the best power award at UKRI AI CDT conference.</p>
+    <p>Ahmet Güzel received the best poster award at UKRI AI CDT conference.</p>
 </div>
 </div>
 
