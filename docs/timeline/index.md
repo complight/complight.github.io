@@ -3,6 +3,18 @@
 ## 2023
 
 ### October
+### 30 October 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="./media/ahmet_guzel_poster_award_2.png" alt="Ahmet Guzel's Poster Award" width="180" alt/>
+</div>
+We are pleased to announce an achievement at the [UKRI AI CDT Conference 2023](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd) in Bristol, United Kingdom.
+[Ahmet Güzel](https://aguzel.github.io/) showcased our research project, [ChromaCorrect](http://complightlab.com/ChromaCorrect/), among a diverse array of over 50 posters at the event.
+We are honored to have been awarded **First Prize for Best Poster**, and we thank [Foundational Artificial Intelligence Center at University College London](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd). 
+This recognition underscores our commitment to excellence in Learned Models for Next-Generation Displays and Graphics research.
+<br />
+<br />
+
+
 ### 12-13 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
