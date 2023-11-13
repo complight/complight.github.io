@@ -46,7 +46,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
     **Title:** Intensity correlation holography: applications in single photon and remote imaging
 
-    **Watch:** [Recording (Password protected)](Intensity correlation holography: applications in single photon and remote imaging)
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Guillaume%20Thekkadath,%20National%20Research%20Council%20of%20Canada.mp4?csf=1&web=1&e=2oJmi3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 #### Kenan Bektas (University of Saint Gallen)
