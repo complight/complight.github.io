@@ -37,6 +37,18 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
 
 
+#### Guillaume Thekkadath (National Research Council of Canada)
+??? Details
+    **Date:**
+    13th November 2023
+
+    **Presenter:** [Guillaume Thekkadath](https://scholar.google.ca/citations?user=1qEVbX8AAAAJ), Postdoctoral Fellow at National Research Council of Canada
+
+    **Title:** Intensity correlation holography: applications in single photon and remote imaging
+
+    **Watch:** [Recording (Password protected)](Intensity correlation holography: applications in single photon and remote imaging)
+
+
 #### Kenan Bektas (University of Saint Gallen)
 ??? Details
     **Date:**
