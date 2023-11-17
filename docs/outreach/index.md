@@ -36,11 +36,22 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
 
+#### Ziya Erkoç (Technical University of Munich)
+??? Details
+    **Date:**
+    15th November 2023
+
+    **Presenter:** [Ziya Erkoç](https://ziyaerkoc.com/), PhD student at the Technical University of Munich 
+
+    **Title:** Generative Modeling with Neural Field Weights
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYVq1oj_iOFEt5l8BGVYaNMB3E6GrPu-j-GkY8taAfTWmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=phZWn7)
+
 
 #### Guillaume Thekkadath (National Research Council of Canada)
 ??? Details
     **Date:**
-    13th November 2023
+    8th November 2023
 
     **Presenter:** [Guillaume Thekkadath](https://scholar.google.ca/citations?user=1qEVbX8AAAAJ), Postdoctoral Fellow at National Research Council of Canada
 
