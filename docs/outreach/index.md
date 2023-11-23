@@ -42,7 +42,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     22nd November 2023
 
-    **Presenter:** [Lior Yariv](), PhD student at Weizmann Institute of Science 
+    **Presenter:** [Lior Yariv](https://lioryariv.github.io/), PhD student at Weizmann Institute of Science 
 
     **Title:** MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation
 
