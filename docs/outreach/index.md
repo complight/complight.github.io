@@ -36,6 +36,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
 
+
+#### Lior Yariv (Weizmann Institute of Science)
+??? Details
+    **Date:**
+    22nd November 2023
+
+    **Presenter:** [Lior Yariv](), PhD student at Weizmann Institute of Science 
+
+    **Title:** MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Lior%20Yariv,%20Weizmann%20Institute%20of%20Science.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=E7mY6j)
+
+
 #### Ziya Erkoç (Technical University of Munich)
 ??? Details
     **Date:**
