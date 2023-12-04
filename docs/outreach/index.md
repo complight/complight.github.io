@@ -37,6 +37,18 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
 
 
+#### Daiseku Iwai (Osaka University)
+??? Details
+    **Date:**
+    29th November 2023
+
+    **Presenter:** [Daisuke Iwai](https://daisukeiwai.org/), Associate Professor at Osaka University
+
+    **Title:** Computational displays in projection mapping
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EVbVyI7WM2dCn1r6hoVq3B4BY0M9NwOvfGFcWJXE9jll2g?e=LS78Yg)
+
+
 #### Lior Yariv (Weizmann Institute of Science)
 ??? Details
     **Date:**
