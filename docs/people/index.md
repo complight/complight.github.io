@@ -61,19 +61,6 @@ Incoming PhD Student
 <br clear="left"/>
 
 
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/koray_kavakli.png" width="160" alt/>
-</div>
-[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
-
-PhD Student ([Koç University](https://www.ku.edu.tr/))
-
-:material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
 ## Interns
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/doga_yilmaz.png" width="160" alt/>
@@ -88,6 +75,17 @@ MSc Student ([Özyeğin University](https://www.ozyegin.edu.tr/))
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/koray_kavakli.png" width="160" alt/>
+</div>
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
+
+PhD Student ([Koç University](https://www.ku.edu.tr/))
+
+:material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
 
 
 
