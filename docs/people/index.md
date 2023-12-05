@@ -68,7 +68,7 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 </div>
 [Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/)
 
-MSc Student
+MSc Student ([Özyeğin University](https://www.ozyegin.edu.tr/))
 
 :material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
 
