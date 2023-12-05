@@ -74,6 +74,21 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 <br clear="left"/>
 
 
+## Interns
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/doga_yilmaz.png" width="160" alt/>
+</div>
+[Doğa Yılmaz](https://yilmazdoga.net)
+
+MSc Student
+
+:material-email: [E-mail](mailto:yilmaz.doga@gmail.com)
+
+:material-office-building: Office: G06
+<br clear="left"/>
+
+
+
 
 
 
