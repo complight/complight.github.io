@@ -49,6 +49,19 @@ Incoming PhD Student
 
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/ziyang_chen.png" width="160" alt/>
+</div>
+[Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/)
+
+Incoming PhD Student
+
+:material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
+
+:material-office-building: Office: R404.187
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/koray_kavakli.png" width="160" alt/>
 </div>
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
@@ -61,19 +74,6 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 <br clear="left"/>
 
 
-
-### Interns
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/ziyang_chen.png" width="160" alt/>
-</div>
-[Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/)
-
-MSc Student
-
-:material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
-
-:material-office-building: Office: G06
-<br clear="left"/>
 
 
 
