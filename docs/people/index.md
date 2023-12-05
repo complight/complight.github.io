@@ -84,7 +84,7 @@ MSc Student
 
 :material-email: [E-mail](mailto:yilmaz.doga@gmail.com)
 
-:material-office-building: Office: G06
+:material-office-building: Office: Virtual
 <br clear="left"/>
 
 
