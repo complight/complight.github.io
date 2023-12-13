@@ -16,5 +16,6 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: pip install mkdocs-bibtex
       - run: pip install mkdocstrings
+      - run: pip install --upgrade setuptools
       - run: mkdocs gh-deploy --force
 
