@@ -40,7 +40,7 @@
           numpages = {11},
           keywords = {Brightness, Computer-generated holography, Holographic displays},
           location = {Sydney, NSW, Australia},
-          series = {SA '23}
+          series = {SA '23},
           month={December},
           year={2023},
           doi={https://doi.org/10.1145/3610548.3618135}
