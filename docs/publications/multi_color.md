@@ -129,6 +129,11 @@ Here are relevant research works from the authors:
 - [Odak](https://github.com/kunguz/odak)
 
 
+## External Other Links
+Here are links related to our project such as videos, articles or podcasts:
+- [ACM SIGGRAPH Asia 2023, Technical Papers Fast Forward (Preview the presentations on 13 Dec, Day 2)](https://youtu.be/dMsD_xXOEKA?feature=shared&t=332)
+
+
 ## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
