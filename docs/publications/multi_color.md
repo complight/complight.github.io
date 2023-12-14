@@ -131,6 +131,7 @@ Here are relevant research works from the authors:
 
 ## External Other Links
 Here are links related to our project such as videos, articles or podcasts:
+
 - [ACM SIGGRAPH Asia 2023, Technical Papers Fast Forward (Preview the presentations on 13 Dec, Day 2)](https://youtu.be/dMsD_xXOEKA?feature=shared&t=332)
 
 
