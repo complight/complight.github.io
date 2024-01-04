@@ -5,7 +5,7 @@
 ### December
 ### 13 December 2023
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="./media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="100" alt/>
+<img align="left" src="../media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="180" alt/>
 </div>
 [Our paper](https://complightlab.com/publications/multi_color/), `Multi-color Holograms Improve Brightness in Holographic Displays`, is presented at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
 This work is a collaboration between
@@ -21,7 +21,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 ### October
 ### 30 October 2023
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="./media/ahmet_guzel_poster_award_2.png" alt="Ahmet Guzel's Poster Award" width="180" alt/>
+<img align="left" src="../media/ahmet_guzel_poster_award_2.png" alt="Ahmet Guzel's Poster Award" width="100" alt/>
 </div>
 We are pleased to announce an achievement at the [UKRI AI CDT Conference 2023](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd) in Bristol, United Kingdom.
 [Ahmet Güzel](https://aguzel.github.io/) showcased our research project, [ChromaCorrect](http://complightlab.com/ChromaCorrect/), among a diverse array of over 50 posters at the event.
