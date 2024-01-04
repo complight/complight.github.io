@@ -5,7 +5,7 @@
 ### December
 ### 13 December 2023
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="./media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="180" alt/>
+<img align="left" src="./media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="100" alt/>
 </div>
 [Our paper](https://complightlab.com/publications/multi_color/), `Multi-color Holograms Improve Brightness in Holographic Displays`, is presented at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
 This work is a collaboration between
