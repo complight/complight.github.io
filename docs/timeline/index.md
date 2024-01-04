@@ -2,6 +2,22 @@
 
 ## 2023
 
+### December
+### 13 December 2023
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="./media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="180" alt/>
+</div>
+[Our paper](https://complightlab.com/publications/multi_color/), `Multi-color Holograms Improve Brightness in Holographic Displays`, is presented at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
+This work is a collaboration between
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
+[Liang Shi](https://people.csail.mit.edu/liangs/),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
+and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
+
 ### October
 ### 30 October 2023
 <div style="float: left; height:100px;" class="boxed">
