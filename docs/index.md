@@ -37,7 +37,7 @@
 
 
 <div class="card">
-  <div class="card_image"> <a href="timeline/#30-october-2023"><img src="timeline/media/ahmet_guzel_poster_award.jpg" /></a></div>
+  <div class="card_image"> <a href="timeline/#30-october-2023"><img src="media/ahmet_guzel_poster_award.jpg" /></a></div>
   <div class="card_title title-colorless">
     <p>Ahmet Güzel received the best poster award at UKRI AI CDT conference.</p>
 </div>
