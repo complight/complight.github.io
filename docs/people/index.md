@@ -22,18 +22,6 @@ Associate Professor of Computational Light
 
 
 ### Doctoral students
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/ahmet_guzel.png" width="160" alt/>
-</div>
-[Ahmet Güzel](https://aguzel.github.io)
-
-PhD Student
-
-:material-email: [E-mail](mailto:ahmet.guzel.23@ucl.ac.uk)
-
-:material-office-building: Office: R404.189
-<br clear="left"/>
-
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yicheng_zhan.png" width="160" alt/>
