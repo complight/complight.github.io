@@ -28,7 +28,7 @@ Associate Professor of Computational Light
 </div>
 [Yicheng Zhan](https://github.com/AlberTgarY)
 
-Incoming PhD Student
+PhD Student
 
 :material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
 
