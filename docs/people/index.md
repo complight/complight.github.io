@@ -80,6 +80,12 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 
 ## Alumni
 
+### 2023
+
+#### Interns
+- Ahmet Hamdi Güzel, `Perceptual Prescription Correction`.
+
+
 ### 2022
 
 #### Post-Doctoral Researchers
