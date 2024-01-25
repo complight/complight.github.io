@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/photonics_west.png" alt="SPIE Photonics West 2024" width="80" alt/>
 </div>
-Our paper, [`AutoColor: Learned Light Power Control for Multi-Color Holograms`](https://complightlab.com/autocolor_/), is presented at [SPIE AR|VR|MR](https://spie.org/conferences-and-exhibitions/ar-vr-mr).
+Our paper, [`AutoColor: Learned Light Power Control for Multi-Color Holograms`](https://complightlab.com/autocolor_/), is presented at [SPIE AR|VR|MR 2024](https://spie.org/conferences-and-exhibitions/ar-vr-mr).
 This work is a collaboration between
 [Yicheng Zhan](https://github.com/AlberTgarY),
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
