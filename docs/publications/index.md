@@ -7,7 +7,7 @@
 </div>
 **Autocolor: Learned Light Power Control for Multi-Color Holograms**
 
-<img src="https://img.shields.io/badge/-ArxiV-yellow">
+<img src="https://img.shields.io/badge/-SPIE AR|VR|MR-yellow">
 
 [Yicheng Zhan](https://github.com/AlberTgarY),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
@@ -30,7 +30,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
 <br clear="left"/>
 
-
+## 2024
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/multicolor.png" width="200" alt/>
 </div>
