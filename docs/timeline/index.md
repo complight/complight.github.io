@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/photonics_west.png" alt="SPIE Photonics West 2024" width="80" alt/>
 </div>
-[Our paper](https://complightlab.com/autocolor_/), `AutoColor: Learned Light Power Control for Multi-Color Holograms`, is presented at [SPIE AR|VR|MR](https://spie.org/conferences-and-exhibitions/ar-vr-mr).
+Our paper, [`AutoColor: Learned Light Power Control for Multi-Color Holograms`](https://complightlab.com/autocolor_/), is presented at [SPIE AR|VR|MR](https://spie.org/conferences-and-exhibitions/ar-vr-mr).
 This work is a collaboration between
 [Yicheng Zhan](https://github.com/AlberTgarY),
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
@@ -25,7 +25,10 @@ and [Kaan Akşit](https://kaanaksit.com).
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="80" alt/>
 </div>
-[Our paper](https://complightlab.com/publications/multi_color/), `Multi-color Holograms Improve Brightness in Holographic Displays`, is presented at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
+Our paper, 
+[`Multi-color Holograms Improve Brightness in Holographic Displays`](https://complightlab.com/publications/multi_color/), 
+is presented at 
+[SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
 This work is a collaboration between
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
@@ -114,8 +117,14 @@ In her latest article, "[The Promise of Holographic Displays](https://cacm.acm.o
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
-[Our paper](http://complightlab.com/ChromaCorrect/), `ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance`, is published at Optica's Biomedical Optics Express.
-This work is a result of a collaboration with [Ahmet H. Güzel](https://aguzel.github.io/), [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/?trk=public_profile_browsemap&originalSubdomain=uk) and [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/).
+Our paper, 
+[`ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance`](http://complightlab.com/ChromaCorrect/), 
+is published at [Optica's Biomedical Optics Express](https://opg.optica.org/boe).
+This work is a result of a collaboration with 
+[Ahmet H. Güzel](https://aguzel.github.io/), 
+[Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/?trk=public_profile_browsemap&originalSubdomain=uk),
+[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/),
+and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
@@ -125,7 +134,10 @@ This work is a result of a collaboration with [Ahmet H. Güzel](https://aguzel.g
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
-[Our paper](https://complightlab.com/publications/holobeam/), `HoloBeam: Paper-Thin Near-Eye Displays`, is presented at [IEEE VR 2023](https://ieeevr.org/2023/).
+Our paper, 
+[`HoloBeam: Paper-Thin Near-Eye Displays`](https://complightlab.com/publications/holobeam/), 
+is presented at 
+[IEEE VR 2023](https://ieeevr.org/2023/).
 This work is a collaboration between
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
 and [Kaan Akşit](https://kaanaksit.com).
@@ -136,7 +148,10 @@ and [Kaan Akşit](https://kaanaksit.com).
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
-[Our paper](https://complightlab.com/publications/realistic_defocus_cgh/), `Realistic Defocus Blur for Multiplane Computer-Generated Holography`, is presented at [IEEE VR 2023](https://ieeevr.org/2023/).
+Our paper, 
+[`Realistic Defocus Blur for Multiplane Computer-Generated Holography`](https://complightlab.com/publications/realistic_defocus_cgh/), 
+is presented at 
+[IEEE VR 2023](https://ieeevr.org/2023/).
 This work is a collaboration between
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ),
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
@@ -195,9 +210,15 @@ We had to decline their award as we have purchased new computational resources m
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
-[Our paper](https://arxiv.org/abs/2203.04353), `Unrolled Primal-Dual Networks for Lensless Cameras`, is published at Optica's Optics Express.
-A copy of the manuscript can be found [here](https://arxiv.org/pdf/2203.04353.pdf).
-This work is a result of a collaboration with [Oliver Kingshott](https://oliver.kingshott.com/), [Nick Antipa](http://nickantipa.com/) and [Emrah Bostan](https://emrahbostan.com/).
+Our paper,
+[`Unrolled Primal-Dual Networks for Lensless Cameras`](https://github.com/complight/unrolled_primal_dual_networks), 
+is published at 
+[Optica's Optics Express](https://opg.optica.org/oe).
+This work is a result of a collaboration between 
+[Oliver Kingshott](https://oliver.kingshott.com/), 
+[Nick Antipa](http://nickantipa.com/), 
+[Emrah Bostan](https://emrahbostan.com/),
+and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
@@ -207,8 +228,17 @@ This work is a result of a collaboration with [Oliver Kingshott](https://oliver.
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
-[Our paper](https://doi.org/10.1109/TVCG.2022.3216712), `Metameric Inpainting for Image Warping`, is published at IEEE's Transaction on Visualization and Computer Graphics.
-This work is a collaboration between [Rafael Kuffner dos Anjos](https://rafaelkuffner.github.io/), [David Robert Walton](https://drwalton.github.io/), [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/), [David Swapp](http://www.cs.ucl.ac.uk/people/D.Swapp/), [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/).
+Our paper, 
+[`Metameric Inpainting for Image Warping`](https://doi.org/10.1109/TVCG.2022.3216712), 
+is published at [IEEE's Transaction on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
+This work is a collaboration between 
+[Rafael Kuffner dos Anjos](https://rafaelkuffner.github.io/), 
+[David Robert Walton](https://drwalton.github.io/), 
+[Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/), 
+[David Swapp](http://www.cs.ucl.ac.uk/people/D.Swapp/), 
+[Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/), 
+[Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/),
+and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
@@ -251,8 +281,17 @@ Their award is worth `75000 USD`.
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/chi2022.png" width="80" alt/>
 </div>
-Our panel, [Telelife: A Vision of Remote Living in 2035](https://programs.sigchi.org/chi/2022/program/session/73405), is presented at [CHI 2022](https://chi2022.acm.org/).
-This work is a collaboration between [Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9), [Jeeeun Kim](http://www.jeeeunkim.com/), [Kiyoshi Kiyokawa](https://carelab.info/en/), [Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/), [Tobias Höllerer](https://sites.cs.ucsb.edu/~holl/), [Nataliya Kosmyna](https://www.media.mit.edu/people/nkosmyna/overview/), [Misha Sra](https://sites.cs.ucsb.edu/~sra/), [Jason Orlosky](https://www.jeoresearch.com/research) and Kaan Akşit.
+Our panel, [`Telelife: A Vision of Remote Living in 2035`](https://programs.sigchi.org/chi/2022/program/session/73405), is presented at [CHI 2022](https://chi2022.acm.org/).
+This work is a collaboration between 
+[Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9), 
+[Jeeeun Kim](http://www.jeeeunkim.com/), 
+[Kiyoshi Kiyokawa](https://carelab.info/en/), 
+[Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/), 
+[Tobias Höllerer](https://sites.cs.ucsb.edu/~holl/), 
+[Nataliya Kosmyna](https://www.media.mit.edu/people/nkosmyna/overview/), 
+[Misha Sra](https://sites.cs.ucsb.edu/~sra/), 
+[Jason Orlosky](https://www.jeoresearch.com/research), 
+and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
