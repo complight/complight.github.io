@@ -3,7 +3,7 @@
 
 ## 2024
 ### January
-### 29 January 2024
+#### 29 January 2024
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/photonics_west.png" alt="SPIE Photonics West 2024" width="80" alt/>
 </div>
@@ -21,7 +21,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 ## 2023
 
 ### December
-### 13 December 2023
+#### 13 December 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="80" alt/>
 </div>
@@ -37,7 +37,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 
 
 ### October
-### 30 October 2023
+#### 30 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ahmet_guzel_poster_award_2.png" alt="Ahmet Guzel's Poster Award" width="100" alt/>
 </div>
@@ -48,7 +48,7 @@ We are honored to have been awarded **First Prize for Best Poster**, and we than
 <br />
 
 
-### 12-13 October 2023
+#### 12-13 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -57,7 +57,7 @@ Kaan also gave an invited talk titled `Role of Differentiable Models in Computat
 <br />
 <br />
 
-### 11 October 2023
+#### 11 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/meta_reality_labs.png" width="80" alt/>
 </div>
@@ -68,7 +68,7 @@ Kaan's talk is titled `Unlocking Next-Generation Display Technologies with Holog
 
 
 
-### 9-10 October 2023
+#### 9-10 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
