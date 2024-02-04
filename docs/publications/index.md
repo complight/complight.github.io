@@ -1,7 +1,48 @@
 # Publications
 
 
-## 2023
+## 2024
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/diffractive_visual_processor.png" width="200" alt/>
+</div>
+**All-optical image denoising using a diffractive visual processor**
+
+<img src="https://img.shields.io/badge/-Light: Science & Applications-critical">
+
+[Çağatay Işıl](https://cagatayisil.github.io/),
+[Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
+[Fazil Onuralp](https://www.linkedin.com/in/fazil-onuralp-ardic-72a501177),
+[Koray Mentesoglu](https://www.linkedin.com/in/korayucla2024/),
+[Jagrit Digani](https://www.linkedin.com/in/jagrit06),
+[Huseyin Karaca](https://www.linkedin.com/in/huseyinkaraca),
+[Hanlong Chen](https://www.linkedin.com/in/%E7%92%90%E5%93%B2-%E9%BB%84-59854b155),
+[Jingxi Li](https://scholar.google.com/citations?user=_FMlkBoAAAAJ&hl=en&oi=ao),
+[Deniz Mengu](https://scholar.google.com/citations?user=MpYPqXEAAAAJ&hl=en),
+[Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
+[Kaan Akşit](https://kaanaksit.com),
+and [Ozcan Aydogan](https://www.ee.ucla.edu/aydogan-ozcan)
+
+:material-web-box: [Publisher site](https://doi.org/10.1038/s41377-024-01385-6)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/IsilEtAl_LightScienceAndApplications2024_All_optical_image_denoising_using_a_diffractive_visual_processor.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+        @article{Işıl2024,
+          author = {I{\c{s}}{\i}l, {\c{C}}a{\u{g}}atay and Gan, Tianyi and Ardic, Fazil Onuralp and Mentesoglu, Koray and Digani, Jagrit and Karaca, Huseyin and Chen, Hanlong and Li, Jingxi and Mengu, Deniz and Jarrahi, Mona and Ak{\c{s}}it, Kaan and Ozcan, Aydogan},
+          title = {All-optical image denoising using a diffractive visual processor},
+          journal = {Light: Science {\&} Applications},
+          year = {2024},
+          month = feb,
+          day = {04},
+          volume = {13},
+          number = {1},
+          pages = {43},
+          issn = {2047-7538},
+          doi = {10.1038/s41377-024-01385-6},
+          url = {https://doi.org/10.1038/s41377-024-01385-6}
+       }
+	```
+<br clear="left"/>
+
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/autocolor.png" width="200" alt/>
 </div>
@@ -30,7 +71,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
 <br clear="left"/>
 
-## 2024
+## 2023
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/multicolor.png" width="200" alt/>
 </div>
