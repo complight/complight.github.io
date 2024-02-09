@@ -32,10 +32,24 @@ Overall, seminars are a blend of internal and external presenters.
     [Subscribe to our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
 
 
+### 2024
+These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+
+#### Madalina Nicolae (Saarland University and Polytechnic Institute of Paris)
+??? Details
+    **Date:**
+    7th February 2024
+
+    **Presenter:** [Madalina Nicolae](https://madalinanicolae.myportfolio.com/), PhD student at Saarland University and Polytechnic Institute of Paris
+
+    **Title:** Towards Digital Biofabrication and Sustainable Innovation
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfDpz0y0PHZNqAs8K89aEjYBUTqdbPd7gyXvwA6SEUYnwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=10m8bn)
+
+
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
-
 
 #### Daiseku Iwai (Osaka University)
 ??? Details
