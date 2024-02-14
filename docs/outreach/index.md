@@ -35,6 +35,18 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Ruoshi Liu, Columbia University
+??? Details
+    **Date:**
+    14th February 2024
+
+    **Presenter:** [Ruoshi Liu](https://ruoshiliu.github.io/), PhD student at Columbia University
+
+    **Title:** Neural Network Inversion for Imaging, Vision, Robotics, and Beyond
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYIe47_4-SVApl8mjvS0adUB2X1DxhvUP4ACPAe4EC6viw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l8ftKx)
+
+
 #### Madalina Nicolae (Saarland University and Polytechnic Institute of Paris)
 ??? Details
     **Date:**
