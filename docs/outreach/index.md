@@ -74,7 +74,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
 ### 2023
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
-[Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderate the session.
+[Simon Julier](https://profiles.ucl.ac.uk/2907) invited [Stephen Ellis](https://ieeexplore.ieee.org/author/37300428000) and moderated the session.
 
 #### Daiseku Iwai (Osaka University)
 ??? Details
