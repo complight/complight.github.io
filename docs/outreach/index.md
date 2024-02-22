@@ -35,6 +35,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Mose Sakashita, Cornell University
+??? Details
+    **Date:**
+    21st February 2024
+
+    **Presenter:** [Mose Sakashita](http://mosesakashita.me/), PhD student at Cornell University
+
+    **Title:** Enhancing Remote Design Collaboration through Motion-Controlled Telepresence Robots
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfzJy7oAZEdCmCIm0yPsY_kB-2qMh5Mcy4ooIqQrK1xcTA?e=EyPbfr)
+
+
 #### Ruoshi Liu, Columbia University
 ??? Details
     **Date:**
