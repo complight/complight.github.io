@@ -41,7 +41,7 @@ PhD Student
 </div>
 [Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/)
 
-Incoming PhD Student
+PhD Student
 
 :material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
 
