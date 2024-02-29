@@ -36,7 +36,7 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
-#### Taimoor Tariq, Università della Svizzera Italiana
+#### Taimoor Tariq, (Università della Svizzera Italiana)
 ??? Details
     **Date:**
     28th February 2024
@@ -48,7 +48,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Taimoor%20Tariq,%20Universit%C3%A0%20della%20Svizzera%20italiana.mp4?csf=1&web=1&e=PPDyJI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-#### Mose Sakashita, Cornell University
+#### Mose Sakashita, (Cornell University)
 ??? Details
     **Date:**
     21st February 2024
@@ -60,7 +60,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfzJy7oAZEdCmCIm0yPsY_kB-2qMh5Mcy4ooIqQrK1xcTA?e=EyPbfr)
 
 
-#### Ruoshi Liu, Columbia University
+#### Ruoshi Liu, (Columbia University)
 ??? Details
     **Date:**
     14th February 2024
