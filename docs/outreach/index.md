@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Taimoor Tariq, Università della Svizzera Italiana
+??? Details
+    **Date:**
+    28th February 2024
+
+    **Presenter:** [Taimoor Tariq](https://taimoor6864.github.io/), PhD student at Università della Svizzera Italiana
+
+    **Title:** Its all in the Eyes: Towards Perceptually Optimized Real-Time VR
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Taimoor%20Tariq,%20Universit%C3%A0%20della%20Svizzera%20italiana.mp4?csf=1&web=1&e=PPDyJI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 #### Mose Sakashita, Cornell University
 ??? Details
     **Date:**
