@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Cheng Zheng, (Massachusetts Institute of Technology)
+??? Details
+    **Date:**
+    6th March 2024
+
+    **Presenter:** [Cheng Zheng](https://zcshinee.github.io/), PhD student at Massachusetts
+
+    **Title:** Neural Lithography: Close the Design to Manufacturing Gap in Computational Optics
+
+    **Watch:** [Recording (Password protected)](Neural Lithography: Close the Design to Manufacturing Gap in Computational Optics)
+
+
 #### Taimoor Tariq, (Università della Svizzera Italiana)
 ??? Details
     **Date:**
