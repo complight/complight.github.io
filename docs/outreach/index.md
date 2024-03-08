@@ -45,7 +45,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
     **Title:** Neural Lithography: Close the Design to Manufacturing Gap in Computational Optics
 
-    **Watch:** [Recording (Password protected)](Neural Lithography: Close the Design to Manufacturing Gap in Computational Optics)
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcRZcJFvB8JBtHxr_U6N6R8B98Svyhg15hlAtUT8ts-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BgqXit)
 
 
 #### Taimoor Tariq, (Università della Svizzera Italiana)
