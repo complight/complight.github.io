@@ -36,7 +36,7 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
-#### Cheng Zheng, (Massachusetts Institute of Technology)
+#### Cheng Zheng (Massachusetts Institute of Technology)
 ??? Details
     **Date:**
     6th March 2024
@@ -48,7 +48,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EcRZcJFvB8JBtHxr_U6N6R8B98Svyhg15hlAtUT8ts-i_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BgqXit)
 
 
-#### Taimoor Tariq, (Università della Svizzera Italiana)
+#### Taimoor Tariq (Università della Svizzera Italiana)
 ??? Details
     **Date:**
     28th February 2024
@@ -60,7 +60,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EaG9Kztqb-xPtPkQZhC4vaEBy8zdiuTai4TKHigPhR8qHg?e=eOpeiv)
 
 
-#### Mose Sakashita, (Cornell University)
+#### Mose Sakashita (Cornell University)
 ??? Details
     **Date:**
     21st February 2024
@@ -72,7 +72,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfzJy7oAZEdCmCIm0yPsY_kB-2qMh5Mcy4ooIqQrK1xcTA?e=EyPbfr)
 
 
-#### Ruoshi Liu, (Columbia University)
+#### Ruoshi Liu (Columbia University)
 ??? Details
     **Date:**
     14th February 2024
