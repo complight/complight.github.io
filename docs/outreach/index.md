@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Seung-Hwan Baek (Postech)
+??? Details
+    **Date:**
+    20th March 2024
+
+    **Presenter:** [Seung-Hwan Baek](https://sites.google.com/view/shbaek/), Assistant Professor at POSTECH
+
+    **Title:** High-dimensional Visual Computing
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EdXrrkYoRnREpYKpNmc_6tgBgfcjOFAizCMyHEjuR1406Q?e=qfEBFp)
+
+
 #### Divya Kothandaraman (University of Maryland College Park)
 ??? Details
     **Date:**
