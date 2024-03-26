@@ -68,7 +68,7 @@ MSc Student ([Özyeğin University](https://www.ozyegin.edu.tr/))
 </div>
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&)
 
-MSc Student ([Shenzhen University](https://en.szu.edu.cn/)
+MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 
 :material-email: [E-mail](mailto:chuanjunzhengcs@gmail.com)
 
