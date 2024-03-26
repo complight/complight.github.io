@@ -64,6 +64,19 @@ MSc Student ([Özyeğin University](https://www.ozyegin.edu.tr/))
 
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/chuanjun_zheng.png" width="160" alt/>
+</div>
+[Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&)
+
+MSc Student ([Shenzhen University](https://en.szu.edu.cn/)
+
+:material-email: [E-mail](mailto:chuanjunzhengcs@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/koray_kavakli.png" width="160" alt/>
 </div>
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
