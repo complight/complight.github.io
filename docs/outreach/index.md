@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Yingsi Qin (Carnegie Mellon University)
+??? Details
+    **Date:**
+    3rd April 2024
+
+    **Presenter:** [Yingsi Qin](https://yingsiqin.github.io/), PhD Candidate at Carnegie Mellon University
+
+    **Title:** Split-Lohmann Multifocal Displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EbObKn1Eqd1Iq8Fq5JcjXaEBvBu6X3aZJGNLdBEKoIZZXA?e=1EPl50)
+
+
 #### Seung-Hwan Baek (Postech)
 ??? Details
     **Date:**
