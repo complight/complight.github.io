@@ -143,7 +143,7 @@ This work is a collaboration between
 and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
-
+<br />
 
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
@@ -159,7 +159,7 @@ This work is a collaboration between
 and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
-
+<br />
 
 #### 15 March 2023
 <div style="float: left; height:100px;" class="boxed">
