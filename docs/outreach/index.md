@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Litu Rout (The University of Texas Austin)
+??? Details
+    **Date:**
+    10th April 2024
+
+    **Presenter:** [Litu Rout](https://liturout.github.io/), PhD student at the University of Texas, Austin 
+
+    **Title:** On Solving Inverse Problems using Latent Diffusion 
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Litu%20Rout,%20The%20University%20of%20Texas%20Austin.mp4?csf=1&web=1&e=qaOCZq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 #### Yingsi Qin (Carnegie Mellon University)
 ??? Details
     **Date:**
