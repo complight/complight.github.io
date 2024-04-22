@@ -6,7 +6,7 @@
 ### April
 #### 22 April 2024
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/nature.png" alt="SPIE Photonics West 2024" width="80" alt/>
+<img align="left" src="../media/nature.png" alt="Nature Light Science and Applications" width="80" alt/>
 </div>
 Our paper, [`All-optical image denoising using a diffractive visual processor`](https://www.nature.com/articles/s41377-024-01385-6), is recognized as the most downloaded paper in March 2024 by [Nature's Light and Science Applications](https://www.nature.com/lsa/news#mar).
 This work is a collaboration between
@@ -22,6 +22,20 @@ This work is a collaboration between
 [Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
 [Kaan Akşit](https://kaanaksit.com),
 and [Ozcan Aydogan](https://www.ee.ucla.edu/aydogan-ozcan).
+<br />
+<br />
+
+
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/graphics_replicability_stamp_initiative.png" alt="Graphics Replicability Stamp Initiative" width="80" alt/>
+</div>
+Our paper, [`Multi-color Holograms Improve Brightness in Holographic Displays`](https://complightlab.com/publications/multi_color/), is awarded with Graphics Replicability Stamp Initiative's [replicability stamp](https://www.replicabilitystamp.org/#https-github-com-complight-multicolor).
+This work is a collaboration between
+[Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
+[Liang Shi](https://people.csail.mit.edu/liangs/),
+[Hakan Urey](https://mysite.ku.edu.tr/hurey/),
+[Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
+and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
