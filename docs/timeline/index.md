@@ -8,7 +8,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/nature.png" alt="SPIE Photonics West 2024" width="80" alt/>
 </div>
-Our paper, [`All-optical image denoising using a diffractive visual processor`](https://www.nature.com/articles/s41377-024-01385-6), is recognized as the most downloaded paper in March 2024 by [Nature's Light and Science Applications](https://lnkd.in/dpS-wV-z).
+Our paper, [`All-optical image denoising using a diffractive visual processor`](https://www.nature.com/articles/s41377-024-01385-6), is recognized as the most downloaded paper in March 2024 by [Nature's Light and Science Applications](https://www.nature.com/lsa/news#mar).
 This work is a collaboration between
 [Çağatay Işıl](https://cagatayisil.github.io/),
 [Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
