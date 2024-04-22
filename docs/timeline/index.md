@@ -2,6 +2,30 @@
 
 
 ## 2024
+
+### April
+#### 22 April 2024
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/nature.png" alt="SPIE Photonics West 2024" width="80" alt/>
+</div>
+Our paper, [`All-optical image denoising using a diffractive visual processor`](https://www.nature.com/articles/s41377-024-01385-6), is recognized as the most downloaded paper in March 2024 by [Nature's Light and Science Applications](https://lnkd.in/dpS-wV-z).
+This work is a collaboration between
+[Çağatay Işıl](https://cagatayisil.github.io/),
+[Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
+[Fazil Onuralp](https://www.linkedin.com/in/fazil-onuralp-ardic-72a501177),
+[Koray Mentesoglu](https://www.linkedin.com/in/korayucla2024/),
+[Jagrit Digani](https://www.linkedin.com/in/jagrit06),
+[Huseyin Karaca](https://www.linkedin.com/in/huseyinkaraca),
+[Hanlong Chen](https://www.linkedin.com/in/%E7%92%90%E5%93%B2-%E9%BB%84-59854b155),
+[Jingxi Li](https://scholar.google.com/citations?user=_FMlkBoAAAAJ&hl=en&oi=ao),
+[Deniz Mengu](https://scholar.google.com/citations?user=MpYPqXEAAAAJ&hl=en),
+[Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
+[Kaan Akşit](https://kaanaksit.com),
+and [Ozcan Aydogan](https://www.ee.ucla.edu/aydogan-ozcan).
+<br />
+<br />
+
+
 ### January
 #### 29 January 2024
 <div style="float: left; height:100px;" class="boxed">
