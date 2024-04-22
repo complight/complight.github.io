@@ -28,6 +28,15 @@
 ## Research Highlights
 <div class="cards-list">
 
+
+<div class="card">
+  <div class="card_image"> <a href="timeline/#22-april-2024"><img src="media/nature.png" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Most downloaded paper award from Nature's Light and Science Applications.</p>
+</div>
+</div>
+
+
 <div class="card">
   <div class="card_image"> <a href="publications/multi_color"><img src="publications/media/multicolor_experimental_results_fruit_lady.png" /></a></div>
   <div class="card_title title-colorless">
@@ -43,12 +52,14 @@
 </div>
 </div>
 
+
 <div class="card">
   <div class="card_image"> <a href="publications/holobeam"><img src="publications/media/holobeam_hires.png" /></a></div>
   <div class="card_title title-white">
     <p>HoloBeam: Paper-Thin Near-Eye Displays (IEEE VR 2023)</p>
 </div>
 </div>
+
 
 <div class="card">
   <div class="card_image"> <a href="publications/realistic_defocus_cgh"><img src="publications/media/realistic_defocus_focus_stack.gif" /></a></div>
