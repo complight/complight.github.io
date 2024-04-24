@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Zian Wang (University of Toronto and NVIDIA)
+??? Details
+    **Date:**
+    24th April 2024
+
+    **Presenter:** [Zian Wang](https://www.cs.toronto.edu/~zianwang/), PhD student at the University of Toronto 
+
+    **Title:** Hybrid Rendering: Bridging Volumetric and Surface Representations for Efficient 3D Content Modeling 
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERFZoCHsAvxEro9zTgEfXq0BGGNMWSjkrY_aNNamgeZKhw?e=jtjuSI)
+
+
 #### Litu Rout (The University of Texas Austin)
 ??? Details
     **Date:**
