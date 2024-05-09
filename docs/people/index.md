@@ -93,37 +93,26 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 
 ## Alumni
 
-### 2023
+### Post-Doctoral Researchers
+- [David Robert Walton](https://drwalton.github.io/), `Investigation on perceptually guided display technology,` 2021-2022.
 
-#### Interns
-- Ahmet Hamdi Güzel, `Perceptual Prescription Correction`.
+### PhD Students
 
+### Master Students
+- Jeanne Beyazian, `Hologram Compression`, 2022.
+- Yilin Qu, `Predicting Next Frames of a RGBD video,` 2022.
+- Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts,` 2022.
+- Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging,` 2021.
+- Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography,` 2021.
+- Chengkun Li, `Neural Optical Beam Propagation,` 2021.
+- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021.
 
-### 2022
-
-#### Post-Doctoral Researchers
-- [David Robert Walton](https://drwalton.github.io/), `investigation on perceptually guided display technology`.
-
-#### Master Students
-- Jeanne Beyazian, `Hologram Compression`.
-- Yilin Qu, `Predicting Next Frames of a RGBD video`.
-- Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts`.
-
-#### Interns
-- Yichen Zou, `3D Dataset generation`.
-- Nerea Sainz De La Maza, `Printable camera casing design`.
-- Kerem Eroğlu, `Embedding data to images`.
-- Serhat Aksoy, `Volume rendering tool`.
-- Debosmit Neogi, `Compressing RGBD data`.
-- Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/).
-- Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/).
-
-
-### 2021
-
-#### Master Students
-- Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging`.
-- Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography`.
-- Chengkun Li, `Neural Optical Beam Propagation`.
-- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms`.
-
+### Research Interns
+- Ahmet Hamdi Güzel, Research Intern,`Perceptual Prescription Correction,` 2022-2024.
+- Yichen Zou, Research Intern, `3D Dataset generation,` 2022.
+- Nerea Sainz De La Maza, Undergraduate Research Intern, `Printable camera casing design,` 2022.
+- Kerem Eroğlu, `Embedding data to images,` 2022.
+- Serhat Aksoy, `Volume rendering tool,` 2022.
+- Debosmit Neogi, `Compressing RGBD data,` 2022.
+- Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022.
+- Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022.
