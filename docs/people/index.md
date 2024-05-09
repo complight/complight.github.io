@@ -94,25 +94,25 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 ## Alumni
 
 ### Post-Doctoral Researchers
-- [David Robert Walton](https://drwalton.github.io/), `Investigation on perceptually guided display technology,` 2021-2022.
+- [David Robert Walton](https://drwalton.github.io/), `Investigation on perceptually guided display technology,` 2021-2022, Next: Lecturer at Birmingham City University.
 
 ### PhD Students
 
 ### Master Students
-- Jeanne Beyazian, `Hologram Compression`, 2022.
-- Yilin Qu, `Predicting Next Frames of a RGBD video,` 2022.
-- Gbemisola Akinola-Alli, `Differentiable Ray Tracing for Designing Optical Parts,` 2022.
-- Oliver Kingshott, `Learned Point-spread Functions for Lensless Imaging,` 2021.
-- Koray Kavaklı, `Towards Improving Visual Quality in Computer-Generated Holography,` 2021.
-- Chengkun Li, `Neural Optical Beam Propagation,` 2021.
-- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021.
+- [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/), `Hologram Compression`, 2022, Next: Computer Vision Developer at Glimpse Analytics.
+- [Yilin Qu](https://www.linkedin.com/in/yilin-qu-b0a599149/), `Predicting Next Frames of a RGBD video,` 2022, Next: Machine Learning Software Engineer at Qualcomm Inc Canada.
+- [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/), `Differentiable Ray Tracing for Designing Optical Parts,` 2022, Next: Senior Engineer at MBDA.
+- [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: PhD Student at University College London.
+- [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: PhD Student at Koç University.
+- Chengkun Li, `Neural Optical Beam Propagation,` 2021, Next: -.
+- Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021, Next: -.
 
 ### Research Interns
-- Ahmet Hamdi Güzel, Research Intern,`Perceptual Prescription Correction,` 2022-2024.
-- Yichen Zou, Research Intern, `3D Dataset generation,` 2022.
-- Nerea Sainz De La Maza, Undergraduate Research Intern, `Printable camera casing design,` 2022.
-- Kerem Eroğlu, `Embedding data to images,` 2022.
-- Serhat Aksoy, `Volume rendering tool,` 2022.
-- Debosmit Neogi, `Compressing RGBD data,` 2022.
-- Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022.
-- Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022.
+- [Ahmet Hamdi Güzel](https://aguzel.github.io/), Research Intern,`Perceptual Prescription Correction,` 2022-2024, Next: PhD Student at University College London.
+- [Yichen Zou](https://www.linkedin.com/in/yichen-zou-9b7116240/), `3D Dataset generation,` 2022, Next: Graduate Student at McGill Univesity.
+- [Nerea Sainz De La Maza](https://www.linkedin.com/in/nerea-sainz-de-la-maza/), Undergraduate Research Intern, `Printable camera casing design,` 2022, Next: Bachelor of Science at University College London.
+- [Kerem Eroğlu](https://www.linkedin.com/in/kerem-ero%C4%9Flu-52b065241/), `Embedding data to images,` 2022, Next: MEng at University College London.
+- [Serhat Aksoy](https://www.linkedin.com/in/serhat-aksoy/), `Volume rendering tool,` 2022, Next: Istanbul Technical University.
+- [Debosmit Neogi](https://www.linkedin.com/in/debosmit-neogi/), `Compressing RGBD data,` 2022, Next: Master of Science at University at Buffalo.
+- Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022, Next: -.
+- Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022, Next: -.
