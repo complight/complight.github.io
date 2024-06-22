@@ -35,6 +35,17 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Henry Fuchs (University of North Carolina at Chapel Hill)
+??? Details
+    **Date:**
+    20th June 2024
+
+    **Presenter:** [Henry Fuchs](https://cs.unc.edu/person/henry-fuchs/), Professor at the University of North Carolina at Chapel Hill 
+
+    **Title:** Everyday Augmented Reality Glasses: Past Predictions, Present Problems, Future Possibilities
+
+    **Watch:** Not recorded
+
 
 #### Zian Wang (University of Toronto and NVIDIA)
 ??? Details
