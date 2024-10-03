@@ -51,6 +51,19 @@ PhD Student
 
 ## Interns
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/weijie_xie.png" width="160" alt/>
+</div>
+[Weijie Xie](https://www.harridan13.com/)
+
+MSc Student ([University College London](https://www.ucl.ac.uk/))
+
+:material-email: [E-mail](mailto:xwj.harry@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/doga_yilmaz.png" width="160" alt/>
 </div>
 [Doğa Yılmaz](https://yilmazdoga.net)
