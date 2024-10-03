@@ -97,6 +97,8 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 - [David Robert Walton](https://drwalton.github.io/), `Investigation on perceptually guided display technology,` 2021-2022, Next: Lecturer at Birmingham City University.
 
 ### Master Students
+- [Weijie Xie](https://www.harridan13.com/), `Learned Method for Computer Generated Hologram`, 2024, Next: Intern Researcher at University College London.
+- [Pengze Li](https://linsonng.github.io/), `Text to hologram`, 2024, Next: -.
 - [Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/), `Speckle imaging with a lensless camera`, 2023, Next: PhD student at University College London.
 - [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/), `Hologram Compression`, 2022, Next: Computer Vision Developer at Glimpse Analytics.
 - [Yilin Qu](https://www.linkedin.com/in/yilin-qu-b0a599149/), `Predicting Next Frames of a RGBD video,` 2022, Next: Machine Learning Software Engineer at Qualcomm Incorporated.
