@@ -35,6 +35,18 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Binglun Wang (University College London)
+??? Details
+    **Date:**
+    2nd October 2024
+
+    **Presenter:** [Binglun Wang](https://binglunwang.github.io/), Ph.D. candidate at University College London
+
+    **Title:** 3D Editings using Diffusion Models
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZJWALLmyUBEq5fuk7fInQkB82qoXYrFe7l7F247vmOuHg?e=cdaXEi)
+
 #### Henry Fuchs (University of North Carolina at Chapel Hill)
 ??? Details
     **Date:**
