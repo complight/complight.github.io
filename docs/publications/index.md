@@ -3,6 +3,41 @@
 
 ## 2024
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/spec_track_different_attributes.png" width="200" alt/>
+</div>
+**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+
+[Ziyang Chen](https://ziyang.space/),
+[Mustafa Doğa Doğan](https://www.dogadogan.com/),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com),
+
+:material-web: [Project site](https://complightlab.com/spec_track)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
+:material-newspaper-variant: [Poster](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Poster_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
+:material-file-code: [Code](https://github.com/complight/SpecTrack)
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/ChenSigAsia2024SpecTrack.mp4)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{chen2024spectrack,
+          author = {Ziyang Chen and Mustafa Dogan and Josef Spjut and Kaan Ak{\c{s}}it},
+          title = {SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging},
+          booktitle = {SIGGRAPH Asia 2024 Posters (SA Posters '24)},
+          year = {2024},
+          location = {Tokyo, Japan},
+          publisher = {ACM},
+          address = {New York, NY, USA},
+          pages = {2},
+          doi = {10.1145/3681756.3697875},
+          url = {https://doi.org/10.1145/3681756.3697875},
+          month = {December 03--06}
+        }
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/diffractive_visual_processor.png" width="200" alt/>
 </div>
 **All-optical image denoising using a diffractive visual processor**
