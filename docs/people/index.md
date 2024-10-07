@@ -64,19 +64,6 @@ MSc Student ([University College London](https://www.ucl.ac.uk/))
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/doga_yilmaz.png" width="160" alt/>
-</div>
-[Doğa Yılmaz](https://yilmazdoga.net)
-
-MSc Student ([Özyeğin University](https://www.ozyegin.edu.tr/))
-
-:material-email: [E-mail](mailto:yilmaz.doga@gmail.com)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/chuanjun_zheng.png" width="160" alt/>
 </div>
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&)
@@ -110,6 +97,7 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 - [David Robert Walton](https://drwalton.github.io/), `Investigation on perceptually guided display technology,` 2021-2022, Next: Lecturer at Birmingham City University.
 
 ### Master Students
+- [Doğa Yılmaz](https://yilmazdoga.net/), `Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays`, 2024, Next: Ph.D. student at University College London.
 - [Weijie Xie](https://www.harridan13.com/), `Learned Method for Computer Generated Hologram`, 2024, Next: Intern Researcher at University College London.
 - [Pengze Li](https://linsonng.github.io/), `Text to hologram`, 2024, Next: -.
 - [Ziyang Chen](https://www.linkedin.com/in/ziyang-chen-064ba8173/), `Speckle imaging with a lensless camera`, 2023, Next: PhD student at University College London.
