@@ -14,7 +14,7 @@
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com)
 
-:material-web: [Project site](https://complightlab.com/spec_track)
+:material-web: [Project site](https://complightlab.com/publications/spec_track)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
 :material-newspaper-variant: [Poster](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Poster_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
 :material-file-code: [Code](https://github.com/complight/SpecTrack)
