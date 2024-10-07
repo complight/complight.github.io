@@ -12,7 +12,7 @@
 [Ziyang Chen](https://ziyang.space/),
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),
-and [Kaan Akşit](https://kaanaksit.com),
+and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://complightlab.com/spec_track)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)

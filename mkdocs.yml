@@ -31,6 +31,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'SpecTrack: Learned Multi-Rotation Tracaking via Speckle Imaging': 'publications/spec_track.md'
       - 'Autocolor: Learned Light Power Control for Multi-Color Holograms': 'https://complightlab.com/autocolor_'
       - 'Multi-color Holograms Improve Brightness in Holographic Displays': 'publications/multi_color.md'
       - 'HoloBeam: Paper-Thin Near-Eye Displays': 'publications/holobeam.md'

@@ -4,21 +4,21 @@
 <table class=""  style="margin: 10px auto;">
   <tbody>
     <tr>
-      <td> <img src="../../people/ziyang_chen.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/ziyang_chen.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/mustafa_doga_dogan.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td> <img src="../../people/josef_spjut_pratt.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/josef_spjut.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr> 
     <tr>
       <td><p style="text-align:center;"><a href="https://ziyang.space/">Ziyang Chen</a><sup>1</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://www.dogadogan.com/">Mustafa Doğa Doğan</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://www.dogadogan.com/">Doğa Doğan</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://josef.spjut.me/">Josef Spjut</a><sup>3</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
   </tbody>
 </table>
 <p style="text-align:center;">
-<sup>1</sup>University College London
+<sup>1</sup>University College London,
 <sup>2</sup>Adobe Research,
 <sup>3</sup>NVIDIA
 </p>
@@ -119,17 +119,14 @@ At the same time, the model can estimate the <span style="color: rgb(136, 170, 0
 Furthermore, the model adapts to varying depths, showing an accuracy of $0.15~cm$. 
 ### Future work 
 Testing and optimizing the system in real-world environments, considering varying lighting, distances, and object motions, is crucial for successful operation in various applications including VR, AR, and robotics.
-<!-- 
+
 ## Relevant research works
 Here are relevant research works from the authors:
 
 
-- [HoloBeam: Paper-Thin Near-Eye Displays](holobeam.md)
-- [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh.md)
 - [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
-- [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
-- [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
-- [Odak](https://github.com/kunguz/odak) -->
+- [Unrolled Primal-Dual Networks for Lensless Camera](https://github.com/complight/unrolled_primal_dual_networks)
+- [Odak](https://github.com/kunguz/odak)
 
 
 <!-- ## External Other Links
