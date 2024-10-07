@@ -71,7 +71,7 @@ We aim to remotely obtain multiple absolute rotation angles from a coded retrore
 the laser beam from the source ($S$) hits an arbitrary point ($P$) and diffracts at slightly different angles due to the different wavelengths ($\lambda_0$ and $\lambda_1$).
 This phenomenon shows a correlation between the surface rotation angle and the captured speckle image.
 
-The frist image below shows the structure of the proposed sensor, which contains a bare sensor, laser source and beam splitter ($10~mm \times 10~mm$).
+The first image below shows the structure of the proposed sensor, which contains a bare sensor, laser source and beam splitter ($10~mm \times 10~mm$).
 The beam splitter is placed in front of the bare imaging sensor to ensure that most of the light reflected from the marker covers a large area of the sensor.
 Additionally, this co-axial optical layout eliminates the light source's lateral offsets, simplifying the speckle behavior in the rotations.
 
