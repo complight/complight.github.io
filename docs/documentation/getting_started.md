@@ -7,7 +7,7 @@
 	**Our core mission is to show our societies that there can be better services, experiences, and goods that serve the benefits of humanity by using light.**
 	We are here to invent the next in light-based techniques and unlock the mystery of light.
 
-	We build [our tools](https://github.com/kunguz/odak) to perform work and invent new methods to improve state of the art. 
+	We build [our tools](https://github.com/kaanaksit/odak) to perform work and invent new methods to improve state of the art. 
 	Most importantly, we document [our steps](https://complight.github.io/documentation) so that the others can follow.
 	Finally, we release our work to the public on our [GitHub organization](https://github.com/complight). 
 	We have multiple social media outlets to promote our work. 
@@ -39,7 +39,7 @@ In fact, as a member, please do not hesitate to suggest improvements and be the 
 - Do you have access to remote computational resources that you may be needing in your work? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Do you have access to hardware resources that you may be needing in your work? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Make sure to meet other members. Send emails! They are listed on [this website](../people/index.md). Ask about their experiences and thoughts. Explore what they are conducting in their research.
-- Make sure to discuss with Kaan Akşit to see how you can contribute to [Odak](https://github.com/kunguz/odak) in the near future.
+- Make sure to discuss with Kaan Akşit to see how you can contribute to [Odak](https://github.com/kaanaksit/odak) in the near future.
 - Do you know what you will be focusing on? Do you know what projects are [carried out](../publications/index.md) in the team? Are you up-to-date with what the team has achieved [recently](../timeline/index.md)?
 - Are you listed as a member in the [GitHub organization](https://github.com/complight/)? In that organization which team do you belong to? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [kaanaksit@kaanksit.com](mailto:kaanaksit@kaanaksit.com).

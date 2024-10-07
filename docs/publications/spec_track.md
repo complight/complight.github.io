@@ -126,7 +126,7 @@ Here are relevant research works from the authors:
 
 - [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
 - [Unrolled Primal-Dual Networks for Lensless Camera](https://github.com/complight/unrolled_primal_dual_networks)
-- [Odak](https://github.com/kunguz/odak)
+- [Odak](https://github.com/kaanaksit/odak)
 
 
 <!-- ## External Other Links
