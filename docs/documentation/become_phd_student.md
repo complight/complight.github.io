@@ -73,7 +73,7 @@ Make sure to spend time finding what you should be highlighting in your email ab
 Make sure to state if you have funding at hand.
 
 !!! Info
-    If the answer is yes, add your resume to your email and send it to [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk). 
+    If the answer is yes, add your resume to your email and send it to [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com). 
 
 !!! Warning
     If the answer is no, you can be in many other cool places, and please pay attention to finding your research home.

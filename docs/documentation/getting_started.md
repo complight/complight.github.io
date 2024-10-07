@@ -30,20 +30,20 @@ In fact, as a member, please do not hesitate to suggest improvements and be the 
 - Are you full registered for the graduate programme? Is all the administrator work done? Relevant contact: [cs.phdadmissions@ucl.ac.uk](mailto:cs.phdadmissions@ucl.ac.uk).
 - Do you know when you will receive your first paycheck? Relevant contact: [cs.phdadmissions@ucl.ac.uk](mailto:cs.phdadmissions@ucl.ac.uk).
 - Do you have a UCL identity card? Relevant contact: [securitysystems@ucl.ac.uk](mailto:securitysystems@ucl.ac.uk).
-- Do you know which building is our office building? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you know which building is our office building? Reach out to Kaan or any other member and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Can you get into the building where our office is using your UCL identity card? Relevant contact: [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
 - Do you have a desk and a chair reserved for you in the office? Relevant contact: [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
-- Do you know where Kaan's office is? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
-- Do you know where our laboratory space is? Reach out to Kaan or any other member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
-- Do you have a computer to conduct your research? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk). For queries such as where to get a display mount, cable for this and that, try reaching out to [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
-- Do you have access to remote computational resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
-- Do you have access to hardware resources that you may be needing in your work? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Do you know where Kaan's office is? Reach out to Kaan or any other member and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
+- Do you know where our laboratory space is? Reach out to Kaan or any other member and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
+- Do you have a computer to conduct your research? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com). For queries such as where to get a display mount, cable for this and that, try reaching out to [facilities@cs.ucl.ac.uk](mailto:facilities@cs.ucl.ac.uk).
+- Do you have access to remote computational resources that you may be needing in your work? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
+- Do you have access to hardware resources that you may be needing in your work? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Make sure to meet other members. Send emails! They are listed on [this website](../people/index.md). Ask about their experiences and thoughts. Explore what they are conducting in their research.
 - Make sure to discuss with Kaan Akşit to see how you can contribute to [Odak](https://github.com/kunguz/odak) in the near future.
 - Do you know what you will be focusing on? Do you know what projects are [carried out](../publications/index.md) in the team? Are you up-to-date with what the team has achieved [recently](../timeline/index.md)?
-- Are you listed as a member in the [GitHub organization](https://github.com/complight/)? In that organization which team do you belong to? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
-- Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
-- Are you receiving calendar invitations for weekly group meetings? Reach out to Kaan or any other team member and ask, [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+- Are you listed as a member in the [GitHub organization](https://github.com/complight/)? In that organization which team do you belong to? Reach out to Kaan and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
+- Do you have a weekly 1:1 meeting arranged with Kaan? Reach out to Kaan and ask, [kaanaksit@kaanksit.com](mailto:kaanaksit@kaanaksit.com).
+- Are you receiving calendar invitations for weekly group meetings? Reach out to Kaan or any other team member and ask, [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 - Do you have a research plan? What are your goals? How will your research impact the society in the near and far future? Tinker deeply in a structured manner. Agree with Kaan and your other supervisors. Reach out to them and initiate conversations about your roadmap towards your degree.
 - Do you know where you can find the term dates and closures? Visit [this website](https://www.ucl.ac.uk/students/life-ucl/term-dates-and-closures-2021-22) and [this website](https://www.ucl.ac.uk/estates/sites/estates/files/cal_term_times_2021_2022.pdf) for more.
 - Do you know where you can book the meeting room 402 at 169 Euston Road? Visit [CMIS GO system](https://roombooking-current.ucl.ac.uk/) for booking purposes.

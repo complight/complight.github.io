@@ -82,7 +82,7 @@ The group is open to public and you can become a member by following [this link]
 
 ## Contact Us
 !!! Warning
-    Please reach us through [email](mailto:k.aksit@ucl.ac.uk) or through [GitHub issues](https://github.com/complight/cameras-displays-perception-course/issues) to ask your questions or to provide your feedback and comments.
+    Please reach us through [email](mailto:kaanaksit@kaanaksit.com) or through [GitHub issues](https://github.com/complight/cameras-displays-perception-course/issues) to ask your questions or to provide your feedback and comments.
 
 ## Acknowledgements
 The authors would like to thank reviewers for their valuable feedback.

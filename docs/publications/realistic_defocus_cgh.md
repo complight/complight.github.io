@@ -96,7 +96,7 @@ Here are relevant research works from our group:
 - [HoloBeam: Paper-Thin Near-Eye Displays](https://complightlab.com/publications/holobeam/)
 
 ## Contact
-Have any queries, questions, suggestions or comments, contact us via [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+Have any queries, questions, suggestions or comments, contact us via [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
 
 ## Acknowledgements
 [comment]: <> (The authors would like to thank reviewers for their valuable feedback.)

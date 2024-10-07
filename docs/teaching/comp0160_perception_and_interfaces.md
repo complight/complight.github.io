@@ -140,7 +140,7 @@ This lecture focuses on integrating various kinds of sensory information to the 
 
 Instructor
 
-:material-email: [E-mail](mailto:k.aksit@ucl.ac.uk)
+:material-email: [E-mail](mailto:kaanaksit@kaanaksit.com)
 <br clear="left"/>
 
 ## Contact Us

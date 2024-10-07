@@ -17,7 +17,7 @@
 
     [Subscribe to our Slack](https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg){ .md-button .md-button--primary }
 
-    Please do not hesitate to share the invitation link with other people in your field. If you encounter any issue with the link, please do not hesitate to reach us using [k.aksit@ucl.ac.uk](mailto:k.aksit@ucl.ac.uk).
+    Please do not hesitate to share the invitation link with other people in your field. If you encounter any issue with the link, please do not hesitate to reach us using [kaanaksit@kaanaksit.com](mailto:kaanaksit@kaanaksit.com).
     
 
 
@@ -27,7 +27,7 @@ High-Beams seminar series is an exclusive event where we host experts across the
 Overall, seminars are a blend of internal and external presenters.
 
 !!! Question
-    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:k.aksit@ucl.ac.uk) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
+    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:kaanaksit@kaanaksit.com) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
     
     [Subscribe to our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
 
