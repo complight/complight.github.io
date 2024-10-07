@@ -573,7 +573,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Eric Whitmire](https://www.ericwhitmire.com/),
 [Michael Stengel](https://graphics.tu-bs.de/people/stengel),
 Ben Boudaoud,
-[Jan Kautz](https://www.jankautz.com/) 
+[Jan Kautz](https://www.jankautz.com/),
 [David Luebke](https://luebke.us/),
 [Shwetak Patel](https://homes.cs.washington.edu/~shwetak/)
 and [Kaan Akşit](https://kaanaksit.com)
