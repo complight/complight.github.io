@@ -91,7 +91,6 @@ finer details and sharper edges, closer to the ground truth.
   ![Image title](media/focal_surface_lightprop_experimental_results_castle.png){ width="800" }
 </figure>
 
-
  We utilize our model for a 3D phase-only hologram optimization application under
  $0 mm$ propagation distance. Optimizing holograms with six target planes using ASM
  is denoted as ASM 6, while Ours 6 represents optimizing holograms using our model with six
