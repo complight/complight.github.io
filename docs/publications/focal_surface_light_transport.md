@@ -119,7 +119,7 @@ Here are relevant research works from the authors:
 - [Optimizing Vision and Visuals: Lectures on Cameras, Displays, and Perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
 - [Learned Holographic Light Transport](https://github.com/complight/realistic_holography)
 - [Metameric Varifocal Holograms](https://github.com/complight/metameric_holography)
-- [Odak](https://github.com/kunguz/odak)
+- [Odak](https://github.com/kaanaksit/odak)
 
 
 [//]: # (## External Other Links)
