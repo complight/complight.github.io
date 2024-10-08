@@ -29,8 +29,10 @@
 ## Resources
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ZhengEtAl_SigAsia2024_Focal_surface_holographic_light_transport_using_learned_spatially_adaptive_convolutions.pdf)
 :material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ZhengEtAl_SigAsia2024_Supplementary_Focal_surface_holographic_light_transport_using_learned_spatially_adaptive_convolutions.pdf)
-:material-file-code: [Code](https://github.com/complight/multicolor)
-:material-video-account: [Project video](https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4)
+
+[//]: # (:material-file-code: [Code]&#40;https://github.com/complight/multicolor&#41;)
+
+[//]: # (:material-video-account: [Project video]&#40;https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4&#41;)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{kavakli2023multicolor,
           title={Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions},
@@ -136,7 +138,7 @@ The group is open to public and you can become a member by following [this link]
 
 ## Contact Us
 !!! Warning
-    Please reach us through [email](chuanjunzhengcs@gmail.com) to provide your feedback and comments.
+    Please reach us through [email](mailto:chuanjunzhengcs@gmail.com) to provide your feedback and comments.
 
 
 
