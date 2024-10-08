@@ -106,7 +106,7 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 - [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/), `Differentiable Ray Tracing for Designing Optical Parts,` 2022, Next: Senior Engineer at MBDA.
 - [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: PhD Student at University College London.
 - [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: PhD Student at Koç University.
-- Chengkun Li, `Neural Optical Beam Propagation,` 2021, Next: -.
+- [Chengkun Li](https://www.linkedin.com/in/chengkunli96?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2yhAyESzSLaR7ttRM5dANQ%3D%3D), `Neural Optical Beam Propagation,` 2021, Next: Ph.D. student at the Chinese University of Hong Kong.
 - Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021, Next: -.
 
 ### Research Interns
