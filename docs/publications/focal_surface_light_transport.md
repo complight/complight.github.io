@@ -101,8 +101,7 @@ Ours 6 achieves comparable results with about $70\%$ of the optimization time co
   ![Image title](media/focal_surface_lightprop_experimental_results_leaves.png){ width="800" }
 </figure>
 
-We also apply our model for a 3D phase-only hologram optimization application under
- $10 mm$ propagation distance.
+We also apply our model for a 3D phase-only hologram optimization application under $10 mm$ propagation distance.
 
 <figure markdown>
   ![Image title](media/focal_surface_lightprop_experimental_results_tiger.png){ width="800" }
