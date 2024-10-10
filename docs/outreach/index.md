@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Guosheng Hu (University of Bristol)
+??? Details
+    **Date:**
+    10th October 2024
+
+    **Presenter:** [Guosheng Hu](https://huguosheng.github.io/), Senior Lecturer, University of Bristol
+
+    **Title:** Reduce AI’s Carbon Footprint
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYUSbfqedx5MonNx5OTsz_QBrEegIilHO_KKDt7Ntsa8sw?e=PYJczz)
+
+
 #### Binglun Wang (University College London)
 ??? Details
     **Date:**
@@ -46,6 +58,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Title:** 3D Editings using Diffusion Models
 
     **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EZJWALLmyUBEq5fuk7fInQkB82qoXYrFe7l7F247vmOuHg?e=cdaXEi)
+
 
 #### Henry Fuchs (University of North Carolina at Chapel Hill)
 ??? Details
