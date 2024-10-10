@@ -29,15 +29,14 @@
 ## Resources
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ZhengEtAl_SigAsia2024_Focal_surface_holographic_light_transport_using_learned_spatially_adaptive_convolutions.pdf)
 :material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ZhengEtAl_SigAsia2024_Supplementary_Focal_surface_holographic_light_transport_using_learned_spatially_adaptive_convolutions.pdf)
-
-[//]: # (:material-file-code: [Code]&#40;https://github.com/complight/multicolor&#41;)
+:material-file-code: [Code](https://github.com/complight/focal_surface_holographic_light_transport)
 
 [//]: # (:material-video-account: [Project video]&#40;https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4&#41;)
 ??? info ":material-tag-text: Bibtex"
-        @inproceedings{kavakli2023multicolor,
+        @inproceedings{zheng2024focalholography,
           title={Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions},
-          author={Chuanjun Zheng, Yicheng Zhan, Liang Shi, Ozan Cakmakci, and Kaan Akşit},
-          booktitle = {SIGGRAPH Asia 2024 Technical Communications (SA Technical Communications ’24)},
+          author={Chuanjun Zheng, Yicheng Zhan, Liang Shi, Ozan Cakmakci, and Kaan Ak{\c{s}}it},
+          booktitle = {SIGGRAPH Asia 2024 Technical Communications (SA Technical Communications '24)},
           keywords = {Computer-Generated Holography, Light Transport, Optimization},
           location = {Tokyo, Japan},
           series = {SA '24},
@@ -57,8 +56,8 @@
 
 
 ## Abstract
-Computer-Generated Holography (CGH) is a set of algorithmic methods for identifying holograms that reconstruct Three-Dimensional 
-scenes in holographic displays. CGH algorithms decompose 3D scenes into multiplanes at different depth levels and rely on simulations
+Computer-Generated Holography (CGH) is a set of algorithmic methods for identifying holograms that reconstruct Three-Dimensional (3D) scenes 
+in holographic displays. CGH algorithms decompose 3D scenes into multiplanes at different depth levels and rely on simulations
 of light that propagated from a source plane to a targeted plane. Thus, for $n$ planes, CGH typically optimizes holograms using $n$ plane-to-plane 
 light transport simulations, leading to major time and computational demands. Our work replaces multiple planes with a focal surface and introduces 
 a learned light transport model that could propagate a light field from a source plane to the focal surface in a single inference. Our model leverages 
@@ -76,13 +75,12 @@ planes with a focal surface and introduces a learned light transport model that 
 propagate a light field from a source plane to the focal surface in a single inference,
 reducing simulation time by $10x$.
 <figure markdown>
-  ![Image title](media/focal_surfaec_lightprop_proposed_vs_conv.png){ width="500" }
+  ![Image title](media/focal_surfaec_lightprop_proposed_vs_conv.png){ width="700" }
 </figure>
 
 ## Results
 When simulating a full-color, all-in-focus 3D image across a focal surface, conventional 
-Angular Spectrum Method (ASM) requires eighteen forward
-passes to simulate the 3D image with six depth planes.
+Angular Spectrum Method (ASM) requires eighteen forward passes to simulate the 3D image with six depth planes given there are three color primaries.
 In contrast, our model simulates the three colorprimary images simultaneously
 onto a focal surface with a single forward pass. 
 In the mean time, our model preserves more high-frequency content than U-Net, providing 
