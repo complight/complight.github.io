@@ -1,8 +1,0 @@
-_site
-Gemfile.lock
-.DS_Store
-*/.DS_Store
-.idea/
-/.idea/
-.DS_Store
-/target/
