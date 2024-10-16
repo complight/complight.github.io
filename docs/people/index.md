@@ -28,7 +28,7 @@ Associate Professor of Computational Light
 </div>
 [Yicheng Zhan](https://github.com/AlberTgarY)
 
-PhD Student
+Ph.D. Student
 
 :material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
 
@@ -41,7 +41,7 @@ PhD Student
 </div>
 [Ziyang Chen](https://ziyang.space/)
 
-PhD Student
+Ph.D. Student
 
 :material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
 
@@ -81,7 +81,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 </div>
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en)
 
-PhD Student ([Koç University](https://www.ku.edu.tr/))
+Ph.D. Student ([Koç University](https://www.ku.edu.tr/))
 
 :material-email: [E-mail](mailto:K.Kavakli@cs.ucl.ac.uk)
 
@@ -100,17 +100,17 @@ PhD Student ([Koç University](https://www.ku.edu.tr/))
 - [Doğa Yılmaz](https://yilmazdoga.net/), `Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays`, 2024, Next: Ph.D. student at University College London.
 - [Weijie Xie](https://www.harridan13.com/), `Learned Method for Computer Generated Hologram`, 2024, Next: Intern Researcher at University College London.
 - [Pengze Li](https://linsonng.github.io/), `Text to hologram`, 2024, Next: -.
-- [Ziyang Chen](https://ziyang.space/), `Speckle imaging with a lensless camera`, 2023, Next: PhD student at University College London.
+- [Ziyang Chen](https://ziyang.space/), `Speckle imaging with a lensless camera`, 2023, Next: Ph.D. student at University College London.
 - [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/), `Hologram Compression`, 2022, Next: Computer Vision Developer at Glimpse Analytics.
 - [Yilin Qu](https://www.linkedin.com/in/yilin-qu-b0a599149/), `Predicting Next Frames of a RGBD video,` 2022, Next: Machine Learning Software Engineer at Qualcomm Incorporated.
 - [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/), `Differentiable Ray Tracing for Designing Optical Parts,` 2022, Next: Senior Engineer at MBDA.
-- [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: PhD Student at University College London.
-- [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: PhD Student at Koç University.
+- [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: Ph.D. Student at University College London.
+- [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: Ph.D. Student at Koç University.
 - [Chengkun Li](https://www.linkedin.com/in/chengkunli96?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2yhAyESzSLaR7ttRM5dANQ%3D%3D), `Neural Optical Beam Propagation,` 2021, Next: Ph.D. student at the Chinese University of Hong Kong.
 - Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021, Next: -.
 
 ### Research Interns
-- [Ahmet Hamdi Güzel](https://aguzel.github.io/),`Perceptual Prescription Correction,` 2022-2024, Next: PhD Student at University College London.
+- [Ahmet Hamdi Güzel](https://aguzel.github.io/),`Perceptual Prescription Correction,` 2022-2024, Next: Ph.D. Student at University College London.
 - [Yichen Zou](https://www.linkedin.com/in/yichen-zou-9b7116240/), `3D Dataset generation,` 2022, Next: Graduate Student at McGill Univesity.
 - [Nerea Sainz De La Maza](https://www.linkedin.com/in/nerea-sainz-de-la-maza/), `Printable camera casing design,` 2022, Next: Bachelor of Science at University College London.
 - [Kerem Eroğlu](https://www.linkedin.com/in/kerem-ero%C4%9Flu-52b065241/), `Embedding data to images,` 2022, Next: MEng at University College London.
