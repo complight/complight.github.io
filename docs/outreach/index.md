@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Manu Gopakumar (Stanford University)
+??? Details
+    **Date:**
+    16th October 2024
+
+    **Presenter:** [Manu Gopakumar](https://manugopa.github.io/), Ph.D. Candidate, Stanford University
+
+    **Title:** Full-color 3D holographic augmented reality displays with metasurface waveguides
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERIbK0-WRH1FkdN9YO2AzA8Bi0wQfeybt9lHFAP6BBqb6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3YYsvN)
+
+
 #### Guosheng Hu (University of Bristol)
 ??? Details
     **Date:**
