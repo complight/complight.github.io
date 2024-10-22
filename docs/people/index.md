@@ -51,6 +51,19 @@ Ph.D. Student
 
 ## Interns
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/henry_kam.png" width="160" alt/>
+</div>
+[Henry Kam](http://gulpinhenry.github.io/)
+
+MSc Student ([New York University](https://www.nyu.edu))
+
+:material-email: [E-mail](mailto:h3nrykam@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/weijie_xie.png" width="160" alt/>
 </div>
 [Weijie Xie](https://www.harridan13.com/)
