@@ -35,6 +35,17 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Cagatay Isil (University of California, Los Angeles)
+??? Details
+    **Date:**
+    23rd October 2024
+
+    **Presenter:** [Cagatay Isil](https://cagatayisil.github.io/), Ph.D. Candidate, University of California, Los Angeles
+
+    **Title:** Diffractive processors enable all-optical image denoising and super-resolution image display
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUeWeUmnP4NIi56jagz795gBmVNPdTjVVbNN25DSxfSc4Q?e=7LhQxt)
+
 
 #### Manu Gopakumar (Stanford University)
 ??? Details
