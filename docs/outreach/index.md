@@ -35,6 +35,18 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Dongyeon Kim (University of Cambridge)
+??? Details
+    **Date:**
+    30th October 2024
+
+    **Presenter:** [Donyeon Kim](https://dongyeon93.github.io/), Postdoctoral Researcher, University of Cambridge
+
+    **Title:** Towards passing the visual Turing test with holographic displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ES5eU3hrY2FGuWvJrAjm8OwBx5Cs-FUfs2ziYRfjCgq7ng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cSK1Oa)
+
+
 #### Cagatay Isil (University of California, Los Angeles)
 ??? Details
     **Date:**
