@@ -80,7 +80,7 @@ This innovative approach relies on our light-weight learned method and clever us
 
 [**Ziyang Chen**](https://ziyang.space/), coming from computer science background, has swiftly adapted to the challenges in hardware research by building a bench-top optical setup in our laboratory space, and he managed to couple that with artificial intelligence through his learned model.
 [**Ziyang Chen**](https://ziyang.space) conducted this research both as a part of his master thesis and his first year Ph.D. studies at UCL.
-[**Ziyang Chen**](https://ziyang.space) collaborated with various industrial and academic researhers in this project, including [**Doğa Doğan (Adobe)**](https://www.dogadogan.com/), [**Josef Spjut (NVIDIA)**](https://josef.spjut.me/), and [**Kaan Akşit (UCL)**](https://kaanaksit.com).
+[**Ziyang Chen**](https://ziyang.space) collaborated with various industrial and academic researchers in this project, including [**Doğa Doğan (Adobe)**](https://www.dogadogan.com/), [**Josef Spjut (NVIDIA)**](https://josef.spjut.me/), and [**Kaan Akşit (UCL)**](https://kaanaksit.com).
 For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../../publications/spec_track).
 
 
