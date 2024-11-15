@@ -30,6 +30,14 @@
 
 
 <div class="card">
+  <div class="card_image"> <a href="documentation/siggraph_asia_2024"><img src="media/acm_siggraph_asia_2024.png" height="10" /></a></div>
+  <div class="card_title title-colorless">
+    <p>Our innovative research at ACM SIGGRAPH Asia 2024.</p>
+</div>
+</div>
+
+
+<div class="card">
   <div class="card_image"> <a href="timeline/#22-april-2024"><img src="media/nature.png" /></a></div>
   <div class="card_title title-colorless">
     <p>Most downloaded paper award from Nature's Light and Science Applications.</p>

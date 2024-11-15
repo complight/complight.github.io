@@ -3,6 +3,23 @@
 
 ## 2024
 
+### December
+#### 3-6 December 2024
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
+</div>
+[Our innovative research on computational displays and lensless cameras](../documentation/siggraph_asia_2024) are presented at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
+These works are collaborations with a series of academic and industrial partners including
+[Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&hl=zh-CN),
+[Liang Shi](https://people.csail.mit.edu/liangs/),
+[Ozan Cakmakci](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), 
+[Yicheng Zhan](https://scholar.google.com/citations?hl=zh-CN&user=x2ptSYUAAAAJ),
+[Ziyang Chen](https://ziyang.space/),
+[Mustafa Doğa Doğan](https://www.dogadogan.com/),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
 ### April
 #### 22 April 2024
 <div style="float: left; height:100px;" class="boxed">

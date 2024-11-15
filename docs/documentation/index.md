@@ -25,3 +25,9 @@ These documents vary in their topics, from workplace guidances to technical dige
 | [`Learn more about computer-generated holography`](https://kaanaksit.com/odak/course/computer_generated_holography/) | This documentation will link you to a specific section in our course notes. |
 | [`Explore our printable designs`](https://github.com/complight/optomechanics) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
 | [`Tips and tricks for using our 3D printer`](3d_printing.md) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
+
+
+## Public Announcements
+| Documents | Description   |
+| ------------- |:-------------:|
+| [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
