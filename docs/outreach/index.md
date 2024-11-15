@@ -35,6 +35,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Kenny Chen (New York University)
+??? Details
+    **Date:**
+    13th November 2024
+
+    **Presenter:** [Kenny Chen](https://kenchen10.github.io/), Ph.D. student, New York University
+
+    **Title:** Perceptually-Inspired Algorithms for Power Optimization in XR Displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Ecy4SIh2haJFrkkG0PRIF5ABMogn9aTgXb45mPRjLz0zmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=67DqR2)
+
+
 #### Dongyeon Kim (University of Cambridge)
 ??? Details
     **Date:**
