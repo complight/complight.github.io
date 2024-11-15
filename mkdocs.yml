@@ -29,6 +29,8 @@ nav:
     - Koray Kavaklı: 'https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao'
   - Timeline: 
     - Recent news: 'timeline/index.md'
+    - Highlighted events:
+      - 'Computational Light Laboratory contributes to ACM SIGGRAPH Asia 2024 with innovative computational display and lensless camera research' : 'documentation/siggraph_asia_2024/'
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
