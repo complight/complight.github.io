@@ -48,7 +48,6 @@ Specifically, it could help verify and calculate holograms for holographic displ
   <figcaption>Our wave-based rendering method unlocks light simulation from a plane to a focal surface.</figcaption>
 </figure>
 
-Our model could also replace traditional 
 
 
 
