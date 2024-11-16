@@ -74,20 +74,39 @@ simulations, leading to major time and computational demands. Our work replaces 
 planes with a focal surface and introduces a learned light transport model that could 
 propagate a light field from a source plane to the focal surface in a single inference,
 reducing simulation time by $10x$.
+
 <figure markdown>
   ![Image title](media/focal_surfaec_lightprop_proposed_vs_conv.png){ width="700" }
 </figure>
 
 ## Results
 When simulating a full-color, all-in-focus 3D image across a focal surface, conventional 
-Angular Spectrum Method (ASM) requires eighteen forward passes to simulate the 3D image with six depth planes given there are three color primaries.
-In contrast, our model simulates the three colorprimary images simultaneously
-onto a focal surface with a single forward pass. 
-In the mean time, our model preserves more high-frequency content than U-Net, providing 
-finer details and sharper edges, closer to the ground truth. 
+Angular Spectrum Method (ASM) requires eighteen forward passes to simulate the 3D image 
+with six depth planes given there are three color primaries. 
+
 <figure markdown>
-  ![Image title](media/focal_surface_lightprop_experimental_results_castle.png){ width="800" }
+  ![Image title](../publications/media/focal_surface_depth_plane.gif){ width="680" }
 </figure>
+
+Our work enables a new way to overcome this computational complexity 
+arising from plane to plane treatment, and unlocks a new rendering method that could
+propagate light beams from a plane to a focal surface.
+This new model could help reduce computational complexity in simulating light.
+Specifically, it could help verify and calculate holograms for
+holographic displays with much ease and lesser computation.
+
+
+<figure markdown>
+  ![Image title](../publications/media/focal_surface.gif){ width="700" }
+</figure>
+
+Our work enables a new way to overcome this computational complexity arising 
+from plane to plane treatment, and unlocks a new rendering method that could 
+propagate light beams from a plane to a focal surface.
+This new model could help reduce computational complexity in simulating light.
+
+
+
 
  We utilize our model for a 3D phase-only hologram optimization application under
  $0 mm$ propagation distance. Optimizing holograms with six target planes using ASM
