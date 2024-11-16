@@ -14,7 +14,7 @@ This document describes our activities and provides a brief introduction to our 
 
 ## Propagating light to arbitrary shaped surfaces
 
-!!! example end "[**Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions**](../../publications/focal_surface_light_transport)"
+!!! example end "[**Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions**](../publications/focal_surface_light_transport.md)"
     **Presented by:** [**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&) and [**Yicheng Zhan**](https://asia.siggraph.org/2024/presenter/?uid=49032604224391258001)
 
     **Location:** G510, G Block, Level 5, Tokyo International Forum, Tokyo, Japan
@@ -50,11 +50,11 @@ Specifically, it could help verify and calculate holograms for holographic displ
 
 [**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&) has conducted this major effort as our remote intern, showing an examplery scientific rigor and motivation.
 The work is also conducted in collaboration with various partners from industry and academia, including [**Yicheng Zhan (UCL)**](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), [**Liang Shi (MIT)**](https://people.csail.mit.edu/liangs/), [**Ozan Cakmakci (Google)**](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en) and [**Kaan Akşit (UCL)**](https://kaanaksit.com).
-For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../../publications/focal_surface_light_transport).
+For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../publications/focal_surface_light_transport.md).
 
 ## Precisely detecting orientation of objects remotely in micron scale
 
-!!! example end "[**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**](../../publications/spec_track)"
+!!! example end "[**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**](../publications/spec_track.md)"
     **Presented by:** [**Ziyang Chen**](https://ziyang.space/)
 
     **Location:** Lobby Gallery (1) & (2), G Block, Level B1, Tokyo International Forum, Tokyo, Japan
@@ -87,7 +87,7 @@ This innovative approach relies on our light-weight learned method and clever us
 [**Ziyang Chen**](https://ziyang.space/), coming from computer science background, has swiftly adapted to the challenges in hardware research by building a bench-top optical setup in our laboratory space, and he managed to couple that with artificial intelligence through his learned model.
 [**Ziyang Chen**](https://ziyang.space) conducted this research both as a part of his master thesis and his first year Ph.D. studies at UCL.
 [**Ziyang Chen**](https://ziyang.space) collaborated with various industrial and academic researchers in this project, including [**Doğa Doğan (Adobe)**](https://www.dogadogan.com/), [**Josef Spjut (NVIDIA)**](https://josef.spjut.me/), and [**Kaan Akşit (UCL)**](https://kaanaksit.com).
-For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../../publications/spec_track).
+For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../publications/spec_track.md).
 
 
 ## Public outcomes
