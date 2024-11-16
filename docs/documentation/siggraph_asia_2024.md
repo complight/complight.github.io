@@ -91,7 +91,7 @@ For more technical details including manuscript, supplementary materials, exampl
 
 
 ## Public outcomes
-We release codebases at each project website for other researchers and developers to be able to replicate and compare their development with ours in the future.
+We release codebases for each project at their project websites ([Focal Surface Holography](../publications/spec_track.md) and [SpecTrack](../publications/focal_surface_light_transport.md)) for other researchers and developers to be able to replicate and compare their development with ours in the future.
 These codebases use modern Python programming language libraries, and [**our toolkit, Odak**](https://github.com/kaanaksit/odak).
 We have integrated our models to [**Odak**](https://github.com/kaanaksit/odak) as:
 
