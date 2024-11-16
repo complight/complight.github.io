@@ -100,14 +100,6 @@ holographic displays with much ease and lesser computation.
   ![Image title](../publications/media/focal_surface.gif){ width="700" }
 </figure>
 
-Our work enables a new way to overcome this computational complexity arising 
-from plane to plane treatment, and unlocks a new rendering method that could 
-propagate light beams from a plane to a focal surface.
-This new model could help reduce computational complexity in simulating light.
-
-
-
-
  We utilize our model for a 3D phase-only hologram optimization application under
  $0 mm$ propagation distance. Optimizing holograms with six target planes using ASM
  is denoted as ASM 6, while Ours 6 represents optimizing holograms using our model with six
