@@ -48,11 +48,6 @@ Specifically, it could help verify and calculate holograms for holographic displ
   <figcaption>Our wave-based rendering method unlocks light simulation from a plane to a focal surface.</figcaption>
 </figure>
 
-
-
-
-
-
 [**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&) has conducted this major effort as our remote intern, showing an examplery scientific rigor and motivation.
 The work is also conducted in collaboration with various partners from industry and academia, including [**Yicheng Zhan (UCL)**](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), [**Liang Shi (MIT)**](https://people.csail.mit.edu/liangs/), [**Ozan Cakmakci (Google)**](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en) and [**Kaan Akşit (UCL)**](https://kaanaksit.com).
 For more technical details including manuscript, supplementary materials, examples and codebase please visit the [**project website**](../../publications/focal_surface_light_transport).
