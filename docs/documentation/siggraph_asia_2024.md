@@ -65,7 +65,7 @@ For more technical details including manuscript, supplementary materials, exampl
 
 Tracking objects and people using cameras is a commonplace in computer vision and interactive techniques related research.
 The accuracy in terms of identifying spatial location of objects are limited in vision-based methods.
-The vision-based provides an accuracy around several centimeters.
+The vision-based methods provide an accuracy in the ball park of several centimeters.
 
 
 <figure markdown>
