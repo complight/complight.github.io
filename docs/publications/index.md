@@ -23,7 +23,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
         @inproceedings{zheng2024focalholography,
           title={Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions},
-          author={Chuanjun Zheng, Yicheng Zhan, Liang Shi, Ozan Cakmakci, and Kaan Ak{\c{s}}it},
+          author={Zheng, Chuanjun and Zhan, Yicheng and Shi, Liang and Cakmakci, Ozan and Ak{\c{s}}it, Kaan},
           booktitle = {SIGGRAPH Asia 2024 Technical Communications (SA Technical Communications '24)},
           keywords = {Computer-Generated Holography, Light Transport, Optimization},
           location = {Tokyo, Japan},
