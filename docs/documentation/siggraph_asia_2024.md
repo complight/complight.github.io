@@ -1,4 +1,4 @@
-# Computational Light Laboratory contributes to ACM SIGGRAPH Asia 2024 with innovative computational display and lensless camera research
+# Computational Light Laboratory and its collaborators contribute to ACM SIGGRAPH Asia 2024 with innovative computational display and lensless camera research
 
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 November 2024_
 
@@ -8,7 +8,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 November 2024_
 
 [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/) continues to serve as one of the leading venues in computer graphics and interactive techniques related research.
 This year, the conference is taking place between 3rd and 6th of December in Tokyo, Japan.
-We, members of [**Computational Light Laboratory (CLL)**](https://complightlab.com), are contributing to [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/) with our cutting edge research.
+We, members of [**Computational Light Laboratory (CLL)**](https://complightlab.com) and its global research collaborators, are contributing to [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/) with our cutting edge research.
 Our work continues to deliver innovations in emerging fields including computational displays and lensless cameras.
 This document describes our activities and provides a brief introduction to our work presented at [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/).
 
