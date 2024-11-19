@@ -104,6 +104,7 @@ These model classes also have their unit tests avaible in:
 * [`test/test_learn_lensless_models_spec_track.py`](https://github.com/kaanaksit/odak/blob/master/test/test_learn_lensless_models_spec_track.py).
 
 These models are also shipped with the new version of `odak==0.2.6` and readily available to install using `pip install odak`.
+To learn more about how to install odak, visit our [**README.md**](https://github.com/kaanaksit/odak?tab=readme-ov-file#installing).
 
 ## Photo gallery
 Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia experience.
