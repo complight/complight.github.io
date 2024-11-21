@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Ryuji Hirayama (University College London)
+??? Details
+    **Date:**
+    21st November 2024
+
+    **Presenter:** [Ryuji Hirayama](https://ryujihirayama.github.io/web/), Lecturer, University College London
+
+    **Title:** Acoustic Levitation for Displays and Fabrication
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESY5SbMU_qpMjn6b-rPbfAQB4QnB61gdT8pVcYZ6PH8YAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=va0CLQ)
+
+
 #### Kenny Chen (New York University)
 ??? Details
     **Date:**
