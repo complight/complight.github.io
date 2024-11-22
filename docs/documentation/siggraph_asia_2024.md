@@ -10,7 +10,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 November 2024_
 This year, the conference is taking place between 3rd and 6th of December in Tokyo, Japan.
 We, members of [**Computational Light Laboratory (CLL)**](https://complightlab.com) and its global research collaborators, are contributing to [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/) with our cutting edge research.
 Our work continues to deliver innovations in emerging fields including computational displays and lensless cameras.
-This document describes our activities and provides a brief introduction to our work presented at the conference.
+This document describes a brief introduction to our work presented at the conference.
 
 ## Propagating light to arbitrary shaped surfaces
 
