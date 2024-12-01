@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Vahid Pourreza Ghoushci (University of Rochester)
+??? Details
+    **Date:**
+    27th November 2024
+
+    **Presenter:** [Vahid Pourreza Ghoushci](https://www.linkedin.com/in/vahidpg), Postdoctoral Associate, University of Rochester
+
+    **Title:** Investigation of time-varying defocus and accommodation dynamics in the human eye
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EU9Ii1lOJSBEiNmV_50xDhoBMiHhgJeO-swy49wlL1eI9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RkSUt3)
+
+
 #### Ryuji Hirayama (University College London)
 ??? Details
     **Date:**
