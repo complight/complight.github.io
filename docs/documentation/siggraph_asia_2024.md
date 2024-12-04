@@ -3,7 +3,7 @@
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 November 2024_
 
 <figure markdown>
-  ![Image title](../media/acm_siggraph_asia_2024.png){ width="300" }
+  ![](../media/acm_siggraph_asia_2024.png){ width="300" }
 </figure>
 
 [**ACM SIGGRAPH Asia 2024**](https://asia.siggraph.org/2024/) continues to serve as one of the leading venues in computer graphics and interactive techniques related research.
@@ -27,7 +27,7 @@ Classical computer graphics work with rays to render 3D scenes, largely avoiding
 In the recent years, treating light as waves in rendering pipelines has gained a strong attention with increasing interest in holographic displays and improving physical realism in computer graphics.
 
 <figure markdown>
-  ![Image title](../publications/media/focal_surfaec_lightprop_proposed_vs_conv.png){ width="700" }
+  ![](../publications/media/focal_surfaec_lightprop_proposed_vs_conv.png){ width="700" }
   <figcaption>Our wave-based rendering method unlocks light simulation from a plane to a focal surface.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ In the recent years, treating light as waves in rendering pipelines has gained a
 Previous literature on wave-based rendering typically rely on planes to propagate light in 3D, which would require multiple computational steps as it would slice a 3D scene into many planes.
 
 <figure markdown>
-  ![Image title](../publications/media/focal_surface_depth_plane.gif){ width="680" }
+  ![](../publications/media/focal_surface_depth_plane.gif){ width="680" }
   <figcaption>Performance of our method in plane-to-plane simulation.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ This new model could help reduce computational complexity in simulating light.
 Specifically, it could help verify and calculate holograms for holographic displays with much ease and lesser computation.
 
 <figure markdown>
-  ![Image title](../publications/media/focal_surface.gif){ width="700" }
+  ![](../publications/media/focal_surface.gif){ width="700" }
   <figcaption>Our wave-based rendering method unlocks light simulation from a plane to a focal surface.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ The vision-based methods provide an accuracy in the ball park of several centime
 
 
 <figure markdown>
-  ![Image title](../publications/media/spec_track_different_attributes.png){ width="800" }
+  ![](../publications/media/spec_track_different_attributes.png){ width="800" }
   <figcaption>Our speckle imaging technique precisely tracks orientation and location of objects with coded apertures in micron-scale.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Our work addressed this gap in the literature by proposing a learned method that
 This innovative approach relies on our light-weight learned method and clever usage of coded apertures on objects.
 
 <figure markdown>
-  ![Image title](../publications/media/spec_track_tracking_demonstration.gif){ width="800" }
+  ![](../publications/media/spec_track_tracking_demonstration.gif){ width="800" }
   <figcaption>A demonstration of our learned method on actual bench-top prototype.</figcaption>
 </figure>
 
@@ -108,6 +108,12 @@ To learn more about how to install odak, visit our [**README.md**](https://githu
 
 ## Photo gallery
 Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia experience.
+
+<figure markdown>
+  ![](./siggraph_asia_2024/IMG_2040.jpg){ width="390", align=left }
+  ![](./siggraph_asia_2024/IMG_2041.jpg){ width="390", align=left }
+  ![](./siggraph_asia_2024/IMG_6096.jpg){ width="390", align=left }
+</figure>
 
 
 ## Outreach
