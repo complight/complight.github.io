@@ -32,6 +32,23 @@ Overall, seminars are a blend of internal and external presenters.
     [Subscribe to our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
 
 
+### 2025
+These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+
+#### Dorian Chan (Carnegie Mellon University)
+
+??? Details
+    **Date:**
+    5th February 2025
+
+    **Presenter:** [Dorian Chan](https://dorianchan.com/), Ph.D. Candidate, Carnegie Mellon Universtiy
+
+    **Title:** Holographic Displays for Computer Vision
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EW_80Bhd03ZEhvs-vwygSfQBY03kVERACNbkyBxNJ94FsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JdSgMl)
+
+
+
 ### 2024
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
