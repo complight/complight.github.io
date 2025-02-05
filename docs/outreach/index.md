@@ -45,8 +45,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
     **Title:** Holographic Displays for Computer Vision
 
-    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EW_80Bhd03ZEhvs-vwygSfQBY03kVERACNbkyBxNJ94FsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JdSgMl)
-
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EW_80Bhd03ZEhvs-vwygSfQBdQOQzE48nXZPx58rsvtEsQ)
 
 
 ### 2024
