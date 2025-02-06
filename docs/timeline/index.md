@@ -1,5 +1,18 @@
 # Timeline
 
+## 2025
+
+### 6 February 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
+</div>
+[Our work, "SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging",](../publications/spec_track.md) won the honorable mention award under the posters program at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
+These works are collaborations with a series of academic and industry partners including
+[Ziyang Chen](https://ziyang.space/),
+[Mustafa Doğa Doğan](https://www.dogadogan.com/),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com).
+
 
 ## 2024
 
@@ -9,7 +22,7 @@
 <img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
 [Our innovative research on computational displays and lensless cameras](../documentation/siggraph_asia_2024.md) are presented at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
-These works are collaborations with a series of academic and industrial partners including
+These works are collaborations with a series of academic and industry partners including
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&hl=zh-CN),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Ozan Cakmakci](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), 

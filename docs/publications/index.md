@@ -42,6 +42,8 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 <img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
 
+:fontawesome-solid-award: **Honorable Mention Award**
+
 [Ziyang Chen](https://ziyang.space/),
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),

@@ -23,13 +23,16 @@
 <sup>3</sup>NVIDIA
 </p>
 <p style="text-align:center;"><b>SIGGRAPH Asia 2024 Poster</b></p>
+<center>
+:material-medal: 
+<b>Honorable Mention Award</b>
+</center>
 
 ## Resources
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
 :material-newspaper-variant: [Poster](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Poster_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
 :material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Supplementary_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
 :material-file-code: [Code](https://github.com/complight/SpecTrack)
-<!-- :material-video-account: [Project video](https://kaanaksit.com/assets/video/KavakliSigAsia2023Multicolor.mp4) -->
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{chen2024spectrack,
           author = {Ziyang Chen and Mustafa Dogan and Josef Spjut and Kaan Ak{\c{s}}it},
@@ -51,13 +54,6 @@
 <video controls>
 <source src="https://kaanaksit.com/assets/video/ChenSigAsia2024SpecTrack.mp4" id="“ type="video/mp4">
 </video>
-
-
-<!-- ## Presentation -->
-<!-- <video controls>
-<source src="https://kaanaksit.com/assets/video/KavakliSigAsia2023MulticolorPresentation.mp4" id="“ type="video/mp4">
-</video> -->
-
 
 ## Abstract
 Precision pose detection is increasingly demanded in fields such as personal fabrication, Virtual Reality (VR), and robotics due to its critical role in ensuring accurate positioning information.
