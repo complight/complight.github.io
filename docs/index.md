@@ -28,6 +28,13 @@
 ## Research Highlights
 <div class="cards-list">
 
+<div class="card">
+  <div class="card_image"> <a href="publications/spec_track/"><img src="../publications/media/spec_track_testbed.png" height="10" /></a></div>
+  <div class="card_title title-colorless">
+    <p>ACM SIGGRAPH Asia 2024 awarded Ziyang Chen's Honorable Mention Award.</p>
+</div>
+</div>
+
 
 <div class="card">
   <div class="card_image"> <a href="documentation/siggraph_asia_2024"><img src="media/acm_siggraph_asia_2024.png" height="10" /></a></div>
