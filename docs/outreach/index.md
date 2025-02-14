@@ -35,6 +35,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2025
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Axel Paris (Adobe)
+
+??? Details
+    **Date:**
+    14th February 2025
+
+    **Presenter:** [Axel Paris](https://aparis69.github.io/), Research Scientist, Adobe
+
+    **Title:** Terrain Modeling and Simulation
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYqzCmhIMiNIrviyKunEeGoBQwA7bHQB2Ttp_2c9w40yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UiMDdh)
+
+
 #### Dorian Chan (Carnegie Mellon University)
 
 ??? Details
