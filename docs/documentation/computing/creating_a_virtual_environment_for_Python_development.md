@@ -1,10 +1,8 @@
 # Creating a virtual environment for Python development
 
-**Author:** [Kaan Akşit](https://kaanaksit.com)
+_Written by [**Kaan Akşit**](https://kaanaksit.com), 20 February 2025_
 
-**Date:** 20 February 2025
-
-**Disclamer: This article is only tested under Ubuntu 24.10.**
+**Disclamer:** This article is only tested under Ubuntu 24.10.
 
 Development often requires installing custom components in a system. It is helpful to consider having a virtual environment, which you can also carry over to the other computers as needed. To create your own virtual environment, please use the following syntax in your favorite terminal program:
 
