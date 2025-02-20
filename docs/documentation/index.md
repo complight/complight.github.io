@@ -31,3 +31,11 @@ These documents vary in their topics, from workplace guidances to technical dige
 | Documents | Description   |
 | ------------- |:-------------:|
 | [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
+
+
+## Technical Notes
+| Documents |
+| ------------- |
+| [`Creating a virtual environment for Python development`](computing/creating_a_virtual_environment_for_Python_development.md) |
+
+

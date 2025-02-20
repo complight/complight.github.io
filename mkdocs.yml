@@ -70,6 +70,8 @@ nav:
       - Explore our printable designs: 'https://github.com/complight/optomechanics'
       - Learn more about computer-generated holography: 'https://kaanaksit.github.io/odak/cgh/'
       - Tips and tricks for using our 3D printer: 'documentation/3d_printing.md'
+    - Technical notes:
+      - Creating a virtual environment for Python Development: 'documentation/computing/creating_a_virtual_environment_for_Python_development.md'
   - Outreach:
     - Description: 'outreach/index.md'
     - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
