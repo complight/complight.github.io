@@ -6,7 +6,7 @@
 
 **Disclamer: This article is only tested under Ubuntu 24.10.**
 
-Development often requires installing custom components in a system. It is helpful to consider having a virtual environment, which you can also carry over other computers when needed. To create your own virtual environment, please use the following syntax in your favorite terminal program:
+Development often requires installing custom components in a system. It is helpful to consider having a virtual environment, which you can also carry over to the other computers as needed. To create your own virtual environment, please use the following syntax in your favorite terminal program:
 
 ```bash
 python3 -m venv PATH
