@@ -37,5 +37,6 @@ These documents vary in their topics, from workplace guidances to technical dige
 | Documents |
 | ------------- |
 | [`Creating a virtual environment for Python development`](computing/creating_a_virtual_environment_for_Python_development.md) |
+| [`How to change name server on Ubuntu permanently`](computing/how_to_change_name_server_on_ubuntu_permanently.md) |
 
 
