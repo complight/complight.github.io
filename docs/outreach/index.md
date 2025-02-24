@@ -42,7 +42,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
     **Date:**
     19th February 2025
 
-    **Presenter:** [Zhen Xu](https://aparis69.github.io/), Ph.D. Candidate, Zhejiang University
+    **Presenter:** [Zhen Xu](https://zhenx.me/), Ph.D. Candidate, Zhejiang University
 
     **Title:** Representing Long Volumetric Video with Temporal Gaussian Hierarchy
 
