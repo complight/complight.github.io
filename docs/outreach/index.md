@@ -35,6 +35,20 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2025
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+#### Zhen Xu (Zhejiang University)
+
+??? Details
+    **Date:**
+    19th February 2025
+
+    **Presenter:** [Zhen Xu](https://aparis69.github.io/), Ph.D. Candidate, Zhejiang University
+
+    **Title:** Representing Long Volumetric Video with Temporal Gaussian Hierarchy
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYZyt9OPSYRPjNhuhd6P0ggBzCgeGPbf0Sq9lpvmbj99Bg?e=E67TWH)
+
+
 #### Axel Paris (Adobe)
 
 ??? Details
