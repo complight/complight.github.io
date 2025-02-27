@@ -34,7 +34,7 @@ Overall, seminars are a blend of internal and external presenters.
 
 ### 2025
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
-[Kaan Akşit] has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
+[Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 #### Ezgi Özyılkan (New York University)
 
