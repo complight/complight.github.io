@@ -34,6 +34,19 @@ Overall, seminars are a blend of internal and external presenters.
 
 ### 2025
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+[Kaan Akşit] has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
+
+#### Ezgi Özyılkan (New York University)
+
+??? Details
+    **Date:**
+    26th February 2025
+
+    **Presenter:** [Ezgi Özyılkan](https://ezgimez.github.io), Ph.D. Candidate, New York University
+
+    **Title:** From Nonlinear Transform Coding to Learned Distributed Compression
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ET3JSD97e-dMtla6mr8DT14B0lwKi2Z14pK045mx4yUSmg?e=aSkVXO)
 
 
 #### Zhen Xu (Zhejiang University)
