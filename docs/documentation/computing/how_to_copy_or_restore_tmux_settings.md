@@ -1,6 +1,6 @@
 # How to copy or restore tmux settings
 
-_Written by [**Kaan Akşit**](https://kaanaksit.com), 20 February 2025_
+_Written by [**Kaan Akşit**](https://kaanaksit.com), 7 March 2025_
 
 **Disclamer:** This article is only tested under Ubuntu 24.10.
 
