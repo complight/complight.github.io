@@ -36,6 +36,20 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+
+#### Delio Vicini (Google)
+
+??? Details
+    **Date:**
+    12th March 2025
+
+    **Presenter:** [Delio Vicini](https://dvicini.github.io/), Senior Research Scientist, Google
+
+    **Title:** Differentiable Monte Carlo integration for inverse rendering and PDE problems
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETv3NpShQ8NOotPRHmFKO9oBZxE2-AtrKGbocgQDLi2VTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CsWdOb)
+
+
 #### Ezgi Özyılkan (New York University)
 
 ??? Details
