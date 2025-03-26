@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+#### Qi Guo (Purdue University)
+
+??? Details
+    **Date:**
+    19th March 2025
+
+    **Presenter:** [Qi Guo](https://www.qiguo.org/), Assistant Professor at Purdue University
+
+    **Title:** Low Light Depth from Defocus
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Eeig4DqWzeBDrJzwCr5__W4B7lJBGCO-gz4a4-RLuyFs4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gLHHpZ)
+
 
 #### Delio Vicini (Google)
 
