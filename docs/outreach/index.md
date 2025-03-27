@@ -36,6 +36,20 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+
+#### Niladri Shekhar Dutt (University College London)
+
+??? Details
+    **Date:**
+    26th March 2025
+
+    **Presenter:** [Niladri Shekhar Dutt](https://niladridutt.com/), ELLIS PhD student at University College London
+
+    **Title:** Decoding Correspondence and Rig-Free Transformations
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EYI3IXmiEF5DvEQpypqmLv8B8mUx9OjYmKwczX7xgxiQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GeYclw)
+
+
 #### Qi Guo (Purdue University)
 
 ??? Details
