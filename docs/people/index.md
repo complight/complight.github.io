@@ -64,19 +64,6 @@ MSc Student ([New York University](https://www.nyu.edu))
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/weijie_xie.png" width="160" alt/>
-</div>
-[Weijie Xie](https://www.harridan13.com/)
-
-MSc Student ([University College London](https://www.ucl.ac.uk/))
-
-:material-email: [E-mail](mailto:xwj.harry@gmail.com)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/chuanjun_zheng.png" width="160" alt/>
 </div>
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&)
