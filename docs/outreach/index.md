@@ -37,6 +37,19 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+#### Ziyang Chen (University College London)
+
+??? Details
+    **Date:**
+    9th April 2025
+
+    **Presenter:** [Ziyang Chen](https://ziyang.space/), Ph.D. student at University College London
+
+    **Title:** Lensless Tracking and Slicing Method for CGH
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESzndIoVkaJOnGvtnlRdww0ByJQSH6TfTj6GbnkmM05ZOw?e=mugSvD)
+
+
 #### Akshat Dave (Massachusetts Institute of Technology)
 
 ??? Details
