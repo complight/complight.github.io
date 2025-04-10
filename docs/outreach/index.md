@@ -47,7 +47,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
     **Title:** Superhuman Vision by co-designing Cameras, Graphics & AI
 
-    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/r/personal/ucackak_ucl_ac_uk/Documents/weekly_seminar_recordings/Akshat%20Dave,%20Massachusetts%20Institute%20of%20Technology.mp4?csf=1&web=1&e=diFbxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EUEDKUQG3JlBoxzgf-XTkL0BjML5Krruf_xQp0asa5n9TQ?e=IFKl6Z)
 
 
 #### Niladri Shekhar Dutt (University College London)
