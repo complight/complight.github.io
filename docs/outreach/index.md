@@ -37,6 +37,19 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+#### Ethan Tseng (Princeton University)
+
+??? Details
+    **Date:**
+    16th April 2025
+
+    **Presenter:** [Ethan Tseng](https://ethan-tseng.github.io/), Ph.D. student at Princeton University
+
+    **Title:** Neural Cameras and Displays: Building Machine Learning Frameworks for Optical System Design
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ERvLLCHpP81EuBEPyQQT3uABeDJKwDga5MYT0a8Tw2FV-A?e=UnAYmG)
+
+
 #### Ziyang Chen (University College London)
 
 ??? Details
