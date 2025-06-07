@@ -23,10 +23,8 @@
 <sup>3</sup>NVIDIA
 </p>
 <p style="text-align:center;"><b>SIGGRAPH Asia 2024 Poster</b></p>
-<center>
-:material-medal: 
-<b>Honorable Mention Award</b>
-</center>
+&nbsp;<p style="text-align:center;">:material-medal:<b>Honorable Mention Award</b></p>
+
 
 ## Resources
 :material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
