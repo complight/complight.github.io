@@ -55,7 +55,7 @@
 We evaluate the performance of four common learned models utilizing Implicit Neural Representation (INR) and Variational Autoencoder (VAE) structures for compressing phase-only holograms in holographic displays.
 The evaluated models include a vanilla <span style="color: rgb(216, 27, 96)">MLP</span>, <span style="color: rgb(30, 136, 229)">SIREN</span>, and <span style="color: rgb(255, 193, 7)">FilmSIREN</span>, with <span style="color: rgb(0, 77, 64)">TAESD</span> as the representative VAE model.
 Our experiments reveal that a pretrained image VAE, <span style="color: rgb(0, 77, 64)">TAESD</span>, with 2.2M parameters struggles with phase-only hologram compression, revealing the need for task-specific adaptations.
-Among the INR s, <span style="color: rgb(30, 136, 229)">SIREN</span> with 4.9k parameters achieves $40\%$ compression with high quality in the reconstructed 3D images (PSNR = 34.54 dB). These results emphasize the effectiveness of INR s and identify the limitations of pretrained image compression VAE s for hologram compression task.
+Among the INRs, <span style="color: rgb(30, 136, 229)">SIREN</span> with 4.9k parameters achieves $40\%$ compression with high quality in the reconstructed 3D images (PSNR = 34.54 dB). These results emphasize the effectiveness of INRs and identify the limitations of pretrained image compression VAE s for hologram compression task.
 
 <figure markdown>
   ![Image title](media/hologram_compression_teaser.png){ width="900" }
@@ -69,8 +69,8 @@ These $P$s are calculated for three wavelengths, $\{473, 515, 639\}$ nm and a fi
 We adopt an off-the-shelf <span style="color: rgb(0, 77, 64)">TAESD</span> trained for image compression task.
 Specifically, the <span style="color: rgb(0, 77, 64)">TAESD</span> with $2.2M$ parameters encodes $P$ to a $\text{bottleneck} \in \mathbb{R}^{16 \times 64 \times 64}$ and later decodes into the original resolution of $3 \times 512 \times 512$.
 Our teaser (above) shows pretrained <span style="color: rgb(0, 77, 64)">TAESD</span> fails, requiring dedicated training for generalization.
-Feature size comparison yields only 92\% reduction (excluding <span style="color: rgb(0, 77, 64)">TAESD</span> params).
-Thus, we choose to explore \INR based models to see if the feature size could be further reduced while accepting longer training times as \INR{}s typically are overfitted on a single data at a time.
+Feature size comparison yields only 92% reduction (excluding <span style="color: rgb(0, 77, 64)">TAESD</span> params).
+Thus, we choose to explore INR based models to see if the feature size could be further reduced while accepting longer training times as INRs typically are overfitted on a single data at a time.
 
 <figure markdown>
   ![Image title](media/hologram_compression_represent_image.jpg){ width="800" }
@@ -80,7 +80,7 @@ In our study, we compare three foundational INR architectures (<span style="colo
 as the starting point of the experiment, and the aim is to strike a balance between the quality of the reconstructed image and the compression ratio. 
 $P$s are split into patches (e.g., $3 \times 64 \times 64$), a separate model is trained for each patch (initialized from prior weights), and their outputs are combined for full reconstruction.
 Experiments that we are going to detail in the next section utilize ten different holograms (The purpose of selecting a small but diverse set of initial samples in this study is to demonstrate the comparative trends among different methods. The large-scale validation work will be addressed in the subsequent research.) and turns them into patches by following the choices listed in table.
-All \INR{}s use Adam (lr=0.0001) with StepLR (gamma=0.5 every 5000 epochs), trained for 5000 epochs.
+All INRs use Adam (lr=0.0001) with StepLR (gamma=0.5 every 5000 epochs), trained for 5000 epochs.
 
 
 ## Conclusions
@@ -97,7 +97,7 @@ Computational cost ($T$ hours/hologram) is justified by <span style="color: rgb(
 </figure>
 
 
-These observations suggest that specialized \INR architectures require further investigation for the hologram compression task, 
+These observations suggest that specialized INR architectures require further investigation for the hologram compression task, 
 potentially opening new solutions for efficient 3D scene representation in holographic displays.
 Achieving robust compression remains an open challenge; our study guides future work on efficient 3D holographic rendering/storage.
 
