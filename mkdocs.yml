@@ -24,9 +24,7 @@ nav:
     - Yicheng Zhan: 'https://github.com/AlberTgarY'
     - Ziyang Chen: 'https://www.linkedin.com/in/ziyang-chen-064ba8173/'
     - Henry Kam: 'http://gulpinhenry.github.io/'
-    - Weijie Xie: 'https://www.harridan13.com/'
     - Chuanjun Zheng: 'https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&'
-    - Koray Kavaklı: 'https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao'
   - Timeline: 
     - Recent news: 'timeline/index.md'
     - Highlighted events:
@@ -34,6 +32,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Assessing Learned Models for Phase-only Hologram Compression': 'publications/hologram_compression.md'
       - 'Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions': 'publications/focal_surface_light_transport.md'
       - 'SpecTrack: Learned Multi-Rotation Tracaking via Speckle Imaging': 'publications/spec_track.md'
       - 'Autocolor: Learned Light Power Control for Multi-Color Holograms': 'https://complightlab.com/autocolor_'

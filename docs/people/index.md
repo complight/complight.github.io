@@ -28,7 +28,7 @@ Associate Professor of Computational Light
 </div>
 [Yicheng Zhan](https://albertgary.github.io/)
 
-Ph.D. Student
+Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:ucaby83@ucl.ac.uk)
 
@@ -41,7 +41,7 @@ Ph.D. Student
 </div>
 [Ziyang Chen](https://ziyang.space/)
 
-Ph.D. Student
+Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:ucabzc8@ucl.ac.uk)
 
@@ -50,6 +50,18 @@ Ph.D. Student
 
 
 ## Interns
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/zicong_peng.png" width="160" alt/>
+</div>
+[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN)
+
+MSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:zicong.peng.24@ucl.ac.uk)
+
+:material-office-building: Office: Hybrid (R404.186)
+<br clear="left"/>
+
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/henry_kam.png" width="160" alt/>
 </div>

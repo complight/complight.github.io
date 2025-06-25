@@ -1,6 +1,45 @@
 # Publications
 
 
+## 2025
+
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/hologram_compression.png" width="200" alt/>
+</div>
+**Assessing Learned Models for Phase-only Hologram Compression**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+
+
+[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
+[Yicheng Zhan](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://complightlab.com/publications/hologram_compression)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Assessing_learned_models_for_phase_only_hologram_compression.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Poster_assessing_learned_models_for_phase_only_hologram_compression.pdf)
+:material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{peng2025assessing,
+          author = {Zicong Peng and Yichen Zhan and Josef Spjut and Kaan Ak{\c{s}}it},
+          title = {Assessing Learned Models for Phase-only Hologram Compression},
+          booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
+          year = {2025},
+          location = {Vancouver, BC, Canada},
+          publisher = {ACM},
+          address = {New York, NY, USA},
+          pages = {2},
+          doi = {10.1145/3721250.3742993},
+          url = {https://doi.org/10.1145/3721250.3742993},
+          month = {August 10--14}
+        }
+	```
+<br clear="left"/>
+
+
 ## 2024
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/focal_surfaec_lightprop_web_image.png" width="200" alt/>
