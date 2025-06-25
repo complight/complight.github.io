@@ -21,7 +21,7 @@
 <sup>1</sup>University College London,
 <sup>2</sup>NVIDIA
 </p>
-<p style="text-align:center;"><b>SIGGRAPH Asia 2025 Poster</b></p>
+<p style="text-align:center;"><b>SIGGRAPH 2025 Poster</b></p>
 <!-- &nbsp;<p style="text-align:center;">:material-medal:<b>Honorable Mention Award</b></p> -->
 
 
@@ -49,7 +49,7 @@
 
 ## Video
 <video controls>
-<source src="https://kaanaksit.com/assets/video/ChenSigAsia2024SpecTrack.mp4" id="“ type="video/mp4">
+<source src="https://youtu.be/faeqvje2nt0" id="“ type="video/mp4">
 </video>
 
 ## Abstract
