@@ -84,7 +84,7 @@ All \INR{}s use Adam (lr=0.0001) with StepLR (gamma=0.5 every 5000 epochs), trai
 
 
 ## Conclusions
-<span style="color: rgb(30, 136, 229)">SIREN</span> and <span style="color: rgb(255, 193, 7)">FilmSIREN</span> provide strong compression, outperforming \vanillaMLP, with <span style="color: rgb(30, 136, 229)">SIREN</span> showing best consistency.
+<span style="color: rgb(30, 136, 229)">SIREN</span> and <span style="color: rgb(255, 193, 7)">FilmSIREN</span> provide strong compression, outperforming <span style="color: rgb(216, 27, 96)">vanillaMLP</span>, with <span style="color: rgb(30, 136, 229)">SIREN</span> showing best consistency.
 In our current experiments in table below, <span style="color: rgb(30, 136, 229)">SIREN</span> achieves the highest fidelity with a PSNR of 47.09 and SSIM of 0.9999 at $96 \times 96 \times 3$ patch size, 
 while its 3D reconstruction quality (PSNR = 35.74, SSIM = 0.96, LPIPS = 0.08) marginally outperforms <span style="color: rgb(255, 193, 7)">FilmSIREN</span> (PSNR = 34.51, SSIM = 0.96, LPIPS = 0.09). 
 Additionally, under identical training schedules, both <span style="color: rgb(30, 136, 229)">SIREN</span> and <span style="color: rgb(255, 193, 7)">FilmSIREN</span> frequently satisfied the early stopping criterion near 2000 epochs. 
