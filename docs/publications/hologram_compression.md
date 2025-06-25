@@ -31,7 +31,7 @@
 :material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{peng2025assessing,
-          author = {Zicong Peng and Yichen Zhan and Josef Spjut and Kaan Ak{\c{s}}it},
+          author = {Zicong Peng and Yichen Zhang and Josef Spjut and Kaan Ak{\c{s}}it},
           title = {Assessing Learned Models for Phase-only Hologram Compression},
           booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
           year = {2025},
