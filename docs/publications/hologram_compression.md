@@ -26,10 +26,10 @@
 
 
 ## Resources
-:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Abstract_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
-:material-newspaper-variant: [Poster](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Poster_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
-:material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ChenEtAl_SigAsia2024_Supplementary_spectrack_learned_multi_rotation_tracking_via_speckle_imaging.pdf)
-:material-file-code: [Code](https://github.com/complight/SpecTrack)
+:material-newspaper-variant: [Manuscript](https://github.com/Dasheng6666/final_project_files/blob/main/manuscript.pdf)
+:material-newspaper-variant: [Poster](https://github.com/Dasheng6666/final_project_files/blob/main/goodgoodposter.pdf)
+:material-newspaper-variant: [Supplementary](https://github.com/Dasheng6666/final_project_files/blob/main/supplementary.pdf)
+:material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{chen2024spectrack,
           author = {Zicong Peng and Yichen Zhan and Josef Spjut and Kaan Ak{\c{s}}it},
