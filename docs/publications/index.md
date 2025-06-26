@@ -19,6 +19,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web: [Project site](https://complightlab.com/publications/assess_hologram_compression)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Poster_assessing_learned_models_for_phase_only_hologram_compression.pdf)
+:material-newspaper-variant:[Supplementary](https://kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Supplementary_assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
 :material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
 ??? info ":material-tag-text: Bibtex"
@@ -39,6 +40,40 @@ and [Kaan Akşit](https://kaanaksit.com)
 	```
 <br clear="left"/>
 
+
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/proxyraytracer.png" width="200" alt/>
+</div>
+**Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+
+[Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/),
+[Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&),
+[Kaan Akşit](https://kaanaksit.com),
+and [Daisuke Iwai](https://daisukeiwai.org/)
+
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/SinaeiEtAl_Siggraph2025_Efficient_proxy_raytracer_for_optical_systems_using_implicit_neural_representations.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/SinaeiEtAl_Siggraph2025_Poster_efficient_proxy_raytracer_for_optical_systems_using_implicit_neural_representations.pdf)
+:material-newspaper-variant:[Supplementary](https://kaanaksit.com/assets/pdf/SinaeiEtAl_Siggraph2025_Supplementary_efficient_proxy_raytracer_for_optical_systems_using_implicit_neural_representations.pdf)
+:material-file-code: [Code](https://github.com/shiasin/Efficient-Proxy-Raytracer-for-Optical-Systems-using-Implicit-Neural-Representations)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{Shiva2025Proxy,
+          author = {Shiva Sinaei and Chuanjun Zheng and Kaan Ak{\c{s}}it and Daisuke Iwai},
+          title = {Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations},
+          booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
+          year = {2025},
+          location = {Vancouver, BC, Canada},
+          publisher = {ACM},
+          address = {New York, NY, USA},
+          pages = {2},
+          doi = {10.1145/3721250.3742994},
+          url = {https://doi.org/10.1145/3721250.3742994},
+          month = {August 10--14}
+        }
+	```
+<br clear="left"/>
 
 ## 2024
 <div style="float: left; height:340px;" class="boxed">
