@@ -123,6 +123,10 @@ theme:
         - python
 
 plugins:
+   - redirects:
+       redirect_maps:
+           'assess_hologram_compression.md': 'publications/assess_hologram_compression.md'
+           'lectures/index.md': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
    - search
    - bibtex:
        bib_file: "docs/references.bib"
