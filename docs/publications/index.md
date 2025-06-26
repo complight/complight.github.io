@@ -24,7 +24,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 ??? info ":material-tag-text: Bibtex"
 	```
         @inproceedings{peng2025assessing,
-          author = {Zicong Peng and Yichen Zhang and Josef Spjut and Kaan Ak{\c{s}}it},
+          author = {Zicong Peng and Yicheng Zhan and Josef Spjut and Kaan Ak{\c{s}}it},
           title = {Assessing Learned Models for Phase-only Hologram Compression},
           booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
           year = {2025},
