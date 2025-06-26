@@ -85,8 +85,8 @@ All INRs use Adam (lr=0.0001) with StepLR (gamma=0.5 every 5000 epochs), trained
 
 ## Conclusions
 <span style="color: rgb(30, 136, 229)">SIREN</span> and <span style="color: rgb(255, 193, 7)">FilmSIREN</span> provide strong compression, outperforming <span style="color: rgb(216, 27, 96)">vanillaMLP</span>, with <span style="color: rgb(30, 136, 229)">SIREN</span> showing best consistency.
-In our current experiments in table below, <span style="color: rgb(30, 136, 229)">SIREN</span> achieves the highest fidelity with a PSNR of 47.09 and SSIM of 0.9999 at $96 \times 96 \times 3$ patch size, 
-while its 3D reconstruction quality (PSNR = 35.74, SSIM = 0.96, LPIPS = 0.08) marginally outperforms <span style="color: rgb(255, 193, 7)">FilmSIREN</span> (PSNR = 34.51, SSIM = 0.96, LPIPS = 0.09). 
+In our current experiments in table below, <span style="color: rgb(30, 136, 229)">SIREN</span> achieves the highest fidelity with a PSNR of 42.29 dB and SSIM of 0.99 at $3 \times 64 \times 64$ patch size, 
+while its 3D reconstruction quality (PSNR = 34.54 dB, SSIM = 0.96, LPIPS = 0.10) marginally outperforms <span style="color: rgb(255, 193, 7)">FilmSIREN</span> (PSNR = 33.27 dB, SSIM = 0.94, LPIPS = 0.15). 
 Additionally, under identical training schedules, both <span style="color: rgb(30, 136, 229)">SIREN</span> and <span style="color: rgb(255, 193, 7)">FilmSIREN</span> frequently satisfied the early stopping criterion near 2000 epochs. 
 This consistency implies a relatively smooth optimization process, suggesting that these models can converge effectively without compromising image quality, 
 which is a favorable property in hologram compression task.
