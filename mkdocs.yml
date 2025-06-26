@@ -33,7 +33,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
-      - 'Assessing Learned Models for Phase-only Hologram Compression': 'publications/hologram_compression.md'
+      - 'Assessing Learned Models for Phase-only Hologram Compression': 'publications/assess_hologram_compression.md'
       - 'Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions': 'publications/focal_surface_light_transport.md'
       - 'SpecTrack: Learned Multi-Rotation Tracaking via Speckle Imaging': 'publications/spec_track.md'
       - 'Autocolor: Learned Light Power Control for Multi-Color Holograms': 'https://complightlab.com/autocolor_'

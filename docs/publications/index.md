@@ -16,7 +16,7 @@
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com)
 
-:material-web: [Project site](https://complightlab.com/publications/hologram_compression)
+:material-web: [Project site](https://complightlab.com/publications/assess_hologram_compression)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Poster_assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
