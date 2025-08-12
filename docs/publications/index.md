@@ -4,6 +4,41 @@
 ## 2025
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/multitasking_perceptual_graphics_thumbnail.jpg" width="200" alt/>
+</div>
+**Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**
+
+<img src="https://img.shields.io/badge/-ACM Multimedia-8A2BE2">
+
+
+[Doğa Yılmaz](https://yilmazdoga.net),
+[He Wang](https://drhewang.com),
+[Towaki Takikawa](https://tovacinni.github.io),
+[Duygu Ceylan](https://www.duygu-ceylan.com),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://complightlab.com/publications/multitasking_perceptual_graphics)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
+:material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Supplementary_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
+:material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
+??? info ":material-tag-text: Bibtex"
+        @inproceedings{yilmaz2025perceptual,
+          author = {Y{\i}lmaz, Do{\u{g}}a and Wang, He and Takikawa, Towaki and Ceylan, Duygu and Ak{\c{s}}it, Kaan},
+          title = {Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays},
+          booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+          year = {2025},
+          location = {Dublin, Ireland},
+          publisher = {ACM},
+          address = {New York, NY, USA},
+          pages = {9},
+          doi = {10.1145/3746027.3754801},
+          url = {https://doi.org/10.1145/3746027.3754801},
+          month = {October 27--31}}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/hologram_compression.png" width="200" alt/>
 </div>
 **Assessing Learned Models for Phase-only Hologram Compression**

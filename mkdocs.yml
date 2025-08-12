@@ -33,6 +33,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays': 'publications/multitasking_perceptual_graphics.md'
       - 'Assessing Learned Models for Phase-only Hologram Compression': 'publications/assess_hologram_compression.md'
       - 'Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions': 'publications/focal_surface_light_transport.md'
       - 'SpecTrack: Learned Multi-Rotation Tracaking via Speckle Imaging': 'publications/spec_track.md'
