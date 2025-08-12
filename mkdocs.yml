@@ -125,6 +125,7 @@ theme:
 plugins:
    - redirects:
        redirect_maps:
+           'multitasking_perceptual_graphics.md': 'publications/multitasking_perceptual_graphics.md'
            'assess_hologram_compression.md': 'publications/assess_hologram_compression.md'
            'lectures/index.md': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
    - search
