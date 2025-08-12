@@ -20,8 +20,6 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web: [Project site](https://complightlab.com/publications/multitasking_perceptual_graphics)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
 :material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Supplementary_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
-:material-file-code: [Code](https://github.com/Dasheng6666/final_project_files/blob/main/INR.ipynb)
-:material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{yilmaz2025perceptual,
           author = {Y{\i}lmaz, Do{\u{g}}a and Wang, He and Takikawa, Towaki and Ceylan, Duygu and Ak{\c{s}}it, Kaan},
