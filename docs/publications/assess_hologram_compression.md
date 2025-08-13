@@ -107,11 +107,11 @@ Here, we release photographs from our visit to the conference, highlighting part
 
 
 <figure markdown>
-  ![](./media/hologram_compression_sig25_photo_001.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photo_002.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photo_003.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photo_004.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photo_005.jpg){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photos_001.jpg){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photos_002.jpg){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photos_003.jpg){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photos_004.jpg){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photos_005.jpg){ width="390", align=left }
 </figure>
 
 ## Relevant research works
