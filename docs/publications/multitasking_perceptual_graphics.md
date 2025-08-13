@@ -21,7 +21,7 @@
 </table>
 <p style="text-align:center;">
 <sup>1</sup>University College London,
-<sup>2</sup>University of Toronto
+<sup>2</sup>University of Toronto,
 <sup>3</sup>Adobe Research
 </p>
 <p style="text-align:center;"><b>ACM Multimedia 2025</b></p>

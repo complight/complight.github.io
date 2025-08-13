@@ -102,8 +102,17 @@ potentially opening new solutions for efficient 3D scene representation in holog
 Achieving robust compression remains an open challenge; our study guides future work on efficient 3D holographic rendering/storage.
 
 
-<!-- ### Future work 
-Testing and optimizing the system in real-world environments, considering varying lighting, distances, and object motions, is crucial for successful operation in various applications including VR, AR, and robotics. -->
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH 2025 experience.
+
+
+<figure markdown>
+  ![](./media/hologram_compression_sig25_photo_001.png){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photo_002.png){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photo_003.png){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photo_004.png){ width="390", align=left }
+  ![](./media/hologram_compression_sig25_photo_005.png){ width="390", align=left }
+</figure>
 
 ## Relevant research works
 Here are relevant research works from the authors:
