@@ -30,6 +30,7 @@
 ## Resources
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
 :material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/YilmazEtAl_ACMMM2025_Supplementary_Learned_Single_Pass_Multitasking_Perceptual_Graphics_for_Immersive_Displays.pdf)
+:material-file-code: [Code](https://github.com/complight/multitasking_perceptual_graphics)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{yilmaz2025perceptual,
           author = {Y{\i}lmaz, Do{\u{g}}a and Wang, He and Takikawa, Towaki and Ceylan, Duygu and Ak{\c{s}}it, Kaan},
