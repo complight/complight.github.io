@@ -194,11 +194,12 @@ SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
 
-sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/default,usr,usr/bin,usr/lib,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/}
+sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/default,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,tmp}
 sudo mkdir -p $USERDIRECTORY/home
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE/.ssh
 
+sudo cp -v /usr/lib/locale/locale-archive $USERDIRECTORY/usr/lib/locale/locale-archive
 sudo cp -v /etc/default/locale $USERDIRECTORY/etc/default/
 
 sudo cp -v /lib/x86_64-linux-gnu/libc.so.6 $USERDIRECTORY/lib/x86_64-linux-gnu/
@@ -229,7 +230,7 @@ sudo mknod -m 666 $USERDIRECTORY/dev/urandom c 1 9
 
 sudo cp -a /dev/nvidia* $USERDIRECTORY/dev/
 
-sudo cp -v /bin/{bash,rbash,ls,clear_console,du,ps,cp,python3,pip3,nvidia-smi,mv,vim,nano,rsync,mount,mkdir,grep} $USERDIRECTORY/bin
+sudo cp -v /bin/{bash,rbash,ls,clear_console,du,ps,cp,python3,pip3,nvidia-smi,mv,vim,nano,rsync,mount,mkdir,grep,rm,cat,touch} $USERDIRECTORY/bin
 
 sudo cp -v /usr/bin/{pip3,pip,python3,tmux} $USERDIRECTORY/usr/bin
 sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
