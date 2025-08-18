@@ -11,7 +11,7 @@ There are two things important in this exercise as variables. These are the user
 
 ```bash
 export USERNAMEGOESHERE="test"
-export USERDIRECTORY="/mnt/datasets/$USERNAMEGOESHERE"
+export USERDIRECTORY="/YOURDIRECTORY/$USERNAMEGOESHERE"
 ```
 
 ## Creating a user
