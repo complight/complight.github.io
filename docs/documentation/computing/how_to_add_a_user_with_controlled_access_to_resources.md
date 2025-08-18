@@ -175,7 +175,7 @@ Once modified and saved, simply restart the SSH server:
 sudo systemctl restart ssh
 ```
 
-# An automated script to create a user
+## An automated script to create a user
 In the light of the above findings and exploration, I have created the following script to create users with GPU access on our computational resources:
 
 ```bash
