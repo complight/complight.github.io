@@ -1,6 +1,6 @@
 # How to add a user with controlled access to resources
 
-_Written by [**Kaan Akşit**](https://kaanaksit.com), 17 August 2025_
+_Written by [**Kaan Akşit**](https://kaanaksit.com), 18 August 2025_
 
 **Disclamer:** This article is only tested under Ubuntu 24.10.
 
