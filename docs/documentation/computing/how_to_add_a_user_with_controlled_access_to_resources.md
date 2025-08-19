@@ -194,7 +194,7 @@ SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
 
-sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/default,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,tmp}
+sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/default,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,tmp,sys,run,var,var/run}
 sudo mkdir -p $USERDIRECTORY/home
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE/.ssh
@@ -224,6 +224,8 @@ sudo cp -rv /usr/lib/python3.* $USERDIRECTORY/usr/lib/
 
 sudo cp -v /usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/libnvidia-ml.so $USERDIRECTORY/usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/
 
+sudo mount --bind /dev $USERDIRECTORY/dev/
+sudo mount --bind /proc $USERDIRECTORY/proc
 sudo mknod -m 666 $USERDIRECTORY/dev/null c 1 3
 sudo mknod -m 666 $USERDIRECTORY/dev/zero c 1 5
 sudo mknod -m 666 $USERDIRECTORY/dev/random c 1 8
@@ -253,6 +255,7 @@ sudo chmod 600 /home/$USERNAMEGOESHERE/.ssh/authorized_keys
 sudo chmod 700 /home/$USERNAMEGOESHERE/
 sudo chown -R $USERNAMEGOESHERE:$USERNAMEGOESHERE $USERDIRECTORY
 sudo chmod 700 $USERDIRECTORY
+sudo chmod 1777 $USERDIRECTORY/tmp
 sudo chown root:root $USERDIRECTORY
 sudo chmod 755 $USERDIRECTORY
 
