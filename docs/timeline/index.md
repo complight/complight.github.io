@@ -16,8 +16,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 
 ## 2024
 
-### December
-#### 3-6 December 2024
+### 3-6 December 2024
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
@@ -33,8 +32,7 @@ These works are collaborations with a series of academic and industry partners i
 and [Kaan Akşit](https://kaanaksit.com).
 
 
-### April
-#### 22 April 2024
+### 22 April 2024
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/nature.png" alt="Nature Light Science and Applications" width="80" alt/>
 </div>
@@ -70,8 +68,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-### January
-#### 29 January 2024
+### 29 January 2024
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/photonics_west.png" alt="SPIE Photonics West 2024" width="80" alt/>
 </div>
@@ -88,8 +85,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 
 ## 2023
 
-### December
-#### 13 December 2023
+### 13 December 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/siggraph_asia_2023.png" alt="SIGGRAPH Asia 2023" width="80" alt/>
 </div>
@@ -107,8 +103,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-### October
-#### 30 October 2023
+### 30 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ahmet_guzel_poster_award_2.png" alt="Ahmet Guzel's Poster Award" width="100" alt/>
 </div>
@@ -119,7 +114,7 @@ We are honored to have been awarded **First Prize for Best Poster**, and we than
 <br />
 
 
-#### 12-13 October 2023
+### 12-13 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -128,7 +123,7 @@ Kaan also gave an invited talk titled `Role of Differentiable Models in Computat
 <br />
 <br />
 
-#### 11 October 2023
+### 11 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/meta_reality_labs.png" width="80" alt/>
 </div>
@@ -139,7 +134,7 @@ Kaan's talk is titled `Unlocking Next-Generation Display Technologies with Holog
 
 
 
-#### 9-10 October 2023
+### 9-10 October 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -149,9 +144,7 @@ Kaan also gave an invited talk on his group's work, `Headsetless Holographic Vir
 <br />
 
 
-
-### August
-#### 16 August 2023
+### 16 August 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -161,8 +154,7 @@ Have you missed it? The recording is now <a href="https://www.optica.org/media_l
 <br />
 
 
-### June
-#### 28 June 2023
+### 28 June 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/stanford_university.png" width="80" alt/>
 </div>
@@ -171,7 +163,7 @@ Kaan presented an invited talk titled `Could holographic displays be the key to 
 <br />
 
 
-#### 1 June 2023
+### 1 June 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm.png" width="80" alt/>
 </div>
@@ -180,8 +172,7 @@ In her latest article, "[The Promise of Holographic Displays](https://cacm.acm.o
 <br />
 
 
-### April
-#### 21 April 2023
+### 21 April 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -197,8 +188,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-### March
-#### 28 March 2023
+### 28 March 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
@@ -229,7 +219,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
-#### 15 March 2023
+### 15 March 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/huawei.png" width="80" alt/>
 </div>
@@ -239,8 +229,7 @@ We are thankful to [Huawei, United Kingdom](https://www.huawei.com/uk/) for thei
 <br />
 
 
-### February
-#### 6 February 2023
+### 6 February 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/university_of_rochester.png" width="80" alt/>
 </div>
@@ -250,8 +239,7 @@ We are thankful to [University of Rochester's institute of optics](https://www.h
 <br />
 
 
-### January
-#### 4 January 2023
+### 4 January 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/tubitak.png" width="80" alt/>
 </div>
@@ -273,8 +261,7 @@ We had to decline their award as we have purchased new computational resources m
 
 ## 2022
 
-### November
-#### 18 November 2022
+### 18 November 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -291,8 +278,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-### October
-#### 25 October 2022
+### 25 October 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieee.png" width="80" alt/>
 </div>
@@ -311,7 +297,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-#### 19 October 2022
+### 19 October 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/frontiers_in_optics.png" width="80" alt/>
 </div>
@@ -321,8 +307,7 @@ In collaboration with Meta Reality Laboratory's [Douglas Lanman](https://alumni.
 <br />
 
 
-### August
-#### 3 August 2022
+### 3 August 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/siggraph2022.png" width="80" alt/>
 </div>
@@ -332,8 +317,7 @@ This work is a collaboration between [Koray Kavaklı](https://scholar.google.com
 <br />
 
 
-### June
-#### 23 June 2022
+### 23 June 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/meta_reality_labs.png" width="80" alt/>
 </div>
@@ -344,8 +328,7 @@ Their award is worth `75000 USD`.
 <br />
 
 
-### May
-#### 5 May 2022
+### 5 May 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/chi2022.png" width="80" alt/>
 </div>
@@ -364,9 +347,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <br />
 
 
-### March
-
-#### 14 March 2022
+### 14 March 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ieeevr2022.png" width="80" alt/>
 </div>
@@ -385,7 +366,7 @@ This work is a collaboration between David R. Walton, Koray Kavakli, Rafael Kuff
 <br />
 
 
-#### 11 March 2022
+### 11 March 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/jom_ar_vr_mr_call.png" width="80" alt/>
 </div>
@@ -395,8 +376,7 @@ Here is a [link](../media/jom_ar_vr_mr_call.png) for call flyer and to submit yo
 <br />
 
 
-### February
-#### 23 February 2022
+### 23 February 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/egsr2022.png" width="80" alt/>
 </div>
@@ -405,8 +385,7 @@ Here is a [link](../media/jom_ar_vr_mr_call.png) for call flyer and to submit yo
 <br />
 
 
-### January
-#### 24 January 2022
+### 24 January 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/photonics_west.png" width="80" alt/>
 </div>
@@ -415,7 +394,7 @@ We presented two invited talks at [SPIE's Photonics West](https://spie.org/confe
 <br />
 
 
-#### 17 January 2022
+### 17 January 2022
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/the_next_byte.png" width="80" alt/>
 </div>
@@ -428,8 +407,7 @@ You can reach the podcast using [this link](https://the-next-byte-wevolver.simpl
 
 ## 2021
 
-### November
-#### 29 November 2021
+### 29 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/frontiers.png" width="80" alt/>
 </div>
@@ -438,7 +416,7 @@ Our vision, "Telelife: The Future of Remote Living", is published at [Frontiers 
 <br />
 
 
-#### 12 November 2021
+### 12 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
@@ -447,7 +425,7 @@ Our invited work, "Learned Holographic Light Transport", is published at [Optica
 <br />
 
 
-#### 8 November 2021
+### 8 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/royal_society.png" width="80" alt/>
 </div>
@@ -457,8 +435,7 @@ We are grateful to the Royal Society for awarding us with their [research grants
 
 
 
-### November
-#### 1-2 November 2021
+### 1-2 November 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/frontiers_in_optics.png" width="80" alt/>
 </div>
@@ -467,8 +444,7 @@ In collaboration with Meta Reality Laboratory's Douglas Lanman, we helped organi
 <br />
 
 
-### February
-#### 18 February 2021
+### 18 February 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ucl_osaka.png" width="80" alt/>
 </div>
@@ -478,8 +454,7 @@ We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual
 <br />
 
 
-### January
-#### 4 January 2021
+### 4 January 2021
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../people/kaan_aksit.png" width="80" alt/>
 </div>
@@ -490,9 +465,7 @@ We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual
 
 ## 2020
 
-### November
-
-#### 17 November 2020
+### 17 November 2020
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/ucl_osaka.png" width="80" alt/>
 </div>
@@ -501,9 +474,7 @@ We appear on [UCL news](https://www.ucl.ac.uk/global/news/2021/feb/second-annual
 <br />
 
 
-### August
-
-#### 1 August 2020
+### 1 August 2020
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../people/kaan_aksit.png" width="80" alt/>
 </div>
