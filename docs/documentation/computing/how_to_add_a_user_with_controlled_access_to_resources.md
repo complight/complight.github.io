@@ -211,9 +211,10 @@ sudo cp -v /lib64/ld-linux-x86-64.so.2 $USERDIRECTORY/lib64/
 
 sudo cp -v /usr/lib/x86_64-linux-gnu/{libm.so.6,libc.so.6,libpcre2-8.so.0,libselinux.so.1,libfuse3.so.3,libglib-2.0.so.0,libatomic.so.1,libtinfo.so.6,libnvidia-ml.so.1,libnvidia-ml.so.560.35.05,librt.so.1,libexpat.so.1,libz.so.1,libpthread.so.0,libdl.so.2,libnvidia-ml.so.1,libacl.so.1,libattr.so.1,libgpm.so.2,libpython3.12.so.1.0,libsodium.so.23,libncursesw.so.6,libsystemd.so.0,libutempter.so.0,libevent_core-2.1.so.7u,libresolv.so.2,libcap.so.2,libproc2.so.0,libpopt.so.0,libzstd.so.1,libxxhash.so.0,libcrypto.so.3,liblz4.so.1,libmount.so.1,libblkid.so.1} $USERDIRECTORY/usr/lib/x86_64-linux-gnu
 
+sudo cp -Rv /usr/share/terminfo $USERDIRECTORY/usr/share/terminfo
 sudo cp -v /usr/share/terminfo/x/xterm-256color $USERDIRECTORY/usr/share/terminfo/x/
 
-sudo cp -rv /usr/lib/python3.* $USERDIRECTORY/usr/lib/
+sudo cp -Rv /usr/lib/python3.* $USERDIRECTORY/usr/lib/
 
 sudo cp -v /usr/lib/x86_64-linux-gnu/stubs/libnvidia-ml.so $USERDIRECTORY/usr/lib/x86_64-linux-gnu/stubs/
 
