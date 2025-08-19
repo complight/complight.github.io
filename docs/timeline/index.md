@@ -2,6 +2,20 @@
 
 ## 2025
 
+
+### 11 February 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
+</div>
+[Our work, "Assessing Learned Models for Phase-only Hologram Compression",](../publications/assess_hologram_compression.md) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver Canada.
+These works are collaborations with a series of academic and industry partners including
+[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
+[Yicheng Zhan](https://albertgary.github.io/),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
+
 ### 6 February 2025
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
