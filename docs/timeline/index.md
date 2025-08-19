@@ -8,7 +8,7 @@
 <img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
 [Our work, "Assessing Learned Models for Phase-only Hologram Compression",](../publications/assess_hologram_compression.md) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
-These works are collaborations with a series of academic and industry partners including
+This work is a collaboration with a series of academic and industry partners including
 [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
 [Yicheng Zhan](https://albertgary.github.io/),
 [Josef Spjut](https://josef.spjut.me/),
@@ -19,7 +19,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
 [Our work, "Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations",](https://doi.org/10.1145/3721250.3742994) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
-These works are collaborations with a series of academic partners including
+This work is a collaboration with a series of academic partners including
 [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/),
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&),
 [Kaan Akşit](https://kaanaksit.com),
