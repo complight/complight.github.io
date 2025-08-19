@@ -3,7 +3,7 @@
 ## 2025
 
 
-### 11 February 2025
+### 11 August 2025
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
