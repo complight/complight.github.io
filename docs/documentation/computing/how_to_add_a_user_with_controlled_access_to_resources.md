@@ -33,19 +33,6 @@ Some cases demand that the user is restricted in terms of access to certain reso
 sudo usermod -aG GROUPNAME $USERNAMEGOESHERE
 ```
 
-## Set user shell only
-This prevents the user from getting a login shell, but still allows SSH if configured properly.
-
-```bash
-sudo usermod -s /usr/sbin/nologin $USERNAMEGOESHERE
-```
-
-or
-
-```
-sudo usermod -s /bin/false $USERNAMEGOESHERE
-```
-
 ## Deleting or locking a user
 As a student leaves or a certain resource has to be removed from a certain user, deleting or locking a user account becomes a topic to consider. Let's dive deep into how we can do that in these subsections.
 
@@ -205,9 +192,6 @@ sudo ln -s $SYMDIRECTORY /home
 
 SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
-
-sudo usermod -s /bin/false $USERNAMEGOESHERE
-sudo usermod -s /usr/sbin/nologin $USERNAMEGOESHERE
 
 
 sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/ca-certificates,etc/default,etc/ssl,etc/ssl/certs,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/openssh,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,usr/share/ca-certificates,usr/sbin,tmp,sys,run,var,var/run}
