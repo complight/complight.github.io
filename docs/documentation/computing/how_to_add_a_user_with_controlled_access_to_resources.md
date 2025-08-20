@@ -33,6 +33,19 @@ Some cases demand that the user is restricted in terms of access to certain reso
 sudo usermod -aG GROUPNAME $USERNAMEGOESHERE
 ```
 
+## Set user shell only
+This prevents the user from getting a login shell, but still allows SSH if configured properly.
+
+```bash
+sudo usermod -s /usr/sbin/nologin $USERNAMEGOESHERE
+```
+
+or
+
+```
+sudo usermod -s /bin/false $USERNAMEGOESHERE
+```
+
 ## Deleting or locking a user
 As a student leaves or a certain resource has to be removed from a certain user, deleting or locking a user account becomes a topic to consider. Let's dive deep into how we can do that in these subsections.
 
@@ -193,11 +206,21 @@ sudo ln -s $SYMDIRECTORY /home
 SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
+sudo usermod -s /bin/false $USERNAMEGOESHERE
+sudo usermod -s /usr/sbin/nologin $USERNAMEGOESHERE
 
-sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/default,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,tmp,sys,run,var,var/run}
+
+sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/ca-certificates,etc/default,etc/ssl,etc/ssl/certs,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/openssh,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,usr/share/ca-certificates,usr/sbin,tmp,sys,run,var,var/run}
 sudo mkdir -p $USERDIRECTORY/home
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE/.ssh
+
+sudo cp -v /usr/sbin/update-ca-certificates $USERDIRECTORY/usr/sbin/
+sudo cp -r /usr/share/ca-certificates/* $USERDIRECTORY/usr/share/ca-certificates
+sudo cp -r /etc/ca-certificates/* $USERDIRECTORY/etc/ca-certificates/
+sudo cp /etc/ssl/certs/ca-certificates.crt $USERDIRECTORY/etc/ssl/certs/
+
+sudo cp -r /etc/ssl/certs/* $USERDIRECTORY/etc/ssl/certs/
 
 sudo cp -v /usr/lib/locale/locale-archive $USERDIRECTORY/usr/lib/locale/locale-archive
 sudo cp -v /etc/default/locale $USERDIRECTORY/etc/default/
@@ -209,12 +232,13 @@ sudo cp -v /usr/lib/x86_64-linux-gnu/libcuda.* $USERDIRECTORY/usr/lib/x86_64-lin
 sudo cp -v /usr/lib/x86_64-linux-gnu/libnvidia-* $USERDIRECTORY/usr/lib/x86_64-linux-gnu/
 sudo cp -v /lib64/ld-linux-x86-64.so.2 $USERDIRECTORY/lib64/
 
-sudo cp -v /usr/lib/x86_64-linux-gnu/{libm.so.6,libc.so.6,libpcre2-8.so.0,libselinux.so.1,libfuse3.so.3,libglib-2.0.so.0,libatomic.so.1,libtinfo.so.6,libnvidia-ml.so.1,libnvidia-ml.so.560.35.05,librt.so.1,libexpat.so.1,libz.so.1,libpthread.so.0,libdl.so.2,libnvidia-ml.so.1,libacl.so.1,libattr.so.1,libgpm.so.2,libpython3.12.so.1.0,libsodium.so.23,libncursesw.so.6,libsystemd.so.0,libutempter.so.0,libevent_core-2.1.so.7u,libresolv.so.2,libcap.so.2,libproc2.so.0,libpopt.so.0,libzstd.so.1,libxxhash.so.0,libcrypto.so.3,liblz4.so.1,libmount.so.1,libblkid.so.1} $USERDIRECTORY/usr/lib/x86_64-linux-gnu
+sudo cp -v /usr/lib/x86_64-linux-gnu/{libm.so.6,libc.so.6,libpcre2-8.so.0,libselinux.so.1,libfuse3.so.3,libglib-2.0.so.0,libatomic.so.1,libtinfo.so.6,libnvidia-ml.so.1,libnvidia-ml.so.560.35.05,librt.so.1,libexpat.so.1,libz.so.1,libpthread.so.0,libdl.so.2,libnvidia-ml.so.1,libacl.so.1,libattr.so.1,libgpm.so.2,libpython3.12.so.1.0,libsodium.so.23,libncursesw.so.6,libsystemd.so.0,libutempter.so.0,libevent_core-2.1.so.7u,libresolv.so.2,libcap.so.2,libproc2.so.0,libpopt.so.0,libzstd.so.1,libxxhash.so.0,libcrypto.so.3,liblz4.so.1,libmount.so.1,libblkid.so.1,libuuid.so.1,libidn2.so.0,libssl.so.3,libpsl.so.5,libunistring.so.5,libsigsegv.so.2,libreadline.so.8,libmpfr.so.6,libgmp.so.10} $USERDIRECTORY/usr/lib/x86_64-linux-gnu
 
 sudo cp -Rv /usr/share/terminfo $USERDIRECTORY/usr/share/terminfo
 sudo cp -v /usr/share/terminfo/x/xterm-256color $USERDIRECTORY/usr/share/terminfo/x/
 
 sudo cp -Rv /usr/lib/python3.* $USERDIRECTORY/usr/lib/
+sudo cp -v /usr/lib/openssh/sftp-server $USERDIRECTORY/usr/lib/openssh
 
 sudo cp -v /usr/lib/x86_64-linux-gnu/stubs/libnvidia-ml.so $USERDIRECTORY/usr/lib/x86_64-linux-gnu/stubs/
 
@@ -224,8 +248,11 @@ sudo cp -rv /usr/lib/python3.* $USERDIRECTORY/usr/lib/
 
 sudo cp -v /usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/libnvidia-ml.so $USERDIRECTORY/usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/
 
-sudo mount --bind /dev $USERDIRECTORY/dev/
-sudo mount --bind /proc $USERDIRECTORY/proc
+sudo mount -t devtmpfs devtmpfs $USERDIRECTORY/dev
+sudo mount -t devpts devpts $USERDIRECTORY/dev/pts
+sudo mount -t proc proc $USERDIRECTORY/proc
+sudo mount -t sysfs sysfs $USERDIRECTORY/sys
+
 sudo mknod -m 666 $USERDIRECTORY/dev/null c 1 3
 sudo mknod -m 666 $USERDIRECTORY/dev/zero c 1 5
 sudo mknod -m 666 $USERDIRECTORY/dev/random c 1 8
@@ -235,12 +262,14 @@ sudo cp -a /dev/nvidia* $USERDIRECTORY/dev/
 
 sudo cp -v /bin/{bash,rbash,ls,clear_console,du,ps,cp,python3,pip3,nvidia-smi,mv,vim,nano,rsync,mount,mkdir,grep,rm,cat,touch} $USERDIRECTORY/bin
 
-sudo cp -v /usr/bin/{pip3,pip,python3,tmux} $USERDIRECTORY/usr/bin
+sudo cp -v /usr/bin/{pip3,pip,python3,tmux,wget,dirname,basename,sh,uname,tr,tail,awk,df,sed,head,wc,md5sum,fusermount3,sftp} $USERDIRECTORY/usr/bin
 sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
 
 sudo grep root /etc/passwd | sudo tee $USERDIRECTORY/etc/passwd
 sudo grep root /etc/group | sudo tee $USERDIRECTORY/etc/group
 echo "$USERNAMEGOESHERE:x:$(id -u $USERNAMEGOESHERE):$(id -g $USERNAMEGOESHERE):User:$USERDIRECTORY/$USERNAMEGOESHERE:/bin/bash" | sudo tee -a $USERDIRECTORY/etc/passwd
+
+sudo cp -v /etc/mtab $USERDIRECTORY/etc
 
 sudo chown -R $USERNAMEGOESHERE:$USERNAMEGOESHERE $USERDIRECTORY
 sudo mkdir -p /home/$USERNAMEGOESHERE/.ssh
@@ -262,7 +291,23 @@ sudo chmod 755 $USERDIRECTORY
 sudo echo " " | sudo tee -a /etc/ssh/sshd_config
 sudo echo "Match User $USERNAMEGOESHERE" | sudo tee -a /etc/ssh/sshd_config
 sudo echo "    ChrootDirectory $USERDIRECTORY" | sudo tee -a /etc/ssh/sshd_config
+sudo echo "    Subsystem   sftp    /usr/lib/openssh/sftp-server" | sudo tee -a /etc/ssh/sshd_config
 sudo echo "    AllowTcpForwarding no" | sudo tee -a /etc/ssh/sshd_config
 sudo echo "    X11Forwarding no" | sudo tee -a /etc/ssh/sshd_config
 sudo service ssh restart
 ```
+
+
+You may also need to have a separate script to mount required folders at each reboot for a complete setup:
+
+```bash
+#!/bin/bash
+
+USERDIRECTORY="/users/chroot/directory/goes/here"
+sudo mount -t devtmpfs devtmpfs $USERDIRECTORY/dev
+sudo mount -t devpts devpts $USERDIRECTORY/dev/pts
+sudo mount -t proc proc $USERDIRECTORY/proc
+sudo mount -t sysfs sysfs $USERDIRECTORY/sys
+```
+
+You can run the above setup at each boot using `crontab`.
