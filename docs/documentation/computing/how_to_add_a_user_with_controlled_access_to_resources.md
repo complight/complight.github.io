@@ -194,11 +194,12 @@ SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
 
-sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/ca-certificates,etc/default,etc/ssl,etc/ssl/certs,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/openssh,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,usr/share/ca-certificates,usr/sbin,tmp,sys,run,var,var/run}
+sudo mkdir -p $USERDIRECTORY/{bin,lib,lib/python3,lib/python3/dist-packages/,lib/x86_64-linux-gnu,lib64,dev,etc,etc/ca-certificates,etc/default,etc/ssl,etc/ssl/certs,usr,usr/bin,usr/lib,usr/lib/locale,usr/lib/openssh,usr/lib/python3.*,usr/lib/x86_64-linux-gnu,usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/,usr/lib/x86_64-linux-gnu/stubs,usr/share/terminfo/x/,usr/share/ca-certificates,usr/share/vim,usr/share/vim/vim91,usr/share/vim/vim91/syntax,usr/sbin,tmp,sys,run,var,var/run}
 sudo mkdir -p $USERDIRECTORY/home
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE
 sudo mkdir -p $USERDIRECTORY/home/$USERNAMEGOESHERE/.ssh
 
+sudo cp -Rv /usr/share/vim/vim91/* $USERDIRECTORY/usr/share/vim/vim91
 sudo cp -v /usr/sbin/update-ca-certificates $USERDIRECTORY/usr/sbin/
 sudo cp -r /usr/share/ca-certificates/* $USERDIRECTORY/usr/share/ca-certificates
 sudo cp -r /etc/ca-certificates/* $USERDIRECTORY/etc/ca-certificates/
@@ -216,7 +217,7 @@ sudo cp -v /usr/lib/x86_64-linux-gnu/libcuda.* $USERDIRECTORY/usr/lib/x86_64-lin
 sudo cp -v /usr/lib/x86_64-linux-gnu/libnvidia-* $USERDIRECTORY/usr/lib/x86_64-linux-gnu/
 sudo cp -v /lib64/ld-linux-x86-64.so.2 $USERDIRECTORY/lib64/
 
-sudo cp -v /usr/lib/x86_64-linux-gnu/{libm.so.6,libc.so.6,libpcre2-8.so.0,libselinux.so.1,libfuse3.so.3,libglib-2.0.so.0,libatomic.so.1,libtinfo.so.6,libnvidia-ml.so.1,libnvidia-ml.so.560.35.05,librt.so.1,libexpat.so.1,libz.so.1,libpthread.so.0,libdl.so.2,libnvidia-ml.so.1,libacl.so.1,libattr.so.1,libgpm.so.2,libpython3.12.so.1.0,libsodium.so.23,libncursesw.so.6,libsystemd.so.0,libutempter.so.0,libevent_core-2.1.so.7u,libresolv.so.2,libcap.so.2,libproc2.so.0,libpopt.so.0,libzstd.so.1,libxxhash.so.0,libcrypto.so.3,liblz4.so.1,libmount.so.1,libblkid.so.1,libuuid.so.1,libidn2.so.0,libssl.so.3,libpsl.so.5,libunistring.so.5,libsigsegv.so.2,libreadline.so.8,libmpfr.so.6,libgmp.so.10} $USERDIRECTORY/usr/lib/x86_64-linux-gnu
+sudo cp -v /usr/lib/x86_64-linux-gnu/{libm.so.6,libc.so.6,libpcre2-8.so.0,libselinux.so.1,libfuse3.so.3,libglib-2.0.so.0,libatomic.so.1,libtinfo.so.6,libnvidia-ml.so.1,libnvidia-ml.so.560.35.05,librt.so.1,libexpat.so.1,libz.so.1,libpthread.so.0,libdl.so.2,libnvidia-ml.so.1,libacl.so.1,libattr.so.1,libgpm.so.2,libpython3.12.so.1.0,libsodium.so.23,libncursesw.so.6,libsystemd.so.0,libutempter.so.0,libevent_core-2.1.so.7u,libresolv.so.2,libcap.so.2,libproc2.so.0,libpopt.so.0,libzstd.so.1,libxxhash.so.0,libcrypto.so.3,liblz4.so.1,libmount.so.1,libblkid.so.1,libuuid.so.1,libidn2.so.0,libssl.so.3,libpsl.so.5,libunistring.so.5,libsigsegv.so.2,libreadline.so.8,libmpfr.so.6,libgmp.so.10,libutil.so.1} $USERDIRECTORY/usr/lib/x86_64-linux-gnu
 
 sudo cp -Rv /usr/share/terminfo $USERDIRECTORY/usr/share/terminfo
 sudo cp -v /usr/share/terminfo/x/xterm-256color $USERDIRECTORY/usr/share/terminfo/x/
@@ -279,6 +280,13 @@ sudo echo "    Subsystem   sftp    /usr/lib/openssh/sftp-server" | sudo tee -a /
 sudo echo "    AllowTcpForwarding no" | sudo tee -a /etc/ssh/sshd_config
 sudo echo "    X11Forwarding no" | sudo tee -a /etc/ssh/sshd_config
 sudo service ssh restart
+
+
+sudo touch $USERDIRECTORY/.bashrc
+sudo touch $USERDIRECTORY/.bash_profile
+sudo echo "if [ -f ~/.bashrc ]; then" | sudo tee -a $USERDIRECTORY/.bash_profile
+sudo echo "    . ~/.bashrc" | sudo tee -a $USERDIRECTORY/.bash_profile
+sudo echo "fi" | sudo tee -a $USERDIRECTORY/.bash_profile
 ```
 
 
