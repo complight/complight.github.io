@@ -37,8 +37,8 @@ These documents vary in their topics, from workplace guidances to technical dige
 | Documents |
 | ------------- |
 | [`Creating a virtual environment for Python development`](computing/creating_a_virtual_environment_for_Python_development.md) |
+| [`How to add a user with controlled access to resources`](computing/how_to_add_a_user_with_controlled_access_to_resources.md) |
 | [`How to change name server on Ubuntu permanently`](computing/how_to_change_name_server_on_ubuntu_permanently.md) |
 | [`How to copy or restore tmux settings`](computing/how_to_copy_or_restore_tmux_settings.md) |
-| [`How to add a user with controlled access to resources`](computing/how_to_add_a_user_with_controlled_access_to_resources.md) |
 
 
