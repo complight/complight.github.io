@@ -245,7 +245,7 @@ sudo mknod -m 666 $USERDIRECTORY/dev/urandom c 1 9
 
 sudo cp -a /dev/nvidia* $USERDIRECTORY/dev/
 
-sudo cp -v /bin/{bash,rbash,ls,clear_console,sh,du,ps,cp,python3,pip3,nvidia-smi,mv,vim,nano,rsync,mount,mkdir,grep,rm,cat,touch} $USERDIRECTORY/bin
+sudo cp -v /bin/{bash,rbash,ls,clear_console,sh,which,du,ps,cp,python3,pip3,nvidia-smi,mv,vim,nano,rsync,mount,mkdir,grep,rm,cat,touch} $USERDIRECTORY/bin
 
 sudo cp -v /usr/bin/{pip3,pip,python3,tmux,wget,dirname,basename,sh,uname,tr,tail,awk,df,sed,head,wc,md5sum,fusermount3,sftp} $USERDIRECTORY/usr/bin
 sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
