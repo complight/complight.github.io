@@ -198,7 +198,6 @@ sudo usermod -d $USERDIRECTORY $USERNAMEGOESHERE
 SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
-
 sudo debootstrap --variant=minbase --include=python3,git,vim,nano,rsync $UBUNTUCODENAME $USERDIRECTORY
 
 sudo chown root:root $USERDIRECTORY
@@ -218,13 +217,16 @@ sudo chroot $USERDIRECTORY /bin/bash -c "apt install libglu1-mesa-dev -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install iputils-ping -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-pip -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-venv -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install nvidia-cuda-toolkit -y"
 
 
+sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
 sudo grep root /etc/passwd | sudo tee $USERDIRECTORY/etc/passwd
 sudo grep root /etc/group | sudo tee $USERDIRECTORY/etc/group
 echo "$USERNAMEGOESHERE:x:$(id -u $USERNAMEGOESHERE):$(id -g $USERNAMEGOESHERE):User:$USERDIRECTORY/$USERNAMEGOESHERE:/bin/bash" | sudo tee -a $USERDIRECTORY/etc/passwd
 
 sudo cp -v /bin/nvidia-* $USERDIRECTORY/bin
+sudo cp -v /usr/lib/x86_64-linux-gnu/libcuda.* $USERDIRECTORY/usr/lib/x86_64-linux-gnu/
 sudo cp -v /usr/lib/x86_64-linux-gnu/libnvidia-* $USERDIRECTORY/usr/lib/x86_64-linux-gnu/
 sudo mkdir -p $USERDIRECTORY/usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/
 sudo cp -v /usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/libnvidia-ml.so $USERDIRECTORY/usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs/
