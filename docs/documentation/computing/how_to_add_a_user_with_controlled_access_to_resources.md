@@ -183,6 +183,7 @@ In the light of the above findings and exploration, I have created the following
 
 USERNAMEGOESHERE="test"
 NAMEOFYOURDIRECTORY="FULLPATHGOESHERE"
+CRONTABSCRIPT="FULLPATHGOESHERE"
 USERDIRECTORY="/$NAMEOFYOURDIRECTORY/$USERNAMEGOESHERE"
 UBUNTUCODENAME="plucky"
 
@@ -211,7 +212,7 @@ sudo chroot $USERDIRECTORY /bin/bash -c "apt install wget -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install keychain -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install iputils-ping -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-pip -y"
-sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3.13-venv -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-venv -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "pip3 install torch"
 
 sudo cp -v /bin/nvidia-* $USERDIRECTORY/bin
@@ -249,6 +250,12 @@ sudo echo "if [ -f ~/.bashrc ]; then" | sudo tee -a $USERDIRECTORY/$USERDIRECTOR
 sudo echo "    . ~/.bashrc" | sudo tee -a $USERDIRECTORY/$USERDIRECTORY/.bash_profile
 sudo echo "fi" | sudo tee -a $USERDIRECTORY/$USERDIRECTORY/.bash_profile
 
+
+sudo echo "USERDIRECTORY=\"$USERDIRECTORY\"" | sudo tee -a $CRONTABSCRIPT
+sudo echo "sudo mount -t devtmpfs devtmpfs $USERDIRECTORY/dev" | sudo tee -a $CRONTABSCRIPT
+sudo echo "sudo mount -t devpts devpts $USERDIRECTORY/dev/pts" | sudo tee -a $CRONTABSCRIPT
+sudo echo "sudo mount -t proc proc $USERDIRECTORY/proc" | sudo tee -a $CRONTABSCRIPT
+sudo echo "sudo mount -t sysfs sysfs $USERDIRECTORY/sys" | sudo tee -a $CRONTABSCRIPT
 ```
 
 
