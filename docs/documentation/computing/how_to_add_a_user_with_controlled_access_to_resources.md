@@ -217,7 +217,6 @@ sudo chroot $USERDIRECTORY /bin/bash -c "apt install libglu1-mesa-dev -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install iputils-ping -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-pip -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-venv -y"
-sudo chroot $USERDIRECTORY /bin/bash -c "apt install nvidia-cuda-toolkit -y"
 
 
 sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
