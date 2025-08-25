@@ -222,6 +222,7 @@ sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-venv -y"
 sudo cp -vf /etc/{passwd,group} $USERDIRECTORY/etc/
 sudo grep root /etc/passwd | sudo tee $USERDIRECTORY/etc/passwd
 sudo grep root /etc/group | sudo tee $USERDIRECTORY/etc/group
+sudo grep $USERNAMEGOESHERE /etc/group | sudo tee $USERDIRECTORY/etc/group
 echo "$USERNAMEGOESHERE:x:$(id -u $USERNAMEGOESHERE):$(id -g $USERNAMEGOESHERE):User:$USERDIRECTORY/$USERNAMEGOESHERE:/bin/bash" | sudo tee -a $USERDIRECTORY/etc/passwd
 
 sudo cp -v /bin/nvidia-* $USERDIRECTORY/bin
@@ -271,6 +272,7 @@ sudo echo "sudo mount -t proc proc $USERDIRECTORY/proc" | sudo tee -a $CRONTABSC
 sudo echo "sudo mount -t sysfs sysfs $USERDIRECTORY/sys" | sudo tee -a $CRONTABSCRIPT
 
 sudo chown -R $USERNAMEGOESHERE:$USERNAMEGOESHERE $USERDIRECTORY/$USERDIRECTORY/
+
 
 ```
 
