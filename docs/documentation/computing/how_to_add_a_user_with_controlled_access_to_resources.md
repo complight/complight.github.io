@@ -182,13 +182,14 @@ In the light of the above findings and exploration, I have created the following
 #!/bin/bash
 
 USERNAMEGOESHERE="test"
-USERDIRECTORY="/NAMEOFYOURDIRECTORY/$USERNAMEGOESHERE"
+NAMEOFYOURDIRECTORY="FULLPATHGOESHERE"
+USERDIRECTORY="/$NAMEOFYOURDIRECTORY/$USERNAMEGOESHERE"
 UBUNTUCODENAME="plucky"
 
-sudo chown root:root /mnt
-sudo chown root:root /mnt/datasets
-sudo chmod 0755 /mnt
-sudo chmod 0755 /mnt/datasets
+sudo chown root:root /$NAMEOFYOURDIRECTORY
+sudo chown root:root /$USERDIRECTORY
+sudo chmod 0755 /$NAMEOFYOURDIRECTORY
+sudo chmod 0755 /$USERDIRECTORY
 
 sudo adduser $USERNAMEGOESHERE
 sudo usermod -d $USERDIRECTORY $USERNAMEGOESHERE
