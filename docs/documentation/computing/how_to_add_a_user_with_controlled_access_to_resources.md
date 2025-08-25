@@ -198,6 +198,7 @@ sudo usermod -d $USERDIRECTORY $USERNAMEGOESHERE
 SSH_KEY0="ssh-ed25519 YOURKEY0 COMPUTER0"
 SSH_KEY1="ssh-ed25519 YOURKEY1 COMPUTER1"
 
+
 sudo debootstrap --variant=minbase --include=python3,git,vim,nano,rsync $UBUNTUCODENAME $USERDIRECTORY
 
 sudo chown root:root $USERDIRECTORY
@@ -209,11 +210,19 @@ sudo chroot $USERDIRECTORY /bin/bash -c "apt update"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install ca-certificates -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install git -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install wget -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install ssh -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install keychain -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install tmux -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install sshfs -y"
+sudo chroot $USERDIRECTORY /bin/bash -c "apt install libglu1-mesa-dev -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install iputils-ping -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-pip -y"
 sudo chroot $USERDIRECTORY /bin/bash -c "apt install python3-venv -y"
-sudo chroot $USERDIRECTORY /bin/bash -c "pip3 install torch"
+
+
+sudo grep root /etc/passwd | sudo tee $USERDIRECTORY/etc/passwd
+sudo grep root /etc/group | sudo tee $USERDIRECTORY/etc/group
+echo "$USERNAMEGOESHERE:x:$(id -u $USERNAMEGOESHERE):$(id -g $USERNAMEGOESHERE):User:$USERDIRECTORY/$USERNAMEGOESHERE:/bin/bash" | sudo tee -a $USERDIRECTORY/etc/passwd
 
 sudo cp -v /bin/nvidia-* $USERDIRECTORY/bin
 sudo cp -v /usr/lib/x86_64-linux-gnu/libnvidia-* $USERDIRECTORY/usr/lib/x86_64-linux-gnu/
@@ -228,6 +237,7 @@ sudo mount -o bind /dev $USERDIRECTORY/dev
 sudo mount -t proc none $USERDIRECTORY/proc
 sudo mount -t sysfs none $USERDIRECTORY/sys
 sudo mount -t devpts none $USERDIRECTORY/dev/pts
+sudo chmod 777 $USERDIRECTORY/dev/shm
 
 sudo mkdir -p $USERDIRECTORY/.ssh
 sudo touch $USERDIRECTORY/.ssh/authorized_keys
@@ -252,10 +262,15 @@ sudo echo "fi" | sudo tee -a $USERDIRECTORY/$USERDIRECTORY/.bash_profile
 
 
 sudo echo "USERDIRECTORY=\"$USERDIRECTORY\"" | sudo tee -a $CRONTABSCRIPT
+sudo echo " " | sudo tee -a $CRONTABSCRIPT
+sudo echo " " | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t devtmpfs devtmpfs $USERDIRECTORY/dev" | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t devpts devpts $USERDIRECTORY/dev/pts" | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t proc proc $USERDIRECTORY/proc" | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t sysfs sysfs $USERDIRECTORY/sys" | sudo tee -a $CRONTABSCRIPT
+
+sudo chown -R $USERNAMEGOESHERE:$USERNAMEGOESHERE $USERDIRECTORY/$USERDIRECTORY/
+
 ```
 
 
