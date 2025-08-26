@@ -263,9 +263,9 @@ sudo echo "    . ~/.bashrc" | sudo tee -a $USERDIRECTORY/$USERDIRECTORY/.bash_pr
 sudo echo "fi" | sudo tee -a $USERDIRECTORY/$USERDIRECTORY/.bash_profile
 
 
+sudo echo " " | sudo tee -a $CRONTABSCRIPT
+sudo echo " " | sudo tee -a $CRONTABSCRIPT
 sudo echo "USERDIRECTORY=\"$USERDIRECTORY\"" | sudo tee -a $CRONTABSCRIPT
-sudo echo " " | sudo tee -a $CRONTABSCRIPT
-sudo echo " " | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t devtmpfs devtmpfs $USERDIRECTORY/dev" | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t devpts devpts $USERDIRECTORY/dev/pts" | sudo tee -a $CRONTABSCRIPT
 sudo echo "sudo mount -t proc proc $USERDIRECTORY/proc" | sudo tee -a $CRONTABSCRIPT
