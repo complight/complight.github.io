@@ -51,6 +51,19 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
 ## Interns
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/merry_fan.png" width="160" alt/>
+</div>
+[Xiaoyue (Merry) Fan](http://www.linkedin.com/in/merryxyfan)
+
+MSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:merryxyfan@gmail.com)
+
+:material-office-building: Office: Hybrid (R404.186)
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/zicong_peng.png" width="160" alt/>
 </div>
 [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN)
