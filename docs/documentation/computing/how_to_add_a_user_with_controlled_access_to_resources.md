@@ -290,3 +290,20 @@ sudo mount -t sysfs sysfs $USERDIRECTORY/sys
 ```
 
 You can run the above setup at each boot using `crontab`.
+
+
+## Limiting what users can monitor
+You may want to limit users' ability to monitor other people's login times and active processes belonging to other users. Firstly, you can edit `/etc/ssh/sshd_config` by making sure the following values are registered accurately:
+
+```
+PrintMotd no
+PrintLastLog no
+```
+
+Secondly, you can mask user names in process monitoring by adding the following line to `sudo nano /etc/pam.d/common-session`:
+
+```
+session    optional    perm_setcred:/etc/xdm/xlock
+```
+
+As you edit these lines, as usual, restart `ssh` service by typing `sudo service ssh restart` and reboot the operating system using `sudo reboot` commands.
