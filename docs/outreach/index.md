@@ -37,7 +37,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
-#### Michael Murdoch (Rochester Institute of University)
+#### Michael Murdoch (Rochester Institute of Technology)
 
 ??? Details
     **Date:**
