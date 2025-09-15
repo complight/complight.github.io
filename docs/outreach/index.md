@@ -37,6 +37,19 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+#### Michael Murdoch (Rochester Institute of University)
+
+??? Details
+    **Date:**
+    12th September 2025
+
+    **Presenter:** [Michael Murdoch](https://sites.google.com/view/michaeljmurdoch/), Head of the Integrated Sciences Academy
+
+    **Title:** Color Appearance and Scission in Transparent Augmented Reality
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EfHUjrMXcjpDvzgK-LWjeXUBs2g9K50wrBsp4gYomT1WPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HGPyfv)
+
+
 #### Ethan Tseng (Princeton University)
 
 ??? Details
