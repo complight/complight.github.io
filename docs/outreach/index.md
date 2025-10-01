@@ -37,6 +37,19 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+#### Doğa Yılmaz (University College London)
+
+??? Details
+    **Date:**
+    1st October 2025
+
+    **Presenter:** [Doğa Yılmaz](https://yilmazdoga.net/), Ph.D. Student at University College London
+
+    **Title:** Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ESFoRz64PeFJpJuD8AEXTFkBlyPFzMY7WganNQdFxEcmEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wNu0B9)
+
+
 #### Michael Murdoch (Rochester Institute of Technology)
 
 ??? Details
