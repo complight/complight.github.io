@@ -46,9 +46,11 @@
           month = {October 27--31}
         }
 
-
-
 ## Video
+<video controls>
+<source src="https://kaanaksit.com/assets/video/Yilmaz2025MultiTaskingPerceptualGraphics.mp4" id="" type="video/mp4">
+</video>
+
 
 ## Abstract
 Emerging immersive display technologies efficiently utilize resources with perceptual graphics methods such as foveated rendering and denoising.
@@ -65,11 +67,6 @@ We evaluate our model on desktop and embedded platforms and validate perceptual 
   ![Image title](media/multitasking_perceptual_graphics_teaser.png){ width="900" }
 </figure>
 
-## Proposed Method
-
-
-## Conclusions
-
 
 ## Relevant research works
 Here are relevant research works from the authors:
@@ -82,7 +79,7 @@ Here are relevant research works from the authors:
 - [Odak](https://github.com/kaanaksit/odak)
 
 ## Outreach
-We host a Slack group with more than 250 members.
+We host a Slack group with more than 400 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
 The group is open to public and you can become a member by following [this link](../outreach/index.md).
 
