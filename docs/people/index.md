@@ -57,7 +57,7 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
 MSc Student ([University College London](https://www.ucl.ac.uk))
 
-:material-email: [E-mail](mailto:lifeng2628qiu@gmail.com)
+:material-email: [E-mail](mailto:lifeng.qiu.lin.lq@gmail.com)
 
 :material-office-building: Office: Hybrid (R404.186)
 <br clear="left"/>
