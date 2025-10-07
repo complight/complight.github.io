@@ -51,6 +51,19 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
 ## Interns
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/lifeng_qiu_lin.png" width="160" alt/>
+</div>
+[Lifeng Qiu Lin](https://github.com/Gnefil)
+
+MSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:lifeng.qiu.lin.lq@gmail.com)
+
+:material-office-building: Office: Hybrid (R404.186)
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/merry_fan.png" width="160" alt/>
 </div>
 [Xiaoyue (Merry) Fan](http://www.linkedin.com/in/merryxyfan)
