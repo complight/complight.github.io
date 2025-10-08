@@ -36,6 +36,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+#### Jianyuan Wang (University of Oxford)
+
+??? Details
+    **Date:**
+    8th October 2025
+
+    **Presenter:** [Jianyuan Wang](https://jytime.github.io/), Ph.D. Student at University of Oxford
+
+    **Title:** VGGT: Visual Geometry Grounded Transformer
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ER8RuWXBdvZOtmgxxxC8WCkB08w2fOuiEnlK8PNzsVXLig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i3IXAq)
+
+
 
 #### Doğa Yılmaz (University College London)
 
