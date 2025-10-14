@@ -17,9 +17,9 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://complightlab.com/publications/foveated_steganography)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
 <!-- TODO: upload materials here -->
-:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Assessing_learned_models_for_phase_only_hologram_compression.pdf)
-:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Poster_assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-newspaper-variant:[Supplementary](https://kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Supplementary_assessing_learned_models_for_phase_only_hologram_compression.pdf)
 :material-file-code: [Code](hhttps://github.com/Gnefil/foveation-steganography)
 :material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
