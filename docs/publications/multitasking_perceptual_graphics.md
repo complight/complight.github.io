@@ -41,8 +41,7 @@
           publisher = {ACM},
           address = {New York, NY, USA},
           pages = {9},
-          doi = {10.1145/3746027.3754801},
-          url = {https://doi.org/10.1145/3746027.3754801},
+          doi = {https://doi.org/10.1145/3746027.3754801},
           month = {October 27--31}
         }
 
