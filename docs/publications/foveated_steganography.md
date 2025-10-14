@@ -47,7 +47,7 @@
 
 ## Video
 <video controls>
-<source src="https://kaanaksit.com/assets/video/YilmazACMMM2025MultitaskingPerceptualGraphics.mp4" id="" type="video/mp4">
+<source src="https://kaanaksit.com/assets/video/LinSigAsia2025FoveatedSteganography.mp4" id="" type="video/mp4">
 </video>
 
 ## Abstract
