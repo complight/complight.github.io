@@ -71,10 +71,11 @@ We evaluate our model on desktop and embedded platforms and validate perceptual 
 ## Relevant research works
 Here are relevant research works from the authors:
 
-- [ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance](./focal_surface_light_transport.md)
-- [Metameric Inpainting for Image Warping](./focal_surface_light_transport.md)
-- [Optimizing vision and visuals: lectures on cameras, displays and perception](./focal_surface_light_transport.md)
-- [Beyond blur: ventral metamers for foveated rendering](./focal_surface_light_transport.md)
+- [ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance](https://complightlab.com/ChromaCorrect)
+- [Metameric Inpainting for Image Warping](https://doi.org/10.1109/tvcg.2022.3216712)
+- [Metameric Varifocal Holograms](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/)
+- [Optimizing vision and visuals: lectures on cameras, displays and perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
+- [Beyond blur: ventral metamers for foveated rendering](https://www.homepages.ucl.ac.uk/~ucabdw0/beyondblur.html)
 - [Foveated AR: dynamically-foveated augmented reality display](https://dl.acm.org/doi/10.1145/3306346.3322987)
 - [Odak](https://github.com/kaanaksit/odak)
 

@@ -25,10 +25,10 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-video-account: [Project video]()
 ??? info ":material-tag-text: Bibtex"
 	```
-        @inproceedings{qiu2025foveation,
+        @inproceedings{lin2025foveation,
           author = {Lifeng Qiu Lin and Henry Kam and Qi Sun and Kaan Ak{\c{s}}it},
           title = {Foveation Improves Payload Capacity in Steganography},
-          booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
+          booktitle = {SIGGRAPH Asia 2025 Posters (SA Posters '25)},
           year = {2025},
           location = {Hong Kong, China},
           publisher = {ACM},

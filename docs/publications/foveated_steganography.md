@@ -125,15 +125,14 @@ Here, we release photographs from our visit to the conference, highlighting part
 
 ## Relevant research works
 Here are relevant research works from the authors:
-<!-- TODO: here -->
+
+- [ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance](https://complightlab.com/ChromaCorrect)
+- [Metameric Inpainting for Image Warping](https://doi.org/10.1109/tvcg.2022.3216712)
+- [Metameric Varifocal Holograms](https://vr.cs.ucl.ac.uk/research/pipelines/metameric-varifocal-holography/)
+- [Optimizing vision and visuals: lectures on cameras, displays and perception](../teaching/siggraph2022_optimizing_vision_and_visuals.md)
+- [Beyond blur: ventral metamers for foveated rendering](https://www.homepages.ucl.ac.uk/~ucabdw0/beyondblur.html)
+- [Foveated AR: dynamically-foveated augmented reality display](https://dl.acm.org/doi/10.1145/3306346.3322987)
 - [Odak](https://github.com/kaanaksit/odak)
-
-
-<!-- ## External Other Links
-Here are links related to our project such as videos, articles or podcasts:
-
-- [ACM SIGGRAPH Asia 2023, Technical Papers Fast Forward (Preview the presentations on 13 Dec, Day 2)](https://youtu.be/dMsD_xXOEKA?feature=shared&t=332) -->
-
 
 ## Outreach
 We host a Slack group with more than 250 members.
