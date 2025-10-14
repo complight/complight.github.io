@@ -97,8 +97,8 @@ The main results are shown below:
   ![Image title](media/foveated_steganography_results.png){ width="800" }
 </figure>
 Our baseline is trained in multiple resolutions and payload capacities, including the native resolution of RoSteALS, the benchmarked method.
-The baseline in the smallest setting achieves a bit accuracy of 99.99\%, failing to decode only 4 out of 40K test bits. 
-Noticeably, we achieve 100\% recovery in the same setting as the benchmark, while other settings also all exceed 99.95\% compared to benchmark failing to reach 99.5\%.
+The baseline in the smallest setting achieves a bit accuracy of $99.99\%$, failing to decode only 4 out of 40K test bits. 
+Noticeably, we achieve $100\%$ recovery in the same setting as the benchmark, while other settings also all exceed $99.95\%$ compared to benchmark failing to reach $99.5\%$.
 Nevertheless, RoSteALS has better perceptual image quality, although it could be explained with lack of incorporation of LPIPS and finer-grained optimization in the training.
 
 Another important observation is that Metameric Loss consistently and significantly improves the quality of the reconstructed images while keeping same level of bit accuracy. 
