@@ -4,6 +4,44 @@
 ## 2025
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/foveated_steganography_teaser.png" width="200" alt/>
+</div>
+**Foveation Improves Payload Capacity in Steganography**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+
+
+[Lifeng Qiu Lin](https://github.com/Gnefil),
+[Henry Kam](https://gulpinhenry.github.io),
+[Qi Sun](https://qisun.me/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://complightlab.com/publications/foveated_steganography)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
+<!-- TODO: upload materials here -->
+:material-newspaper-variant:[Supplementary](https://kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Supplementary_assessing_learned_models_for_phase_only_hologram_compression.pdf)
+:material-file-code: [Code](hhttps://github.com/Gnefil/foveation-steganography)
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{qiu2025foveation,
+          author = {Lifeng Qiu Lin and Henry Kam and Qi Sun and Kaan Ak{\c{s}}it},
+          title = {Foveation Improves Payload Capacity in Steganography},
+          booktitle = {SIGGRAPH 2025 Posters (SA Posters '25)},
+          year = {2025},
+          location = {Hong Kong, China},
+          publisher = {ACM},
+          address = {New York, NY, USA},
+          pages = {2},
+          doi = {10.1145/3757374.3771423},
+          url = {10.1145/3757374.3771423},
+          month = {December 16--18}
+        }
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/multitasking_perceptual_graphics_thumbnail.jpg" width="200" alt/>
 </div>
 **Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**
