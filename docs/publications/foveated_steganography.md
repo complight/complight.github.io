@@ -28,8 +28,8 @@
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
 <!-- TODO: upload materials here -->
-:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/PengEtAl_SIGGRAPH2025_Supplementary_assessing_learned_models_for_phase_only_hologram_compression.pdf)
-:material-file-code: [Code](https://github.com/Gnefil/foveation-steganography)
+:material-newspaper-variant: [Supplementary]()
+:material-file-code: [Code](https://github.com/complight/foveation_steganography)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{qiu2025foveation,
           author = {Lifeng Qiu Lin and Henry Kam and Qi Sun and Kaan Ak{\c{s}}it},
@@ -49,7 +49,7 @@
 ## Video
 <video controls>
 <!-- TODO: update video -->
-<source src="https://kaanaksit.com/assets/video/PengSig2025Assessing.mp4" id="“ type="video/mp4">
+<source src="" id="" type="video/mp4">
 </video>
 
 ## Abstract
