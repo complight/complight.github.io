@@ -19,10 +19,9 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web: [Project site](https://complightlab.com/publications/foveated_steganography)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
-<!-- TODO: upload materials here -->
-:material-newspaper-variant:[Supplementary]()
+:material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Supplementary_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-file-code: [Code](https://github.com/complight/foveation_steganography)
-:material-video-account: [Project video]()
+:material-video-account: [Project video](https://kaanaksit.com/assets/video/LinSigAsia2025FoveatedSteganography.mp4)
 ??? info ":material-tag-text: Bibtex"
 	```
         @inproceedings{lin2025foveation,
