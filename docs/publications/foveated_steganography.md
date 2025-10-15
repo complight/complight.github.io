@@ -27,8 +27,7 @@
 ## Resources 
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
-<!-- TODO: upload materials here -->
-:material-newspaper-variant: [Supplementary]()
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Supplementary_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-file-code: [Code](https://github.com/complight/foveation_steganography)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{qiu2025foveation,
