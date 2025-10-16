@@ -36,6 +36,21 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+
+#### Shlomi Steinberg (University of Waterloo)
+
+??? Details
+    **Date:**
+    15th October 2025
+
+    **Presenter:** [Shlomi Steinberg](https://ssteinberg.xyz/), Assistant Professor at the University of Waterloo
+
+    **Title:** Wave-Optical Light Transport
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/Efoxfxwx5pxHvEYbEJXMYI4BSsietrww_pvNpfYYDxEfdA?e=kFXIBk)
+
+
+
 #### Jianyuan Wang (University of Oxford)
 
 ??? Details
