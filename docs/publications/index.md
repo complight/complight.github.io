@@ -15,7 +15,7 @@
 [Yuta Itoh](https://augvislab.github.io/people/yuta-itoh),
 and [Kaan Akşit](https://kaanaksit.com)
 
-:material-web: [Project site](https://complightlab.com/publications/lensless_display_radiance_field/)
+:material-web: [Project site](lensless_display_radiance_field.md)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ChenEtAl_SiggraphAsia2025_Learned_display_radience_fields_with_lensless_camera.pdf)
 :material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/ChenEtAl_SiggraphAsia2025_Supplementary_Learned_display_radience_fields_with_lensless_camera.pdf)
 :material-file-code: [Code](https://github.com/complight/learned_display_radiance_fields_with_lensless_cameras)
@@ -49,7 +49,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Qi Sun](https://qisun.me/),
 and [Kaan Akşit](https://kaanaksit.com)
 
-:material-web: [Project site](https://complightlab.com/publications/foveated_steganography)
+:material-web: [Project site](foveated_steganography.md)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Supplementary_Foveation_improves_payload_capacity_in_steganography.pdf)
