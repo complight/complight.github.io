@@ -33,6 +33,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Learned Display Radiance Fields with Lensless Cameras': 'publications/lensless_display_radiance_field.md'
       - 'Foveation Improves Payload Capacity in Steganography': 'publications/foveated_steganography.md'
       - 'Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays': 'publications/multitasking_perceptual_graphics.md'
       - 'Assessing Learned Models for Phase-only Hologram Compression': 'publications/assess_hologram_compression.md'
