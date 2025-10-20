@@ -4,6 +4,39 @@
 ## 2025
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/lensless_display_radiance_field_rep.jpg" width="200" alt/>
+</div>
+**Learned Display Radiance Fields with Lensless Cameras**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+
+
+[Ziyang Chen](https://ziyang.space),
+[Yuta Itoh](https://augvislab.github.io/people/yuta-itoh),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](lensless_display_radiance_field.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ChenEtAl_SiggraphAsia2025_Learned_display_radience_fields_with_lensless_camera.pdf)
+:material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/ChenEtAl_SiggraphAsia2025_Supplementary_Learned_display_radience_fields_with_lensless_camera.pdf)
+:material-file-code: [Code](https://github.com/complight/learned_display_radiance_fields_with_lensless_cameras)
+:material-video-account: [Project video](https://www.kaanaksit.com/assets/video/ChenEtAlSiggraphAsia2025LearnedDisplayRadienceFieldsWithLenslessCamera.mp4)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{chen2025lensless,
+          author       = {Ziyang Chen and Yuta Itoh and Kaan Ak{\c{s}}it},
+          title        = {Learned Display Radiance Fields with Lensless Cameras},
+          booktitle    = {SIGGRAPH Asia 2025 Technical Communications (SA Technical Communications '25)},
+          year         = {2025},
+          month        = {December 16--18},
+          publisher    = {ACM},
+          location     = {Hong Kong, China},
+          pages        = {4},
+          doi          = {https://doi.org/10.1145/3757376.3771381}
+		}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/foveated_steganography_teaser.png" width="200" alt/>
 </div>
 **Foveation Improves Payload Capacity in Steganography**
@@ -16,7 +49,7 @@
 [Qi Sun](https://qisun.me/),
 and [Kaan Akşit](https://kaanaksit.com)
 
-:material-web: [Project site](https://complightlab.com/publications/foveated_steganography)
+:material-web: [Project site](foveated_steganography.md)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Poster_Foveation_improves_payload_capacity_in_steganography.pdf)
 :material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/LinEtAl_SiggraphAsia2025_Supplementary_Foveation_improves_payload_capacity_in_steganography.pdf)
