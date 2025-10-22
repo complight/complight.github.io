@@ -7,7 +7,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
 ## Assessing Learned Methods for Hologram Compression
 !!! example end "[**Assessing Learned Models for Phase-only Hologram Compression**](../publications/assess_hologram_compression.md)"
-    **Presented by:** [**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), [**Yicheng Zhan**](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/), and [Kaan Akşit](https://kaanaksit.com)
+    **Presented by:** [**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), [Yicheng Zhan](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/), and [Kaan Akşit](https://kaanaksit.com)
 
     **Location:** Convention Centre, Vancouver, BC, Canada
 
@@ -34,7 +34,24 @@ Zicong's well prepared documentation and assessments formulated the basis of a s
 Zicong further elevated the quality of his work by collaborating with industrial and academic partners, including [Josef Spjut](https://josef.spjut.me/) of NVIDIA, [Yicheng Zhan](https://albertgary.github.io/) of UCL and [Kaan Akşit](https://kaanaksit.com).
 As of **10 August 2025**, Zicogn Peng's work was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)**.
 Zicong’s journey serves as an exemplary model for beginners in any scientific field, proving that motivation, attentive mentorship, and active engagement with the collaborators can lead to remarkable success.
-Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [Koç University](https://ku.edu.tr).
+Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [Koç University](https://ku.edu.tr) under the guidance of Professor [Hakan Urey](https://mysite.ku.edu.tr/hurey/).
+
+
+## Implicit Neural Representations for Optical Raytracing
+!!! example end "[**Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations**](https://github.com/shiasin/Efficient-Proxy-Raytracer-for-Optical-Systems-using-Implicit-Neural-Representations)"
+    **Presented by:** [Shive Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/), [**Chuanjun Zhengi**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&), [Kaan Akşit](https://kaanaksit.com), and [Daisuke Iwai](https://daisukeiwai.org/).
+
+    **Location:** Convention Centre, Vancouver, BC, Canada
+
+    **Time:** Monday-Thursday, 10-14 August 2025
+
+    **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_198&sess=sess406)
+
+[**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [University of Osaka](https://www.osaka-u.ac.jp/en).
+During this collaboration, Chuanjun mentored first year Ph.D. student [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
+Together, Chuanjun and Shiva identified an implicit neural representation capable of modeling optical lenses as a learned component.
+Their work demonstrated that this learned lens representation could accurately raytrace optical beams for simple imaging tasks, an interesting starting point for a more complete investigation in the future.
+As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [University of Hawai'i at Mānoa](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [Huaijin (George) Chen](https://hgchen.com/).
 
 
 ## Outreach
