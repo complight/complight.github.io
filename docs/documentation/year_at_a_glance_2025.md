@@ -1,6 +1,40 @@
-# A year at a glance: Next generation is scaling new heights
+# A year at a glance: Computational Light Laboratory bridges student potential into scientific success with industrial partners
 
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
+
+
+
+
+## Assessing Learned Methods for Hologram Compression
+!!! example end "[**Assessing Learned Models for Phase-only Hologram Compression**](../publications/assess_hologram_compression.md)"
+    **Presented by:** [**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), [**Yicheng Zhan**](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/), and [Kaan Akşit](https://kaanaksit.com)
+
+    **Location:** Convention Centre, Vancouver, BC, Canada
+
+    **Time:** Monday-Thursday, 10-14 August 2025
+
+    **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)
+
+
+[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN) demonstrated exceptional motivation and outstanding implementation skills throughout his master’s thesis work.
+Zicong dove into a topic entirely new to him: **"Deep Learning based Compression methods for Holographic Displays"**.
+These displays are an emerging field with transformative potential for next-generation augmented reality glasses, virtual reality headsets, and desktop 3D displays.
+Firstly, Zicong quickly mastered the replication of established hologram simulation algorithms involving light propagation techniques in free space, and learned to simulate holograms as if displayed using a holographic display.
+Through a rigorous series of experiments, Zicong generated structured guidance on the performance of learned hologram compression algorithms.
+In this context, Zicong is focused on Variational Autoencoder and Neural Implicit Representation structures.
+Zicong's well prepared documentation and assessments formulated the basis of a submission to the prestigious **SIGGRAPH 2025 Poster Track**.
+
+
+<figure markdown>
+  ![](..publications/media/hologram_compression_represent_image.jpg){ width="700" }
+  <figcaption>We evaluate the performance of four common learned models utilizing Implicit Neural Representation (INR) and Variational Autoencoder (VAE) structures for compressing phase-only holograms in holographic displays..</figcaption>
+</figure>
+
+
+Zicong further elevated the quality of his work by collaborating with industrial and academic partners, including [Josef Spjut](https://josef.spjut.me/) of NVIDIA, [Yicheng Zhan](https://albertgary.github.io/) of UCL and [Kaan Akşit](https://kaanaksit.com).
+As of **10 August 2025**, Zicogn Peng's work was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)**.
+Zicong’s journey serves as an exemplary model for beginners in any scientific field, proving that motivation, attentive mentorship, and active engagement with the collaborators can lead to remarkable success.
+Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [Koç University](https://ku.edu.tr).
 
 
 ## Outreach
@@ -8,9 +42,6 @@ We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
 The group is open to public and you can become a member by following [this link](../outreach/index.md).
 
-
-## Zicong Peng
-Zicong Peng demonstrated a high motivation and excellent implementation skills in his master thesis work. Zicong dove into a topic that he had no prior experiences, namely "Holographic Displays". More specifically, Zicong explored deep learning methods for compressing holograms effectively used in the holographic displays, an emerging topic and a potential candidate for the next generation of augmented reality glasses, virtual reality headsets and desktop 3D displays. Initially, Zicong has swiftly managed to replicate common learned methods and hologram simulation algorithms commonly used in the relevant literature. Later on, Zicong conducted a series of experiments with these algorithms, and generated a first of it's kind guidance on the performance of learned hologram compression algorithms. More over, Zicong has prepared an outstanding documentation of his assessments, which later he managed to submit to the prestigious poster track of SIGGRAPH 2025. Moreover, Zicong collaborated with industrial and academic partners to sharpen the quality of his submission to this venue. These partners include Josef Spjut of NVIDIA, and Yicheng Zhan of UCL. As of 10 August 2025, Zicong's work is accepted and presented at SIGGRAPH 2025 poster track. In our view, Zicong's case provide an exemplary path for beginners in any scientific field, showing that keeping up the motivation and will, carefully listening the guidance from the mentors, and closely engaging with others in the field are highly likely to converge to a an exemplary success story. In the entirerty of this thesis process, Zicong has acquired a proper technical skillset, knowledge on scientific method, and communication skills for technical collaborations, unlocking potential future possibilities for him in the academia in the near future.
 
 ## Contact Us
 !!! Warning
