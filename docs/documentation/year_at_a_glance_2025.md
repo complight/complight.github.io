@@ -26,7 +26,7 @@ Zicong's well prepared documentation and assessments formulated the basis of a s
 
 
 <figure markdown>
-  ![](..publications/media/hologram_compression_represent_image.jpg){ width="700" }
+  ![](../publications/media/hologram_compression_represent_image.jpg){ width="700" }
   <figcaption>We evaluate the performance of four common learned models utilizing Implicit Neural Representation (INR) and Variational Autoencoder (VAE) structures for compressing phase-only holograms in holographic displays..</figcaption>
 </figure>
 
