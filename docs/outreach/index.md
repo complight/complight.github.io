@@ -37,6 +37,21 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+
+#### Amrita Mazumdar (NVIDIA)
+
+??? Details
+    **Date:**
+    29th October 2025
+
+    **Presenter:** [Amrita Mazumdar](https://amritamaz.net/), Research Scientist, NVIDIA Research
+
+    **Title:** Towards Practical Volumetric Video: Immersive 4D Experiences with QUEEN
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETeSmuXONCZNi6d9_190IkIBM8T3ce6-x62ZpTlVc2cclg?e=Rnx5JU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
 #### Shlomi Steinberg (University of Waterloo)
 
 ??? Details
