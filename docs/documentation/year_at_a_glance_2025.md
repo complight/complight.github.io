@@ -39,7 +39,7 @@ Throughout this process, he developed a robust technical skillset, a deep unders
 
 ## Implicit Neural Representations for Optical Raytracing
 !!! example end "[**Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations**](https://github.com/shiasin/Efficient-Proxy-Raytracer-for-Optical-Systems-using-Implicit-Neural-Representations)"
-    **Presented by:** [Shive Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/), [**Chuanjun Zhengi**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&), [Kaan Akşit](https://kaanaksit.com), and [Daisuke Iwai](https://daisukeiwai.org/).
+    **Presented by:** [Shive Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/), [**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&), [Kaan Akşit](https://kaanaksit.com), and [Daisuke Iwai](https://daisukeiwai.org/).
 
     **Location:** Convention Centre, Vancouver, BC, Canada
 
