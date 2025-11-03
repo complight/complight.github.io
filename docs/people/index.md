@@ -158,6 +158,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 <!-- Z -->
 - [Zhiren Zan](https://github.com/Koma002), `Detecting Fabrication Defects from images using multi-modal Large Language Models`, 2024, Next: -. 
 - [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), `Assessing Learned Models for Phase-only Hologram Compression`, 2025, Next: Ph.D. student at Koç University.
+- [Zhuoxuan Jiang](https://orcid.org/0009-0004-5073-7753), `Enhancing Color and Brightness Contrast in Diffusion-Based Image Generation via Prompt Engineering`, 2025, NExt: -.
 - [Ziyang Chen](https://ziyang.space/), `Speckle imaging with a lensless camera`, 2023, Next: Ph.D. student at University College London.
 
 ### Research Interns
