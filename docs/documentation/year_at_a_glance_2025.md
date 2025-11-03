@@ -32,7 +32,7 @@ Zicong's well prepared documentation and assessments formulated the basis of a s
 
 
 Zicong further elevated the quality of his work by collaborating with industrial and academic partners, including [Josef Spjut](https://josef.spjut.me/) of NVIDIA, [Yicheng Zhan](https://albertgary.github.io/) of UCL and [Kaan Akşit](https://kaanaksit.com).
-As of **10 August 2025**, Zicogn Peng's work was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)**.
+As of **10 August 2025**, Zicong Peng's work was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)**.
 Zicong’s journey serves as an exemplary model for beginners in any scientific field, proving that motivation, attentive mentorship, and active engagement with the collaborators can lead to remarkable success.
 Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [Koç University](https://ku.edu.tr) under the guidance of Professor [Hakan Urey](https://mysite.ku.edu.tr/hurey/).
 
