@@ -164,7 +164,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 - Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022, Next: -.
 - [Ahmet Hamdi Güzel](https://aguzel.github.io/),`Perceptual Prescription Correction,` 2022-2024, Next: Ph.D. Student at University College London.
 - [Debosmit Neogi](https://www.linkedin.com/in/debosmit-neogi/), `Compressing RGBD data,` 2022, Next: Master of Science at University at Buffalo.
-- [Doğa Yılmaz](https://yilmazdoga.net/), `Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays`, 2024, Next: Ph.D. student at University College London.
+- [Doğa Yılmaz](https://yilmazdoga.net/), `Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays`, 2024-2025, Next: Ph.D. student at University College London.
 - [Henry Kam](http://gulpinhenry.github.io/), `Foveation Improves Payload Capacity in Steganography`, 2025, Next: Graduate student at New York University.
 - [Kerem Eroğlu](https://www.linkedin.com/in/kerem-ero%C4%9Flu-52b065241/), `Embedding data to images,` 2022, Next: MEng at University College London.
 - [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: Ph.D. Student at Koç University.
