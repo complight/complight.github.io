@@ -42,7 +42,7 @@ function setUpCarousel(carousel) {
   buttonNext.addEventListener('click', handleNext);
 
   // Start automatic advancement every second (1000 milliseconds)
-  let autoInterval = setInterval(autoAdvance, 1000);
+  let autoInterval = setInterval(autoAdvance, 2000);
 
   // Add mouseover and mouseout event listeners to the carousel
   carousel.addEventListener('mouseover', () => {
