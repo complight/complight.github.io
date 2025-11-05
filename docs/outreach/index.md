@@ -47,7 +47,7 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 
     **Title:** Toward All-Day Ambient and Wearable Intelligence for Healthcare
 
-    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX_NkDm8xS9Dk4TrE--xIVsB84ca9uXX8AO98SdWwIYD1A?e=HHbA1t)
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX_NkDm8xS9Dk4TrE--xIVsBQ8gc-f8CAUaINLkWP29QJw?e=4Ph2rc)
 
 
 #### Amrita Mazumdar (NVIDIA)
