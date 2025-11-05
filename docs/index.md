@@ -32,7 +32,7 @@ glightbox: false
         <h1><b>Learned Display Radiance Fields with Lensless Cameras</b></h1>
         <p>ACM SIGGRAPH Asia 2025 Technical Communications
         <p>
-        <img height="600" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
+        <img height="400" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
         </a>
         </div>
       </div>
@@ -42,7 +42,7 @@ glightbox: false
         <h1><b>Foveation Improves Payload Capacity in Steganography</b></h1>
         <p>ACM SIGGRAPH Asia 2025 Poster
         <p>
-        <img height="600" width="600" src="publications/media/foveated_steganography_teaser.png" height="10" />
+        <img height="400" src="publications/media/foveated_steganography_teaser.png" height="10" />
         </a>
         </div>
       </div>
@@ -52,7 +52,7 @@ glightbox: false
         <h1><b>Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays</b></h1>
         <p>ACM Multimedia 2025
         <p>
-        <img height="600" width="600" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
+        <img width="700" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
         </a>
         </div>
       </div>
@@ -62,7 +62,7 @@ glightbox: false
         <h1><b>Assessing Learned Models for Phase-only Hologram Compression</b></h1>
         <p>ACM SIGGRAPH 2025 poster
         <p>
-        <img height="600" width="600" src="publications/media/hologram_compression.png" height="10" />
+        <img height="400" width="500" src="publications/media/hologram_compression.png" height="10" />
         </a>
         </div>
       </div>
@@ -72,7 +72,7 @@ glightbox: false
         <h1><b>Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions</b></h1>
         <p>ACM SIGGRAPH Asia 2024 Technical Communications
         <p>
-        <img height="600" width="600" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
+        <img height="400" width="700" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
         </a>
         </div>
       </div>
@@ -82,7 +82,7 @@ glightbox: false
         <h1><b>SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging</b></h1>
         <p>ACM SIGGRAPH 2024 poster
         <p>
-        <img height="600" width="600" src="publications/media/spec_track_different_attributes.png" height="10" />
+        <img height="400" src="publications/media/spec_track_different_attributes.png" height="10" />
         </a>
         </div>
       </div>
@@ -92,7 +92,7 @@ glightbox: false
         <h1><b>Multi-color Holograms Improve Brightness in Holographic Displays</b></h1>
         <p>ACM SIGGRAPH Asia 2023 Technical Papers
         <p>
-        <img height="600" width="600" src="publications/media/multicolor.png" height="10" />
+        <img width="500" src="publications/media/multicolor.png" height="10" />
         </a>
         </div>
       </div>

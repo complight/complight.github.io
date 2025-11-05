@@ -7,6 +7,16 @@ function modulo(number, mod) {
 }
 
 function setUpCarousel(carousel) {
+  const slidesContainer = carousel.querySelector('[data-carousel-slides-container]');
+  const numSlides = slidesContainer.children.length;
+
+  // Initialize currentSlide here so it's accessible to all functions
+  let currentSlide = 0;
+
+  function changeSlide(slideNumber) {
+    carousel.style.setProperty('--current-slide', slideNumber);
+  }
+
   function handleNext() {
     currentSlide = modulo(currentSlide + 1, numSlides);
     changeSlide(currentSlide);
@@ -17,22 +27,31 @@ function setUpCarousel(carousel) {
     changeSlide(currentSlide);
   }
 
-  function changeSlide(slideNumber) {
-    carousel.style.setProperty('--current-slide', slideNumber);
+  function autoAdvance() {
+    // Use the modulo function to wrap around
+    currentSlide += 1;
+    currentSlide %= numSlides; 
+    changeSlide(currentSlide);
   }
 
-  // get elements
   const buttonPrevious = carousel.querySelector('[data-carousel-button-previous]');
   const buttonNext = carousel.querySelector('[data-carousel-button-next]');
-  const slidesContainer = carousel.querySelector('[data-carousel-slides-container]');
 
-  // carousel state we need to remember
-  let currentSlide = 0;
-  const numSlides = slidesContainer.children.length;
-
-  // set up events
+  // Set up events for buttons
   buttonPrevious.addEventListener('click', handlePrevious);
   buttonNext.addEventListener('click', handleNext);
+
+  // Start automatic advancement every second (1000 milliseconds)
+  let autoInterval = setInterval(autoAdvance, 1000);
+
+  // Add mouseover and mouseout event listeners to the carousel
+  carousel.addEventListener('mouseover', () => {
+    clearInterval(autoInterval);
+  });
+
+  carousel.addEventListener('mouseout', () => {
+    autoInterval = setInterval(autoAdvance, 1000);
+  });
 }
 
 const carousels = document.querySelectorAll('[data-carousel]');
