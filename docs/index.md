@@ -28,72 +28,86 @@ glightbox: false
     <div class="slides" data-carousel-slides-container>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/lensless_display_radiance_field/">
-        <h1><b>Learned Display Radiance Fields with Lensless Cameras</b></h1>
+        <b>Learned Display Radiance Fields with Lensless Cameras</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH Asia 2025 Technical Communications
         <p>
         <img height="400" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/foveated_steganography/">
-        <h1><b>Foveation Improves Payload Capacity in Steganography</b></h1>
+        <b>Foveation Improves Payload Capacity in Steganography</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH Asia 2025 Poster
         <p>
         <img height="400" src="publications/media/foveated_steganography_teaser.png" height="10" />
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/multitasking_perceptual_graphics/">
-        <h1><b>Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays</b></h1>
+        <b>Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays</b>
+        </a>
+        </h1>
         <p>ACM Multimedia 2025
         <p>
         <img width="700" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/assess_hologram_compression/">
-        <h1><b>Assessing Learned Models for Phase-only Hologram Compression</b></h1>
+        <b>Assessing Learned Models for Phase-only Hologram Compression</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH 2025 poster
         <p>
         <img height="400" width="500" src="publications/media/hologram_compression.png" height="10" />
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/focal_surface_light_transport/">
-        <h1><b>Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions</b></h1>
+        <b>Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH Asia 2024 Technical Communications
         <p>
         <img height="400" width="700" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/spec_track/">
-        <h1><b>SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging</b></h1>
+        <b>SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH 2024 poster
         <p>
         <img height="400" src="publications/media/spec_track_different_attributes.png" height="10" />
-        </a>
         </div>
       </div>
       <div class="slide">
         <div style="text-align: center;">
+        <h1>
         <a href="publications/multi_color/">
-        <h1><b>Multi-color Holograms Improve Brightness in Holographic Displays</b></h1>
+        <b>Multi-color Holograms Improve Brightness in Holographic Displays</b>
+        </a>
+        </h1>
         <p>ACM SIGGRAPH Asia 2023 Technical Papers
         <p>
         <img width="500" src="publications/media/multicolor.png" height="10" />
-        </a>
         </div>
       </div>
     </div>
