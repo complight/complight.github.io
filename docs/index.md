@@ -1,5 +1,77 @@
+---
+glightbox: false
+---
+
+# Research Highlights
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+  <div class="carousel" data-carousel>
+    <div class="carousel-buttons">
+      <button
+        class="carousel-button carousel-button_previous"
+        data-carousel-button-previous
+      >
+        <span class="fas fa-chevron-circle-left"></span>
+      </button>
+      <button
+        class="carousel-button carousel-button_next"
+        data-carousel-button-next
+      >
+        <span class="fas fa-chevron-circle-right"></span>
+      </button>
+    </div>
+    <div class="slides" data-carousel-slides-container>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/lensless_display_radiance_field/">
+        <h1><b>Learned Display Radiance Fields with Lensless Cameras</b></h1>
+        <p>ACM SIGGRAPH Asia 2025 Technical Communications
+        <p>
+        <img height="600" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
+        </a>
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/foveated_steganography/">
+        <h1><b>Foveation Improves Payload Capacity in Steganography</b></h1>
+        <p>ACM SIGGRAPH Asia 2025 Poster
+        <p>
+        <img height="600" width="600" src="publications/media/foveated_steganography_teaser.png" height="10" />
+        </a>
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/multitasking_perceptual_graphics/">
+        <h1><b>Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays</b></h1>
+        <p>ACM Multimedia 2025
+        <p>
+        <img height="600" width="600" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
+        </a>
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/assess_hologram_compression/">
+        <h1><b>Assessing Learned Models for Phase-only Hologram Compression</b></h1>
+        <p>ACM SIGGRAPH 2025 poster
+        <p>
+        <img height="600" width="600" src="publications/media/hologram_compression.png" height="10" />
+        </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
 ## Introduction
-???+ Question "Who are we?"
+??? Question "Who are we?"
     Led by [Kaan Akşit](https://kaanaksit.com), the Computational light laboratory conducts [research and development](publications/index.md) in light-related sciences, including computer-generated holography, computer graphics, computational imaging, computational displays, and visual perception.
     We share our scientific output in the form of [published articles and papers](publications/index.md).
     Our primary software toolkit to tackle our research problems is public and open-source.
@@ -24,128 +96,4 @@
 
 ??? Question "Interested in joining our research group?"
     If you are interested in joining our group as an intern, an undergraduate student, a master student, a Ph.D. student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:kaanaksit@kaanaksit.com).
-
-## Research Highlights
-<div class="cards-list">
-
-<div class="card">
-  <div class="card_image"> <a href="publications/spec_track/"><img src="../publications/media/spec_track_testbed.png" height="10" /></a></div>
-  <div class="card_title title-colorless">
-    <p>ACM SIGGRAPH Asia 2024 awarded Ziyang Chen's work with Honorable Mention Award.</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="documentation/siggraph_asia_2024"><img src="media/acm_siggraph_asia_2024.png" height="10" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Our innovative research at ACM SIGGRAPH Asia 2024.</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="timeline/#22-april-2024"><img src="media/nature.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Most downloaded paper award from Nature's Light and Science Applications.</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="publications/multi_color"><img src="publications/media/multicolor_experimental_results_fruit_lady.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Multi-color holograms improve brightness in holographic displays (SIGGRAPH ASIA 2023)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="timeline/#30-october-2023"><img src="media/ahmet_guzel_poster_award.jpg" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Ahmet Güzel received the best poster award at UKRI AI CDT conference.</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="publications/holobeam"><img src="publications/media/holobeam_hires.png" /></a></div>
-  <div class="card_title title-white">
-    <p>HoloBeam: Paper-Thin Near-Eye Displays (IEEE VR 2023)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="publications/realistic_defocus_cgh"><img src="publications/media/realistic_defocus_focus_stack.gif" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Realistic Defocus Blur for Multiplane Computer-Generated Holography (IEEE VR 2023)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="ChromaCorrect/"><img src="https://user-images.githubusercontent.com/46696280/214997968-09149daf-fea5-48b2-8546-737242fbea33.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>ChromaCorrect: Perceptual Prescription Correction in Virtual Reality (Optics Express)</p>
-</div>
-</div>
-
-<div class="card">
-  <div class="card_image"> <a href="teaching/siggraph2022_optimizing_vision_and_visuals/"><img src="teaching/media/optimizing_vision_and_visuals.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Optimizing vision and visuals (SIGGRAPH 2022)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://github.com/oliland/lensless-primal-dual"><img src="publications/media/unrolled_primal_dual.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Unrolled Primal-Dual Networks for Lensless Imaging (Optics Express)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://github.com/complight/metameric_holography"><img src="publications/media/metameric.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Metameric Varifocal Holograms (IEEE VR 2022)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://github.com/complight/realistic_holography"><img src="publications/media/learned_light.gif" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Learned Holographic Light Transport (Applied Optics)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://kaanaksit.files.wordpress.com/2021/07/2107.02965.pdf"><img src="publications/media/telelife.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Telelife: the future of remote living (Frontiers in VR)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://hcie.csail.mit.edu/research/sensicut/sensicut.html"><img src="publications/media/sensicut.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>SensiCut: material-aware laser cutting using speckle sensing and deep learning (UIST 2021)</p>
-</div>
-</div>
-
-
-<div class="card">
-  <div class="card_image"> <a href="https://kaanaksit.files.wordpress.com/2021/03/vr2021_beaming_display_revision-1.pdf"><img src="publications/media/beaming_displays.png" /></a></div>
-  <div class="card_title title-colorless">
-    <p>Beaming Displays (IEEE VR 2021)</p>
-</div>
-</div>
-
-
-</div>
 

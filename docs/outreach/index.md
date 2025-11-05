@@ -37,6 +37,18 @@ These seminars are organized by [Kaan Akşit](https://kaanaksit.com).
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
 
+#### Akshay Paruchuri (University of North Carolina at Chapel Hill)
+
+??? Details
+    **Date:**
+    5th November 2025
+
+    **Presenter:** [Akshay Paruchuri](https://akshayparuchuri.com/), Ph.D. student, University of North Carolina at Chapel Hill
+
+    **Title:** Toward All-Day Ambient and Wearable Intelligence for Healthcare
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EX_NkDm8xS9Dk4TrE--xIVsB84ca9uXX8AO98SdWwIYD1A?e=HHbA1t)
+
 
 #### Amrita Mazumdar (NVIDIA)
 
