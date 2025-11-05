@@ -28,10 +28,16 @@ function setUpCarousel(carousel) {
   }
 
   function autoAdvance() {
-    // Use the modulo function to wrap around
-    currentSlide += 1;
-    currentSlide %= numSlides; 
-    changeSlide(currentSlide);
+    // Increment the slide index
+    let newSlideIndex = (currentSlide + 1) % numSlides;
+    if (newSlideIndex === 0 && currentSlide !== 0) {
+      // When wrapping around to the first element, reset and start again
+      changeSlide(0);
+    } else {
+      changeSlide(newSlideIndex);
+    }
+    
+    currentSlide = newSlideIndex;
   }
 
   const buttonPrevious = carousel.querySelector('[data-carousel-button-previous]');
@@ -41,7 +47,7 @@ function setUpCarousel(carousel) {
   buttonPrevious.addEventListener('click', handlePrevious);
   buttonNext.addEventListener('click', handleNext);
 
-  // Start automatic advancement every second (1000 milliseconds)
+  // Start automatic advancement every second (2000 milliseconds)
   let autoInterval = setInterval(autoAdvance, 2000);
 
   // Add mouseover and mouseout event listeners to the carousel
@@ -56,3 +62,4 @@ function setUpCarousel(carousel) {
 
 const carousels = document.querySelectorAll('[data-carousel]');
 carousels.forEach(setUpCarousel);
+
