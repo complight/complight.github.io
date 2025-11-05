@@ -66,6 +66,36 @@ glightbox: false
         </a>
         </div>
       </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/focal_surface_light_transport/">
+        <h1><b>Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions</b></h1>
+        <p>ACM SIGGRAPH Asia 2024 Technical Communications
+        <p>
+        <img height="600" width="600" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
+        </a>
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/spec_track/">
+        <h1><b>SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging</b></h1>
+        <p>ACM SIGGRAPH 2024 poster
+        <p>
+        <img height="600" width="600" src="publications/media/spec_track_different_attributes.png" height="10" />
+        </a>
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <a href="publications/multi_color/">
+        <h1><b>Multi-color Holograms Improve Brightness in Holographic Displays</b></h1>
+        <p>ACM SIGGRAPH Asia 2023 Technical Papers
+        <p>
+        <img height="600" width="600" src="publications/media/multicolor.png" height="10" />
+        </a>
+        </div>
+      </div>
     </div>
   </div>
 </body>
