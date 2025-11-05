@@ -110,6 +110,43 @@ glightbox: false
         <img width="500" src="publications/media/multicolor.png" height="10" />
         </div>
       </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h1>
+        <a href="chromacorrect">
+        <b>ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance</b>
+        </a>
+        </h1>
+        <p>Optica Biomedical Optics Express 2023
+        <p>
+        <img width="600" src="publications/media/learned_prescription.png" height="10" />
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h1>
+        <a href="publications/holobeam/">
+        <b>HoloBeam: Paper-Thin Near-Eye Displays</b>
+        </a>
+        </h1>
+        <p>IEEE VR 2023 Technical Papers
+        <p>
+        <img width="500" src="publications/media/holobeam.png" height="10" />
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h1>
+        <a href="publications/realistic_defocus_cgh/">
+        <b>Realistic Defocus Blur for Multiplane Computer-Generated Holography</b>
+        </a>
+        </h1>
+        <p>IEEE VR 2023 Technical Papers
+        <p>
+        <img width="700" src="publications/media/realistic_defocus_cgh.png" height="10" />
+        </div>
+      </div>
+
     </div>
   </div>
 </body>
