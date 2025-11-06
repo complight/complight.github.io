@@ -18,6 +18,12 @@ These early discussions between Kaan and Doğa have led to identifying Doğa's m
 Specifically, Kaan and Doğa have agreed to collaborate on themes of perceptual graphics and deep learning methods aimed at applications such as virtual reality.
 During Doğa's internship at the Computational Light Laboratory, he demonstrated persistent motivation and progress toward developing multitasking convolutional neural networks and perceptual graphics methods. His work involved studying human vision and exploring rendering techniques for immersive displays that cater to human observers in a highly realistic manner.
 These studies included foveated rendering methods used in virtual reality headsets, chromastereopsis rendering for pseudo-3D effects on all display types, denoising techniques for improving image quality, and quantization methods for low-and-high dynamic images.
+
+
+<figure markdown>
+  ![Image title](../publications/media/multitasking_perceptual_graphics_teaser.png){ width="900" }
+</figure>
+
 A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled a unified approach for computer graphics applications across immersive displays such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
 Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious ACM Multimedia 2025 conference, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
 Currently, Doğa is a first-year Ph.D. student supervised by [Dr. He Wang](https://drhewang.com/) at the [University College London](https://www.ucl.ac.uk)'s computer science department.
