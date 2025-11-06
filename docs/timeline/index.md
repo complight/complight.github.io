@@ -287,7 +287,7 @@ This fund covers a significant portion of his attendance at SPIE's Photonics Wes
 <br />
 
 
-#### 3 January 2023
+### 3 January 2023
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/oracle.png" width="80" alt/>
 </div>
