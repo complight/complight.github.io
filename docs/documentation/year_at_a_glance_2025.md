@@ -95,7 +95,7 @@ These studies included foveated rendering methods used in virtual reality headse
 
 
 A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled **a unified approach for computer graphics applications across immersive displays** such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
-Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious **ACM Multimedia 2025 conference**, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
+Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious **ACM Multimedia 2025** conference, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
 Currently, Doğa is a first-year Ph.D. student supervised by [**Dr. He Wang**](https://drhewang.com/) at the [**University College London**](https://www.ucl.ac.uk)'s computer science department.
 Doğa's academic progress and achievements through his internship, as well as his success in publishing and securing a Ph.D. admission, demonstrate an exemplary success story for students aiming to enhance their academic profiles through hard work and persistence.
 
