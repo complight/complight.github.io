@@ -81,7 +81,7 @@ glightbox: false
         </h3>
         <p>ACM SIGGRAPH Asia 2024 Technical Communications
         <p>
-        <img height="400" width="700" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
+        <img height="400" width="500" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
         </div>
       </div>
       <div class="slide">

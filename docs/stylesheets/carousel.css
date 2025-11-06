@@ -3,8 +3,10 @@
   /* we set position relative so absolute position works properly for the buttons */
   position: relative;
   overflow: hidden;
-  margin: 0.0rem;
-  line-height: 5px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 0px;
   max-height: 500px; /* Set maximum height */
   transition-timing-function: linear;
 }
@@ -40,12 +42,16 @@
 
 .slides {
   display: flex;
+  margin: 0;
+  padding: 0;
   transition: transform 0.5s;
   transform: translateX(calc(-100% * var(--current-slide)));
 }
 
 .slide {
   flex: 0 0 100%;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (min-width: 768px) {
