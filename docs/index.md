@@ -28,7 +28,7 @@
         <b>Learned Display Radiance Fields with Lensless Cameras</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH Asia 2025 Technical Communications
+        <p><b>ACM SIGGRAPH Asia 2025 Technical Communications</b>
         <p>
         <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg" class="off-glb"> 
         </div>
@@ -40,7 +40,7 @@
         <b>Foveation Improves Payload Capacity in Steganography</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH Asia 2025 Poster
+        <p><b>ACM SIGGRAPH Asia 2025 Poster</b>
         <p>
         <img height="400" width="500" src="publications/media/foveated_steganography_teaser.png" class="off-glb">
         </div>
@@ -52,7 +52,7 @@
         <b>Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays</b>
         </a>
         </h3>
-        <p>ACM Multimedia 2025
+        <p><b>ACM Multimedia 2025</b>
         <p>
         <img height="500" width ="450" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" class="off-glb">
         </div>
@@ -64,7 +64,7 @@
         <b>Assessing Learned Models for Phase-only Hologram Compression</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH 2025 poster
+        <p><b>ACM SIGGRAPH 2025 poster</b>
         <p>
         <img height="400" width="350" src="publications/media/hologram_compression.png" class="off-glb">
         </div>
@@ -76,7 +76,7 @@
         <b>Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH Asia 2024 Technical Communications
+        <p><b>ACM SIGGRAPH Asia 2024 Technical Communications</b>
         <p>
         <img height="400" width="500" src="publications/media/focal_surfaec_lightprop_web_image.png" class="off-glb">
         </div>
@@ -88,7 +88,7 @@
         <b>SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH 2024 poster
+        <p><b>ACM SIGGRAPH 2024 poster</b>
         <p>
         <img height="400" width="700" src="publications/media/spec_track_different_attributes.png" class="off-glb">
         </div>
@@ -100,7 +100,7 @@
         <b>Multi-color Holograms Improve Brightness in Holographic Displays</b>
         </a>
         </h3>
-        <p>ACM SIGGRAPH Asia 2023 Technical Papers
+        <p><b>ACM SIGGRAPH Asia 2023 Technical Papers</b>
         <p>
         <img height="350" width="350" src="publications/media/multicolor.png" class="off-glb">
         </div>
@@ -112,7 +112,7 @@
         <b>ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance</b>
         </a>
         </h3>
-        <p>Optica Biomedical Optics Express 2023
+        <p><b>Optica Biomedical Optics Express 2023</b>
         <p>
         <img height="400" width="400" src="publications/media/learned_prescription.png" class="off-glb">
         </div>
@@ -124,7 +124,7 @@
         <b>HoloBeam: Paper-Thin Near-Eye Displays</b>
         </a>
         </h3>
-        <p>IEEE VR 2023 Technical Papers
+        <p><b>IEEE VR 2023 Technical Papers</b>
         <p>
         <img height="350" width="350" src="publications/media/holobeam.png" class="off-glb">
         </div>
@@ -136,7 +136,7 @@
         <b>Realistic Defocus Blur for Multiplane Computer-Generated Holography</b>
         </a>
         </h3>
-        <p>IEEE VR 2023 Technical Papers
+        <p><b>IEEE VR 2023 Technical Papers</b>
         <p>
         <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" class="off-glb">
         </div>
