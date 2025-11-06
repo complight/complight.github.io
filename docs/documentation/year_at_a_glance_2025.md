@@ -117,7 +117,7 @@ These displays are an emerging field with transformative potential for next-gene
 Firstly, Zicong quickly mastered the replication of established hologram simulation algorithms involving light propagation techniques in free space, and learned to simulate holograms as if displayed using a holographic display.
 Through a rigorous series of experiments, Zicong generated structured guidance on the performance of learned hologram compression algorithms.
 In this context, Zicong is focused on Variational Autoencoder and Neural Implicit Representation structures.
-Zicong's well prepared documentation and assessments formulated the basis of a submission to the prestigious **SIGGRAPH 2025 Poster Track**.
+Zicong's well prepared documentation and assessments formulated the basis of a submission to the prestigious **ACM SIGGRAPH 2025** Poster Track.
 
 
 <figure markdown>
