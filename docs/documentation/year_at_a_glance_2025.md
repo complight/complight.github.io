@@ -15,7 +15,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
 [Doğa Yılmaz](https://yilmazdoga.net/) reached Kaan Akşit via email around mid-September in 2023, expressing his interest in becoming a research intern at the Computational Light Laboratory.
 These early discussions between Kaan and Doğa have led to identifying Doğa's motivations in research and long-term plans involving obtaining a Ph.D. degree at reputable universities in the United Kingdom and Northern Ireland.
-Specifically, Kaan and Doğa have agreed to collaborate on themes of perceptual graphics and deep learning methods aimed at applications such as virtual reality.
+Specifically, Kaan and Doğa have agreed to collaborate on themes of **perceptual graphics** and **deep learning methods** aimed at applications such as virtual reality.
 During Doğa's internship at the Computational Light Laboratory, he demonstrated persistent motivation and progress toward developing multitasking convolutional neural networks and perceptual graphics methods. His work involved studying human vision and exploring rendering techniques for immersive displays that cater to human observers in a highly realistic manner.
 These studies included foveated rendering methods used in virtual reality headsets, chromastereopsis rendering for pseudo-3D effects on all display types, denoising techniques for improving image quality, and quantization methods for low-and-high dynamic images.
 
@@ -25,8 +25,8 @@ These studies included foveated rendering methods used in virtual reality headse
   <figcaption> Given RGB images and text-prompts, our model performs text-described perceptual tasks in a single inference step.</figcaption>
 </figure>
 
-A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled a unified approach for computer graphics applications across immersive displays such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
-Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious ACM Multimedia 2025 conference, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
+A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled **a unified approach for computer graphics applications across immersive displays** such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
+Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious **ACM Multimedia 2025 conference**, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
 Currently, Doğa is a first-year Ph.D. student supervised by [Dr. He Wang](https://drhewang.com/) at the [University College London](https://www.ucl.ac.uk)'s computer science department.
 Doğa's academic progress and achievements through his internship, as well as his success in publishing and securing a Ph.D. admission, demonstrate an exemplary success story for students aiming to enhance their academic profiles through hard work and persistence.
 
@@ -76,7 +76,16 @@ Throughout this process, he developed a robust technical skillset, a deep unders
 [**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [University of Osaka](https://www.osaka-u.ac.jp/en).
 During this collaboration, Chuanjun mentored first year Ph.D. student [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
 Together, Chuanjun and Shiva identified an implicit neural representation capable of modeling optical lenses as a learned component.
+
+
+<figure markdown>
+  ![](../publications/media/proxyraytracer.png){ width="700" }
+  <figcaption>We propose Ray2Ray, a novel method that leverages implicit neural representations to model optical systems with greater efficiency, eliminating the need for surface-by-surface computations in a single pass end-to-end model.</figcaption>
+</figure>
+
+
 Their work demonstrated that this learned lens representation could accurately raytrace optical beams for simple imaging tasks, an interesting starting point for a more complete investigation in the future.
+Chuanjun and Shiva's work, as of **10 August 2025**, was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_198&sess=sess406)**.
 As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [University of Hawai'i at Mānoa](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [Dr. Huaijin (George) Chen](https://hgchen.com/).
 
 
