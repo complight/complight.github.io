@@ -31,7 +31,7 @@ These documents vary in their topics, from workplace guidances to technical dige
 | Documents | Description   |
 | ------------- |:-------------:|
 | [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
-| [A year at a glance: Computational Light Laboratory bridges student potential into scientific success with industrial partners](./year_at_a_glance_2025.md) | Notes on our activities and presence in 2025 across ACM SIGGRAPH 2025 and ACM SIGGRAPH Asia 2025 conferenes |
+| [Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners](./year_at_a_glance_2025.md) | Notes on our activities and presence in 2025 across ACM SIGGRAPH 2025, ACM Multimedia 2025 and ACM SIGGRAPH Asia 2025 conferenes |
 
 
 ## Technical Notes
