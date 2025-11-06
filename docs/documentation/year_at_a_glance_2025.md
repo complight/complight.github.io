@@ -3,6 +3,60 @@
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
 
+## Learned Display Radiance Fields with Lensless Cameras
+!!! example end "[**Learned Display Radiance Fields with Lensless Cameras**](../publications/lensless_display_radiance_field.md)"
+    **Presented by:** [**Ziyang Chen**](https://ziyang.space/), [Yuta Itoh](https://augvislab.github.io/people/yuta-itoh) and [Kaan Akşit](https://kaanaksit.com)
+
+    **Location:** Hong Kong, China
+
+    **Time:** 08:00 am - 06:00 pm, 15-18 December 2025
+
+    **Session:** [**Technical Communications Track**](https://asia.siggraph.org/2025/program/posters/)
+
+[Ziyang Chen](https://ziyang.space/), a second-year Ph.D. student in the Computational Light Laboratory, is making significant strides in the fields of **computational imaging**, **computational displays** and **deep learning**.
+Ziyang's innovative research on “Learned Display Radiance Fields with Lensless Cameras” has been accepted as a technical communications paper at the prestigious **ACM SIGGRAPH Asia 2025**, the premier conference for computer graphics and interactive techniques.
+
+
+<figure markdown>
+  ![Image title](../publications/media/lensless_display_radiance_field_teaser.png){ width="900" }
+  <figcaption>our work co-designs a lensless camera and an Implicit Neural Representation based algorithm for capturing display characteristics from various viewpoints.</figcaption>
+</figure>
+
+
+Ziyang's work represents a cutting-edge approach to integrating lensless cameras with advanced radiance field techniques to build a new easy-to-use display calibration tool, pushing the boundaries of how we capture and render visual information from a traditional or an immersive display. 
+Ziyang’s dedication to his research is further evidenced by his proactive planning to present his findings in Hong Kong of China, where Ziyang will also engage with leading experts and expand his professional network.
+Beyond the conference, Ziyang Chen will also visit our close collaborator [**Dr. Yuta Itoh**](https://augvislab.github.io/people/yuta-itoh) of [**Institute of Science Tokyo**](https://www.isct.ac.jp) in Tokyo to foster international collaborative research visits, underscores his potential as a future leader in computational imaging and interactive technologies.
+
+
+## Foveation Improves Payload Capacity in Steganography
+!!! example end "[**Foveation Improves Payload Capacity in Steganography**](../publications/foveated_steganography.md)"
+    **Presented by:** [**Lifeng Qiu Lin**](https://github.com/Gnefil), [**Henry Kam**](http://gulpinhenry.github.io/), [Qi Sun](http://qisun.me/) and [Kaan Akşit](https://kaanaksit.com)
+
+    **Location:** Hong Kong, China
+
+    **Time:** 08:00 am - 06:00 pm, 15-18 December 2025
+
+    **Session:** [**Poster Track**](https://asia.siggraph.org/2025/program/posters/)
+
+[Lifeng Qiu Lin](https://github.com/Gnefil) and [Henry Kam](http://gulpinhenry.github.io/) exemplify the power of international collaboration and innovative research in perceptual graphics and steganography.
+Henry, who joined our Computational Light Laboratory as a remote intern in February 2024, focused on leveraging **human visual perception** to increase the capacity for imperceptibly hiding information in images, a breakthrough with applications in digital watermarking and immersive technologies.
+Meanwhile, Lifeng, a Master’s student in Artificial Intelligence at University College London, developed a method to increase data storage in images by up to five times, building on insights from the human visual system and Henry's earlier findings in the context of Lifeng's master thesis.
+Their collaboration culminated in a novel, learned approach using variational autoencoders  to embed additional data in images by exploiting peripheral vision degradation.
+
+
+<figure markdown>
+  ![Image title](../publications/media/foveated_steganography_teaser.png){ width="900" }
+  <figcaption>With support of efficient latent representations and foveated rendering, we trained models that improve existing capacity limits from 100 to 500 bits.</figcaption>
+</figure>
+
+
+This joint work was accepted as a poster, “Foveation Improves Payload Capacity in Steganography,” at **ACM SIGGRAPH Asia 2025**, the premier venue for computer graphics and interactive technologies.
+Beyond research, both Henry and Lifeng demonstrated exceptional collaborative and teaching skills, organizing regular meetings, sharing knowledge with the broader lab, and contributing to educational resources on human visual perception.
+Their success from independent research to high-impact publication showcases the transformative potential of curiosity, teamwork, and perseverance in academic and professional growth.
+Lifeng Qiu Lin continues his academic journey as a visiting student at the prestigious [**Tsinghua University**](https://www.tsinghua.edu.cn) under the supervision of [**Dr. Xiaolin Hu**](https://www.xlhu.cn/), while Henry Kam is finalizing his master studies under the supervision [**Dr. Qi Sun**](http://qisun.me/) at [**New York University**](https://nyu.edu).
+
+
+
 ## Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays
 !!! example end "[**Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**](../publications/multitasking_perceptual_graphics.md)"
     **Presented by:** [**Doğa Yılmaz**](https://yilmazdoga.net/), [He Wang](https://drhewang.com/), [Towaki Takikawa](https://tovacinni.github.io/), [Duygu Ceylan](https://www.duygu-ceylan.com/) and [Kaan Akşit](https://kaanaksit.com)
@@ -25,9 +79,10 @@ These studies included foveated rendering methods used in virtual reality headse
   <figcaption> Given RGB images and text-prompts, our model performs text-described perceptual tasks in a single inference step.</figcaption>
 </figure>
 
+
 A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled **a unified approach for computer graphics applications across immersive displays** such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
 Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious **ACM Multimedia 2025 conference**, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
-Currently, Doğa is a first-year Ph.D. student supervised by [Dr. He Wang](https://drhewang.com/) at the [University College London](https://www.ucl.ac.uk)'s computer science department.
+Currently, Doğa is a first-year Ph.D. student supervised by [**Dr. He Wang**](https://drhewang.com/) at the [**University College London**](https://www.ucl.ac.uk)'s computer science department.
 Doğa's academic progress and achievements through his internship, as well as his success in publishing and securing a Ph.D. admission, demonstrate an exemplary success story for students aiming to enhance their academic profiles through hard work and persistence.
 
 
@@ -60,7 +115,7 @@ Zicong's well prepared documentation and assessments formulated the basis of a s
 Zicong further elevated the quality of his work by collaborating with industrial and academic partners, including [Josef Spjut](https://josef.spjut.me/) of NVIDIA, [Yicheng Zhan](https://albertgary.github.io/) of UCL and [Kaan Akşit](https://kaanaksit.com).
 As of **10 August 2025**, Zicong Peng's work was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)**.
 Zicong’s journey serves as an exemplary model for beginners in any scientific field, proving that motivation, attentive mentorship, and active engagement with the collaborators can lead to remarkable success.
-Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [Koç University](https://ku.edu.tr) under the guidance of Professor [Hakan Urey](https://mysite.ku.edu.tr/hurey/).
+Throughout this process, he developed a robust technical skillset, a deep understanding of scientific methodology, and improved communication skills—opening doors to future Ph.D. studentship opportunities in [**Koç University**](https://ku.edu.tr) under the guidance of Professor [**Hakan Urey**](https://mysite.ku.edu.tr/hurey/).
 
 
 ## Implicit Neural Representations for Optical Raytracing
