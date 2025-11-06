@@ -1,6 +1,3 @@
----
-glightbox: false
----
 
 # Research Highlights
 <head>
