@@ -1,4 +1,4 @@
-# A year at a glance: Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners
+# Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners
 
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
