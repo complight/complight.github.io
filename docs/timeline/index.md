@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acmm2025.png" alt="ACM Multimedia 2025" width="80" alt/>
 </div>
-Our work, ["Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays",](../publications/multitasking_perceptual_graphic.md) is presented under the oral presentation program at ACM Multimedia 2025 in Dublin, Ireland.
+Our work, ["Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays",](../publications/multitasking_perceptual_graphics.md) is presented under the oral presentation program at ACM Multimedia 2025 in Dublin, Ireland.
 This work is a collaboration with a series of academic and industry partners including
 [Doğa Yılmaz](https://yilmazdoga.net/),
 [He Wang](https://drhewang.com/),

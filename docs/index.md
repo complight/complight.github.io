@@ -30,7 +30,7 @@
         </h3>
         <p>ACM SIGGRAPH Asia 2025 Technical Communications
         <p>
-        <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
+        <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg" class="off-glb"> 
         </div>
       </div>
       <div class="slide">
@@ -42,7 +42,7 @@
         </h3>
         <p>ACM SIGGRAPH Asia 2025 Poster
         <p>
-        <img height="400" width="500" src="publications/media/foveated_steganography_teaser.png" height="10" />
+        <img height="400" width="500" src="publications/media/foveated_steganography_teaser.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -54,7 +54,7 @@
         </h3>
         <p>ACM Multimedia 2025
         <p>
-        <img height="500" width ="450" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
+        <img height="500" width ="450" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -66,7 +66,7 @@
         </h3>
         <p>ACM SIGGRAPH 2025 poster
         <p>
-        <img height="400" width="350" src="publications/media/hologram_compression.png" height="10" />
+        <img height="400" width="350" src="publications/media/hologram_compression.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -78,7 +78,7 @@
         </h3>
         <p>ACM SIGGRAPH Asia 2024 Technical Communications
         <p>
-        <img height="400" width="500" src="publications/media/focal_surfaec_lightprop_web_image.png" height="10" />
+        <img height="400" width="500" src="publications/media/focal_surfaec_lightprop_web_image.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -90,7 +90,7 @@
         </h3>
         <p>ACM SIGGRAPH 2024 poster
         <p>
-        <img height="400" width="700" src="publications/media/spec_track_different_attributes.png" height="10" />
+        <img height="400" width="700" src="publications/media/spec_track_different_attributes.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -102,7 +102,7 @@
         </h3>
         <p>ACM SIGGRAPH Asia 2023 Technical Papers
         <p>
-        <img height="350" width="350" src="publications/media/multicolor.png" height="10" />
+        <img height="350" width="350" src="publications/media/multicolor.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -114,7 +114,7 @@
         </h3>
         <p>Optica Biomedical Optics Express 2023
         <p>
-        <img height="400" width="400" src="publications/media/learned_prescription.png" height="10" />
+        <img height="400" width="400" src="publications/media/learned_prescription.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -126,7 +126,7 @@
         </h3>
         <p>IEEE VR 2023 Technical Papers
         <p>
-        <img height="350" width="350" src="publications/media/holobeam.png" height="10" />
+        <img height="350" width="350" src="publications/media/holobeam.png" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -138,7 +138,7 @@
         </h3>
         <p>IEEE VR 2023 Technical Papers
         <p>
-        <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" height="10" />
+        <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" class="off-glb">
         </div>
       </div>
 

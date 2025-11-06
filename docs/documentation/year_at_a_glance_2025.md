@@ -22,7 +22,7 @@ These studies included foveated rendering methods used in virtual reality headse
 
 <figure markdown>
   ![Image title](../publications/media/multitasking_perceptual_graphics_teaser.png){ width="900" }
-  <figcaption> Given RGB images and text-prompts, our model performs text-described perceptual tasks in a single inference step. Simply daisy-chaining multiple models or training dedicated models can lead to model management issues and exhaust computational resources. In contrast, our flexible method unlocks consistent high quality perceptual effects with reasonable compute, supporting various permutations at varied intensities using adjectives in text prompts (e.g. mildly, lightly). Text-guidance provides ease of use for dynamic requirements such as creative processes. </figcaption>
+  <figcaption> Given RGB images and text-prompts, our model performs text-described perceptual tasks in a single inference step.</figcaption>
 </figure>
 
 A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled a unified approach for computer graphics applications across immersive displays such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
