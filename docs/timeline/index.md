@@ -3,9 +3,22 @@
 ## 2025
 
 
+### 27 October 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acmm2025.png" alt="ACM Multimedia 2025" width="80" alt/>
+</div>
+[Our work, "Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays",](../publications/multitasking_perceptual_graphic.md) is presented under the oral presentation program at ACM Multimedia 2025 in Dublin, Ireland.
+This work is a collaboration with a series of academic and industry partners including
+[Doğa Yılmaz](https://yilmazdoga.net/),
+[He Wang](https://drhewang.com/),
+[Towaki Takikawa](https://tovacinni.github.io/),
+[Duygu Ceylan](https://www.duygu-ceylan.com/),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
 ### 11 August 2025
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
+<img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH 2025" width="80" alt/>
 </div>
 [Our work, "Assessing Learned Models for Phase-only Hologram Compression",](../publications/assess_hologram_compression.md) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
 This work is a collaboration with a series of academic and industry partners including
@@ -16,7 +29,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 
 
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
+<img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH 2025" width="80" alt/>
 </div>
 [Our work, "Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations",](https://doi.org/10.1145/3721250.3742994) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
 This work is a collaboration with a series of academic partners including
