@@ -5,14 +5,23 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
 ## Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays
 !!! example end "[**Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**](../publications/multitasking_perceptual_graphics.md)"
-    **Presented by:** [**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), [Yicheng Zhan](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/), and [Kaan Akşit](https://kaanaksit.com)
+    **Presented by:** [**Doğa Yılmaz**](https://yilmazdoga.net/), [He Wang](https://drhewang.com/), [Towaki Takikawa](https://tovacinni.github.io/), [Duygu Ceylan](https://www.duygu-ceylan.com/) and [Kaan Akşit](https://kaanaksit.com)
 
-    **Location:** Convention Centre, Vancouver, BC, Canada
+    **Location:** Dublin, Ireland
 
-    **Time:** Monday-Thursday, 10-14 August 2025
+    **Time:** 4:30 pm - 6:00 pm, 31 October 2025
 
-    **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)
+    **Session:** [**Regular Papers**](https://acmmm2025.org/accepted-regular-papers/)
 
+[Doğa Yılmaz](https://yilmazdoga.net/) reached Kaan Akşit via email around mid-September in 2023, expressing his interest in becoming a research intern at the Computational Light Laboratory.
+These early discussions between Kaan and Doğa have led to identifying Doğa's motivations in research and long-term plans involving obtaining a Ph.D. degree at reputable universities in the United Kingdom and Northern Ireland.
+Specifically, Kaan and Doğa have agreed to collaborate on themes of perceptual graphics and deep learning methods aimed at applications such as virtual reality.
+During Doğa's internship at the Computational Light Laboratory, he demonstrated persistent motivation and progress toward developing multitasking convolutional neural networks and perceptual graphics methods. His work involved studying human vision and exploring rendering techniques for immersive displays that cater to human observers in a highly realistic manner.
+These studies included foveated rendering methods used in virtual reality headsets, chromastereopsis rendering for pseudo-3D effects on all display types, denoising techniques for improving image quality, and quantization methods for low-and-high dynamic images.
+A significant achievement during his internship was the development of a single deep learning model that could modify images according to text prompts. This enabled a unified approach for computer graphics applications across immersive displays such as virtual reality headsets, augmented reality glasses, and 3D desktop displays.
+Doğa's well-established development and carefully written documentation led him to submit his work to the prestigious ACM Multimedia 2025 conference, which subsequently accepted it in their regular paper track. This accomplishment not only resulted in a high-tier publication but also provided solid evidence for his Ph.D. applications.
+Currently, Doğa is a first-year Ph.D. student supervised by [Dr. He Wang](https://drhewang.com/) at the [University College London](https://www.ucl.ac.uk)'s computer science department.
+Doğa's academic progress and achievements through his internship, as well as his success in publishing and securing a Ph.D. admission, demonstrate an exemplary success story for students aiming to enhance their academic profiles through hard work and persistence.
 
 
 ## Assessing Learned Methods for Hologram Compression
