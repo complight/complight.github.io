@@ -181,6 +181,10 @@ extra:
       link: https://twitter.com/complightlab
     - icon: fontawesome/brands/slack
       link: https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/complightlab.bsky.social
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/groups/10023108/
 
 
 extra_css:

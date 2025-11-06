@@ -73,7 +73,7 @@ Throughout this process, he developed a robust technical skillset, a deep unders
 
     **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_198&sess=sess406)
 
-[**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [University of Osaka](https://www.osaka-u.ac.jp/en).
+[**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [University of Osaka](https://www.osaka-u.ac.jp/en), more specifically [Professor Daisuke Iwai's team](https://daisukeiwai.org/).
 During this collaboration, Chuanjun mentored first year Ph.D. student [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
 Together, Chuanjun and Shiva identified an implicit neural representation capable of modeling optical lenses as a learned component.
 
@@ -86,7 +86,7 @@ Together, Chuanjun and Shiva identified an implicit neural representation capabl
 
 Their work demonstrated that this learned lens representation could accurately raytrace optical beams for simple imaging tasks, an interesting starting point for a more complete investigation in the future.
 Chuanjun and Shiva's work, as of **10 August 2025**, was accepted and presented at **[SIGGRAPH 2025](https://s2025.conference-schedule.org/presentation/?id=pos_198&sess=sess406)**.
-As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [University of Hawai'i at Mānoa](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [Dr. Huaijin (George) Chen](https://hgchen.com/).
+As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [**University of Hawai'i at Mānoa**](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [**Dr. Huaijin (George) Chen**](https://hgchen.com/).
 
 
 ## Outreach
