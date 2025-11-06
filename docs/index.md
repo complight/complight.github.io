@@ -28,8 +28,8 @@
         <b>Learned Display Radiance Fields with Lensless Cameras</b>
         </a>
         </h3>
-        <p><b>ACM SIGGRAPH Asia 2025 Technical Communications</b>
-        <p>
+        <p><b>ACM SIGGRAPH Asia 2025 <br> Technical Communications</b>
+        </p>
         <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg" class="off-glb"> 
         </div>
       </div>
