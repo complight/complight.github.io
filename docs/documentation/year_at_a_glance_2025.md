@@ -77,7 +77,7 @@ Throughout this process, he developed a robust technical skillset, a deep unders
 During this collaboration, Chuanjun mentored first year Ph.D. student [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
 Together, Chuanjun and Shiva identified an implicit neural representation capable of modeling optical lenses as a learned component.
 Their work demonstrated that this learned lens representation could accurately raytrace optical beams for simple imaging tasks, an interesting starting point for a more complete investigation in the future.
-As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [University of Hawai'i at Mānoa](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [Huaijin (George) Chen](https://hgchen.com/).
+As Chuanjun wraps up his internship, Chuanjun is set to begin a new chapter at the [University of Hawai'i at Mānoa](https://manoa.hawaii.edu/), where Chuanjun will work under the supervision of [Dr. Huaijin (George) Chen](https://hgchen.com/).
 
 
 ## Outreach
