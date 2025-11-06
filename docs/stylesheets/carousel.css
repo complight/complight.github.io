@@ -3,7 +3,7 @@
   /* we set position relative so absolute position works properly for the buttons */
   position: relative;
   overflow: hidden;
-  max-height: 700px; /* Set maximum height */
+  max-height: 500px; /* Set maximum height */
   transition-timing-function: linear;
 }
 

@@ -3,10 +3,8 @@ glightbox: false
 ---
 
 # Research Highlights
-
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="./index.css">
 </head>
 
 <body>
@@ -35,7 +33,7 @@ glightbox: false
         </h2>
         <p>ACM SIGGRAPH Asia 2025 Technical Communications
         <p>
-        <img height="400" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
+        <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg"/>
         </div>
       </div>
       <div class="slide">
@@ -47,7 +45,7 @@ glightbox: false
         </h2>
         <p>ACM SIGGRAPH Asia 2025 Poster
         <p>
-        <img height="400" src="publications/media/foveated_steganography_teaser.png" height="10" />
+        <img height="400" width="500" src="publications/media/foveated_steganography_teaser.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -59,7 +57,7 @@ glightbox: false
         </h2>
         <p>ACM Multimedia 2025
         <p>
-        <img width="700" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
+        <img height="500" width ="450" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -71,7 +69,7 @@ glightbox: false
         </h2>
         <p>ACM SIGGRAPH 2025 poster
         <p>
-        <img height="400" width="500" src="publications/media/hologram_compression.png" height="10" />
+        <img height="400" width="350" src="publications/media/hologram_compression.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -95,7 +93,7 @@ glightbox: false
         </h2>
         <p>ACM SIGGRAPH 2024 poster
         <p>
-        <img height="400" src="publications/media/spec_track_different_attributes.png" height="10" />
+        <img height="400" width="700" src="publications/media/spec_track_different_attributes.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -107,7 +105,7 @@ glightbox: false
         </h2>
         <p>ACM SIGGRAPH Asia 2023 Technical Papers
         <p>
-        <img width="500" src="publications/media/multicolor.png" height="10" />
+        <img height="350" width="350" src="publications/media/multicolor.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -119,7 +117,7 @@ glightbox: false
         </h2>
         <p>Optica Biomedical Optics Express 2023
         <p>
-        <img width="600" src="publications/media/learned_prescription.png" height="10" />
+        <img height="400" width="400" src="publications/media/learned_prescription.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -131,7 +129,7 @@ glightbox: false
         </h2>
         <p>IEEE VR 2023 Technical Papers
         <p>
-        <img width="500" src="publications/media/holobeam.png" height="10" />
+        <img height="350" width="350" src="publications/media/holobeam.png" height="10" />
         </div>
       </div>
       <div class="slide">
@@ -143,7 +141,7 @@ glightbox: false
         </h2>
         <p>IEEE VR 2023 Technical Papers
         <p>
-        <img width="700" src="publications/media/realistic_defocus_cgh.png" height="10" />
+        <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" height="10" />
         </div>
       </div>
 
@@ -176,5 +174,5 @@ glightbox: false
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.260134976213!2d-0.13419492299176314!3d51.526788409286425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2572def3b3%3A0x87d130881cf6bb1a!2s169%20Euston%20Rd.%2C%20London%20NW1%202AE!5e0!3m2!1sen!2suk!4v1699452471450!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ???+ Question "Interested in joining our research group?"
-    If you are interested in joining our group as an intern, an undergraduate student, a master student, a Ph.D. student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](mailto:kaanaksit@kaanaksit.com).
+    If you are interested in joining our group as an intern, an undergraduate student, a master student, a Ph.D. student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](https://kaanaksit.com).
 
