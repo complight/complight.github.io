@@ -3,6 +3,16 @@
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
 
+## Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays
+!!! example end "[**Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**](../publications/multitasking_perceptual_graphics.md)"
+    **Presented by:** [**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), [Yicheng Zhan](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/), and [Kaan Akşit](https://kaanaksit.com)
+
+    **Location:** Convention Centre, Vancouver, BC, Canada
+
+    **Time:** Monday-Thursday, 10-14 August 2025
+
+    **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)
+
 
 
 ## Assessing Learned Methods for Hologram Compression
