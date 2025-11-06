@@ -2,7 +2,7 @@
 
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 
-[**Computational Light Laboratory**](https://complightlab.com) continues its journey with a strong belief of "groundbreaking research is powered by curiosity, collaboration, and  pursuit of excellence."
+[**Computational Light Laboratory**](https://complightlab.com) continues its journey with a strong belief of "_groundbreaking research is powered by curiosity, collaboration, and  pursuit of excellence._"
 This year, our students have embodied these values, transforming ambitious ideas into high-impact publications and forging international partnerships that push the boundaries of perceptual graphics, computational imaging, and immersive technologies:
 
 * [**Ziyang Chen**](https://ziyang.space/)’s pioneering research on [Learned Display Radiance Fields with Lensless Cameras](#learned-display-radiance-fields-with-lensless-cameras) accepted at **ACM SIGGRAPH Asia 2025** technical communications track introduces a new, easy-to-use display calibration tool, while his proactive engagement with global experts underscores his leadership in advancing computational imaging and interactive technologies. Ziyang will participate research activities as a visiting student at the **Institute of Science Tokyo**, 
