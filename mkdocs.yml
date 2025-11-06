@@ -33,7 +33,7 @@ nav:
     - Recent news: 'timeline/index.md'
     - Highlighted events:
       - 'Computational Light Laboratory contributes to ACM SIGGRAPH Asia 2024 with innovative computational display and lensless camera research' : 'documentation/siggraph_asia_2024.md'
-      - 'A year at a glance: Computational Light Laboratory bridges student potential into scientific success with industrial partners' : 'documentation/year_at_a_glance_2025.md' 
+      - 'Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners' : 'documentation/year_at_a_glance_2025.md' 
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
