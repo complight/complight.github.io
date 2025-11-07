@@ -42,7 +42,7 @@
 
 ## Slides
 <iframe
-  src="http://complightlab.com/presentation_learned_display_radiance_field_with_lensless_cameras/" target="_blank" rel="noopener noreferrer/"
+  src="https://complightlab.com/presentation_learned_display_radiance_field_with_lensless_cameras/" target="_blank" rel="noopener noreferrer/"
   width="100%"
   height="600"
   style="border: none; border-radius: 8px;"
