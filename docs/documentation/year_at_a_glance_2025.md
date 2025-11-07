@@ -34,7 +34,7 @@ These achievements are not just milestones for our students, but also a testamen
 
     **Session:** [**Technical Communications Track**](https://asia.siggraph.org/2025/program/posters/)
 
-[Ziyang Chen](https://ziyang.space/), a second-year Ph.D. student in the Computational Light Laboratory, is making significant strides in the fields of **computational imaging**, **computational displays** and **deep learning**.
+[**Ziyang Chen**](https://ziyang.space/), a second-year Ph.D. student in the Computational Light Laboratory, is making significant strides in the fields of **computational imaging**, **computational displays** and **deep learning**.
 Ziyang's innovative research on “Learned Display Radiance Fields with Lensless Cameras” has been accepted as a technical communications paper at the prestigious **ACM SIGGRAPH Asia 2025**, the premier conference for computer graphics and interactive techniques.
 
 
@@ -59,7 +59,7 @@ Beyond the conference, Ziyang Chen will also visit our close collaborator [**Dr.
 
     **Session:** [**Poster Track**](https://asia.siggraph.org/2025/program/posters/)
 
-[Lifeng Qiu Lin](https://github.com/Gnefil) and [Henry Kam](http://gulpinhenry.github.io/) exemplify the power of international collaboration and innovative research in perceptual graphics and steganography.
+[**Lifeng Qiu Lin**](https://github.com/Gnefil) and [**Henry Kam**](http://gulpinhenry.github.io/) exemplify the power of international collaboration and innovative research in perceptual graphics and steganography.
 Henry, who joined our Computational Light Laboratory as a remote intern in February 2024, focused on leveraging **human visual perception** to increase the capacity for imperceptibly hiding information in images, a breakthrough with applications in digital watermarking and immersive technologies.
 Meanwhile, Lifeng, a Master’s student in Artificial Intelligence at University College London, developed a method to increase data storage in images by up to five times, building on insights from the human visual system and Henry's earlier findings in the context of Lifeng's master thesis.
 Their collaboration culminated in a novel, learned approach using variational autoencoders  to embed additional data in images by exploiting peripheral vision degradation.
@@ -88,7 +88,7 @@ Lifeng Qiu Lin continues his academic journey as a visiting student at the prest
 
     **Session:** [**Regular Papers**](https://acmmm2025.org/accepted-regular-papers/)
 
-[Doğa Yılmaz](https://yilmazdoga.net/) reached Kaan Akşit via email around mid-September in 2023, expressing his interest in becoming a research intern at the Computational Light Laboratory.
+[**Doğa Yılmaz**](https://yilmazdoga.net/) reached Kaan Akşit via email around mid-September in 2023, expressing his interest in becoming a research intern at the Computational Light Laboratory.
 These early discussions between Kaan and Doğa have led to identifying Doğa's motivations in research and long-term plans involving obtaining a Ph.D. degree at reputable universities in the United Kingdom and Northern Ireland.
 Specifically, Kaan and Doğa have agreed to collaborate on themes of **perceptual graphics** and **deep learning methods** aimed at applications such as virtual reality.
 During Doğa's internship at the Computational Light Laboratory, he demonstrated persistent motivation and progress toward developing multitasking convolutional neural networks and perceptual graphics methods. His work involved studying human vision and exploring rendering techniques for immersive displays that cater to human observers in a highly realistic manner.
@@ -118,7 +118,7 @@ Doğa's academic progress and achievements through his internship, as well as hi
     **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_195&sess=sess404)
 
 
-[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN) demonstrated exceptional motivation and outstanding implementation skills throughout his master’s thesis work.
+[**Zicong Peng**](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN) demonstrated exceptional motivation and outstanding implementation skills throughout his master’s thesis work.
 Zicong dove into a topic entirely new to him: **"Deep Learning based Compression methods for Holographic Displays"**.
 These displays are an emerging field with transformative potential for next-generation augmented reality glasses, virtual reality headsets, and desktop 3D displays.
 Firstly, Zicong quickly mastered the replication of established hologram simulation algorithms involving light propagation techniques in free space, and learned to simulate holograms as if displayed using a holographic display.
