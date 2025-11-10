@@ -177,8 +177,11 @@
 ???+ Question "Where are we located?"
     The computational light laboratory is part of [Computer Science Department](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk).
     Computational light laboratory is located at `room G06, 169 Euston Road, London NW1 2AE, United Kingdom of Great Britain and Northern Ireland`.
-    
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.260134976213!2d-0.13419492299176314!3d51.526788409286425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2572def3b3%3A0x87d130881cf6bb1a!2s169%20Euston%20Rd.%2C%20London%20NW1%202AE!5e0!3m2!1sen!2suk!4v1699452471450!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+     <p class="aligncenter">
+        <a href="https://maps.app.goo.gl/1h9mcJP5T7n2qdNc6">
+        <img src="./media/map.png" alt=/>
+        </a>
+    </p>
 
 ???+ Question "Interested in joining our research group?"
     If you are interested in joining our group as an intern, an undergraduate student, a master student, a Ph.D. student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](https://kaanaksit.com).
