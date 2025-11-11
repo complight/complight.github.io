@@ -57,7 +57,7 @@ Beyond the conference, Ziyang Chen will also visit our close collaborator [**Dr.
 
     **Time:** 08:00 am - 06:00 pm, 15-18 December 2025
 
-    **Session:** [**Poster Track**](https://asia.siggraph.org/2025/program/posters/)
+    **Session:** [**Poster Track**](https://sa2025.conference-schedule.org/presentation/?id=pos_143&sess=sess204)
 
 [**Lifeng Qiu Lin**](https://github.com/Gnefil) and [**Henry Kam**](http://gulpinhenry.github.io/) exemplify the power of international collaboration and innovative research in perceptual graphics and steganography.
 Henry, who joined our Computational Light Laboratory as a remote intern in February 2024, focused on leveraging **human visual perception** to increase the capacity for imperceptibly hiding information in images, a breakthrough with applications in digital watermarking and immersive technologies.
