@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+#### Jose Echevarria (Adobe)
+
+??? Details
+    **Date:**
+    12th November 2025
+
+    **Presenter:** [Jose Echevarria](https://www.jiechevarria.com/), Research Scientist, Adobe
+
+    **Title:** Color Geometries and Applications
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETjNolbs5j5OuEYoyDb9CTwBdPxPE9XNh5igyOgga3RtEg?e=1DFFhZ)
+
 
 #### Akshay Paruchuri (University of North Carolina at Chapel Hill)
 
