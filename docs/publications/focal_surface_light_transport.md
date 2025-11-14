@@ -117,7 +117,20 @@ We also apply our model for a 3D phase-only hologram optimization application un
 </figure>
 
 
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH ASIA 2024 experience.
 
+<figure markdown>
+  ![](./media/focal_surface_lightprop_sigasia24_photos_001.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_002.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_003.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_004.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_005.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_006.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_007.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_008.jpg){ width="390", align=left }
+  ![](./media/focal_surface_lightprop_sigasia24_photos_009.jpg){ width="390", align=left }
+</figure>
 
 ## Relevant research works
 Here are relevant research works from the authors:
