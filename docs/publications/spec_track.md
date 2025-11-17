@@ -114,6 +114,17 @@ Furthermore, the model adapts to varying depths, showing an accuracy of $0.15~cm
 ### Future work 
 Testing and optimizing the system in real-world environments, considering varying lighting, distances, and object motions, is crucial for successful operation in various applications including VR, AR, and robotics.
 
+
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH ASIA 2024 experience.
+
+<figure markdown>
+  ![](./media/spec_track_sigasia24_2.png){ width="390", align=left }
+  ![](./media/spec_track_sigasia24_1.png){ width="390", align=left }
+  ![](./media/spec_track_sigasia24_0.png){ width="390", align=left }
+</figure>
+
+
 ## Relevant research works
 Here are relevant research works from the authors:
 
