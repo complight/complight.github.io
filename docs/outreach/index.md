@@ -36,6 +36,21 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+
+#### Philippe Weier (University of Saarland)
+
+??? Details
+    **Date:**
+    19th November 2025
+
+    **Presenter:** [Philippe Weier](https://weiphil.github.io), Ph.D. student, University of Saarland
+
+    **Title:** Towards Hybrid and Multiscale Representations for Physically-based Light Transport
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/EboTRqBOnblBgA_xH4sSTDQB6Qy4KwLLrgddS9ONVpIoew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xeu4yV)
+
+
+
 #### Jose Echevarria (Adobe)
 
 ??? Details
