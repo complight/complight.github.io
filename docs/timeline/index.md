@@ -2,6 +2,12 @@
 
 ## 2025
 
+### 25 November 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+[Kaan Akşit](https://kaanaksit.com) is pleased to announce that he is elected as a fellow member by the board of directors of Optica (formerly known as The Optical Society (OSA)). [Their decision](https://www.optica.org/about/newsroom/news_releases/2025/optica_announces_2026_fellows_class/) came in the light of Kaan's track record on advanced 3D display and perceptually guided computer graphics techniques.
+
 
 ### 27 October 2025
 <div style="float: left; height:100px;" class="boxed">
