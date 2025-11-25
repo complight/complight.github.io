@@ -7,6 +7,10 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
 <img height="200" width="200" src="../../media/acm_siggraph_asia_2025.png" class="off-glb">
 <img height="200" width="200" src="../../media/acmm2025.png" class="off-glb">
 <img height="200" width="200" src="../../media/acm_siggraph_2025.png" class="off-glb">
+<img height="200" width="200" src="../../media/acm_tog.png" class="off-glb">
+<img height="200" width="200" src="../../media/IEEE2025.png" class="off-glb">
+<img height="200" width="200" src="../../media/optica.png" class="off-glb">
+<img height="200" width="200" src="../../media/spie.png" class="off-glb">
 </center>
 
 [**Computational Light Laboratory**](https://complightlab.com) continues its journey with a strong belief of "_groundbreaking research is powered by curiosity, collaboration, and  pursuit of excellence_" under [Kaan Akşit](https://kaanaksit.com)'s leadership.
@@ -25,6 +29,8 @@ Each of our stories reflect the power of proactive mentorship and interdisciplin
 Our stories are not limited to the ones that have been reported in this document and there are many in the works.
 These achievements are not just milestones for our students, but also a testament to the vibrant, supportive environment that fuels their success while establishing Computational Light Laboratory as true hub for innovation, research and development for people at various levels and experiences.
 
+Beyond our shared stories, Computational Light Laboratory and the international collaborators had presence and presentations at **IEEE VR 2025** and **SPIE Photonics West 2025**.
+These presence and presentations arrived in collaboration with world leading scientists including but not limited to[Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh), [Tomoya Nakamura](https://sites.google.com/site/tnakamura1104/), [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/), [Dongyeon Kim](https://dongyeon93.github.io/), [Muhammet Genç](https://dongyeon93.github.io/), [Çağatay Işıl](https://cagatayisil.github.io/), [Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html) and [Aydogan Ozcan](https://www.ee.ucla.edu/aydogan-ozcan). For a complete list of our publications, consider visiting [Kaan's publications page](https://www.kaanaksit.com/publications/).
 
 ## Learned Display Radiance Fields with Lensless Cameras
 !!! example end "[**Learned Display Radiance Fields with Lensless Cameras**](../publications/lensless_display_radiance_field.md)"
