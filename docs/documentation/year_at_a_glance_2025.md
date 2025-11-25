@@ -4,13 +4,13 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2025_
 
 ## A year at a glance: 2025
 <center>
-<img height="200" width="200" src="../../media/acm_siggraph_asia_2025.png" class="off-glb">
-<img height="200" width="200" src="../../media/acmm2025.png" class="off-glb">
-<img height="200" width="200" src="../../media/acm_siggraph_2025.png" class="off-glb">
-<img height="200" width="200" src="../../media/acm_tog.png" class="off-glb">
-<img height="200" width="200" src="../../media/optica.png" class="off-glb">
-<img height="200" width="200" src="../../media/IEEE2025.png" class="off-glb">
-<img height="200" width="200" src="../../media/spie.png" class="off-glb">
+<img height="115" width="115" src="../../media/acm_siggraph_asia_2025.png" class="off-glb">
+<img height="115" width="115" src="../../media/acmm2025.png" class="off-glb">
+<img height="115" width="115" src="../../media/acm_siggraph_2025.png" class="off-glb">
+<img height="115" width="115" src="../../media/acm_tog.png" class="off-glb">
+<img height="115" width="115" src="../../media/optica.png" class="off-glb">
+<img height="115" width="115" src="../../media/IEEE2025.png" class="off-glb">
+<img height="115" width="115" src="../../media/spie.png" class="off-glb">
 </center>
 
 [**Computational Light Laboratory**](https://complightlab.com) continues its journey with a strong belief of "_groundbreaking research is powered by curiosity, collaboration, and  pursuit of excellence_" under [**Kaan Akşit**](https://kaanaksit.com)'s leadership.
