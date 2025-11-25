@@ -1,6 +1,6 @@
 # Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners
 
-_Written by [**Kaan Akşit**](https://kaanaksit.com), 1 December 2025_
+_Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2025_
 
 ## A year at a glance: 2025
 <center>
