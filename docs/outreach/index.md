@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 [Kaan Akşit](https://kaanaksit.com) has received support in identifying the speaker for this round from [Doğa Yılmaz](https://yilmazdoga.net/) and [Binglun Wang](https://binglunwang.github.io/).
 
+#### Computational Light Laboratory Special Session (University College London)
+
+??? Details
+    **Date:**
+    26th November 2025
+
+    **Presenters:** [Ziyang Cheng](https://ziyang.space/), Ph.D. student, University College London, [Lifeng Qiu Lin](https://github.com/Gnefil), M.Sc. student, University College London, [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), M.Sc. student, University College London
+
+    **Title:** Computational Light Laboratory Special Session
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/ETCxLnWOm95ElKKDhljKeVABj4KhwNiCShmyOEyuANmGsg?e=qDJBDP)
+
 
 #### Philippe Weier (University of Saarland)
 
