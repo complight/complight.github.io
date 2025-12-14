@@ -31,7 +31,7 @@ These achievements are not just milestones for our students, but also a testamen
 
 Beyond our shared stories, Computational Light Laboratory and the international collaborators had presence and presentations at **IEEE VR 2025** and **SPIE Photonics West 2025**.
 These presence and presentations arrived in collaboration with world leading scientists including but not limited to [**Yuta Itoh**](https://www.ar.c.titech.ac.jp/people/yuta-itoh), [**Tomoya Nakamura**](https://sites.google.com/site/tnakamura1104/), [**Rafał Mantiuk**](https://www.cl.cam.ac.uk/~rkm38/), [**Dongyeon Kim**](https://dongyeon93.github.io/), [**Muhammet Genç**](https://dongyeon93.github.io/), [**Çağatay Işıl**](https://cagatayisil.github.io/), [**Mona Jarrahi**](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html) and [**Aydogan Ozcan**](https://www.ee.ucla.edu/aydogan-ozcan). For a complete list of our publications, consider visiting [**Kaan's publications page**](https://www.kaanaksit.com/publications/).
-In the meantime, Computational Light Laboratory's [outreach activities](../outreach.md) have continued with its seminars and social media groups also in 2025.
+In the meantime, Computational Light Laboratory's [**outreach activities**](../outreach.md) have continued with its seminars and social media groups also in 2025.
 
 
 ## Learned Display Radiance Fields with Lensless Cameras
@@ -159,8 +159,8 @@ Throughout this process, he developed a robust technical skillset, a deep unders
 
     **Session:** [**Poster Track**](https://s2025.conference-schedule.org/presentation/?id=pos_198&sess=sess406)
 
-[**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [University of Osaka](https://www.osaka-u.ac.jp/en), more specifically [Professor Daisuke Iwai's team](https://daisukeiwai.org/).
-During this collaboration, Chuanjun mentored first year Ph.D. student [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
+[**Chuanjun Zheng**](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ) concluded his remote internship in our laboratory, collaborating with external partners from the [**University of Osaka**](https://www.osaka-u.ac.jp/en), more specifically [**Professor Daisuke Iwai's team**](https://daisukeiwai.org/).
+During this collaboration, Chuanjun mentored first year Ph.D. student [**Shiva Sinaei**](https://www.xr.sys.es.osaka-u.ac.jp/en/team/) by sharing insights from his earlier experimtns on implicit neural representations.
 Together, Chuanjun and Shiva identified an implicit neural representation capable of modeling optical lenses as a learned component.
 
 
