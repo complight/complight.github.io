@@ -66,7 +66,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/jihao_geo_gu.png" width="160" alt/>
 </div>
-[Jihao (Geo) Gu](http://momiji-bit.github.io/)
+[Jihao (Geo) Gu (谷纪豪)](http://momiji-bit.github.io/)
 
 MSc Student ([University College London](https://www.ucl.ac.uk))
 
