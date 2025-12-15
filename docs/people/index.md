@@ -26,7 +26,7 @@ Associate Professor of Computational Light
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/yicheng_zhan.png" width="160" alt/>
 </div>
-[Yicheng Zhan](https://albertgary.github.io/)
+[Yicheng Zhan (战弈诚)](https://albertgary.github.io/)
 
 Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
