@@ -39,7 +39,7 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/ziyang_chen.png" width="160" alt/>
 </div>
-[Ziyang Chen](https://ziyang.space/)
+[Ziyang Chen (陈子扬)](https://ziyang.space/)
 
 Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 
@@ -119,7 +119,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/henry_kam.png" width="160" alt/>
 </div>
-[Henry Kam](http://gulpinhenry.github.io/)
+[Henry Kam (甘皓宇)](http://gulpinhenry.github.io/)
 
 MSc Student ([New York University](https://www.nyu.edu))
 
@@ -186,7 +186,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 - [Zhiren Zan](https://github.com/Koma002), `Detecting Fabrication Defects from images using multi-modal Large Language Models`, 2024, Next: -. 
 - [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), `Assessing Learned Models for Phase-only Hologram Compression`, 2025, Next: Ph.D. student at Koç University.
 - [Zhuoxuan Jiang](https://orcid.org/0009-0004-5073-7753), `Enhancing Color and Brightness Contrast in Diffusion-Based Image Generation via Prompt Engineering`, 2025, Next: -.
-- [Ziyang Chen](https://ziyang.space/), `Speckle imaging with a lensless camera`, 2023, Next: Ph.D. student at University College London.
+- [Ziyang Chen (陈子扬)](https://ziyang.space/), `Speckle imaging with a lensless camera`, 2023, Next: Ph.D. student at University College London.
 
 ### Research Interns
 - Abubakar Sharif, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022, Next: -.

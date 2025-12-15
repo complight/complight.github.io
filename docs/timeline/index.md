@@ -2,6 +2,36 @@
 
 ## 2025
 
+
+### 15 December 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
+</div>
+⚡ Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners in 2025. To find out more by visiting [our article](../documentation/year_at_a_glance_2025).
+
+
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
+</div>
+Our work, ["Learned Display Radiance Fields with Lensless Cameras",](../publications/lensless_display_radiance_field.md) is presented under the technical communications program at ACM SIGGRAPH Asia 2025 in Hong Kong, China.
+This work is a collaboration with a series of academic partners including
+[Ziyang Chen (陈子扬)](https://ziyang.space/),
+[Yuta Itoh](https://augvislab.github.io/people/yuta-itoh),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
+</div>
+Our work, ["Foveation Improves Payload Capacity in Steganography",](../publications/foveated_steganography.md) is presented under the poster program at ACM SIGGRAPH Asia 2025 in Hong Kong, China.
+This work is a collaboration with a series of academic partners including
+[Lifeng Qiu Lin](https://github.com/Gnefil),
+[Henry Kam (甘皓宇)](https://gulpinhenry.github.io/),
+[Qi Sun](https://qisun.me/),
+and [Kaan Akşit](https://kaanaksit.com).
+
+
+
 ### 25 November 2025
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
@@ -29,7 +59,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 Our work, ["Assessing Learned Models for Phase-only Hologram Compression",](../publications/assess_hologram_compression.md) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
 This work is a collaboration with a series of academic and industry partners including
 [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
-[Yicheng Zhan](https://albertgary.github.io/),
+[Yicheng Zhan (战弈诚)](https://albertgary.github.io/),
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com).
 
@@ -52,7 +82,7 @@ and [Daisuke Iwai](https://daisukeiwai.org/).
 </div>
 Our work, ["SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging",](../publications/spec_track.md) won the honorable mention award under the posters program at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
 These works are collaborations with a series of academic and industry partners including
-[Ziyang Chen](https://ziyang.space/),
+[Ziyang Chen (陈子扬)](https://ziyang.space/),
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com).
@@ -69,8 +99,8 @@ These works are collaborations with a series of academic and industry partners i
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&hl=zh-CN),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Ozan Cakmakci](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), 
-[Yicheng Zhan](https://scholar.google.com/citations?hl=zh-CN&user=x2ptSYUAAAAJ),
-[Ziyang Chen](https://ziyang.space/),
+[Yicheng Zhan (战弈诚)](https://scholar.google.com/citations?hl=zh-CN&user=x2ptSYUAAAAJ),
+[Ziyang Chen (陈子扬)](https://ziyang.space/),
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com).
@@ -118,7 +148,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 </div>
 Our paper, [`AutoColor: Learned Light Power Control for Multi-Color Holograms`](https://complightlab.com/autocolor_/), is presented at [SPIE AR|VR|MR 2024](https://spie.org/conferences-and-exhibitions/ar-vr-mr).
 This work is a collaboration between
-[Yicheng Zhan](https://github.com/AlberTgarY),
+[Yicheng Zhan(战弈诚)](https://github.com/AlberTgarY),
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Qi Sun](https://www.immersivecomputinglab.org/),
