@@ -7,7 +7,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
 </div>
-⚡ Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners in 2025. To find out more by visiting [our article](../documentation/year_at_a_glance_2025).
+⚡ Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners in 2025. Find out more by visiting [our article](../documentation/year_at_a_glance_2025).
 <br />
 <br />
 
