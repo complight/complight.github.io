@@ -8,6 +8,13 @@ These documents vary in their topics, from workplace guidances to technical dige
 | [`How to become a doctoral student in our laboratory`](become_phd_student.md) | This documentation describes the steps involved in becoming a doctoral student at our laboratory. |
 
 
+## Public Announcements
+| Documents | Description   |
+| ------------- |:-------------:|
+| [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
+| [Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners](./year_at_a_glance_2025.md) | Notes on our activities and presence in 2025 across ACM SIGGRAPH 2025, ACM Multimedia 2025 and ACM SIGGRAPH Asia 2025 conferenes |
+
+
 ## For newcomers
 | Documents | Description   |
 | ------------- |:-------------:|
@@ -25,13 +32,6 @@ These documents vary in their topics, from workplace guidances to technical dige
 | [`Learn more about computer-generated holography`](https://kaanaksit.com/odak/course/computer_generated_holography/) | This documentation will link you to a specific section in our course notes. |
 | [`Explore our printable designs`](https://github.com/complight/optomechanics) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
 | [`Tips and tricks for using our 3D printer`](3d_printing.md) | Often times, we design and print our equipment for our laboratory experiments. This link will navigate you to a catalog of items that we designed for our experiments.|
-
-
-## Public Announcements
-| Documents | Description   |
-| ------------- |:-------------:|
-| [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
-| [Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners](./year_at_a_glance_2025.md) | Notes on our activities and presence in 2025 across ACM SIGGRAPH 2025, ACM Multimedia 2025 and ACM SIGGRAPH Asia 2025 conferenes |
 
 
 ## Technical Notes
