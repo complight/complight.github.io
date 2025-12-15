@@ -108,17 +108,15 @@ Resolution bounds the upper payload capacity under similar perceptual fidelity o
 This work provides a light-weighted, human-centered, latent-based steganography framework which boosts payload capacity and accuracy while maintaining image quality.
 By satiating the need of large capacity in transmitting messages, we step towards practical applications of steganography in real-world scenarios.
 
-<!-- ## Photo gallery
-Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia 2025 experience. -->
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia 2025 experience.
 
-<!-- TODO -->
-<!-- <figure markdown>
-  ![](./media/hologram_compression_sig25_photos_001.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photos_002.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photos_003.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photos_004.jpg){ width="390", align=left }
-  ![](./media/hologram_compression_sig25_photos_005.jpg){ width="390", align=left }
-</figure> -->
+<figure markdown>
+  ![](./media/foveated_steganography_000.jpg){ width="390", align=left }
+  ![](./media/foveated_steganography_001.jpg){ width="390", align=left }
+  ![](./media/foveated_steganography_002.jpg){ width="390", align=left }
+  ![](./media/foveated_steganography_003.jpg){ width="390", align=left }
+</figure>
 
 ## Relevant research works
 Here are relevant research works from the authors:
