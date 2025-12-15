@@ -112,10 +112,10 @@ By satiating the need of large capacity in transmitting messages, we step toward
 Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia 2025 experience.
 
 <figure markdown>
-  ![](./media/foveated_steganography_000.jpg){ width="390", align=left }
   ![](./media/foveated_steganography_001.jpg){ width="390", align=left }
   ![](./media/foveated_steganography_002.jpg){ width="390", align=left }
   ![](./media/foveated_steganography_003.jpg){ width="390", align=left }
+  ![](./media/foveated_steganography_004.jpg){ width="390", align=left }
 </figure>
 
 ## Relevant research works
