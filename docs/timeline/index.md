@@ -8,6 +8,8 @@
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
 </div>
 ⚡ Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners in 2025. To find out more by visiting [our article](../documentation/year_at_a_glance_2025).
+<br />
+<br />
 
 
 <div style="float: left; height:100px;" class="boxed">
@@ -124,7 +126,6 @@ This work is a collaboration between
 [Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
 [Kaan Akşit](https://kaanaksit.com),
 and [Ozcan Aydogan](https://www.ee.ucla.edu/aydogan-ozcan).
-<br />
 <br />
 
 
