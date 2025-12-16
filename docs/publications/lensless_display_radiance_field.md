@@ -136,6 +136,17 @@ To overcome these constraints, we outline several promising research directions.
 First, developing an end-to-end pipeline that eliminates PSF convolutions, cropping, and padding.
 Second, hash encoding or Gaussian splatting could model light fields more efficiently.
 
+
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia 2025 experience.
+
+
+<figure markdown>
+  ![](./media/learned_display_radience_001.jpg){ width="390", align=left }
+  ![](./media/learned_display_radience_002.jpg){ width="390", align=left }
+</figure>
+
+
 ## Relevant research works
 Here are relevant research works from the authors:
 
