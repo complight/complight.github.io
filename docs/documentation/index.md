@@ -41,5 +41,6 @@ These documents vary in their topics, from workplace guidances to technical dige
 | [`How to add a user with controlled access to resources`](computing/how_to_add_a_user_with_controlled_access_to_resources.md) |
 | [`How to change name server on Ubuntu permanently`](computing/how_to_change_name_server_on_ubuntu_permanently.md) |
 | [`How to copy or restore tmux settings`](computing/how_to_copy_or_restore_tmux_settings.md) |
+| [`Rotating yur screen in Ubuntu 25.10 via thge terminal`](computing/rotating_your_screen_in_ubuntu_25_10_via_the_terminal.md) |
 
 
