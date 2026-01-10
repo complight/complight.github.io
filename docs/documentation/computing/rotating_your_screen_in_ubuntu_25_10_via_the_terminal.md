@@ -16,6 +16,7 @@ sudo apt update  # Update package lists
 sudo apt install dbus  # Install the D-Bus library
 wget https://raw.githubusercontent.com/fraz0815/gnome-randr/refs/heads/master/gnome-randr.py  
 ````
+
 ### Download the gnome-randr.py script
 ```
 sudo mv gnome-randr.py /usr/bin/gnome-randr  # Move the script to a standard executable directory
