@@ -2,7 +2,7 @@
 
 _Written by [**Kaan Akşit**](https://kaanaksit.com), 10 January 2026_
 
-**Disclamer:** This article is only tested under Ubuntu 24.10.
+**Disclamer:** This article is only tested under Ubuntu 25.10.
 
 This tutorial guides you through rotating your screen using the terminal in Ubuntu 25.10. Modern Ubuntu systems have moved away from the traditional X Window System, making simple xrandr commands unreliable. This solution leverages `gnome-randr.py` to achieve the desired result.
 
