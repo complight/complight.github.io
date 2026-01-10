@@ -11,17 +11,19 @@ Older methods for screen rotation using xrandr often don't work reliably in Ubun
 
 ## Step 1: Installing Required Components
 First, you need to install the necessary dependencies. Open a terminal (Ctrl+Alt+T) and execute the following commands:
+
 ```
 sudo apt update  # Update package lists
 sudo apt install dbus  # Install the D-Bus library
 wget https://raw.githubusercontent.com/fraz0815/gnome-randr/refs/heads/master/gnome-randr.py  
-````
+```
 
 ### Download the gnome-randr.py script
+
 ```
 sudo mv gnome-randr.py /usr/bin/gnome-randr  # Move the script to a standard executable directory
 sudo chmod +x /usr/bin/gnome-randr  # Make the script executable
-````
+```
 
 ## Step 2: Creating an Installation Script (Optional, for Scalability)
 
@@ -38,7 +40,7 @@ sudo apt install dbus
 wget https://raw.githubusercontent.com/fraz0815/gnome-randr/refs/heads/master/gnome-randr.py
 sudo mv gnome-randr.py /usr/bin/gnome-randr
 sudo chmod +x /usr/bin/gnome-randr
-````
+```
 
 Save the file and exit the editor. Make the script executable and run it with root privileges:
 
