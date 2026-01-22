@@ -22,14 +22,15 @@
 
 
 ## Seminars
-We organize a seminar series named `High-Beams`.
+We organize a seminar series named `High-Beams Seminars`.
 High-Beams seminar series is an exclusive event where we host experts across the industry and academia.
 Overall, seminars are a blend of internal and external presenters.
 
 !!! Question
-    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:kaanaksit@kaanaksit.com) or subscribe yourself to [our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars) (open to public).
+    If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:kaanaksit@kaanaksit.com) or subscribe yourself to [our mailing list](mailto:high-beams-seminars-join@ucl.ac.uk) (open to public).
     
-    [Subscribe to our mailing list](https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars){ .md-button .md-button--primary }
+    [Subscribe (Join) to our mailing list](mailto:high-beams-seminars-join@ucl.ac.uk){ .md-button .md-button--primary }
+    [UnSubscribe to our mailing list](mailto:high-beams-seminars-unsubscribe@ucl.ac.uk){ .md-button .md-button--primary }
 
 
 ### 2025
