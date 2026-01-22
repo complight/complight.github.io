@@ -30,7 +30,7 @@ Overall, seminars are a blend of internal and external presenters.
     If you are wondering how to get an invitation to the next seminar series, please do not hesitate to email [Kaan Akşit](mailto:kaanaksit@kaanaksit.com) or subscribe yourself to [our mailing list](mailto:high-beams-seminars-join@ucl.ac.uk) (open to public).
     
     [Subscribe (Join) to our mailing list](mailto:high-beams-seminars-join@ucl.ac.uk){ .md-button .md-button--primary }
-    [UnSubscribe to our mailing list](mailto:high-beams-seminars-unsubscribe@ucl.ac.uk){ .md-button .md-button--primary }
+    [Unsubscribe from our mailing list](mailto:high-beams-seminars-unsubscribe@ucl.ac.uk){ .md-button .md-button--primary }
 
 
 ### 2025
