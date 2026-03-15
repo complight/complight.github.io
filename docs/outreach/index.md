@@ -32,6 +32,22 @@ Overall, seminars are a blend of internal and external presenters.
     [Subscribe (Join) to our mailing list](mailto:high-beams-seminars-join@ucl.ac.uk){ .md-button .md-button--primary }
     [Unsubscribe from our mailing list](mailto:high-beams-seminars-unsubscribe@ucl.ac.uk){ .md-button .md-button--primary }
 
+### 2026
+These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
+
+#### Arjun Teh (Epic Games)
+
+??? Details
+    **Date:**
+    11th March 2026
+
+    **Presenters:** [Arjun Teh](https://www.cs.cmu.edu/~ateh/), Postdoctoral Researcher, Epic Games
+
+    **Title:** Computational Lens Design
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQBeepTjeucjS7Lyzf82lexrAQpYVaaPpOVc67_kJJeNiAU?e=4eyu2F)
+
+
 
 ### 2025
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
