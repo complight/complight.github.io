@@ -35,6 +35,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2026
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Hyenho Jeong (Adobe)
+
+??? Details
+    **Date:**
+    18th March 2026
+
+    **Presenters:** [Hyenho Jeong](https://hyeonho99.github.io/), Research Engineer, Adobe
+
+    **Title:** Augmenting Video-to-Video Diffusion Models with Explicit Memory
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQA17HTO8fMERoE7SStEUMgEAUlZ1grm7h2aMisovI3WxPo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=bEvcnr)
+
+
 #### Arjun Teh (Epic Games)
 
 ??? Details
