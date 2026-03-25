@@ -21,11 +21,12 @@
 <sup>1</sup>University College London,
 <sup>2</sup>Pohang University of Science and Technology (POSTECH)
 </p>
-<p style="text-align:center;"><b>ACM Transactions on Graphics (Presented at SIGGRAPH 2026)</b></p>
+<p style="text-align:center;"><b>ACM Transactions on Graphics</b></p>
+<p style="text-align:center;"><b>(Presented at SIGGRAPH 2026)</b></p>
 
 ## Resources
-:material-newspaper-variant: [Manuscript](https://dl.acm.org/doi/10.1145/3804450)
-:material-newspaper-variant: [Supplementary](https://dl.acm.org/doi/10.1145/3804450)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ACMTOG_Complex_valued_holographic_radiance_fields.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ACMTOG_Supplementary_Complex_valued_holographic_radiance_fields.pdf)
 :material-file-code: [Code](https://github.com/complight/Complex_Valued_Holographic_Radiance_Fields)
 
 ??? info ":material-tag-text: Bibtex"
