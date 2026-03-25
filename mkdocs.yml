@@ -30,14 +30,15 @@ nav:
     - Zicong Peng: 'https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN'
     - Henry Kam (甘皓宇): 'http://gulpinhenry.github.io/'
     - Chuanjun Zheng: 'https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&'
-  - Timeline: 
+  - Timeline:
     - Recent news: 'timeline/index.md'
     - Highlighted events:
-      - 'Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners' : 'documentation/year_at_a_glance_2025.md' 
+      - 'Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners' : 'documentation/year_at_a_glance_2025.md'
       - 'Computational Light Laboratory contributes to ACM SIGGRAPH Asia 2024 with innovative computational display and lensless camera research' : 'documentation/siggraph_asia_2024.md'
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Complex-Valued Holographic Radiance Fields': 'publications/complex_valued_holographic_radiance_fields.md'
       - 'Learned Display Radiance Fields with Lensless Cameras': 'publications/lensless_display_radiance_field.md'
       - 'Foveation Improves Payload Capacity in Steganography': 'publications/foveated_steganography.md'
       - 'Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays': 'publications/multitasking_perceptual_graphics.md'
@@ -58,7 +59,7 @@ nav:
     - COMP0160 Perception and Interfaces (Spring 2022):
       - Description: 'teaching/comp0160_perception_and_interfaces.md'
       - Coursework 1: 'teaching/comp0160_coursework_1.md'
-      - Practical: 'teaching/comp0160_practical.md' 
+      - Practical: 'teaching/comp0160_practical.md'
     - COMP088 Introduction to Machine Learning (Winter 2023):
       - How to setup your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
       - How to implement Gradient Descent solver using Numpy: 'https://youtu.be/-ilAaJlUvYI'
