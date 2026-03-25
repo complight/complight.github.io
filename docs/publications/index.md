@@ -1,5 +1,34 @@
 # Publications
 
+## 2026
+
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/compval_teaser.png" width="200" alt/>
+</div>
+**Complex-Valued Holographic Radiance Fields**
+
+<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+
+[Yicheng Zhan](https://albertgary.github.io/),
+[Dong-Ha Shin](https://dhsh.in/),
+[Seung-Hwan Baek](https://www.shbaek.com/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](complex_valued_holographic_radiance_fields.md)
+:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2506.08350)
+:material-file-code: [Code](https://github.com/complight/Complex_Valued_Holographic_Radiance_Fields)
+??? info ":material-tag-text: Bibtex"
+	```
+        @article{zhan2026compval,
+          author  = {Zhan, Yicheng and Shin, Dong-Ha and Baek, Seung-Hwan and Ak\c{s}it, Kaan},
+          title   = {Complex-Valued Holographic Radiance Fields},
+          journal = {ACM Transactions on Graphics (TOG)},
+          year    = {2026},
+          note    = {Presented at SIGGRAPH 2026}
+        }
+	```
+<br clear="left"/>
+
 
 ## 2025
 
@@ -331,7 +360,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
-and [Kaan Akşit](https://kaanaksit.com) 
+and [Kaan Akşit](https://kaanaksit.com)
 
 
 :material-web: [Project site](multi_color.md)
@@ -628,7 +657,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 
 <br clear="left"/>
- 
+
 
 ## 2021
 
@@ -655,21 +684,21 @@ and [Kaan Akşit](https://kaanaksit.com)
 ??? info ":material-tag-text: Bibtex"
 	```
 	@ARTICLE{10.3389/frvir.2021.763340,
-	AUTHOR={Orlosky, Jason and Sra, Misha and Bektaş, Kenan and Peng, Huaishu and Kim, Jeeeun and Kos’myna, Nataliya and Höllerer, Tobias and Steed, Anthony and Kiyokawa, Kiyoshi and Ak\c{s}it, Kaan},   
-	TITLE={Telelife: The Future of Remote Living},      
-	JOURNAL={Frontiers in Virtual Reality},      
-	VOLUME={2},      
-	PAGES={147},     
-	YEAR={2021},      
-	URL={https://www.frontiersin.org/article/10.3389/frvir.2021.763340},       
-	DOI={10.3389/frvir.2021.763340},      
-	ISSN={2673-4192},   
+	AUTHOR={Orlosky, Jason and Sra, Misha and Bektaş, Kenan and Peng, Huaishu and Kim, Jeeeun and Kos’myna, Nataliya and Höllerer, Tobias and Steed, Anthony and Kiyokawa, Kiyoshi and Ak\c{s}it, Kaan},
+	TITLE={Telelife: The Future of Remote Living},
+	JOURNAL={Frontiers in Virtual Reality},
+	VOLUME={2},
+	PAGES={147},
+	YEAR={2021},
+	URL={https://www.frontiersin.org/article/10.3389/frvir.2021.763340},
+	DOI={10.3389/frvir.2021.763340},
+	ISSN={2673-4192},
 	}
 	```
 
 
 <br clear="left"/>
- 
+
 
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/sensicut.png" width="200" alt/>
@@ -702,8 +731,8 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 	```
 
 <br clear="left"/>
- 
- 
+
+
 
 
 <div style="float: left; height:340px;" class="boxed">
@@ -736,8 +765,8 @@ and Tobias Ritschel
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 <div style="float: left; height:340px;" class="boxed">
@@ -769,8 +798,8 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -807,8 +836,8 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 <div style="float: left; height:340px;" class="boxed">
@@ -840,8 +869,8 @@ and [Kaan Akşit](https://kaanaksit.com)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -876,8 +905,8 @@ and [Christian Richardt](https://richardt.name/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 <div style="float: left; height:340px;" class="boxed">
@@ -921,8 +950,8 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 ## 2018
@@ -938,7 +967,7 @@ and [David Luebke](https://luebke.us/)
 :material-eye: **Presented at SIGGRAPH ASIA 2018**
 
 [Praneeth Chakravarthula](http://www.cs.unc.edu/~cpk/),
-[David Dunn](http://www.qenops.com/), 
+[David Dunn](http://www.qenops.com/),
 [Kaan Akşit](https://kaanaksit.com)
 and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
@@ -957,8 +986,8 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 <div style="float: left; height:340px;" class="boxed">
@@ -999,8 +1028,8 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1032,8 +1061,8 @@ and [David Luebke](https://luebke.us/)
 	year = {2017}}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1048,13 +1077,13 @@ and [David Luebke](https://luebke.us/)
 
 :fontawesome-solid-award: **SIGGRAPH 2017 Emerging Technologies DCEXPO Special Prize**
 
-[David Dunn](http://www.qenops.com/), 
-Cary Tippets, 
-Kent Torell, 
-[Petr Kellnhofer](https://kellnhofer.xyz/), 
-[Kaan Akşit](https://kaanaksit.com), 
-[Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/), 
-[Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/), 
+[David Dunn](http://www.qenops.com/),
+Cary Tippets,
+Kent Torell,
+[Petr Kellnhofer](https://kellnhofer.xyz/),
+[Kaan Akşit](https://kaanaksit.com),
+[Piotr Didyk](https://www.pdf.inf.usi.ch/people/piotr/),
+[Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/),
 [David Luebke](https://luebke.us/)
 and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
@@ -1076,8 +1105,8 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 	}}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 ## 2016
@@ -1088,8 +1117,8 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 
 <img src="https://img.shields.io/badge/-Arxiv-yellowgreen">
 
-[Kaan Akşit](https://kaanaksit.com), 
-[Jan Kautz](https://www.jankautz.com/) 
+[Kaan Akşit](https://kaanaksit.com),
+[Jan Kautz](https://www.jankautz.com/)
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://arxiv.org/abs/2003.08499)
@@ -1115,8 +1144,8 @@ and [David Luebke](https://luebke.us/)
 
 <img src="https://img.shields.io/badge/-Applied Optics-blueviolet">
 
-[Kaan Akşit](https://kaanaksit.com), 
-[Jan Kautz](https://www.jankautz.com/) 
+[Kaan Akşit](https://kaanaksit.com),
+[Jan Kautz](https://www.jankautz.com/)
 and [David Luebke](https://luebke.us/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/AO.54.003422)
@@ -1125,15 +1154,15 @@ and [David Luebke](https://luebke.us/)
 :material-file-video: [Video](https://www.youtube.com/watch?v=UYGa6n_0aUs&)
 ??? info ":material-tag-text: Bibtex"
 	```
-	@article{Aksit:15, 
-	author = {Kaan Ak\c{s}it and Jan Kautz and David Luebke}, 
-	journal = {Appl. Opt.}, 
+	@article{Aksit:15,
+	author = {Kaan Ak\c{s}it and Jan Kautz and David Luebke},
+	journal = {Appl. Opt.},
 	keywords = {Apertures; Vision - binocular and stereopsis ; Computational imaging},
-	number = {11}, 
-	pages = {3422--3427}, 
+	number = {11},
+	pages = {3422--3427},
 	publisher = {OSA},
-	title = {Slim near-eye display using pinhole aperture arrays}, 
-	volume = {54}, 
+	title = {Slim near-eye display using pinhole aperture arrays},
+	volume = {54},
 	month = {Apr},
 	year = {2015},
 	url = {http://ao.osa.org/abstract.cfm?URI=ao-54-11-3422},
@@ -1142,8 +1171,8 @@ and [David Luebke](https://luebke.us/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1157,7 +1186,7 @@ and [David Luebke](https://luebke.us/)
 
 [Kaan Akşit](https://kaanaksit.com),
 Daniel Kade,
-Oğuzhan Özcan 
+Oğuzhan Özcan
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1145/2663806.2663826)
@@ -1182,11 +1211,11 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	 publisher = {ACM},
 	 address = {New York, NY, USA},
 	 keywords = {head-mounted projection display, immersive environments, laser projector, mixed reality, motion capture},
-	} 
+	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1198,23 +1227,23 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 <img src="https://img.shields.io/badge/-Optics Letters-blue">
 
 [Kaan Akşit](https://kaanaksit.com),
-Amir Niaki, 
-Erdem Ulusoy 
+Amir Niaki,
+Erdem Ulusoy
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OL.39.006903)
 :material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/ol-39-24-6903.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
-	@article{Aksit:14, 
-	author = {Kaan Ak\c{s}it and Amir Hossein Ghanbari Niaki and Erdem Ulusoy and Hakan Urey}, 
-	journal = {Opt. Lett.}, 
+	@article{Aksit:14,
+	author = {Kaan Ak\c{s}it and Amir Hossein Ghanbari Niaki and Erdem Ulusoy and Hakan Urey},
+	journal = {Opt. Lett.},
 	keywords = {Displays; Vision - binocular and stereopsis ; Visual optics, accommodation},
-	number = {24}, 
-	pages = {6903--6906}, 
+	number = {24},
+	pages = {6903--6906},
 	publisher = {OSA},
-	title = {Super stereoscopy technique for comfortable and realistic 3D displays}, 
-	volume = {39}, 
+	title = {Super stereoscopy technique for comfortable and realistic 3D displays},
+	volume = {39},
 	month = {Dec},
 	year = {2014},
 	url = {http://ol.osa.org/abstract.cfm?URI=ol-39-24-6903},
@@ -1223,8 +1252,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1235,11 +1264,11 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 <img src="https://img.shields.io/badge/-Globecom-brightgreen">
 
-Stefan Schmid, 
-D. Schwyn, 
-[Kaan Akşit](https://kaanaksit.com), 
-Giorgio Corbellini, 
-Thomas Gross 
+Stefan Schmid,
+D. Schwyn,
+[Kaan Akşit](https://kaanaksit.com),
+Giorgio Corbellini,
+Thomas Gross
 and [Stefan Mangold](https://www.lovefield.ch/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/GLOCOMW.2014.7063484)
@@ -1258,8 +1287,8 @@ and [Stefan Mangold](https://www.lovefield.ch/)
 	month={Dec},}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1270,10 +1299,10 @@ and [Stefan Mangold](https://www.lovefield.ch/)
 
 <img src="https://img.shields.io/badge/-Communications magazine-green">
 
-Giorgio Corbellini, 
-[Kaan Akşit](https://kaanaksit.com), 
+Giorgio Corbellini,
+[Kaan Akşit](https://kaanaksit.com),
 [Stefan Mangold](https://www.lovefield.ch/)
-Stefan Schmid 
+Stefan Schmid
 and Thomas R. Gross
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/MCOM.2014.6852086)
@@ -1295,8 +1324,8 @@ and Thomas R. Gross
 	month={July},}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1308,12 +1337,12 @@ and Thomas R. Gross
 
 <img src="https://img.shields.io/badge/-Optics Express-informational">
 
-[Kaan Akşit](https://kaanaksit.com), 
-Hadi Baghsiahi, 
-P. Surman, 
-Selim Ӧlçer, 
-E. Willman, 
-David R. Selviah, 
+[Kaan Akşit](https://kaanaksit.com),
+Hadi Baghsiahi,
+P. Surman,
+Selim Ӧlçer,
+E. Willman,
+David R. Selviah,
 Sally Day
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
@@ -1322,15 +1351,15 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 :material-file-video: [Video](https://www.youtube.com/watch?v=Oh1xDgdbvYU)
 ??? info ":material-tag-text: Bibtex"
 	```
-	@article{Aksit:13, 
-	author = {Kaan Ak\c{s}it and Hadi Baghsiahi and Phil Surman and Selim Ӧl\c{c}er and Eero Willman and David R. Selviah and Sally Day and Hakan Urey}, 
-	journal = {Opt. Express}, 
+	@article{Aksit:13,
+	author = {Kaan Ak\c{s}it and Hadi Baghsiahi and Phil Surman and Selim Ӧl\c{c}er and Eero Willman and David R. Selviah and Sally Day and Hakan Urey},
+	journal = {Opt. Express},
 	keywords = {Displays; Optical systems; Optoelectronics; Laser beam shaping; Vision - binocular and stereopsis},
-	number = {12}, 
-	pages = {14331--14341}, 
+	number = {12},
+	pages = {14331--14341},
 	publisher = {OSA},
-	title = {Dynamic exit pupil trackers for autostereoscopic displays}, 
-	volume = {21}, 
+	title = {Dynamic exit pupil trackers for autostereoscopic displays},
+	volume = {21},
 	month = {Jun},
 	year = {2013},
 	url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-21-12-14331},
@@ -1339,8 +1368,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1354,8 +1383,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-eye: **[Spotlight on Optics](https://www.osapublishing.org/spotlight/summary.cfm?uri=oe-21-23-29043)**
 
-Osman Eldes, 
-[Kaan Akşit](https://kaanaksit.com) 
+Osman Eldes,
+[Kaan Akşit](https://kaanaksit.com)
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.21.029043)
@@ -1380,8 +1409,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 
@@ -1395,10 +1424,10 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :fontawesome-solid-award: **Best 3D product award of International 3D Society (4th year)**
 
-[Kaan Akşit](https://kaanaksit.com), 
-Osman Eldeş, 
-Selvan Viswanathan, 
-Mark Freeman 
+[Kaan Akşit](https://kaanaksit.com),
+Osman Eldeş,
+Selvan Viswanathan,
+Mark Freeman
 and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 :material-web-box: [Publisher site](https://doi.org/10.1109/JDT.2012.2205664)
@@ -1408,8 +1437,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	```
 	@ARTICLE{6297485,
 	  author={Aksit, Kaan and Eldes, Osman and Viswanathan, Selvan and Freeman, Mark O. and Urey, Hakan},
-	  journal={Journal of Display Technology}, 
-	  title={Portable 3D Laser Projector Using Mixed Polarization Technique}, 
+	  journal={Journal of Display Technology},
+	  title={Portable 3D Laser Projector Using Mixed Polarization Technique},
 	  year={2012},
 	  volume={8},
 	  number={10},
@@ -1417,8 +1446,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 	  doi={10.1109/JDT.2012.2205664}}
 	```
 <br clear="left"/>
- 
- 
+
+
 
 
 ## 2010
@@ -1429,8 +1458,8 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 
 <img src="https://img.shields.io/badge/-Optics Express-informational">
 
-Giovanni Cennini, 
-Jeremie Arguel, 
+Giovanni Cennini,
+Jeremie Arguel,
 [Kaan Akşit](https://kaanaksit.com)
 and Arno van Leest
 
@@ -1439,15 +1468,15 @@ and Arno van Leest
 :material-file-video: [Video](http://youtu.be/5X1clsjqQnw)
 ??? info ":material-tag-text: Bibtex"
 	```
-	@article{Cennini:10, 
-	author = {Giovanni Cennini and Jeremie Arguel and Kaan Ak\c{s}it and Arno van Leest}, 
-	journal = {Opt. Express}, 
+	@article{Cennini:10,
+	author = {Giovanni Cennini and Jeremie Arguel and Kaan Ak\c{s}it and Arno van Leest},
+	journal = {Opt. Express},
 	keywords = {Medical optics instrumentation; Optical devices; Optical sensing and sensors},
-	number = {5}, 
-	pages = {4867--4875}, 
+	number = {5},
+	pages = {4867--4875},
 	publisher = {OSA},
-	title = {Heart rate monitoring via remote photoplethysmography with motion artifacts reduction}, 
-	volume = {18}, 
+	title = {Heart rate monitoring via remote photoplethysmography with motion artifacts reduction},
+	volume = {18},
 	month = {Mar},
 	year = {2010},
 	url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-18-5-4867},
@@ -1456,7 +1485,3 @@ and Arno van Leest
 	}
 	```
 <br clear="left"/>
- 
- 
-
-

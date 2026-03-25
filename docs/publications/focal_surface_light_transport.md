@@ -56,22 +56,22 @@
 
 
 ## Abstract
-Computer-Generated Holography (CGH) is a set of algorithmic methods for identifying holograms that reconstruct Three-Dimensional (3D) scenes 
+Computer-Generated Holography (CGH) is a set of algorithmic methods for identifying holograms that reconstruct Three-Dimensional (3D) scenes
 in holographic displays. CGH algorithms decompose 3D scenes into multiplanes at different depth levels and rely on simulations
-of light that propagated from a source plane to a targeted plane. Thus, for $n$ planes, CGH typically optimizes holograms using $n$ plane-to-plane 
-light transport simulations, leading to major time and computational demands. Our work replaces multiple planes with a focal surface and introduces 
-a learned light transport model that could propagate a light field from a source plane to the focal surface in a single inference. Our model leverages 
-spatially adaptive convolution to achieve depth-varying propagation demanded by targeted focal surfaces. The proposed model reduces the hologram 
+of light that propagated from a source plane to a targeted plane. Thus, for $n$ planes, CGH typically optimizes holograms using $n$ plane-to-plane
+light transport simulations, leading to major time and computational demands. Our work replaces multiple planes with a focal surface and introduces
+a learned light transport model that could propagate a light field from a source plane to the focal surface in a single inference. Our model leverages
+spatially adaptive convolution to achieve depth-varying propagation demanded by targeted focal surfaces. The proposed model reduces the hologram
 optimization process up to $1.5x$, which contributes to hologram dataset generation and the training of future learned CGH models.
 
 
 ## Focal Surface Holographic Light Transport
-Simulating light propagation among multiple planes in a 3D volume is computationally 
+Simulating light propagation among multiple planes in a 3D volume is computationally
 demanding, as a 3D volume is represented with multiple planes and each plane requires
-a separate calculation of light propagation to reconstruct the target image. Thus, 
-for $n$ planes, conventional light transport simulation methods require $n$ plane-to-plane 
+a separate calculation of light propagation to reconstruct the target image. Thus,
+for $n$ planes, conventional light transport simulation methods require $n$ plane-to-plane
 simulations, leading to major time and computational demands. Our work replaces multiple
-planes with a focal surface and introduces a learned light transport model that could 
+planes with a focal surface and introduces a learned light transport model that could
 propagate a light field from a source plane to the focal surface in a single inference,
 reducing simulation time by $10x$.
 
@@ -80,15 +80,15 @@ reducing simulation time by $10x$.
 </figure>
 
 ## Results
-When simulating a full-color, all-in-focus 3D image across a focal surface, conventional 
-Angular Spectrum Method (ASM) requires eighteen forward passes to simulate the 3D image 
-with six depth planes given there are three color primaries. 
+When simulating a full-color, all-in-focus 3D image across a focal surface, conventional
+Angular Spectrum Method (ASM) requires eighteen forward passes to simulate the 3D image
+with six depth planes given there are three color primaries.
 
 <figure markdown>
   ![Image title](../publications/media/focal_surface_depth_plane.gif){ width="680" }
 </figure>
 
-Our work enables a new way to overcome this computational complexity 
+Our work enables a new way to overcome this computational complexity
 arising from plane to plane treatment, and unlocks a new rendering method that could
 propagate light beams from a plane to a focal surface.
 This new model could help reduce computational complexity in simulating light.
@@ -103,7 +103,7 @@ holographic displays with much ease and lesser computation.
  We utilize our model for a 3D phase-only hologram optimization application under
  $0 mm$ propagation distance. Optimizing holograms with six target planes using ASM
  is denoted as ASM 6, while Ours 6 represents optimizing holograms using our model with six
- focal surfaces. When comparing the simulation results, all holograms are reconstructed using ASM for performance assessment. 
+ focal surfaces. When comparing the simulation results, all holograms are reconstructed using ASM for performance assessment.
 Ours 6 achieves comparable results with about $70\%$ of the optimization time compared to ASM 6.
 
 <figure markdown>
@@ -160,7 +160,3 @@ The group is open to public and you can become a member by following [this link]
 ## Contact Us
 !!! Warning
     Please reach us through [email](mailto:chuanjunzhengcs@gmail.com) to provide your feedback and comments.
-
-
-
-
