@@ -15,7 +15,8 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](complex_valued_holographic_radiance_fields.md)
-:material-newspaper-variant: [Manuscript](https://arxiv.org/abs/2506.08350)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ACMTOG_Complex_valued_holographic_radiance_fields.pdf)
+:material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ACMTOG_Supplementary_Complex_valued_holographic_radiance_fields.pdf)
 :material-file-code: [Code](https://github.com/complight/Complex_Valued_Holographic_Radiance_Fields)
 ??? info ":material-tag-text: Bibtex"
 	```
