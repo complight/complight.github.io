@@ -24,6 +24,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/complex_valued_holographic_radiance_fields/">
+        <b>Complex-Valued Holographic Radiance Fields</b>
+        </a>
+        </h3>
+        <h5>
+        <b>ACM Transactions on Graphics (Presented at SIGGRAPH 2026)</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/compval_teaser.png" class="off-glb">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/lensless_display_radiance_field/">
         <b>Learned Display Radiance Fields with Lensless Cameras</b>
         </a>
@@ -31,7 +44,7 @@
         <h5>
         <b>ACM SIGGRAPH Asia 2025 Technical Communications</b>
         </h5>
-        <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg" class="off-glb"> 
+        <img height="300" width="600" src="publications/media/lensless_display_radiance_field_rep.jpg" class="off-glb">
         </div>
       </div>
       <div class="slide">
@@ -56,7 +69,7 @@
         </h3>
         <h5>
         <b>ACM Multimedia 2025</b>
-        </h5> 
+        </h5>
         <img height="500" width ="450" src="publications/media/multitasking_perceptual_graphics_thumbnail.jpg" class="off-glb">
         </div>
       </div>
@@ -185,4 +198,3 @@
 
 ???+ Question "Interested in joining our research group?"
     If you are interested in joining our group as an intern, an undergraduate student, a master student, a Ph.D. student, a postdoctoral researher or a visiting researcher, please do not hesitate to reach out to [Kaan Akşit](https://kaanaksit.com).
-
