@@ -1,5 +1,16 @@
 # Timeline
 
+## 2026
+
+### 25 March 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_tog.png" alt="ACM Transaction on Graphics" width="80" alt/>
+</div>
+📰 Our work, [`Complex-Valued Holographic Radiance Fields`](https://complightlab.com/publications/complex_valued_holographic_radiance_fields), is accepted to ACM Transactions on Graphics and will be presented at ACM SIGGRAPH 2026 in Los Angeles, United States of America. This work is a collaboration with a series of academic parties including [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Dong-Ha Shin](https://dhsh.in/), [Seung-Hwan Baek (백승환)](https://www.shbaek.com/) and [Kaan Akşit](https://kaanaksit.com)
+<br />
+<br />
+
+
 ## 2025
 
 
