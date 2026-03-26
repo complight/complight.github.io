@@ -61,13 +61,13 @@ Effective compression of double-phase holograms remains an unresolved challenge 
 ## Proposed Method
 Our baseline compresses double-phase holograms using a patch based framework built on GaussianImage, a Gaussian Splatting (GS)-based image representation method where each Gaussian is defined by its position, covariance, color coefficients, and opacity. However,hardclamping during rendering distorts the underlying distribution, causing blob artifacts as illustrated in the lower-left corner of the above teaser. Our frame work replaces it with a sinusoidal constraint, which smoothly controls the value range yielding artifact-free perceptual quality.
 
-The high-frequency nature of double-phase holograms poses challenges for Gaussian primitive representation, as Gaussians struggle to capture rapid phase oscillations across pixels, leading to suboptimal results.To improve this, we employ directional decomposition as a preprocessing step that separates high- and low-value components, allowing the model to bypass the high-frequency pattern from the outset. The decomposition is performed along vertical and horizontal directions, dividing checkerboard pixels into four groups by value. Both high- and low-value components undergo the same procedure: vertical decomposition reorganizes sparse pixels into denser images by interleaving columns, while horizontal decomposition interleaves the rows.
-
-Consequently, each decomposed image preserves half the spatial resolution on one axis allowing us to train the GS-based model for each decomposed image independently. The final compressed image is recombined by reversing the decomposition process, restoring the complete double-phase hologram.
+The high-frequency nature of double-phase holograms poses challenges for Gaussian primitive representation, as Gaussians struggle to capture rapid phase oscillations across pixels, leading to suboptimal results. To improve this, we employ directional decomposition as a preprocessing step that separates high- and low-value components, allowing the model to bypass the high-frequency pattern from the outset. The decomposition is performed along vertical and horizontal directions, dividing checkerboard pixels into four groups by value. Both high- and low-value components undergo the same procedure: vertical decomposition reorganizes sparse pixels into denser images by interleaving columns, while horizontal decomposition interleaves the rows.
 
 <figure markdown>
   ![Image title](media/compress_dph_2dgs_methods.png){ width="800" }
 </figure>
+
+Consequently, each decomposed image preserves half the spatial resolution on one axis allowing us to train the GS-based model for each decomposed image independently. The final compressed image is recombined by reversing the decomposition process, restoring the complete double-phase hologram.
 
 ## Conclusion
 
@@ -83,9 +83,9 @@ Unlike conventional learned methods treating holograms as regular images operati
   ![Image title](media/compress_dph_2dgs_results2.png){ width="800" }
 </figure>
 
-In our best case our decomposition utilizes 3% primitive counts compared to the baseline, achieving a compression ratio of 26% while preserving Mean PSNR = 43.39 dB, 0.97 SSIM, and 0.016 LPIPS in the reconstructed scenes. Compared with the baseline, our modification effectively eliminates blob artifacts and inter-patch boundary lines, while introducing moderate computational overhead, doubling the runtime.
+In our best case, our decomposition utilizes 3% primitive counts compared to the baseline, achieving a compression ratio of 26% while preserving Mean PSNR = 43.39 dB, 0.97 SSIM, and 0.016 LPIPS in the reconstructed scenes. Compared with the baseline, our modification effectively eliminates blob artifacts and inter-patch boundary lines, while introducing moderate computational overhead, doubling the runtime.
 
-## Photo gallery
+<!-- ## Photo gallery -->
 
 ## Relevant research works
 Here are relevant research works from the authors:
