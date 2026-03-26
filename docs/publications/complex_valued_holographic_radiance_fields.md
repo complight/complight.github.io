@@ -185,6 +185,229 @@ Below we show novel-view comparisons between our method and the 3DGS + U-Net bas
   ![Image title](media/compval_llff_results.png){ width="900" }
 </figure>
 
+### Interactive Viewer
+Use the sliders below to interactively compare the amplitude, phase, and reconstruction results across different depth planes.
+If the GIFs become unsynced, please click *Reset Media*.
+
+<div id="compval-viewer" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; flex-direction: column; align-items: center; background-color: #f8f9fa; color: #333; padding: 15px; border: 1px solid #ddd; border-radius: 4px;" markdown="0">
+    <!-- Top bar: scene buttons + reset -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin-bottom: 12px;">
+        <button class="cv-scene-btn" data-scene="chair" style="padding:6px 16px;background:#3498db;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;font-weight:bold;">Chair</button>
+        <button class="cv-scene-btn" data-scene="lego" style="padding:6px 16px;background:#7f8c8d;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Lego</button>
+        <button class="cv-scene-btn" data-scene="materials" style="padding:6px 16px;background:#7f8c8d;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Materials</button>
+        <button class="cv-scene-btn" data-scene="ship" style="padding:6px 16px;background:#7f8c8d;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Ship</button>
+        <button class="cv-scene-btn" data-scene="fern" style="padding:6px 16px;background:#7f8c8d;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Fern</button>
+        <button class="cv-scene-btn" data-scene="flower" style="padding:6px 16px;background:#7f8c8d;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Flower</button>
+        <span style="border-left:1px solid #ccc;height:24px;margin:0 4px;"></span>
+        <button id="cv-reset-btn" style="padding:6px 14px;background:#e74c3c;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;">Reset Media</button>
+    </div>
+    <!-- Row 1: Amplitude vs Phase -->
+    <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
+        <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Amplitude vs Phase</div>
+        <div style="display: flex; justify-content: center; width: 100%;">
+            <div id="cv-ap-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
+                <div id="cv-ap-gc" style="position: relative; overflow: hidden;">
+                    <div id="cv-amp-cont" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
+                    <div id="cv-phase-cont" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
+                    <div id="cv-ap-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 100%; max-width: 600px; margin-top: 5px;">
+            <input type="range" id="cv-ap-slider" min="0" max="100" value="50" style="width: 100%; cursor: pointer;">
+            <div style="display: flex; justify-content: space-between; font-size: 12px; color: #555;"><span>Amplitude</span><span>Phase</span></div>
+        </div>
+    </div>
+    <!-- Row 2: Reconstruction Plane 1 vs Plane 2 -->
+    <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
+        <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Reconstruction</div>
+        <div style="display: flex; justify-content: center; width: 100%;">
+            <div id="cv-recon-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
+                <div id="cv-recon-gc" style="position: relative; overflow: hidden;">
+                    <div id="cv-recon-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
+                    <div id="cv-recon-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
+                    <div id="cv-recon-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 100%; max-width: 600px; margin-top: 5px;">
+            <input type="range" id="cv-recon-slider" min="0" max="100" value="50" style="width: 100%; cursor: pointer;">
+            <div style="display: flex; justify-content: space-between; font-size: 12px; color: #555;"><span>Plane 1</span><span>Plane 2</span></div>
+        </div>
+    </div>
+    <!-- Row 3: Raw Amplitude Plane 1 vs Plane 2 -->
+    <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
+        <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Raw Amplitude</div>
+        <div style="display: flex; justify-content: center; width: 100%;">
+            <div id="cv-rawamp-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
+                <div id="cv-rawamp-gc" style="position: relative; overflow: hidden;">
+                    <div id="cv-rawamp-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
+                    <div id="cv-rawamp-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
+                    <div id="cv-rawamp-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 100%; max-width: 600px; margin-top: 5px;">
+            <input type="range" id="cv-rawamp-slider" min="0" max="100" value="50" style="width: 100%; cursor: pointer;">
+            <div style="display: flex; justify-content: space-between; font-size: 12px; color: #555;"><span>Plane 1</span><span>Plane 2</span></div>
+        </div>
+    </div>
+    <!-- Row 4: Raw Phase Plane 1 vs Plane 2 -->
+    <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
+        <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Raw Phase</div>
+        <div style="display: flex; justify-content: center; width: 100%;">
+            <div id="cv-rawphase-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
+                <div id="cv-rawphase-gc" style="position: relative; overflow: hidden;">
+                    <div id="cv-rawphase-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
+                    <div id="cv-rawphase-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
+                    <div id="cv-rawphase-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 100%; max-width: 600px; margin-top: 5px;">
+            <input type="range" id="cv-rawphase-slider" min="0" max="100" value="50" style="width: 100%; cursor: pointer;">
+            <div style="display: flex; justify-content: space-between; font-size: 12px; color: #555;"><span>Plane 1</span><span>Plane 2</span></div>
+        </div>
+    </div>
+</div>
+
+<script>
+(function() {
+    var BASE = '../media/';
+    var SCENES = {
+        chair:     { prefix: 'compval_chair' },
+        lego:      { prefix: 'compval_lego' },
+        materials: { prefix: 'compval_materials' },
+        ship:      { prefix: 'compval_ship' },
+        fern:      { prefix: 'compval_fern' },
+        flower:    { prefix: 'compval_flower' }
+    };
+    var SUFFIXES = {
+        amplitude: '_amplitude.webp',
+        phase: '_phase.webp',
+        p1_recon: '_plane1_reconstruction.webp',
+        p2_recon: '_plane2_reconstruction.webp',
+        p1_rawamp: '_plane1_raw_amplitude.webp',
+        p2_rawamp: '_plane2_raw_amplitude.webp',
+        p1_rawphase: '_plane1_raw_phase.webp',
+        p2_rawphase: '_plane2_raw_phase.webp'
+    };
+
+    var currentScene = 'chair';
+    var elems = {};
+
+    function $(id) { return document.getElementById(id); }
+
+    function gifUrl(scene, key) {
+        return BASE + SCENES[scene].prefix + SUFFIXES[key] + '?t=' + Date.now();
+    }
+
+    function makeImg(url, container) {
+        container.innerHTML = '';
+        var img = new Image();
+        img.style.cssText = 'display:block;width:100%;height:100%;object-fit:contain;';
+        img.alt = 'GIF';
+        img.src = url;
+        container.appendChild(img);
+        return img;
+    }
+
+    function adjust(lc, rc, outer, gc) {
+        var e1 = lc.firstChild, e2 = rc.firstChild;
+        if (!e1 && !e2) return;
+        var d = function(el) { return el ? { w: el.naturalWidth || 0, h: el.naturalHeight || 0 } : { w: 0, h: 0 }; };
+        var d1 = d(e1), d2 = d(e2);
+        var mw = Math.max(d1.w, d2.w), mh = Math.max(d1.h, d2.h);
+        if (mw > 0 && mh > 0) {
+            outer.style.width = mw + 'px';
+            outer.style.height = mh + 'px';
+            gc.style.width = mw + 'px';
+            gc.style.height = mh + 'px';
+        }
+    }
+
+    function updateComp(slider, lc, rc, div) {
+        var v = slider.value;
+        lc.style.clipPath = 'inset(0 ' + (100 - v) + '% 0 0)';
+        rc.style.clipPath = 'inset(0 0 0 ' + v + '%)';
+        div.style.left = v + '%';
+    }
+
+    var rows = [
+        { left: 'cv-amp-cont', right: 'cv-phase-cont', divider: 'cv-ap-divider',
+          outer: 'cv-ap-outer', gc: 'cv-ap-gc', slider: 'cv-ap-slider',
+          gifL: 'amplitude', gifR: 'phase' },
+        { left: 'cv-recon-p1', right: 'cv-recon-p2', divider: 'cv-recon-divider',
+          outer: 'cv-recon-outer', gc: 'cv-recon-gc', slider: 'cv-recon-slider',
+          gifL: 'p1_recon', gifR: 'p2_recon' },
+        { left: 'cv-rawamp-p1', right: 'cv-rawamp-p2', divider: 'cv-rawamp-divider',
+          outer: 'cv-rawamp-outer', gc: 'cv-rawamp-gc', slider: 'cv-rawamp-slider',
+          gifL: 'p1_rawamp', gifR: 'p2_rawamp' },
+        { left: 'cv-rawphase-p1', right: 'cv-rawphase-p2', divider: 'cv-rawphase-divider',
+          outer: 'cv-rawphase-outer', gc: 'cv-rawphase-gc', slider: 'cv-rawphase-slider',
+          gifL: 'p1_rawphase', gifR: 'p2_rawphase' }
+    ];
+
+    rows.forEach(function(r) {
+        var sl = $(r.slider);
+        sl.addEventListener('input', function() {
+            updateComp(sl, $(r.left), $(r.right), $(r.divider));
+        });
+    });
+
+    function loadScene(scene) {
+        currentScene = scene;
+        elems = {};
+        var promises = [];
+
+        rows.forEach(function(r) {
+            var lc = $(r.left), rc = $(r.right), sl = $(r.slider);
+            var imgL = makeImg(gifUrl(scene, r.gifL), lc);
+            var imgR = makeImg(gifUrl(scene, r.gifR), rc);
+            elems[r.gifL] = imgL;
+            elems[r.gifR] = imgR;
+
+            var done = false;
+            function onReady() {
+                if (done) return;
+                var w1 = imgL.naturalWidth || 0, w2 = imgR.naturalWidth || 0;
+                if (w1 > 0 || w2 > 0) {
+                    done = true;
+                    adjust(lc, rc, $(r.outer), $(r.gc));
+                    sl.value = 50;
+                    sl.dispatchEvent(new Event('input'));
+                }
+            }
+            imgL.onload = onReady;
+            imgR.onload = onReady;
+            var poll = setInterval(function() { onReady(); if (done) clearInterval(poll); }, 200);
+            setTimeout(function() { clearInterval(poll); }, 10000);
+        });
+
+        document.querySelectorAll('.cv-scene-btn').forEach(function(btn) {
+            if (btn.getAttribute('data-scene') === scene) {
+                btn.style.background = '#3498db';
+                btn.style.fontWeight = 'bold';
+            } else {
+                btn.style.background = '#7f8c8d';
+                btn.style.fontWeight = 'normal';
+            }
+        });
+    }
+
+    document.querySelectorAll('.cv-scene-btn').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            loadScene(this.getAttribute('data-scene'));
+        });
+    });
+
+    $('cv-reset-btn').addEventListener('click', function() {
+        loadScene(currentScene);
+    });
+
+    loadScene('chair');
+})();
+</script>
 
 ### Natural Defocus Blur
 Our method generates perceptually more plausible defocus blur compared to existing learned CGH methods, which often suffer from structured fringing effects.
