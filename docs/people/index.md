@@ -80,7 +80,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/merry_fan.png" width="160" alt/>
 </div>
-[Xiaoyue (Merry) Fan](http://www.linkedin.com/in/merryxyfan)
+[Xiaoyue (Merry) Fan](https://merryxyfan.github.io)
 
 MSc Student ([University College London](https://www.ucl.ac.uk))
 
