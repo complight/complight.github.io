@@ -34,7 +34,6 @@
         <img height="300" width="600" src="publications/media/compress_dph_2dgs_teaser.png" class="off-glb">
         </div>
       </div>
-
     <div class="slides" data-carousel-slides-container>
       <div class="slide">
         <div style="text-align: center;">

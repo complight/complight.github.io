@@ -17,7 +17,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Poster_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
 :material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Supplementary_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
-:material-file-code: [Code](https://github.com/merryxyfan/Compressing_Double_Phase_Holograms_using_2D_Gaussians)
+:material-file-code: [Code](https://github.com/complight/Compressing_Double_Phase_Holograms_using_2D_Gaussians)
 ??? info ":material-tag-text: Bibtex"
 	```
 	```
