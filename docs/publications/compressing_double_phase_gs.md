@@ -47,7 +47,7 @@
 
 ## Video
 <video controls>
-<source src="https://kaanaksit.com/assets/video/xxx.mp4" id="" type="video/mp4">
+<source src="https://kaanaksit.com/assets/video/FanEuroGraphics2026Compressing.mp4" id="" type="video/mp4">
 </video>
 
 ## Abstract
@@ -90,7 +90,6 @@ In our best case, our decomposition utilizes 3% primitive counts compared to the
 ## Relevant research works
 Here are relevant research works from the authors:
 
-- [Gaussianimage: 1000 fps image representation and compression by 2d gaussian splatting](https://arxiv.org/abs/2403.08551)
 - [Assessing learned models for phase-only hologram compression](https://complightlab.com/publications/assess_hologram_compression/)
 - [Computer-generated double phase holograms](https://opg.optica.org/ao/abstract.cfm?uri=ao-17-24-3874)
 - [Multi-color holograms improve brightness in holographic displays](https://arxiv.org/abs/2301.09950)
