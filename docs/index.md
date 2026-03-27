@@ -24,6 +24,21 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/compressing_double_phase_gs/">
+        <b>Compressing Double Phase Holograms using 2D Gaussians</b>
+        </a>
+        </h3>
+        <h5>
+        <b>EuroGraphics 2026 Poster</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/compress_dph_2dgs_teaser.png" class="off-glb">
+        </div>
+      </div>
+
+    <div class="slides" data-carousel-slides-container>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/complex_valued_holographic_radiance_fields/">
         <b>Complex-Valued Holographic Radiance Fields</b>
         </a>
