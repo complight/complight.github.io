@@ -106,45 +106,6 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <br clear="left"/>
 
 
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/lifeng_qiu_lin.png" width="160" alt/>
-</div>
-[Lifeng Qiu Lin](https://github.com/Gnefil)
-
-MSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:lifeng.qiu.lin.lq@gmail.com)
-
-:material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/henry_kam.png" width="160" alt/>
-</div>
-[Henry Kam (甘皓宇)](http://gulpinhenry.github.io/)
-
-MSc Student ([New York University](https://www.nyu.edu))
-
-:material-email: [E-mail](mailto:h3nrykam@gmail.com)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/chuanjun_zheng.png" width="160" alt/>
-</div>
-[Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&)
-
-MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
-
-:material-email: [E-mail](mailto:chuanjunzhengcs@gmail.com)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
 ## Alumni
 
 ### Post-Doctoral Researchers
@@ -159,6 +120,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 <!-- G -->
 - [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/), `Differentiable Ray Tracing for Designing Optical Parts,` 2022, Next: Senior Engineer at MBDA.
 <!-- H -->
+- [Henry Kam (甘皓宇)](http://gulpinhenry.github.io/), `Foveation Improves Payload Capacity in Steganography`, 2025, Next: Graduate student, New York University.
 - [Hongbin Zhang](https://www.linkedin.com/in/hongbin-zhang-60a36a372/), `2D Gaussian Splatting with Lensless Cameras`, 2025, Next: -.
 <!-- J -->
 - [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/), `Hologram Compression`, 2022, Next: Computer Vision Developer at Glimpse Analytics.
@@ -168,6 +130,7 @@ MSc Student ([Shenzhen University](https://en.szu.edu.cn/))
 - [Jingxuan Zhong](https://orcid.org/0009-0000-3539-4482), `Summaries Improve Consistency in LLM-based NPCs`, 2025, Next: M.Sc. Student at University College London.
 - Junhao Cheng, `Migrating Differentiable Rendering to Latent Space for designing immersive displays`, 2025, Next: High-School teacher.
 <!-- K -->
+<!-- L -->
 - [Lifeng Qiu Lin](https://github.com/Gnefil), `Foveation Improves Payload Capacity in Steganography`, 2025, Next: Visiting Researcher at Tsinghua University.
 <!-- O -->
 - [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: Ph.D. Student at University College London.
