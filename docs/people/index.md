@@ -52,7 +52,7 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/zicong_peng.png" width="160" alt/>
 </div>
-[Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN)
+[Zicong Peng (彭子骢)](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN)
 
 Close collaborator, Co-supervision
 
