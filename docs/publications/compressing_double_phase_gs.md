@@ -90,9 +90,9 @@ In our best case, our decomposition utilizes 3% primitive counts compared to the
 ## Relevant research works
 Here are relevant research works from the authors:
 
+- [Complex-Valued Holographic Radiance Fields](https://complightlab.com/publications/complex_valued_holographic_radiance_fields/)
 - [Assessing learned models for phase-only hologram compression](https://complightlab.com/publications/assess_hologram_compression/)
-- [Computer-generated double phase holograms](https://opg.optica.org/ao/abstract.cfm?uri=ao-17-24-3874)
-- [Multi-color holograms improve brightness in holographic displays](https://arxiv.org/abs/2301.09950)
+- [Multi-color holograms improve brightness in holographic displays](https://complightlab.com/publications/multi_color/)
 - [Odak](https://github.com/kaanaksit/odak)
 
 ## Outreach
