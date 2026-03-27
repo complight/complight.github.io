@@ -20,6 +20,13 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-file-code: [Code](https://github.com/complight/Compressing_Double_Phase_Holograms_using_2D_Gaussians)
 ??? info ":material-tag-text: Bibtex"
 	```
+	@inproceedings{fan2026comdph2dgs,
+	  booktitle = {Eurographics 2026 - Posters},
+	  title     = {Compressing Double-Phase Holograms using 2D Gaussians},
+	  author    = {Fan, Xiaoyue and Zhan, Yicheng and Mazumdar, Amrita and Ak{\c{s}}it, Kaan},
+	  year      = {2026},
+	  publisher = {The Eurographics Association},
+	}
 	```
 <br clear="left"/>
 
