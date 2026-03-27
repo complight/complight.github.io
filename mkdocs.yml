@@ -38,7 +38,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
-      - 'Compressing Double Phase Holograms using 2D Gaussians': 'publications/compressing_double_phase.md'
+      - 'Compressing Double Phase Holograms using 2D Gaussians': 'publications/compressing_double_phase_gs.md'
       - 'Complex-Valued Holographic Radiance Fields': 'publications/complex_valued_holographic_radiance_fields.md'
       - 'Learned Display Radiance Fields with Lensless Cameras': 'publications/lensless_display_radiance_field.md'
       - 'Foveation Improves Payload Capacity in Steganography': 'publications/foveated_steganography.md'

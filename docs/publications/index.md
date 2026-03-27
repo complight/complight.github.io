@@ -1,6 +1,30 @@
 # Publications
 
 ## 2026
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/compress_dph_2dgs_teaser.png" width="200" alt/>
+</div>
+**Compressing Double Phase Holograms using 2D Gaussians**
+
+<img src="https://img.shields.io/badge/-EuroGraphics-blue">
+
+[Xiaoyue Fan](https://merryxyfan.github.io/),
+[Yicheng Zhan](https://albertgary.github.io/),
+[Amrita Mazumdar](https://amritamaz.net/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](compressing_double_phase_gs.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Poster_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
+:material-newspaper-variant:[Supplementary](https://www.kaanaksit.com/assets/pdf/FanEtAl_EuroGraphics2026_Supplementary_Compressing_double_phase_holograms_using_2d_gaussians.pdf)
+:material-file-code: [Code](Compressing Double Phase Holograms using 2D Gaussians)
+??? info ":material-tag-text: Bibtex"
+	```
+	```
+<br clear="left"/>
+
+
+
 
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/compval_teaser.png" width="200" alt/>
