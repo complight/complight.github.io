@@ -36,7 +36,6 @@
               author    = {Fan, Xiaoyue and Zhan, Yicheng and Mazumdar, Amrita and Ak{\c{s}}it, Kaan},
               year      = {2026},
               publisher = {The Eurographics Association},
-            }
         }
 
 
