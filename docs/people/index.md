@@ -106,6 +106,20 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/maha_sahloul.png" width="160" alt/>
+</div>
+[Maha Sahloul](http://linkedin.com/in/maha-sahloul-52501422b)
+
+MSc Student ([Medipol University](https://www.medipol.edu.tr/))
+
+:material-email: [E-mail](mailto:sahloul.maha@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
+
 ## Alumni
 
 ### Post-Doctoral Researchers
