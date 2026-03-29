@@ -109,7 +109,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/maha_sahloul.png" width="160" alt/>
 </div>
-[Maha Sahloul](http://linkedin.com/in/maha-sahloul-52501422b)
+[Maha Sahloul (مها سحلول)](http://linkedin.com/in/maha-sahloul-52501422b)
 
 MSc Student ([Medipol University](https://www.medipol.edu.tr/))
 
