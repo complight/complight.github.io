@@ -6,7 +6,7 @@
     <tr>
       <td> <img src="../../people/merry_fan.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/yicheng_zhan.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td> <img src="../../people/amrita.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/amrita_mazumdar.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr> 
     <tr>
