@@ -35,6 +35,19 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2026
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+#### Youngjin Kim (Stanford University)
+
+??? Details
+    **Date:**
+    25th March 2026
+
+    **Presenters:** [Youngjin Kim](https://youngjin94.github.io/), Post-Doctoral Researcher, Stanford University
+
+    **Title:** Nanophotonics for Next-Generation Imaging Systems
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQCIjNqlV-KGQJJM6VnHu3xxAROrUekEfw2KZO7XwU3s6iw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJDk2f)
+
+
 #### Hyenho Jeong (Adobe)
 
 ??? Details
