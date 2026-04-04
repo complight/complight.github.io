@@ -6,3 +6,5 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Yicheng, Meta internship
 - Yicheng, ToG paper
 - Merry, EuroGraphics poster
+- Aiden, University of Oxford
+- Efe, Imperial College London
