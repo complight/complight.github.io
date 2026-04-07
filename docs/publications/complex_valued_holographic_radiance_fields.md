@@ -189,7 +189,7 @@ Below we show novel-view comparisons between our method and the 3DGS + U-Net bas
 Use the sliders below to interactively compare the amplitude, phase, and reconstruction results across different depth planes.
 If the GIFs become unsynced, please click *Reset Media*.
 
-<div id="compval-viewer" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; flex-direction: column; align-items: center; background-color: #f8f9fa; color: #333; padding: 15px; border: 1px solid #ddd; border-radius: 4px;" markdown="0">
+<div id="compval-viewer" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; flex-direction: column; align-items: center; background-color: #f8f9fa; color: #333; padding: 15px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; width: 100%;" markdown="0">
     <!-- Top bar: scene buttons + reset -->
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin-bottom: 12px;">
         <button class="cv-scene-btn" data-scene="chair" style="padding:6px 16px;background:#3498db;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:13px;font-weight:bold;">Chair</button>
@@ -205,8 +205,8 @@ If the GIFs become unsynced, please click *Reset Media*.
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
         <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Amplitude vs Phase</div>
         <div style="display: flex; justify-content: center; width: 100%;">
-            <div id="cv-ap-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
-                <div id="cv-ap-gc" style="position: relative; overflow: hidden;">
+            <div id="cv-ap-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 100%; max-width: 900px;">
+                <div id="cv-ap-gc" style="position: relative; overflow: hidden; width: 100%;">
                     <div id="cv-amp-cont" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
                     <div id="cv-phase-cont" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
                     <div id="cv-ap-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
@@ -222,8 +222,8 @@ If the GIFs become unsynced, please click *Reset Media*.
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
         <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Reconstruction</div>
         <div style="display: flex; justify-content: center; width: 100%;">
-            <div id="cv-recon-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
-                <div id="cv-recon-gc" style="position: relative; overflow: hidden;">
+            <div id="cv-recon-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 100%; max-width: 900px;">
+                <div id="cv-recon-gc" style="position: relative; overflow: hidden; width: 100%;">
                     <div id="cv-recon-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
                     <div id="cv-recon-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
                     <div id="cv-recon-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
@@ -239,8 +239,8 @@ If the GIFs become unsynced, please click *Reset Media*.
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
         <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Raw Amplitude</div>
         <div style="display: flex; justify-content: center; width: 100%;">
-            <div id="cv-rawamp-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
-                <div id="cv-rawamp-gc" style="position: relative; overflow: hidden;">
+            <div id="cv-rawamp-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 100%; max-width: 900px;">
+                <div id="cv-rawamp-gc" style="position: relative; overflow: hidden; width: 100%;">
                     <div id="cv-rawamp-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
                     <div id="cv-rawamp-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
                     <div id="cv-rawamp-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
@@ -256,8 +256,8 @@ If the GIFs become unsynced, please click *Reset Media*.
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 12px;">
         <div style="font-size: 14px; font-weight: bold; margin-bottom: 4px;">Raw Phase</div>
         <div style="display: flex; justify-content: center; width: 100%;">
-            <div id="cv-rawphase-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden;">
-                <div id="cv-rawphase-gc" style="position: relative; overflow: hidden;">
+            <div id="cv-rawphase-outer" style="position: relative; box-shadow: 0 2px 4px rgba(0,0,0,0.1); overflow: hidden; width: 100%; max-width: 900px;">
+                <div id="cv-rawphase-gc" style="position: relative; overflow: hidden; width: 100%;">
                     <div id="cv-rawphase-p1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;"></div>
                     <div id="cv-rawphase-p2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;"></div>
                     <div id="cv-rawphase-divider" style="position: absolute; top: 0; bottom: 0; width: 2px; background: rgba(255,255,255,0.9); z-index: 3; pointer-events: none; box-shadow: 0 0 4px rgba(0,0,0,0.5); left: 50%;"></div>
@@ -295,6 +295,7 @@ If the GIFs become unsynced, please click *Reset Media*.
 
     var currentScene = 'chair';
     var elems = {};
+    var aspectRatios = {};
 
     function $(id) { return document.getElementById(id); }
 
@@ -312,17 +313,21 @@ If the GIFs become unsynced, please click *Reset Media*.
         return img;
     }
 
-    function adjust(lc, rc, outer, gc) {
+    function adjust(lc, rc, outer, gc, rowKey) {
         var e1 = lc.firstChild, e2 = rc.firstChild;
         if (!e1 && !e2) return;
         var d = function(el) { return el ? { w: el.naturalWidth || 0, h: el.naturalHeight || 0 } : { w: 0, h: 0 }; };
         var d1 = d(e1), d2 = d(e2);
-        var mw = Math.max(d1.w, d2.w), mh = Math.max(d1.h, d2.h);
-        if (mw > 0 && mh > 0) {
-            outer.style.width = mw + 'px';
-            outer.style.height = mh + 'px';
-            gc.style.width = mw + 'px';
-            gc.style.height = mh + 'px';
+        var natW = Math.max(d1.w, d2.w), natH = Math.max(d1.h, d2.h);
+        if (natW > 0 && natH > 0) {
+            var ratio = natH / natW;
+            if (rowKey) aspectRatios[rowKey] = ratio;
+            var availW = outer.clientWidth;
+            var displayW = Math.min(natW, availW);
+            var displayH = displayW * ratio;
+            gc.style.width = '100%';
+            gc.style.height = displayH + 'px';
+            outer.style.height = displayH + 'px';
         }
     }
 
@@ -355,10 +360,28 @@ If the GIFs become unsynced, please click *Reset Media*.
         });
     });
 
+    function resizeAll() {
+        rows.forEach(function(r) {
+            var outer = $(r.outer), gc = $(r.gc);
+            var ratio = aspectRatios[r.outer];
+            if (ratio && outer) {
+                var availW = outer.clientWidth;
+                var displayH = availW * ratio;
+                gc.style.height = displayH + 'px';
+                outer.style.height = displayH + 'px';
+            }
+        });
+    }
+
+    var resizeTimer;
+    window.addEventListener('resize', function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(resizeAll, 100);
+    });
+
     function loadScene(scene) {
         currentScene = scene;
         elems = {};
-        var promises = [];
 
         rows.forEach(function(r) {
             var lc = $(r.left), rc = $(r.right), sl = $(r.slider);
@@ -373,7 +396,7 @@ If the GIFs become unsynced, please click *Reset Media*.
                 var w1 = imgL.naturalWidth || 0, w2 = imgR.naturalWidth || 0;
                 if (w1 > 0 || w2 > 0) {
                     done = true;
-                    adjust(lc, rc, $(r.outer), $(r.gc));
+                    adjust(lc, rc, $(r.outer), $(r.gc), r.outer);
                     sl.value = 50;
                     sl.dispatchEvent(new Event('input'));
                 }
