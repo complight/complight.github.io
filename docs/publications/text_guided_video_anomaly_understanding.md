@@ -6,13 +6,13 @@
   <tbody>
     <tr>
       <td> <img src="../../people/jihao_geo_gu.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td> <img src="../../people/avata.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/kun_li.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/he_wang.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr> 
     <tr>
       <td><p style="text-align:center;"><a href="https://momiji-bit.github.io">Jihao (Geo) Gu</a><sup>1</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=UQ_bInoAAAAJ&hl=en">Kun Li</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://scholar.google.com/citations?user=UQ_bInoAAAAJ">Kun Li</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://drhewang.com">He Wang</a><sup>1</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
@@ -26,16 +26,24 @@
 
 ## Resources
 
-:material-newspaper-variant: [Manuscript](https://arxiv.org/pdf/2511.00524)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/GuEtAl_CVPR2026_SVC_Workshop_Text_guided_fine_grained_video_anomaly_understanding.pdf)
 :material-file-code: [Code](https://github.com/momiji-bit/T-VAU)
 :material-file-code: [Dataset](https://huggingface.co/datasets/Geo2425/T-VAU)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{gu2026tvau,
-          author={Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
           title = {Text-guided Fine-Grained Video Anomaly Understanding},
-          journal={arXiv preprint arXiv:2511.00524},
+          author={Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
+          booktitle={arXiv preprint arXiv:2511.00524},
           year = {2026}
         }
+
+@inproceedings{gu2026tvau,
+          title = {Text-guided Fine-Grained Video Anomaly Understanding},
+          author = {Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
+          booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
+          year = {2026},
+          address = {Denver, CO, USA}
+}
 
 ## Abstract
 
