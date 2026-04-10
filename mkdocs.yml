@@ -36,6 +36,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Text-guided Fine-Grained Video Anomaly Understanding': 'publications/text_guided_video_anomaly_understanding.md'
       - 'Compressing Double Phase Holograms using 2D Gaussians': 'publications/compressing_double_phase_gs.md'
       - 'Complex-Valued Holographic Radiance Fields': 'publications/complex_valued_holographic_radiance_fields.md'
       - 'Learned Display Radiance Fields with Lensless Cameras': 'publications/lensless_display_radiance_field.md'

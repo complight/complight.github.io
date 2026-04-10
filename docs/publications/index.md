@@ -2,6 +2,35 @@
 
 ## 2026
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/tvau_teaser.png" width="200" alt/>
+</div>
+**Text-guided Fine-Grained Video Anomaly Understanding**
+
+<img src="https://img.shields.io/badge/-CVPR Workshop-yellow">
+
+[Jihao (Geo) Gu](https://momiji-bit.github.io),
+[Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ),
+[He Wang](https://drhewang.com),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](text_guided_video_anomaly_understanding.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/GuEtAl_CVPR2026_SVC_Workshop_Text_guided_fine_grained_video_anomaly_understanding.pdf)
+:material-file-code: [Code](https://github.com/momiji-bit/T-VAU)
+:material-file-code: [Dataset](https://huggingface.co/datasets/Geo2425/T-VAU)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{gu2026tvau,
+  	  title = {Text-guided Fine-Grained Video Anomaly Understanding},
+  	  author = {Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
+  	  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
+  	  year = {2026},
+  	  address = {Denver, CO, USA}
+	}
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/compress_dph_2dgs_teaser.png" width="200" alt/>
 </div>
 **Compressing Double Phase Holograms using 2D Gaussians**

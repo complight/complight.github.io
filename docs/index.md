@@ -24,6 +24,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/text_guided_video_anomaly_understanding/">
+        <b>Text-guided Fine-Grained Video Anomaly Understanding</b>
+        </a>
+        </h3>
+        <h5>
+        <b>CVPR 2026 SVC Workshop</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/tvau_teaser.png" class="off-glb">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/compressing_double_phase_gs/">
         <b>Compressing Double Phase Holograms using 2D Gaussians</b>
         </a>

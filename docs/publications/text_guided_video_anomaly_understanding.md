@@ -30,20 +30,15 @@
 :material-file-code: [Code](https://github.com/momiji-bit/T-VAU)
 :material-file-code: [Dataset](https://huggingface.co/datasets/Geo2425/T-VAU)
 ??? info ":material-tag-text: Bibtex"
-        @inproceedings{gu2026tvau,
-          title = {Text-guided Fine-Grained Video Anomaly Understanding},
-          author={Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
-          booktitle={arXiv preprint arXiv:2511.00524},
-          year = {2026}
-        }
-
-@inproceedings{gu2026tvau,
-          title = {Text-guided Fine-Grained Video Anomaly Understanding},
-          author = {Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
-          booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
-          year = {2026},
-          address = {Denver, CO, USA}
-}
+	```
+	@inproceedings{gu2026tvau,
+  	  author = {Gu, Jihao and Li, Kun and Wang, He and Ak{\c{s}}it, Kaan},
+  	  title = {Text-guided Fine-Grained Video Anomaly Understanding},
+  	  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
+  	  year = {2026},
+  	  address = {Denver, CO, USA}
+	}
+	```
 
 ## Abstract
 
