@@ -126,7 +126,7 @@ MSc Student ([Medipol University](https://www.medipol.edu.tr/))
 
 BSc Student ([University College London](https://www.ucl.ac.uk))
 
-:material-email: [E-mail](runze.cheng.23@ucl.ac.uk)
+:material-email: [E-mail](mailto:runze.cheng.23@ucl.ac.uk)
 
 :material-office-building: Office: Virtual
 <br clear="left"/>
