@@ -128,7 +128,7 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:runze.cheng.23@ucl.ac.uk)
 
-:material-office-building: Office: Virtual
+:material-office-building: Office: Hybrid (R404.186)
 <br clear="left"/>
 
 
