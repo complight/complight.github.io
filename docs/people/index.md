@@ -122,7 +122,7 @@ MSc Student ([Medipol University](https://www.medipol.edu.tr/))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/aiden_runze_cheng.png" width="160" alt/>
 </div>
-[(Aiden) Runze Cheng (程闰泽)](runze.cheng.23@ucl.ac.uk)
+[(Aiden) Runze Cheng (程闰泽)](https://aidcheng.github.io)
 
 BSc Student ([University College London](https://www.ucl.ac.uk))
 
