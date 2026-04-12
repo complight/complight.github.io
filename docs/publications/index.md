@@ -6,7 +6,7 @@
 </div>
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
-<img src="https://img.shields.io/badge/-CVPR Workshop-yellow">
+<img src="../badges/cvpr_workshop.svg">
 
 [Jihao (Geo) Gu](https://momiji-bit.github.io),
 [Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ),
@@ -35,7 +35,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Compressing Double Phase Holograms using 2D Gaussians**
 
-<img src="https://img.shields.io/badge/-EuroGraphics-blue">
+<img src="../badges/eurographics_blue.svg">
 
 [Xiaoyue Fan](https://merryxyfan.github.io/),
 [Yicheng Zhan](https://albertgary.github.io/),
@@ -67,7 +67,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Complex-Valued Holographic Radiance Fields**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 [Yicheng Zhan](https://albertgary.github.io/),
 [Dong-Ha Shin](https://dhsh.in/),
@@ -98,7 +98,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Learned Display Radiance Fields with Lensless Cameras**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 
 [Ziyang Chen](https://ziyang.space),
@@ -131,7 +131,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Foveation Improves Payload Capacity in Steganography**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 
 [Lifeng Qiu Lin](https://github.com/Gnefil),
@@ -168,7 +168,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**
 
-<img src="https://img.shields.io/badge/-ACM Multimedia-8A2BE2">
+<img src="../badges/acm_multimedia.svg">
 
 
 [Doğa Yılmaz](https://yilmazdoga.net),
@@ -202,7 +202,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Assessing Learned Models for Phase-only Hologram Compression**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 
 [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
@@ -240,7 +240,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/),
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&),
@@ -275,7 +275,7 @@ and [Daisuke Iwai](https://daisukeiwai.org/)
 </div>
 **Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&hl=zh-CN),
 [Yicheng Zhan](https://scholar.google.com/citations?hl=zh-CN&user=x2ptSYUAAAAJ),
@@ -308,7 +308,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 :fontawesome-solid-award: **Honorable Mention Award**
 
@@ -345,7 +345,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **All-optical image denoising using a diffractive visual processor**
 
-<img src="https://img.shields.io/badge/-Light: Science & Applications-critical">
+<img src="../badges/light_science_applications.svg">
 
 [Çağatay Işıl](https://cagatayisil.github.io/),
 [Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
@@ -386,7 +386,7 @@ and [Ozcan Aydogan](https://www.ee.ucla.edu/aydogan-ozcan)
 </div>
 **Autocolor: Learned Light Power Control for Multi-Color Holograms**
 
-<img src="https://img.shields.io/badge/-SPIE AR|VR|MR-yellow">
+<img src="../badges/spie_avr.svg">
 
 [Yicheng Zhan](https://github.com/AlberTgarY),
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
@@ -415,7 +415,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Multi-color Holograms Improve Brightnes in Holographic Displays**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
@@ -452,7 +452,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 
-<img src="https://img.shields.io/badge/-Biomedical Optics Express-informational">
+<img src="../badges/biomedical_optics.svg">
 
 [Ahmet Güzel](https://aguzel.github.io/),
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian-736824183),
@@ -483,7 +483,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **HoloBeam: Paper-Thin Near-Eye Displays**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 [Kaan Akşit](https://kaanaksit.com)
 and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
@@ -510,7 +510,7 @@ and [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh)
 </div>
 **Realistic Defocus Blur for Multiplane Computer-Generated Holography**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [Yuta Itoh](https://www.ar.c.titech.ac.jp/people/yuta-itoh),
@@ -544,7 +544,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Metameric Inpainting for Image Warping**
 
-<img src="https://img.shields.io/badge/-IEEE-important">
+<img src="../badges/ieee.svg">
 
 [Rafael Kuffner Dos Anjos](https://rafaelkuffner.github.io/),
 [David R. Walton](https://drwalton.github.io/),
@@ -578,7 +578,7 @@ and [Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/)
 </div>
 **Optimizing vision and visuals: lectures on cameras, displays and perception**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
 [David Robert Walton](https://drwalton.github.io/),
@@ -617,7 +617,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Unrolled Primal-Dual Networks for Lensless Cameras**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="../badges/optics_express.svg">
 
 [Oliver Kingshott](https://oliver.kingshott.com/),
 [Nick Antipa](http://nickantipa.com/),
@@ -649,7 +649,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Metameric Varifocal Holograms**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 [David R. Walton](https://drwalton.github.io/),
 [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao),
@@ -686,7 +686,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Learned holographic light transport**
 
-<img src="https://img.shields.io/badge/-Applied Optics-blueviolet">
+<img src="../badges/applied_optics.svg">
 
 :fontawesome-solid-award: **Invited**
 
@@ -727,7 +727,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Telelife: the future of remote living**
 
-<img src="https://img.shields.io/badge/-Frontiers in Virtual Reality-ff69b4">
+<img src="../badges/frontiers_vr.svg">
 
 [Jason Orlosky](https://www.jeoresearch.com/research),
 [Misha Sra](https://sites.cs.ucsb.edu/~sra/),
@@ -766,7 +766,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **SensiCut: material-aware laser cutting using speckle sensing and deep learning**
 
-<img src="https://img.shields.io/badge/-UIST-9cf">
+<img src="../badges/uist.svg">
 
 [Mustafa Doga Dogan](https://www.dogadogan.com/),
 Steven Vidal Acevedo Colon,
@@ -801,7 +801,7 @@ and [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html)
 </div>
 **Beyond blur: ventral metamers for foveated rendering**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 [David R. Walton](https://drwalton.github.io/),
 Rafael Kuffner Dos Anjos,
@@ -835,7 +835,7 @@ and Tobias Ritschel
 </div>
 **Beaming displays**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 :fontawesome-solid-award: **Best paper nominee at IEEE VR 2021**
 
@@ -870,7 +870,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Optical gaze tracking with spatially-sparse single-pixel detectors**
 
-<img src="https://img.shields.io/badge/-ISMAR-yellow">
+<img src="../badges/ismar.svg">
 
 [Richard Li](https://lichard49.github.io),
 [Eric Whitmire](https://www.ericwhitmire.com/),
@@ -906,7 +906,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Patch scanning displays: spatiotemporal enhancement for displays**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="../badges/optics_express.svg">
 
 [Kaan Akşit](https://kaanaksit.com)
 
@@ -941,7 +941,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 </div>
 **Near-eye display and tracking technologies for virtual and augmented reality**
 
-<img src="https://img.shields.io/badge/-Eurographics-lightgrey">
+<img src="../badges/eurographics.svg">
 
 [George Alex Koulieris](https://koulieris.com/)
 [Kaan Akşit](https://kaanaksit.com),
@@ -975,7 +975,7 @@ and [Christian Richardt](https://richardt.name/)
 </div>
 **Foveated AR: dynamically-foveated augmented reality display**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH-red">
+<img src="../badges/siggraph.svg">
 
 :fontawesome-solid-award: **Emerging Technology best in show award at SIGGRAPH 2019**
 
@@ -1021,7 +1021,7 @@ and [David Luebke](https://luebke.us/)
 </div>
 **FocusAR: auto-focus augmented reality eyeglasses for both real and virtual**
 
-<img src="https://img.shields.io/badge/-ISMAR-yellow">
+<img src="../badges/ismar.svg">
 
 :fontawesome-solid-award: **Best paper award at ISMAR 2018**
 
@@ -1056,7 +1056,7 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 </div>
 **Manufacturing application-driven foveated near-eye displays**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 :fontawesome-solid-award: **Best paper nominee at IEEE VR 2018**
 
@@ -1100,7 +1100,7 @@ and [David Luebke](https://luebke.us/)
 </div>
 **Near-Eye varifocal augmented reality display using see-through screens**
 
-<img src="https://img.shields.io/badge/-SIGGRAPH ASIA-critical">
+<img src="../badges/siggraph_asia.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 Ward Lopes,
@@ -1132,7 +1132,7 @@ and [David Luebke](https://luebke.us/)
 </div>
 **Wide field of view varifocal near-eye display using see-through deformable membrane mirrors**
 
-<img src="https://img.shields.io/badge/-IEEE VR-important">
+<img src="../badges/ieee_vr.svg">
 
 :fontawesome-solid-award: **Best paper award at IEEE VR 2017**
 
@@ -1176,7 +1176,7 @@ and [Henry Fuchs](https://scholar.google.com/citations?user=guhwcP8AAAAJ&hl=en)
 </div>
 **Gaze-sensing LEDs for head mounted displays**
 
-<img src="https://img.shields.io/badge/-Arxiv-yellowgreen">
+<img src="../badges/arxiv.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 [Jan Kautz](https://www.jankautz.com/)
@@ -1203,7 +1203,7 @@ and [David Luebke](https://luebke.us/)
 </div>
 **Slim near-eye display using pinhole aperture arrays**
 
-<img src="https://img.shields.io/badge/-Applied Optics-blueviolet">
+<img src="../badges/applied_optics.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 [Jan Kautz](https://www.jankautz.com/)
@@ -1243,7 +1243,7 @@ and [David Luebke](https://luebke.us/)
 </div>
 **Head-worn mixed reality projection display application**
 
-<img src="https://img.shields.io/badge/-ACE-inactive">
+<img src="../badges/ace.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 Daniel Kade,
@@ -1285,7 +1285,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 </div>
 **Super stereoscopy technique for comfortable and realistic 3D displays**
 
-<img src="https://img.shields.io/badge/-Optics Letters-blue">
+<img src="../badges/optics_letters.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 Amir Niaki,
@@ -1323,7 +1323,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 </div>
 **From Sound to Sight: Using Audio Processing to enable Visible Light Communication**
 
-<img src="https://img.shields.io/badge/-Globecom-brightgreen">
+<img src="../badges/globecom.svg">
 
 Stefan Schmid,
 D. Schwyn,
@@ -1358,7 +1358,7 @@ and [Stefan Mangold](https://www.lovefield.ch/)
 </div>
 **Connecting Networks of Toys and Smartphones with Visible Light Communication**
 
-<img src="https://img.shields.io/badge/-Communications magazine-green">
+<img src="../badges/communications_mag.svg">
 
 Giorgio Corbellini,
 [Kaan Akşit](https://kaanaksit.com),
@@ -1396,7 +1396,7 @@ and Thomas R. Gross
 </div>
 **Dynamic exit pupil trackers for autostereoscopic displays**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="../badges/optics_express.svg">
 
 [Kaan Akşit](https://kaanaksit.com),
 Hadi Baghsiahi,
@@ -1440,7 +1440,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 </div>
 **Multi-view autostereoscopic projection display using rotating screen**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="../badges/optics_express.svg">
 
 :material-eye: **[Spotlight on Optics](https://www.osapublishing.org/spotlight/summary.cfm?uri=oe-21-23-29043)**
 
@@ -1481,7 +1481,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 </div>
 **Portable 3D Laser Projector Using Mixed Polarization Technique**
 
-<img src="https://img.shields.io/badge/-Journal of Display Technology-orange">
+<img src="../badges/journal_display_tech.svg">
 
 :fontawesome-solid-award: **Best 3D product award of International 3D Society (4th year)**
 
@@ -1517,7 +1517,7 @@ and [Hakan Urey](https://mysite.ku.edu.tr/hurey/)
 </div>
 **Heart rate monitoring via remote photoplethysmography with motion artifacts reduction**
 
-<img src="https://img.shields.io/badge/-Optics Express-informational">
+<img src="../badges/optics_express.svg">
 
 Giovanni Cennini,
 Jeremie Arguel,
