@@ -148,7 +148,7 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/tianwen_zhou.png" width="160" alt/>
 </div>
-[Tianwen Zhou](https://zhoutianwen.com/)
+[Tianwen Zhou (周添文)](https://zhoutianwen.com/)
 
 MSc Student ([University College London](https://www.ucl.ac.uk))
 
