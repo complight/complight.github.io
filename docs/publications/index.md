@@ -1525,7 +1525,7 @@ Jeremie Arguel,
 and Arno van Leest
 
 :material-web-box: [Publisher site](https://doi.org/10.1364/OE.18.004867)
-:material-newspaper-variant: [Manuscript](https://kaanaksit.files.wordpress.com/2014/10/oe-18-5-4867.pdf)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/CenniniEtAl_OpticsExpress2010_Heart_rate_monitoring_via_remote_photoplethysmography_with_motion_artifacts_reduction.pdf)
 :material-file-video: [Video](http://youtu.be/5X1clsjqQnw)
 ??? info ":material-tag-text: Bibtex"
 	```

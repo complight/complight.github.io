@@ -10,9 +10,9 @@
       <td><img src="../../people/kaan_aksit.png" width="120" alt="Kaan Akşit"/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="mailto:tianwenzhou0521@gmail.com">Tianwen Zhou</a><sup>1</sup></p></td>
-      <td><p style="text-align:center;"><a href="mailto:akshay@cs.unc.edu">Akshay Paruchuri</a><sup>2</sup></p></td>
-      <td><p style="text-align:center;"><a href="mailto:josef.spjut@gmail.com">Josef Spjut</a><sup>3</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://zhoutianwen.com/">Tianwen Zhou</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://akshayparuchuri.com/">Akshay Paruchuri</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="">Josef Spjut</a><sup>3</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
   </tbody>
@@ -25,17 +25,19 @@
 <p style="text-align:center;"><b>CVPR 2026 Workshop on Subtle Visual Computing</b></p>
 
 ## Resources
-:material-newspaper-variant: [Manuscript](YOUR_PDF_LINK)
-:material-newspaper-variant: [Supplementary](YOUR_SUPPLEMENTARY_LINK)
-:material-file-document-outline: [arXiv](YOUR_ARXIV_LINK)
-:material-file-code: [Code](YOUR_CODE_LINK)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhouEtAl_CVPR2026_SVC_Workshop_Editing_physiological_signals_in_videos_using_latent_representations.pdf)
+:material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ZhouEtAl_CVPR2026_SVC_Workshop_Supplementary_Editing_physiological_signals_in_videos_using_latent_representations.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2509.25348)
+:material-file-code: [Code](https://github.com/complight/PhysioLatent)
 
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{zhou2026editing,
           author = {Tianwen Zhou and Akshay Paruchuri and Josef Spjut and Kaan Ak{\c{s}}it},
           title = {Editing Physiological Signals in Videos Using Latent Representations},
-          booktitle = {CVPR 2026 Workshop on Subtle Visual Computing},
+          booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
+          month=june,
           year = {2026}
+          address={Denver, CO, USA}
         }
 
 ## Abstract
@@ -78,6 +80,11 @@ On PURE, our method achieves an average PSNR of 38.96 dB and SSIM of 0.98, while
 We present PhysioLatent, a framework for editing camera-based physiological signals in facial videos while preserving visual fidelity. By combining latent-space video representations, text-conditioned heart-rate control, temporal attention with AdaLN, and FiLM-based decoder conditioning, the method enables controllable and temporally coherent physiological editing. Our experiments show strong visual quality together with accurate heart-rate modulation across multiple benchmark datasets.
 
 Beyond target heart-rate editing, the framework also supports a removal mode that suppresses periodic physiological components, making it useful for privacy-preserving video sharing and biometric anonymization. More broadly, the use of text-driven conditioning and 3D VAE latent representations makes PhysioLatent naturally compatible with emerging video generation and multimodal foundation-model pipelines.
+
+## Relevant research works
+Here are relevant research works from the authors:
+
+- [Heart rate monitoring via remote photoplethysmography with motion artifacts reduction](https://kaanaksit.com/assets/pdf/CenniniEtAl_OpticsExpress2010_Heart_rate_monitoring_via_remote_photoplethysmography_with_motion_artifacts_reduction.pdf)
 
 ## Outreach
 We host a Slack group with more than 250 members.
