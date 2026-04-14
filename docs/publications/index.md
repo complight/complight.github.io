@@ -2,6 +2,36 @@
 
 ## 2026
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/physiolatent_teaser.png" width="200" alt/>
+</div>
+**Editing Physiological Signals in Videos Using Latent Representations**
+
+<img src="../badges/cvpr_workshop.svg">
+
+[Tianwen Zhou](https://zhoutianwen.com/),
+[Akshay Paruchuri](https://akshayparuchuri.com/),
+[Josef Spjut](https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](physiolatent.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhouEtAl_CVPR2026_SVC_Workshop_Editing_physiological_signals_in_videos_using_latent_representations.pdf)
+:material-newspaper-variant: [Supplementary](https://kaanaksit.com/assets/pdf/ZhouEtAl_CVPR2026_SVC_Workshop_Supplementary_Editing_physiological_signals_in_videos_using_latent_representations.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2509.25348)
+:material-file-code: [Code](https://github.com/complight/PhysioLatent)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{zhou2026editing,
+  	  title = {Editing Physiological Signals in Videos Using Latent Representations},
+  	  author = {Tianwen Zhou and Akshay Paruchuri and Josef Spjut and Kaan Ak{\c{s}}it},
+  	  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
+  	  year = {2026},
+  	  address = {Denver, CO, USA}
+	}
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/tvau_teaser.png" width="200" alt/>
 </div>
 **Text-guided Fine-Grained Video Anomaly Understanding**
