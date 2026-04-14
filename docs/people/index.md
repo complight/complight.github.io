@@ -132,6 +132,18 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/stefan_sarmo.png" width="160" alt/>
+</div>
+[Stefan Sarmo](http://linkedin.com/in/stefan-sarmo-377b6428a)
+
+BSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:stefan@sarmo.com)
+
+:material-office-building: Office: Hybrid (R404.186)
+<br clear="left"/>
+
 
 ## Alumni
 
