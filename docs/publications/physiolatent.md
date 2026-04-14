@@ -12,7 +12,7 @@
     <tr>
       <td><p style="text-align:center;"><a href="https://zhoutianwen.com/">Tianwen Zhou</a><sup>1</sup></p></td>
       <td><p style="text-align:center;"><a href="https://akshayparuchuri.com/">Akshay Paruchuri</a><sup>2</sup></p></td>
-      <td><p style="text-align:center;"><a href="">Josef Spjut</a><sup>3</sup></p></td>
+      <td><p style="text-align:center;"><a href="http://josef.spjut.me/">Josef Spjut</a><sup>3</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
   </tbody>
