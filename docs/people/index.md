@@ -75,7 +75,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:silvianzhuang@gmail.com)
 
-:material-office-building: Office: Hybrid (R404.186)
+:material-office-building: Office: Virtual
 <br clear="left"/>
 
 
@@ -88,7 +88,7 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:jihao.gu.23@ucl.ac.uk)
 
-:material-office-building: Office: Hybrid (R404.186)
+:material-office-building: Office: Virtual
 <br clear="left"/>
 
 
