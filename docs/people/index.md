@@ -120,6 +120,19 @@ MSc Student ([Medipol University](https://www.medipol.edu.tr/))
 
 
 <div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/tianwen_zhou.png" width="160" alt/>
+</div>
+[Tianwen Zhou (周添文)](https://zhoutianwen.com/)
+
+MSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:tianwenzhou0521@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
+<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/aiden_runze_cheng.png" width="160" alt/>
 </div>
 [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io)
@@ -142,19 +155,6 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 :material-email: [E-mail](mailto:stefan@sarmo.com)
 
 :material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/tianwen_zhou.png" width="160" alt/>
-</div>
-[Tianwen Zhou (周添文)](https://zhoutianwen.com/)
-
-MSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:tianwenzhou0521@gmail.com)
-
-:material-office-building: Office: Virtual
 <br clear="left"/>
 
 
