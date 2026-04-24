@@ -2,6 +2,15 @@
 
 ## 2026
 
+### 4 May 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/eurographics.png" alt="EUROGRAPHICS" width="80" alt/>
+</div>
+📰 Our work, [`Compressing Double Phase Holograms using 2D Gaussians`](https://complightlab.com/publications/compressing_double_phase_gs/), is accepted to EuroGraphics 2026 Poster track and will be presented at EuroGraphics 2026 in Aachen, Germany. This work is a collaboration with a series of academic parties including [Xiaoyue (Merry) Fan](https://merryxyfan.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Amrita Mazumdar](https://amritamaz.net/), and [Kaan Akşit](https://kaanaksit.com)
+<br />
+<br />
+
+
 ### 25 March 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_tog.png" alt="ACM Transaction on Graphics" width="80" alt/>
