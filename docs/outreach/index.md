@@ -35,6 +35,21 @@ Overall, seminars are a blend of internal and external presenters.
 ### 2026
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
+
+
+#### Shi Mao (King Abdullah University of Science and Technology)
+
+??? Details
+    **Date:**
+    22 April 2026
+
+    **Presenters:** [Shi Mao](https://sheldonmao.github.io/), Ph.D. student, King Abdullah University of Science and Technology
+
+    **Title:** Fovea Stacking: Imaging with Dynamic Localized Aberration Correction
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQAOEsCEw0S3T4xZ1TS8_8ETAQ5ntexyxQY7_D5Vc8e2Awk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YsRUUL)
+
+
 #### Youngjin Kim (Stanford University)
 
 ??? Details
