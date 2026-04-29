@@ -36,6 +36,18 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### İpek Öztaş (Bilkent University)
+
+??? Details
+    **Date:**
+    29 April 2026
+
+    **Presenters:** [İpek Öztaş](https://ipekoztas.github.io/), M.Sc. student, Bilkent University
+
+    **Title:** Robust 3D reconstruction from casual 360° captures and generative stylization via large reconstruction models
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQAWp1IWWdMeQJgDzq3AMDaNAY0F0vf-nzZN47aTWl5oZKk?e=pFvTjd)
+
 
 #### Shi Mao (King Abdullah University of Science and Technology)
 
