@@ -11,6 +11,15 @@
 <br />
 
 
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/sid_displayweek.png" alt="Society of Information Display's Displayweek" width="80" alt/>
+</div>
+🗣️ [Kaan Akşit](https://kaanaksit.com) presented an invited talk titled [`AI-Driven Optics: Catalyst of Future Computing, Imaging & Display Technology`](https://www.displayweek.org/seminars/#event:2614) at [Society of InformatiDisplay's Display Week 2026](https://www.displayweek.org/).
+<br />
+<br />
+
+
+
 ### 25 March 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_tog.png" alt="ACM Transaction on Graphics" width="80" alt/>
