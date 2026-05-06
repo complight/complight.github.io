@@ -80,12 +80,16 @@ and [Kaan Akşit](https://kaanaksit.com)
 ??? info ":material-tag-text: Bibtex"
 	```
 	@inproceedings{fan2026comdph2dgs,
-	  booktitle = {Eurographics 2026 - Posters},
-	  title     = {Compressing Double-Phase Holograms using 2D Gaussians},
-	  author    = {Fan, Xiaoyue and Zhan, Yicheng and Mazumdar, Amrita and Ak{\c{s}}it, Kaan},
-	  year      = {2026},
-	  publisher = {The Eurographics Association},
-	}
+	      booktitle = {Eurographics 2026 - Posters},
+	      editor = {Gerrits, Tim and Teschner, Matthias},
+	      title = {{Compressing Double-Phase Holograms using 2D Gaussians}},
+	      author = {Fan, Xiaoyue  and Zhan, Yicheng  and Mazumdar, Amrita  and Akşit, Kaan },
+	      year = {2026},
+	      publisher = {The Eurographics Association},
+	      ISSN = {1017-4656},
+	      ISBN = {978-3-03868-300-1},
+	      DOI = {10.2312/egp.20261010}
+	      }
 	```
 <br clear="left"/>
 
