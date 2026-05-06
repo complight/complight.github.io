@@ -86,7 +86,7 @@ Unlike conventional learned methods treating holograms as regular images operati
 In our best case, our decomposition utilizes 3% primitive counts compared to the baseline, achieving a compression ratio of 26% while preserving Mean PSNR = 43.39 dB, 0.97 SSIM, and 0.016 LPIPS in the reconstructed scenes. Compared with the baseline, our modification effectively eliminates blob artifacts and inter-patch boundary lines, while introducing moderate computational overhead, doubling the runtime.
 
 ## Photo gallery
-Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH Asia 2025 experience.
+Here, we release photographs from our visit to the conference, highlighting parts of our Eurographics 2026 experience.
 
 <figure markdown>
   ![](./media/compressing_2dgs_001.jpg){ width="390", align=left }
