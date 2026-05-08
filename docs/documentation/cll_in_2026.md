@@ -10,4 +10,4 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Efe, Imperial College London
 - Jihao (Geo) Gu, CVPR Workshop paper
 - Tianwen Zhou, CVPR Workshop paper
-
+- Kaan, SID 2026 Invited talk
