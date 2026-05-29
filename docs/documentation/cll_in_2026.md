@@ -6,8 +6,10 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Yicheng, Meta internship
 - Yicheng, ToG paper
 - Merry, EuroGraphics poster
-- Aiden, Cambridge University, Rafal Mantiuk, a potential supervisor
+- Aiden, Cambridge University, Rafal Mantiuk, a potential supervisor, 
+- Aiden, SIGGRAPH poster
 - Efe, Imperial College London
 - Jihao (Geo) Gu, CVPR Workshop paper
 - Tianwen Zhou, CVPR Workshop paper
 - Kaan, SID 2026 Invited talk
+- Joshua, Imperial College London
