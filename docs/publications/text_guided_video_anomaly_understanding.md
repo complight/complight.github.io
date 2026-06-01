@@ -36,7 +36,8 @@
   	  title = {Text-guided Fine-Grained Video Anomaly Understanding},
   	  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
   	  year = {2026},
-  	  address = {Denver, CO, USA}
+  	  address = {Denver, CO, USA},
+      url = {https://openaccess.thecvf.com/content/CVPR2026W/SVC/html/Gu_Text-guided_Fine-Grained_Video_Anomaly_Understanding_CVPRW_2026_paper.html},
 	}
 	```
 

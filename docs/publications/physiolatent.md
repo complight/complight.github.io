@@ -37,7 +37,8 @@
           booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2nd Workshop on Subtle Visual Computing (SVC)},
           month=june,
           year = {2026}
-          address={Denver, CO, USA}
+          address={Denver, CO, USA},
+          url={https://openaccess.thecvf.com/content/CVPR2026W/SVC/html/Zhou_Editing_Physiological_Signals_in_Videos_Using_Latent_Representations_CVPRW_2026_paper.html},
         }
 
 ## Abstract
