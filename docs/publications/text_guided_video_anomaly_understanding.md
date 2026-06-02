@@ -43,7 +43,7 @@
 
 ## Slides
 <iframe
-  src="https://momiji-bit.github.io/presentation-t-vau/" target="_blank" rel="noopener noreferrer/"
+  src="https://momiji-bit.github.io/presentation_tvad_anomaly/" target="_blank" rel="noopener noreferrer/"
   width="100%"
   height="600"
   style="border: none; border-radius: 8px;"
