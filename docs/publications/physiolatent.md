@@ -41,6 +41,15 @@
           url={https://openaccess.thecvf.com/content/CVPR2026W/SVC/html/Zhou_Editing_Physiological_Signals_in_Videos_Using_Latent_Representations_CVPRW_2026_paper.html},
         }
 
+## Slides
+<iframe
+  src="https://complightlab.com/presentation_physiolatent/" target="_blank" rel="noopener noreferrer/"
+  width="100%"
+  height="600"
+  style="border: none; border-radius: 8px;"
+  allowfullscreen
+></iframe>
+
 ## Abstract
 Camera-based physiological signal estimation provides a convenient and non-contact way to monitor heart rate, but it also raises serious privacy concerns because facial videos can leak sensitive information about a person’s health and emotional state. We present a learned framework for editing physiological signals in videos while preserving visual fidelity. Our method first encodes an input video into a latent representation using a pretrained 3D Variational Autoencoder, and embeds a target heart-rate prompt through a frozen text encoder. The two representations are fused by trainable spatio-temporal layers with Adaptive Layer Normalization to model the strong temporal coherence of remote photoplethysmography signals. To better preserve subtle physiological variations during reconstruction, we apply Feature-wise Linear Modulation in the decoder and fine-tune its output layer. Across multiple benchmark datasets, our approach preserves visual quality with an average PSNR of 38.96 dB and SSIM of 0.98, while achieving an average heart-rate modulation error of 10.00 bpm MAE and 10.09% MAPE under a state-of-the-art rPPG estimator. These results suggest that our framework is useful for privacy-preserving video sharing, biometric anonymization, and the generation of realistic videos with controllable vital signs.
 
