@@ -5,6 +5,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 ## 2026
 - Yicheng, Meta internship
 - Yicheng, ToG paper
+- Yicheng, Viva
 - Merry, EuroGraphics poster
 - Aiden, Cambridge University, Rafal Mantiuk, a potential supervisor 
 - Aiden, SIGGRAPH poster
