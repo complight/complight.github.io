@@ -12,6 +12,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Aiden, invited presentation at papers session
 - Efe, Imperial College London
 - Jihao (Geo) Gu, CVPR Workshop paper
+- Jihao honorable mention award
 - Tianwen Zhou, CVPR Workshop paper
 - Kaan, SID 2026 Invited talk
 - Joshua, Imperial College London
