@@ -22,7 +22,8 @@
 <sup>1</sup>University College London,
 <sup>2</sup>United Arab Emirates University
 </p>
-<p style="text-align:center;"><b>CVPR 2026 SVC Workshop (Best Honorable mention Award)</b></p>
+<p style="text-align:center;"><b>CVPR 2026 SVC Workshop</b></p>
+&nbsp;<p style="text-align:center;">:material-medal:<b>Honorable Mention Award</b></p>
 
 ## Resources
 

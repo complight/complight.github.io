@@ -8,7 +8,6 @@
 
 <img src="../badges/cvpr_workshop.svg">
 
-:fontawesome-solid-award: **Honorable Mention Award**
 
 [Tianwen Zhou](https://zhoutianwen.com/),
 [Akshay Paruchuri](https://akshayparuchuri.com/),
@@ -39,6 +38,8 @@ and [Kaan Akşit](https://kaanaksit.com)
 **Text-guided Fine-Grained Video Anomaly Understanding**
 
 <img src="../badges/cvpr_workshop.svg">
+
+:fontawesome-solid-award: **Honorable Mention Award**
 
 [Jihao (Geo) Gu](https://momiji-bit.github.io),
 [Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ),
