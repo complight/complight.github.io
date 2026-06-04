@@ -149,6 +149,13 @@ The resulting dataset provides aligned annotations of **appearance**, **spatial 
 
 We present <strong><span style="color: rgb(216, 27, 96);">T-VAU</span></strong>, a closed-loop framework that unifies pixel-level anomaly grounding and high-level semantic reasoning by coupling an Anomaly Heatmap Decoder (<strong><span style="color: rgb(0, 158, 115);">AHD</span></strong>) with a Region-aware Anomaly Encoder (<strong><span style="color: rgb(230, 159, 0);">RAE</span></strong>). By aligning visual features with textual prompts, <strong><span style="color: rgb(216, 27, 96);">T-VAU</span></strong> achieves precise, threshold-free spatio-temporal anomaly localization, while its region- and motion-aware prompt design enables LVLMs to perform faithful, structured, and multi-turn anomaly reasoning. This unified formulation goes beyond conventional score-based paradigms, jointly supporting **detection**, **localization**, **target identification**, and **explanation** within a single framework. Extensive experiments on **UBnormal** and **ShanghaiTech** demonstrate consistent improvements over prior methods across localization accuracy, reasoning quality, and dialogue-based evaluation, while ablations confirm the strong complementarity between <strong><span style="color: rgb(0, 158, 115);">AHD</span></strong> and <strong><span style="color: rgb(230, 159, 0);">RAE</span></strong>.
 
+## Photo gallery
+🏆 Best Paper Honorable Mention Award
+
+<figure markdown>
+  ![](./media/T-VAU_Best_Paper_Honorable_Mention_Award.png){ width="390", align=left }
+</figure>
+
 ## Outreach
 
 We host a Slack group with more than 250 members.
