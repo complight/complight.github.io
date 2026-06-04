@@ -8,6 +8,8 @@
 
 <img src="../badges/cvpr_workshop.svg">
 
+:fontawesome-solid-award: **Honorable Mention Award**
+
 [Tianwen Zhou](https://zhoutianwen.com/),
 [Akshay Paruchuri](https://akshayparuchuri.com/),
 [Josef Spjut](https://josef.spjut.me/),
