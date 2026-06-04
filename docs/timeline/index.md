@@ -2,6 +2,14 @@
 
 ## 2026
 
+
+### 3 June 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/computer_visio_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
+</div>
+📰 Our work, [`Editing Physiological Signals in Videos Using Latent Representations`](https://complightlab.com/publications/physiolatent/), is presented at [CVPR 2026 Workshop on Subtle VIsual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Tianwen Zhou (周添文)](https://zhoutianwen.com/), [Akshay Paruchuri](https://akshayparuchuri.com/), [Josef Spjut](http://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com)
+
+
 ### 4 May 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/eurographics.png" alt="EUROGRAPHICS" width="80" alt/>
