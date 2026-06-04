@@ -80,20 +80,6 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/jihao_geo_gu.png" width="160" alt/>
-</div>
-[Jihao (Geo) Gu (谷纪豪)](http://momiji-bit.github.io/)
-
-MSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:jihao.gu.23@ucl.ac.uk)
-
-:material-office-building: Office: Virtual
-<br clear="left"/>
-
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/merry_fan.png" width="160" alt/>
 </div>
 [Xiaoyue (Merry) Fan](https://merryxyfan.github.io)
@@ -103,19 +89,6 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 :material-email: [E-mail](mailto:merryxyfan@gmail.com)
 
 :material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/tianwen_zhou.png" width="160" alt/>
-</div>
-[Tianwen Zhou (周添文)](https://zhoutianwen.com/)
-
-MSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:tianwenzhou0521@gmail.com)
-
-:material-office-building: Office: Virtual
 <br clear="left"/>
 
 

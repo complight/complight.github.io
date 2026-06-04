@@ -5,9 +5,15 @@
 
 ### 3 June 2026
 <div style="float: left; height:100px;" class="boxed">
-<img align="left" src="../media/computer_visio_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
+<img align="left" src="../media/computer_vision_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
 </div>
-📰 Our work, [`Editing Physiological Signals in Videos Using Latent Representations`](https://complightlab.com/publications/physiolatent/), is presented at [CVPR 2026 Workshop on Subtle VIsual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Tianwen Zhou (周添文)](https://zhoutianwen.com/), [Akshay Paruchuri](https://akshayparuchuri.com/), [Josef Spjut](http://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com)
+📰 Our work, [`Text-guided Fine-Grained Video Anomaly Understanding`](https://complightlab.com/publications/text_guided_video_anomaly_understanding/), is presented at [CVPR 2026 Workshop on Subtle Visual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Jihao (Geo) Gu (谷纪豪)](https://momiji-bit.github.io/), [Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ), [He Wang](https://drhewang.com/) and [Kaan Akşit](https://kaanaksit.com). 🏆 This work received the [best honorable mention award](https://kaanaksit.com/assets/img/awards/T-VAU_Best_Paper_Honorable_Mention_Award.png) in the same workshop at the conference.
+
+
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/computer_vision_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
+</div>
+📰 Our work, [`Editing Physiological Signals in Videos Using Latent Representations`](https://complightlab.com/publications/physiolatent/), is presented at [CVPR 2026 Workshop on Subtle VIsual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Tianwen Zhou (周添文)](https://zhoutianwen.com/), [Akshay Paruchuri](https://akshayparuchuri.com/), [Josef Spjut](http://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
 
 
 ### 4 May 2026
