@@ -96,6 +96,13 @@ Here are relevant research works from the authors:
 
 - [Heart rate monitoring via remote photoplethysmography with motion artifacts reduction](https://kaanaksit.com/assets/pdf/CenniniEtAl_OpticsExpress2010_Heart_rate_monitoring_via_remote_photoplethysmography_with_motion_artifacts_reduction.pdf)
 
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our CVPR 2026 experience.
+
+<figure markdown>
+  ![](./media/physiolatent_accepted_papers.jpg){ width="390", align=left }
+</figure>
+
 ## Outreach
 We host a Slack group with more than 250 members.
 This Slack group focuses on the topics of rendering, perception, displays and cameras.
