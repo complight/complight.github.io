@@ -164,10 +164,19 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 
 
 ### Master and Bachelor Students
+<!-- A -->
+- [Ashton Hill](https://www.linkedin.com/in/ashton-hill-4b58a220a/), `Chatbot for driver support in cars`, 2026, Next: -.
+- [Alicia Mak](https://www.linkedin.com/in/alicia-mak-05b093298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOTcwsgkXSPueHwMqfPyo%2FQ%3D%3D), `Gaze Saliency and Anomaly Detection`, 2026, Next: Business Analyst Intern, PwC.
+- [Antoni Wuczyński](https://www.linkedin.com/in/antoni-wuczynski/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blwldj0JiT9OVOpoI91i4AQ%3D%3D), `Opensource toolkit for quantum random number generation`, 2026, Next: Software Engineer, VIVIDATA.
 <!-- C -->
 - [Chengkun Li](https://www.linkedin.com/in/chengkunli96?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2yhAyESzSLaR7ttRM5dANQ%3D%3D), `Neural Optical Beam Propagation,` 2021, Next: Ph.D. student at the Chinese University of Hong Kong.
 - [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&), `Focal Surface Holographic Light Transport using Learned Spatially Adaptive Convolutions`, 2025, Next: Ph.D. student at University of Hawaiʻi at Mānoa. 
 - [Chung-Yu (Kevin) Wei](https://www.linkedin.com/in/chung-yu-wei-75339b251/), `Novel 3D Representations for assessing damages in cars`, 2025, Next: Research Intern at Tractable.
+<!-- D -->
+- [Daren Palmer](https://github.com/dp-IED), `Predictive maintenance model using IBM Granite large language model`, 2026, Next: Engineer Intern, Hiya Inc.
+- [Darius Chitoroaga](https://github.com/chitoroagad), `Network checker based on large language model`, 2026, Next: Software Engineer Intern, Meta.
+<!-- E -->
+- [Efe Tekin](https://www.servetefetekin.com/), `Agentic Adaptive Difficulty Adjustment in Auto-Shooter Games`, 2026, Next: MSc at Imperial College London.
 <!-- G -->
 - [Gbemisola Akinola-Alli](https://www.linkedin.com/in/gbemisola-akinola-alli-313090149/), `Differentiable Ray Tracing for Designing Optical Parts,` 2022, Next: Senior Engineer at MBDA.
 <!-- H -->
@@ -179,17 +188,27 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 - [Jiayi Wang](https://github.com/Chloe1428/), `Modeling Keystroke Dynamics via Pairwise Timing Estimation`, 2025, Next: -.
 - [Jihao (Geo) Gu](https://momiji-bit.github.io/), `Text-guided Fine-Grained Video Anomaly Detection`, 2025, Next: Research Intern at University College London.
 - [Jingxuan Zhong](https://orcid.org/0009-0000-3539-4482), `Summaries Improve Consistency in LLM-based NPCs`, 2025, Next: M.Sc. Student at University College London.
+- [Joshua Soh](https://www.linkedin.com/in/joshua-soh-4a507533b/), `Low-level Image Processing using Agentic Image Editing Workflows`, 2026, Next: MSc at Imperial College London.
 - Junhao Cheng, `Migrating Differentiable Rendering to Latent Space for designing immersive displays`, 2025, Next: High-School teacher.
 <!-- K -->
 <!-- L -->
 - [Lifeng Qiu Lin](https://github.com/Gnefil), `Foveation Improves Payload Capacity in Steganography`, 2025, Next: Visiting Researcher at Tsinghua University.
+<!-- M -->
+
 <!-- O -->
 - [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: Ph.D. Student at University College London.
 <!-- P -->
 - [Pengze Li](https://linsonng.github.io/), `Text to hologram`, 2024, Next: -.
+<!-- R -->
+- Rasul Bakhodirov, `Robust Neural Audio Fingerprinting`, 2026, Next: -.
+- [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io), `Clustered Codebook Quantization for 2D Gaussian-based Image Compression`, 2026, Next: MSc at University of Cambridge.
+<!-- S -->
+- [Santtosh Sivaram](https://www.linkedin.com/in/santtosh-sivaram-b87594294/), `Driver assistance using IBM's large language models`, 2026, Next: -.
 <!-- T -->
 - [Tianwen Zhou](https://zhoutianwen.com/), `Editing Physiological Signals in Videos Using Latent Representations,` 2025, Next: Researcher in Huawei Technology Ltd. 
 - [Toma Kolev](https://www.linkedin.com/in/toma-kolev-18b550149/), `Learned methods for Lensless cameras,` 2025, Next: Software Engineer at Smartsoft Healthcare. 
+<!-- V -->
+- [Vladimiros Karin](https://www.linkedin.com/in/vladimiros-karin/), `2D Gaussian Splatting optimization methods`, 2026, Next: -.
 <!-- W -->
 - [Weijie Xie](https://www.harridan13.com/), `Learned Method for Computer Generated Hologram`, 2024, Next: Intern Researcher at University College London.
 <!-- X -->
