@@ -31,7 +31,7 @@
         <h5>
         <b>ECCV 2026</b>
         </h5>
-        <img height="300" width="600" src="publications/media/cv2dgs_pipeline.png" class="off-glb">
+        <img height="300" width="600" src="publications/media/cv2dgs_teaser.png" class="off-glb">
         </div>
       </div>
       <div class="slide">

@@ -10,8 +10,8 @@
       <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><p style="text-align:center;"><a href="https://albertgary.github.io/">Yicheng Zhan</a><sup>1</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://gaoxiangjun.github.io/">Xiangjun Gao</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://albertgary.github.io/">Yicheng Zhan</a><sup>1,*</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://gaoxiangjun.github.io/">Xiangjun Gao</a><sup>2,*</sup></p></td>
       <td><p style="text-align:center;"><a href="https://home.cse.ust.hk/~quan/">Long Quan</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
@@ -21,6 +21,7 @@
 <sup>1</sup>University College London,
 <sup>2</sup>Hong Kong University of Science and Technology (HKUST)
 </p>
+<p style="text-align:center;"><sup>*</sup>Equal Contribution</p>
 <p style="text-align:center;"><b>European Conference on Computer Vision (ECCV) 2026</b></p>
 
 ## Resources
@@ -113,7 +114,7 @@ The payoff starts with efficiency. Our CUDA kernel trims VRAM by 29–36% and ru
   ![Runtime](media/cv2dgs_runtime.png){ width="460" }
 </figure>
 
-### vs. Representation Methods
+### Our Method vs. Other Representation Methods
 Our method achieves the best performance. Implicit and autoencoder models collapse on hologram structure and prior Gaussian image models trail by a wide margin, while ours leads on metric with the fewest parameters.
 
 <div style="display:flex;justify-content:center;" markdown>
@@ -133,7 +134,7 @@ Our method achieves the best performance. Implicit and autoencoder models collap
   ![Representation comparison](media/cv2dgs_representation_compare.png){ width="820" }
 </figure>
 
-### vs. CGH Methods
+### Our Method vs. CGH Methods
 It also holds its own against dedicated CGH methods. Both phase-only formats reconstruct crisp focus across depth, and rendering drops from 6840 ms (GWS) to **2.13 ms**, roughly 3200× faster at comparable or better quality.
 
 <div style="display:flex;justify-content:center;" markdown>
