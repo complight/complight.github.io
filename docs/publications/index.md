@@ -2,6 +2,33 @@
 
 ## 2026
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
+</div>
+**Complex-Valued 2D Gaussian Representation for Computer-Generated Holography**
+
+<img src="../badges/eccv.svg">
+
+[Yicheng Zhan](https://albertgary.github.io/),
+[Xiangjun Gao](https://gaoxiangjun.github.io/),
+[Long Quan](https://home.cse.ust.hk/~quan/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](complex_valued_2d_gaussians.md)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2511.15022)
+:material-file-code: [Code](https://github.com/complight/Complex-Valued_2D_Gaussian_Representation)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{zhan2025complexvalued2d,
+	  author = {Zhan, Yicheng and Gao, Xiangjun and Quan, Long and Ak{\c{s}}it, Kaan},
+	  title = {Complex-Valued 2D Gaussian Representation for Computer-Generated Holography},
+	  journal = {arXiv preprint arXiv:2511.15022},
+	  year = {2025}
+	}
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/physiolatent_teaser.png" width="200" alt/>
 </div>
 **Editing Physiological Signals in Videos Using Latent Representations**

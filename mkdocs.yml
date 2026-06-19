@@ -39,6 +39,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Complex-Valued 2D Gaussian Representation for Computer-Generated Holography': 'publications/complex_valued_2d_gaussians.md'
       - 'Editing Physiological Signals in Videos Using Latent Representations': 'publications/physiolatent.md'
       - 'Text-guided Fine-Grained Video Anomaly Understanding': 'publications/text_guided_video_anomaly_understanding.md'
       - 'Compressing Double Phase Holograms using 2D Gaussians': 'publications/compressing_double_phase_gs.md'
