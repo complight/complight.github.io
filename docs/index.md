@@ -24,6 +24,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/complex_valued_2d_gaussians/">
+        <b>Complex-Valued 2D Gaussian Representation for Computer-Generated Holography</b>
+        </a>
+        </h3>
+        <h5>
+        <b>ECCV 2026</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/cv2dgs_pipeline.png" class="off-glb">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/physiolatent/">
         <b>Editing Physiological Signals in Videos Using Latent Representations</b>
         </a>
