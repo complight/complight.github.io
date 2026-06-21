@@ -54,6 +54,18 @@
   padding: 0;
 }
 
+/* All carousel images get a drop shadow by default, so any new research
+   highlight image added later automatically gets one too. */
+.slide img {
+  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.35);
+}
+
+/* Older teaser images already have a shadow baked into the PNG, so they
+   opt out of the CSS shadow to avoid a double shadow / white box. */
+.slide img.baked-shadow {
+  box-shadow: none;
+}
+
 @media screen and (min-width: 768px) {
   .carousel-button {
     font-size: 4rem;

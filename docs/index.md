@@ -174,7 +174,7 @@
         <h5>
         <b>ACM SIGGRAPH Asia 2023 Technical Papers</b>
         </h5>
-        <img height="350" width="350" src="publications/media/multicolor.png" class="off-glb">
+        <img height="350" width="350" src="publications/media/multicolor.png" class="off-glb baked-shadow">
         </div>
       </div>
       <div class="slide">
@@ -187,7 +187,7 @@
         <h5>
         <b>Optica Biomedical Optics Express 2023</b>
         </h5>
-        <img height="400" width="400" src="publications/media/learned_prescription.png" class="off-glb">
+        <img height="400" width="400" src="publications/media/learned_prescription.png" class="off-glb baked-shadow">
         </div>
       </div>
       <div class="slide">
@@ -200,7 +200,7 @@
         <h5>
         <b>IEEE VR 2023 Technical Papers</b>
         </h5>
-        <img height="350" width="350" src="publications/media/holobeam.png" class="off-glb">
+        <img height="350" width="350" src="publications/media/holobeam.png" class="off-glb baked-shadow">
         </div>
       </div>
       <div class="slide">
@@ -213,7 +213,7 @@
         <h5>
         <b>IEEE VR 2023 Technical Papers</b>
         </h5>
-        <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" class="off-glb">
+        <img height="500" width="500" src="publications/media/realistic_defocus_cgh.png" class="off-glb baked-shadow">
         </div>
       </div>
 
