@@ -39,6 +39,7 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
+      - 'Clustered Codebook Quantization for 2D Gaussian-based Image Compression': 'publications/clustercodebook2DGS.md'
       - 'Complex-Valued 2D Gaussian Representation for Computer-Generated Holography': 'publications/complex_valued_2d_gaussians.md'
       - 'Editing Physiological Signals in Videos Using Latent Representations': 'publications/physiolatent.md'
       - 'Text-guided Fine-Grained Video Anomaly Understanding': 'publications/text_guided_video_anomaly_understanding.md'

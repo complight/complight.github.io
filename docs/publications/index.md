@@ -1,6 +1,36 @@
 # Publications
 
 ## 2026
+
+<div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/cgvq_home.png" width="200" alt/>
+</div>
+**Clustered Codebook Quantization for 2D Gaussian-based Image Compression**
+
+<img src="../badges/siggraph.svg">
+
+[Runze (Aiden) Cheng](https://aidcheng.github.io/),
+[Yicheng Zhan](https://albertgary.github.io/),
+[Josef Spjut](https://https://josef.spjut.me/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](clustercodebook2DGS.md)
+:material-file-code: [Code](https://github.com/complight/Cluster_Guided_Vector_Quantization)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{cheng2026clustered,
+            author    = {Cheng, Runze and Zhan, Yicheng and Spjut, Josef and Ak{\c{s}}it, Kaan},
+            title     = {Clustered Codebook Quantization for 2D Gaussian-based Image Compression},
+            booktitle = {Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters},
+            series    = {SIGGRAPH Posters '26},
+            year      = {2026},
+            publisher = {Association for Computing Machinery},
+            address   = {New York, NY, USA},
+            doi       = {10.1145/3799825.3818700},
+            }
+	```
+<br clear="left"/>
+
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
 </div>
