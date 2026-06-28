@@ -24,7 +24,7 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
-        <a href="publications/complex_valued_2d_gaussians/">
+        <a href="publications/clustercodebook2DGS/">
         <b>Clustered Codebook Quantization for 2D Gaussian-based Image Compression</b>
         </a>
         </h3>
