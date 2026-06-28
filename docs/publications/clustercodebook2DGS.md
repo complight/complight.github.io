@@ -131,6 +131,15 @@ Increasing the number of clusters improves reconstruction quality by narrowing t
 ## Acknowledgements
 This work builds upon [GaussianImage](https://github.com/Xinjie-Q/GaussianImage), which serves as the backbone implementation and baseline for our method. We thank the authors for making their code publicly available.
 
+## Relevant research works
+- [Complex-Valued 2D Gaussian Representation for Computer-Generated Holography]{complex_valued_2d_gaussians.md}
+- [Complex-Valued Holographic Radiance Fields](complex_valued_holographic_radiance_fields.md)
+- [Compressing Double Phase Holograms using 2D Gaussians](compressing_double_phase_gs.md)
+- [Assessing Learned Models for Phase-only Hologram Compression](assess_hologram_compression.md)
+- [Multi-color Holograms improve Brightness in Holographic Displays](multi_color.md)
+- [Realistic Defocus for Multiplane Computer-Generated Holography](realistic_defocus_cgh.md)
+- [Odak](https://github.com/kaanaksit/odak)
+
 ## Outreach
 We host a Slack group with more than 250 members on rendering, perception, displays and cameras.
 The group is open to the public — join via [this link](../outreach/index.md).
