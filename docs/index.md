@@ -25,6 +25,19 @@
         <div style="text-align: center;">
         <h3>
         <a href="publications/complex_valued_2d_gaussians/">
+        <b>Clustered Codebook Quantization for 2D Gaussian-based Image Compression</b>
+        </a>
+        </h3>
+        <h5>
+        <b>SIGGRAPH 2026</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/cgvq_home.png" class="off-glb">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
+        <a href="publications/complex_valued_2d_gaussians/">
         <b>Complex-Valued 2D Gaussian Representation for Computer-Generated Holography</b>
         </a>
         </h3>
