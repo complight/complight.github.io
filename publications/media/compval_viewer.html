@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Viewer</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            position: relative;
+            margin: 5px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .gif-container {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .gif-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .gif-left {
+            z-index: 1;
+        }
+
+        .gif-right {
+            z-index: 2;
+        }
+
+        .divider {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background-color: rgba(255, 255, 255, 0.9);
+            z-index: 3;
+            pointer-events: none;
+            box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+        }
+
+        img, video {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .slider-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 5px 0;
+        }
+
+        .slider {
+            width: 100%;
+            cursor: pointer;
+            height: 5px;
+            -webkit-appearance: none;
+            appearance: none;
+            background: #ddd;
+            outline: none;
+            border-radius: 5px;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #3498db;
+            cursor: pointer;
+        }
+
+        .slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #3498db;
+            cursor: pointer;
+            border: none;
+        }
+
+        .labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 2px;
+            font-size: 12px;
+            color: #555;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin-top: 3px;
+            margin-bottom: 5px;
+            font-size: 18px;
+        }
+
+        button {
+            padding: 6px 14px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 3px;
+            font-size: 13px;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 5px;
+        }
+
+        .row {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 8px;
+        }
+
+        .visualization-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            gap: 3px;
+        }
+
+        .section-labels {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 1200px;
+            margin-bottom: 2px;
+            font-size: 14px;
+        }
+
+        .row-title {
+            margin: 5px 0 2px 0;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .section-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="visualization-section">
+        <!-- First Row: Amplitude and Phase -->
+        <div class="row" id="amplitude-phase-row">
+            <div class="section-container">
+                <div class="container" id="amplitude-phase-container">
+                    <div style="position: absolute; left: -80px; top: 50%; transform: translateY(-50%); font-size: 14px;">Amplitude</div>
+                    <div style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); font-size: 14px;">Phase</div>
+                    <div class="gif-container" id="amplitude-phase-gif-container">
+                        <div class="gif-layer gif-left" id="amplitude-container"></div>
+                        <div class="gif-layer gif-right" id="phase-container"></div>
+                        <div class="divider" id="amplitude-phase-divider"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-container">
+                <input type="range" class="slider" id="amplitude-phase-slider" min="0" max="100" value="50">
+                <div class="labels">
+                    <span>Amplitude</span>
+                    <span>Phase</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Second Row: Reconstruction Planes -->
+        <div class="row" id="reconstruction-row">
+            <div class="section-container">
+                <div class="container" id="reconstruction-container">
+                    <div style="position: absolute; left: -80px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 1</div>
+                    <div style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 2</div>
+                    <div class="gif-container" id="reconstruction-gif-container">
+                        <div class="gif-layer gif-left" id="reconstruction-plane1-container"></div>
+                        <div class="gif-layer gif-right" id="reconstruction-plane2-container"></div>
+                        <div class="divider" id="reconstruction-divider"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-container">
+                <input type="range" class="slider" id="reconstruction-slider" min="0" max="100" value="50">
+                <div class="labels">
+                    <span>Plane 1</span>
+                    <span>Plane 2</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Third Row: Raw Amplitude and Raw Phase side by side -->
+        <div class="row" id="raw-comparison-row">
+            <div class="section-labels" style="margin-top: 3px;">
+                <div>Raw Amplitude</div>
+                <div>Raw Phase</div>
+            </div>
+            <div class="section-container">
+                <div class="container" id="raw-amplitude-container">
+                    <div style="position: absolute; left: -80px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 1</div>
+                    <div style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 2</div>
+                    <div class="gif-container" id="raw-amplitude-gif-container">
+                        <div class="gif-layer gif-left" id="raw-amplitude-plane1-container"></div>
+                        <div class="gif-layer gif-right" id="raw-amplitude-plane2-container"></div>
+                        <div class="divider" id="raw-amplitude-divider"></div>
+                    </div>
+                </div>
+                <div class="container" id="raw-phase-container">
+                    <div style="position: absolute; left: -80px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 1</div>
+                    <div style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); font-size: 14px;">Plane 2</div>
+                    <div class="gif-container" id="raw-phase-gif-container">
+                        <div class="gif-layer gif-left" id="raw-phase-plane1-container"></div>
+                        <div class="gif-layer gif-right" id="raw-phase-plane2-container"></div>
+                        <div class="divider" id="raw-phase-divider"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-container">
+                <input type="range" class="slider" id="raw-comparison-slider" min="0" max="100" value="50">
+                <div class="labels">
+                    <span>Plane 1</span>
+                    <span>Plane 2</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button id="resetButton">Reset Media</button>
+    </div>
+
+    <script>
+        const GIF_BASE = '';
+        const GIF_FILES = {
+            amplitude: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_amplitude.gif',
+            phase: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_phase.gif',
+            plane1_reconstruction: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane1_reconstruction.gif',
+            plane2_reconstruction: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane2_reconstruction.gif',
+            plane1_raw_amplitude: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane1_raw_amplitude.gif',
+            plane2_raw_amplitude: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane2_raw_amplitude.gif',
+            plane1_raw_phase: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane1_raw_phase.gif',
+            plane2_raw_phase: GIF_BASE + 'colmap_chair_val_best_gaussians_10000_chair800_plane2_raw_phase.gif'
+        };
+
+        const resetButton = document.getElementById('resetButton');
+
+        const amplitudePhaseSlider = document.getElementById('amplitude-phase-slider');
+        const reconstructionSlider = document.getElementById('reconstruction-slider');
+        const rawComparisonSlider = document.getElementById('raw-comparison-slider');
+
+        const amplitudeContainer = document.getElementById('amplitude-container');
+        const phaseContainer = document.getElementById('phase-container');
+        const reconstructionPlane1Container = document.getElementById('reconstruction-plane1-container');
+        const reconstructionPlane2Container = document.getElementById('reconstruction-plane2-container');
+        const rawAmplitudePlane1Container = document.getElementById('raw-amplitude-plane1-container');
+        const rawAmplitudePlane2Container = document.getElementById('raw-amplitude-plane2-container');
+        const rawPhasePlane1Container = document.getElementById('raw-phase-plane1-container');
+        const rawPhasePlane2Container = document.getElementById('raw-phase-plane2-container');
+
+        const amplitudePhaseDivider = document.getElementById('amplitude-phase-divider');
+        const reconstructionDivider = document.getElementById('reconstruction-divider');
+        const rawAmplitudeDivider = document.getElementById('raw-amplitude-divider');
+        const rawPhaseDivider = document.getElementById('raw-phase-divider');
+
+        const amplitudePhaseContainer = document.getElementById('amplitude-phase-container');
+        const amplitudePhaseGifContainer = document.getElementById('amplitude-phase-gif-container');
+        const reconstructionContainer = document.getElementById('reconstruction-container');
+        const reconstructionGifContainer = document.getElementById('reconstruction-gif-container');
+        const rawAmplitudeContainer = document.getElementById('raw-amplitude-container');
+        const rawAmplitudeGifContainer = document.getElementById('raw-amplitude-gif-container');
+        const rawPhaseContainer = document.getElementById('raw-phase-container');
+        const rawPhaseGifContainer = document.getElementById('raw-phase-gif-container');
+
+        let mediaElements = {};
+
+        amplitudePhaseDivider.style.left = '50%';
+        reconstructionDivider.style.left = '50%';
+        rawAmplitudeDivider.style.left = '50%';
+        rawPhaseDivider.style.left = '50%';
+
+        function updateComparison(slider, leftContainer, rightContainer, divider) {
+            const value = slider.value;
+            leftContainer.style.clipPath = `inset(0 ${100 - value}% 0 0)`;
+            rightContainer.style.clipPath = `inset(0 0 0 ${value}%)`;
+            divider.style.left = `${value}%`;
+        }
+
+        amplitudePhaseSlider.addEventListener('input', function() {
+            updateComparison(this, amplitudeContainer, phaseContainer, amplitudePhaseDivider);
+        });
+
+        reconstructionSlider.addEventListener('input', function() {
+            updateComparison(this, reconstructionPlane1Container, reconstructionPlane2Container, reconstructionDivider);
+        });
+
+        rawComparisonSlider.addEventListener('input', function() {
+            updateComparison(this, rawAmplitudePlane1Container, rawAmplitudePlane2Container, rawAmplitudeDivider);
+            updateComparison(this, rawPhasePlane1Container, rawPhasePlane2Container, rawPhaseDivider);
+        });
+
+        function createMediaElement(url, container) {
+            container.innerHTML = '';
+            const img = document.createElement('img');
+            img.alt = 'GIF';
+            img.src = url;
+            container.appendChild(img);
+            return img;
+        }
+
+        function getMediaDimensions(element) {
+            if (!element) return { width: 0, height: 0 };
+            return {
+                width: element.naturalWidth || 0,
+                height: element.naturalHeight || 0
+            };
+        }
+
+        function adjustSection(leftContainer, rightContainer, outerContainer, gifContainer) {
+            const el1 = leftContainer.firstChild;
+            const el2 = rightContainer.firstChild;
+            if (!el1 && !el2) return;
+            const dim1 = getMediaDimensions(el1);
+            const dim2 = getMediaDimensions(el2);
+            const maxW = Math.max(dim1.width, dim2.width);
+            const maxH = Math.max(dim1.height, dim2.height);
+            if (maxW > 0 && maxH > 0) {
+                outerContainer.style.width = `${maxW}px`;
+                outerContainer.style.height = `${maxH}px`;
+                gifContainer.style.width = `${maxW}px`;
+                gifContainer.style.height = `${maxH}px`;
+            }
+        }
+
+        function loadAllMedia() {
+            const mapping = [
+                { key: 'amplitude', container: amplitudeContainer },
+                { key: 'phase', container: phaseContainer },
+                { key: 'plane1_reconstruction', container: reconstructionPlane1Container },
+                { key: 'plane2_reconstruction', container: reconstructionPlane2Container },
+                { key: 'plane1_raw_amplitude', container: rawAmplitudePlane1Container },
+                { key: 'plane2_raw_amplitude', container: rawAmplitudePlane2Container },
+                { key: 'plane1_raw_phase', container: rawPhasePlane1Container },
+                { key: 'plane2_raw_phase', container: rawPhasePlane2Container }
+            ];
+
+            const promises = [];
+            mapping.forEach(({ key, container }) => {
+                const img = createMediaElement(GIF_FILES[key], container);
+                mediaElements[key] = img;
+                promises.push(new Promise(resolve => {
+                    img.onload = resolve;
+                    img.onerror = resolve;
+                }));
+            });
+
+            Promise.all(promises).then(() => {
+                adjustSection(amplitudeContainer, phaseContainer, amplitudePhaseContainer, amplitudePhaseGifContainer);
+                adjustSection(reconstructionPlane1Container, reconstructionPlane2Container, reconstructionContainer, reconstructionGifContainer);
+                adjustSection(rawAmplitudePlane1Container, rawAmplitudePlane2Container, rawAmplitudeContainer, rawAmplitudeGifContainer);
+                adjustSection(rawPhasePlane1Container, rawPhasePlane2Container, rawPhaseContainer, rawPhaseGifContainer);
+
+                amplitudePhaseSlider.dispatchEvent(new Event('input'));
+                reconstructionSlider.dispatchEvent(new Event('input'));
+                rawComparisonSlider.dispatchEvent(new Event('input'));
+            });
+        }
+
+        function reloadMedia() {
+            Object.keys(mediaElements).forEach(key => {
+                const element = mediaElements[key];
+                if (element) {
+                    const src = element.src;
+                    element.src = '';
+                    setTimeout(() => { element.src = src; }, 50);
+                }
+            });
+        }
+
+        resetButton.addEventListener('click', reloadMedia);
+
+        loadAllMedia();
+    </script>
+</body>
+</html>
