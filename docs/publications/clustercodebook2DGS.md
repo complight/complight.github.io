@@ -21,8 +21,8 @@
 <sup>1</sup>University College London,
 <sup>2</sup>NVIDIA
 </p>
-<p style="text-align:center;"><b>ACM Transactions on Graphics</b></p>
-<p style="text-align:center;"><b>(Presented at SIGGRAPH 2026)</b></p>
+<p style="text-align:center;"><b>ACM SIGGRAPH 2026 Poster Track</b></p>
+<p style="text-align:center;"><b>(Invited to Technical Paper Talk Panel)</b></p>
 
 ??? info ":material-tag-text: Bibtex"
             @inproceedings{cheng2026clustered,
