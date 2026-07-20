@@ -46,6 +46,14 @@
         url = {https://doi.org/10.1145/3804450},
         }
 
+## Slides
+<iframe
+  src="https://complightlab.com/presentation_siggraph2026_complex_valued_holographic_radiance_field/" target="_blank" rel="noopener noreferrer/"
+  width="100%"
+  height="600"
+  style="border: none; border-radius: 8px;"
+  allowfullscreen
+></iframe>
 
 ## Abstract
 Modeling wave properties of light is an important milestone for advancing physically-based rendering.
