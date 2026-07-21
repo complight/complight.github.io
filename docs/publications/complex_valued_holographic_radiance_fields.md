@@ -449,6 +449,19 @@ The defocus blur produced by ours resembles that of optimization-based methods.
 </figure>
 
 
+## Photo gallery
+Here, we release photographs from our visit to the conference, highlighting parts of our SIGGRAPH 2026 experience.
+
+
+<figure markdown>
+  ![](./media/compval_gallery_001.png){ width="390", align=left }
+  ![](./media/compval_gallery_002.png){ width="390", align=left }
+  ![](./media/compval_gallery_003.jpg){ width="390", align=left }
+  ![](./media/compval_gallery_004.jpg){ width="390", align=left }
+  ![](./media/compval_gallery_005.jpg){ width="390", align=left }
+</figure>
+
+
 ## Relevant research works
 Here are relevant research works from the authors:
 
