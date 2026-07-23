@@ -459,6 +459,8 @@ Here, we release photographs from our visit to the conference, highlighting part
   ![](./media/compval_gallery_003.jpg){ width="390", align=left }
   ![](./media/compval_gallery_004.jpg){ width="390", align=left }
   ![](./media/compval_gallery_005.jpg){ width="390", align=left }
+  ![](./media/compval_gallery_006.png){ width="390", align=left }
+  ![](./media/compval_gallery_007.jpg){ width="390", align=left }
 </figure>
 
 
