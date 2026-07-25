@@ -1,4 +1,4 @@
-# Clusterd Codebook Quantization for 2D Gaussian-based Image Compression
+# Clustered Codebook Quantization for 2D Gaussian-based Image Compression
 
 ## People
 <table class=""  style="margin: 10px auto;">
