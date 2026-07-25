@@ -127,7 +127,7 @@ Increasing the number of clusters improves reconstruction quality by narrowing t
 
 </div>
 
-## Highlights from SIGGRAPH 2026
+## Photo gallery
 
 Here we record some of our activities from SIGGRAPH 2026 in Los Angeles, 19-23 July.
 
