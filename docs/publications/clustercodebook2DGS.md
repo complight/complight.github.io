@@ -1,4 +1,4 @@
-# Clusterd Codebook Quantization for 2D Gaussian-based Image Compression
+# Clustered Codebook Quantization for 2D Gaussian-based Image Compression
 
 ## People
 <table class=""  style="margin: 10px auto;">
@@ -127,12 +127,23 @@ Increasing the number of clusters improves reconstruction quality by narrowing t
 
 </div>
 
+## Highlights from SIGGRAPH 2026
+
+Here we record some of our activities from SIGGRAPH 2026 in Los Angeles, 19-23 July.
+
+<figure markdown>
+  ![ACTIVITY](media/runze_at_sig26.jpg){ width="620" }
+</figure>
+
+<figure markdown>
+  ![ACTIVITY](media/runze_yicheng_kaan_at_sig26.jpg){ width="620" }
+</figure>
 
 ## Acknowledgements
 This work builds upon [GaussianImage](https://github.com/Xinjie-Q/GaussianImage), which serves as the backbone implementation and baseline for our method. We thank the authors for making their code publicly available.
 
 ## Relevant research works
-- [Complex-Valued 2D Gaussian Representation for Computer-Generated Holography]{complex_valued_2d_gaussians.md}
+- [Complex-Valued 2D Gaussian Representation for Computer-Generated Holography](complex_valued_2d_gaussians.md)
 - [Complex-Valued Holographic Radiance Fields](complex_valued_holographic_radiance_fields.md)
 - [Compressing Double Phase Holograms using 2D Gaussians](compressing_double_phase_gs.md)
 - [Assessing Learned Models for Phase-only Hologram Compression](assess_hologram_compression.md)
