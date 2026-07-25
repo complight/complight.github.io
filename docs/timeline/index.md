@@ -1,7 +1,14 @@
 # Timeline
-
 ## 2026
 
+### 19-23 July 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm.png" alt="ACM" width="80" alt/>
+</div>
+📰 Our work, [`Clustered Codebook Quantization for 2D Gaussian-based Image Compression`](https://complightlab.com/publications/clustercodebook2DGS/), is presented under the poster program at ACM SIGGRAPH 2026 in Los Angeles, United States of America and was invited to the Technical Paper Talk Panel. This work is a collaboration with [Runze (Aiden) Cheng](https://aidcheng.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
+
+<br />
+<br />
 
 ### 3 June 2026
 <div style="float: left; height:100px;" class="boxed">
