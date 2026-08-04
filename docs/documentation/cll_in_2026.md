@@ -16,3 +16,4 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Tianwen Zhou, CVPR Workshop paper
 - Kaan, SID 2026 Invited talk
 - Joshua, Imperial College London
+- Maha, Optica Continuum paper
