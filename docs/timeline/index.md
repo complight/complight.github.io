@@ -1,11 +1,11 @@
 # Timeline
 ## 2026
 
-### August 2026
+### 6 August 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
-📰 Our work, [`All-optical selective target highlighting for augmented reality microscopy`](https://complightlab.com/publications/index.md), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708). This work is a collaboration with [Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
+📰 Our work, [`All-optical selective target highlighting for augmented reality microscopy`](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708). This work is a collaboration with [Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
 <br />
 <br />
 
