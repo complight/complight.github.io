@@ -1,6 +1,14 @@
 # Timeline
 ## 2026
 
+### August 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+📰 Our work, [`All-optical selective target highlighting for augmented reality microscopy`](https://complightlab.com/publications/index.md), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708). This work is a collaboration with [Maha Sahloul](https://www.google.com/search?q=Maha+Sahloul), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://www.google.com/search?q=M.+Fatih+Toy).
+<br />
+<br />
+
 ### 19-23 July 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm.png" alt="ACM" width="80" alt/>

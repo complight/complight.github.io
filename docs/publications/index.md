@@ -3,6 +3,37 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/ar_microscope.jpg" width="200" alt/>
+</div>
+**All-optical selective target highlighting for augmented reality microscopy**
+
+<img src="../badges/optica_continuum.svg">
+
+Maha Sahloul, [Kaan Akşit](https://kaanaksit.com), and M. Fatih Toy
+
+:material-web-box: [Publisher site](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/SahloulEtAl_OpticaContinuum_All_optical_selective_target_highlighting_for_augmented_reality_microscopy.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+	@article{Sahloul:26,
+	  author = {Maha Sahloul and Kaan Ak\c{s}it and M. Fatih Toy},
+	  journal = {Opt. Continuum},
+	  keywords = {Image encryption; Optical computing; Optical neural systems; Optical properties; Single pixel imaging; Spatial light modulators},
+	  number = {8},
+	  pages = {2708--2723},
+	  publisher = {Optica Publishing Group},
+	  title = {All-optical selective target highlighting for augmented reality microscopy},
+	  volume = {5},
+	  month = {Aug},
+	  year = {2026},
+	  url = {https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708},
+	  doi = {10.1364/OPTCON.606265},
+	  abstract = {Augmented reality (AR) microscopes assist users in analyzing microscopic specimens by overlaying virtual information onto the captured images. Typically, this approach requires continuous scene analysis and computational processing, which limits real-time performance and introduces significant computational overhead. We introduce an all-optical alternative by proposing a new phase optimization scheme integrated into AR microscopes. Our optimizations rely on creating a precomputed library of phase maps for a spatial light modulator (SLM). Each phase map is configured to selectively enhance a specific shape or size class in a scene, eliminating per-frame computational requirements. Furthermore, by leveraging the inherent shift-invariant property of Fourier optical systems, our phase masks maintain a selective augmentation of the target object during in-plane translations within the field of view (FoV) without explicit tracking algorithms. Our results demonstrate selective target highlighting based on object size or shape, enabling continuous real-time observation in microscopy systems.},
+	}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/cgvq_home.png" width="200" alt/>
 </div>
 **Clustered Codebook Quantization for 2D Gaussian-based Image Compression**
@@ -27,7 +58,7 @@ and [Kaan Akşit](https://kaanaksit.com)
             publisher = {Association for Computing Machinery},
             address   = {New York, NY, USA},
             doi       = {10.1145/3799825.3818700},
-            }
+        }
 	```
 <br clear="left"/>
 
