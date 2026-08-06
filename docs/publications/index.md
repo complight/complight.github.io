@@ -9,7 +9,7 @@
 
 <img src="../badges/optica_continuum.svg">
 
-Maha Sahloul, [Kaan Akşit](https://kaanaksit.com), and M. Fatih Toy
+[Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com), and [M. Fatih Toy](https://biocil.github.io/)
 
 :material-web-box: [Publisher site](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/SahloulEtAl_OpticaContinuum_All_optical_selective_target_highlighting_for_augmented_reality_microscopy.pdf)
