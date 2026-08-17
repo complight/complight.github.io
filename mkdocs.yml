@@ -90,6 +90,7 @@ nav:
       - How to copy or restore tmux settings: 'documentation/computing/how_to_copy_or_restore_tmux_settings.md'
       - How to add a user with controlled access resources: 'documentation/computing/how_to_add_a_user_with_controlled_access_to_resources.md'
       - Rotating your screen in Ubuntu 25.10 via the Terminal: 'documentation/computing/rotating_your_screen_in_ubuntu_25_10_via_the_terminal.md'
+       - Luminance vs. Brightness: 'documentation/optica_it_luminance_vs_brightness.md'
   - Outreach:
     - Description: 'outreach/index.md'
     - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
@@ -139,29 +140,29 @@ theme:
         - python
 
 plugins:
-   - redirects:
-       redirect_maps:
-           'multitasking_perceptual_graphics.md': 'publications/multitasking_perceptual_graphics.md'
-           'assess_hologram_compression.md': 'publications/assess_hologram_compression.md'
-           'lectures/index.md': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
-   - search
-   - bibtex:
-       bib_file: "docs/references.bib"
-   - mkdocstrings
-   - autorefs
-   - glightbox:
-       touchNavigation: true
-       loop: false
-       effect: zoom
-       slide_effect: slide
-       width: 100%
-       height: auto
-       zoomable: true
-       draggable: true
-       skip_classes:
-         - skip-lightbox
-       auto_caption: false
-       caption_position: bottom
+    - redirects:
+        redirect_maps:
+            'multitasking_perceptual_graphics.md': 'publications/multitasking_perceptual_graphics.md'
+            'assess_hologram_compression.md': 'publications/assess_hologram_compression.md'
+            'lectures/index.md': 'teaching/siggraph2022_optimizing_vision_and_visuals.md'
+    - search
+    - bibtex:
+        bib_file: "docs/bibliography.bib"
+    - mkdocstrings
+    - autorefs
+    - glightbox:
+        touchNavigation: true
+        loop: false
+        effect: zoom
+        slide_effect: slide
+        width: 100%
+        height: auto
+        zoomable: true
+        draggable: true
+        skip_classes:
+          - skip-lightbox
+        auto_caption: false
+        caption_position: bottom
 
 markdown_extensions:
    - toc:
