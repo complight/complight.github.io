@@ -1,6 +1,6 @@
 # Luminance vs. Brightness: Understanding the Difference
 
-_Written by [**Kai-Han Chang**](https://scholar.google.com/citations?user=qaKcyrYAAAAJ&hl=en), [**Andrzej Kaczorowski**](https://www.drandrzejka.com/), [**Yuge (Esther) Huang**](https://www.linkedin.com/in/yuge-esther-huang-730740124/) and [**Kaan Akşit**](https://kaanaksit.com), 7 August 2026_
+_Written by [**Kai-Han Chang**](https://scholar.google.com/citations?user=qaKcyrYAAAAJ&hl=en), [**Andrzej Kaczorowski**](https://www.drandrzejka.com/), [**Yuge (Esther) Huang**](https://www.linkedin.com/in/yuge-esther-huang-730740124/) and [**Kaan Akşit**](https://kaanaksit.com), 17 August 2026_
 
 
 ## Introduction
