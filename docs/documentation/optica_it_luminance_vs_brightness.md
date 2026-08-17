@@ -15,6 +15,7 @@ Brightness, conversely, is a subjective experience and not a measurable physical
 
 ## The Role of Environment
 A display's specification for luminance is typically determined by its intended environment:
+
 - **Desktop Monitors:** Typically 300–400 cd/m² for indoor use.
 - **Smartphones:** Often 800–1,200 cd/m² to ensure readability in outdoor viewing conditions.
 - **Digital Cinema:** Standardized at approximately 48 cd/m² [@konicaminolta_cinema_luminance @smpte_st_431_1_2006].
