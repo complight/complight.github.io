@@ -9,6 +9,8 @@
 
 <img src="../badges/optica_continuum.svg">
 
+:fontawesome-solid-award: **(Cover of Optics Continuum Vol. 5 Issue 8](https://opg.optica.org/optcon/issue.cfm?volume=5&issue=8)**
+
 [Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com), and [M. Fatih Toy](https://biocil.github.io/)
 
 :material-web-box: [Publisher site](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708)

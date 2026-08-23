@@ -1,6 +1,16 @@
 # Timeline
 ## 2026
 
+### 23 August 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+🥇 [`All-optical selective target highlighting for augmented reality microscopy`](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708) is selected as the cover of (Optica Continuum's Issue 8 Volume 5](https://opg.optica.org/optcon/issue.cfm?volume=5&issue=8).
+ This work is a collaboration with [Maha Sahloul (ﻢﻫﺍ ﺲﺤﻟﻮﻟ)](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
+<br />
+<br />
+
+
 ### 6 August 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
