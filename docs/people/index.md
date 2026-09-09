@@ -131,31 +131,6 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 <br clear="left"/>
 
 
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/efe_tekin.png" width="160" alt/>
-</div>
-[Efe Tekin](https://www.linkedin.com/in/efe-tekin)
-
-BSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:sefetekin@gmail.com)
-
-:material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
-
-<div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/e_ern_joshua_soh.png" width="160" alt/>
-</div>
-[E-Ern (Joshua) Soh ]()
-
-BSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:sohyienjoshua@gmail.com)
-
-:material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
 
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/tong_wu.png" width="160" alt/>
