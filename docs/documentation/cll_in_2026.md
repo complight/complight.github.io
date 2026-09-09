@@ -8,7 +8,7 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Yicheng, Viva
 - Merry, EuroGraphics poster
 - Aiden, Cambridge University, Rafal Mantiuk, a potential supervisor 
-- Aiden, SIGGRAPH poster
+- Aiden, SIGGRAPH 2026 poster
 - Aiden, invited presentation at papers session
 - Efe, Imperial College London
 - Jihao (Geo) Gu, CVPR Workshop paper
@@ -16,4 +16,10 @@ _Written by [**Kaan Akşit**](https://kaanaksit.com), 15 December 2026_
 - Tianwen Zhou, CVPR Workshop paper
 - Kaan, SID 2026 Invited talk
 - Joshua, Imperial College London
+- Ziyang, Viva
 - Maha, Optica Continuum paper
+- Merry, SIGGRAPH Asia 2026 technical communications
+- Tong, SIGGRAPH Asia 2026 technical communications
+- Haolong, SIGGRAPH Asia 2026 technical communications
+- Xinyao, SIGGRAPH Asia 2026 poster
+- Kaan, Optica article
