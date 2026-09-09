@@ -1,0 +1,16 @@
+[data-md-color-scheme="youtube"] {
+  --md-primary-fg-color:        #a61600;
+  --md-primary-fg-color--light: #a61600;
+  --md-primary-fg-color--dark:  #a61600;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 210; 
+  --md-primary-fg-color: #a61600;
+  
+}
+
+.md-grid {
+  max-width: 1440px; 
+}
+
