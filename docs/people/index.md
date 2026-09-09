@@ -157,6 +157,19 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/tong_wu.png" width="160" alt/>
+</div>
+[Tong Wu](https://tongwu-research.github.io/)
+
+BSc Student ([East China University of Science and Technology](https://www.ecust.edu.cn/))
+
+:material-email: [E-mail](mailto:wutong200511@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
 ## Alumni
 
 ### Post-Doctoral Researchers
