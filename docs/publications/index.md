@@ -3,6 +3,40 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
+</div>
+**Complex-Valued 2D Gaussian Representation for Computer-Generated Holography**
+
+<img src="../badges/eccv.svg">
+
+[Yicheng Zhan](https://albertgary.github.io/),
+[Xiangjun Gao](https://gaoxiangjun.github.io/),
+[Long Quan](https://home.cse.ust.hk/~quan/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](complex_valued_2d_gaussians.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ECCV2026_Complex_valued_2d_gaussian_representation_for_computer_generated_holography.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ECCV2026_Supplementary_Complex_valued_2d_gaussian_representation_for_computer_generated_holography.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2511.15022)
+:material-file-code: [Code](https://github.com/complight/Complex-Valued_2D_Gaussian_Representation)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{zhan2025complexvalued2d,
+	  author = {Zhan, Yicheng and Gao, Xiangjun and Quan, Long and Ak{\c{s}}it, Kaan},
+	  editor = {Favaro, Paolo and Kukelova, Zuzana and Maki, Atsuto and Rohrbach, Anna and Schindler, Konrad and Tombari, Federico},
+	  title = {Complex-Valued 2D Gaussian Representation for Computer-Generated Holography},
+	  booktitle = {Computer Vision -- ECCV 2026},
+	  year = {2026},
+	  publisher = {Springer Nature Switzerland},
+	  address = {Cham},
+	  pages = {557--576},
+	  isbn = {978-3-032-37574-2},
+	  doi = {10.1007/978-3-032-37574-2_31}
+	}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/ar_microscope.jpg" width="200" alt/>
 </div>
 **All-optical selective target highlighting for augmented reality microscopy**
@@ -63,41 +97,6 @@ and [Kaan Akşit](https://kaanaksit.com)
         }
 	```
 <br clear="left"/>
-
-<div style="float: left; height:340px;" class="boxed">
-<img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
-</div>
-**Complex-Valued 2D Gaussian Representation for Computer-Generated Holography**
-
-<img src="../badges/eccv.svg">
-
-[Yicheng Zhan](https://albertgary.github.io/),
-[Xiangjun Gao](https://gaoxiangjun.github.io/),
-[Long Quan](https://home.cse.ust.hk/~quan/),
-and [Kaan Akşit](https://kaanaksit.com)
-
-:material-web: [Project site](complex_valued_2d_gaussians.md)
-:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ECCV2026_Complex_valued_2d_gaussian_representation_for_computer_generated_holography.pdf)
-:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/ZhanEtAl_ECCV2026_Supplementary_Complex_valued_2d_gaussian_representation_for_computer_generated_holography.pdf)
-:material-file-document-outline: [arXiv](https://arxiv.org/abs/2511.15022)
-:material-file-code: [Code](https://github.com/complight/Complex-Valued_2D_Gaussian_Representation)
-??? info ":material-tag-text: Bibtex"
-	```
-	@inproceedings{zhan2025complexvalued2d,
-	  author = {Zhan, Yicheng and Gao, Xiangjun and Quan, Long and Ak{\c{s}}it, Kaan},
-	  editor = {Favaro, Paolo and Kukelova, Zuzana and Maki, Atsuto and Rohrbach, Anna and Schindler, Konrad and Tombari, Federico},
-	  title = {Complex-Valued 2D Gaussian Representation for Computer-Generated Holography},
-	  booktitle = {Computer Vision -- ECCV 2026},
-	  year = {2026},
-	  publisher = {Springer Nature Switzerland},
-	  address = {Cham},
-	  pages = {557--576},
-	  isbn = {978-3-032-37574-2},
-	  doi = {10.1007/978-3-032-37574-2_31}
-	}
-	```
-<br clear="left"/>
-
 
 <div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/physiolatent_teaser.png" width="200" alt/>
