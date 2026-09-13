@@ -32,17 +32,17 @@
 
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{zhan2025complexvalued2d,
-        author = {Zhan, Yicheng and Gao, Xiangjun and Quan, Long and Ak\c{s}it, Kaan},
-        editor = {Favaro, Paolo and Kukelova, Zuzana and Maki, Atsuto and Rohrbach, Anna and Schindler, Konrad and Tombari, Federico},
-        title = {Complex-Valued 2D Gaussian Representation for Computer-Generated Holography},
-        booktitle = {Computer Vision -- ECCV 2026},
-        year = {2026},
-        publisher = {Springer Nature Switzerland},
-        address = {Cham},
-        pages = {557--576},
-        isbn = {978-3-032-37574-2},
-        doi = {10.1007/978-3-032-37574-2_31},
-        url = {https://doi.org/10.1007/978-3-032-37574-2_31},
+          author = {Zhan, Yicheng and Gao, Xiangjun and Quan, Long and Ak\c{s}it, Kaan},
+          editor = {Favaro, Paolo and Kukelova, Zuzana and Maki, Atsuto and Rohrbach, Anna and Schindler, Konrad and Tombari, Federico},
+          title = {Complex-Valued 2D Gaussian Representation for Computer-Generated Holography},
+          booktitle = {Computer Vision -- ECCV 2026},
+          year = {2026},
+          publisher = {Springer Nature Switzerland},
+          address = {Cham},
+          pages = {557--576},
+          isbn = {978-3-032-37574-2},
+          doi = {10.1007/978-3-032-37574-2_31},
+          url = {https://doi.org/10.1007/978-3-032-37574-2_31},
         }
 
 ## Abstract

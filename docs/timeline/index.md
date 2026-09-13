@@ -1,6 +1,14 @@
 # Timeline
 ## 2026
 
+### 8-12 September 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/computer_vision_foundation.png" alt="ECCV" width="80" alt/>
+</div>
+📰 Our work, [`Complex-Valued 2D Gaussian Representation for Computer-Generated Holography`](https://complightlab.com/publications/complex_valued_2d_gaussians/), is presented at [ECCV 2026](https://eccv.ecva.net/Conferences/2026) in Malmö, Sweden. This work is a collaboration with [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Xiangjun Gao](https://gaoxiangjun.github.io/), [Long Quan](https://home.cse.ust.hk/~quan/) and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
 ### 23 August 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
