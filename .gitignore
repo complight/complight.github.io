@@ -1,0 +1,18 @@
+# MkDocs generated site
+/site/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# mkdocs build artifacts
+*.log
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
