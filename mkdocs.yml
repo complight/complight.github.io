@@ -7,7 +7,7 @@ site_url: 'https://complightlab.com'
 repo_name: complight
 repo_url: 'https://github.com/complight'
 
-copyright: 'Copyright &copy'
+copyright: 'Copyright &copy;'
 
 nav:
   - Home:
@@ -66,7 +66,7 @@ nav:
       - Coursework 1: 'teaching/comp0160_coursework_1.md'
       - Practical: 'teaching/comp0160_practical.md'
     - COMP088 Introduction to Machine Learning (Winter 2023):
-      - How to setup your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
+       - How to set up your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
       - How to implement Gradient Descent solver using Numpy: 'https://youtu.be/-ilAaJlUvYI'
       - How to compile your first Perceptron using Numpy: 'https://youtu.be/ENpJoyDc1rg'
       - How to compile your first model in PyTorch: 'https://youtu.be/PunWQMssqPU'
@@ -87,13 +87,13 @@ nav:
       - Creating a virtual environment for Python Development: 'documentation/computing/creating_a_virtual_environment_for_Python_development.md'
       - How to change name server on Ubuntu permanently: 'documentation/computing/how_to_change_name_server_on_ubuntu_permanently.md'
       - How to copy or restore tmux settings: 'documentation/computing/how_to_copy_or_restore_tmux_settings.md'
-      - How to add a user with controlled access resources: 'documentation/computing/how_to_add_a_user_with_controlled_access_to_resources.md'
+       - How to add a user with controlled access to resources: 'documentation/computing/how_to_add_a_user_with_controlled_access_to_resources.md'
       - Rotating your screen in Ubuntu 25.10 via the Terminal: 'documentation/computing/rotating_your_screen_in_ubuntu_25_10_via_the_terminal.md'
       - Luminance vs. Brightness: 'documentation/optica_it_luminance_vs_brightness.md'
   - Outreach:
     - Description: 'outreach/index.md'
     - Join our Slack channels: 'https://join.slack.com/t/rpcdrendering-m4b9370/shared_invite/zt-13b5caruu-o7Ra99nEXkntnJqVYJTVdg'
-    - Join our mailing List: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
+    - Join our mailing list: 'https://www.mailinglists.ucl.ac.uk/mailman/listinfo/high-beams-seminars'
   - Toolkit: 'https://kaanaksit.com/odak'
 
 
