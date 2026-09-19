@@ -66,7 +66,7 @@ nav:
       - Coursework 1: 'teaching/comp0160_coursework_1.md'
       - Practical: 'teaching/comp0160_practical.md'
     - COMP088 Introduction to Machine Learning (Winter 2023):
-       - How to set up your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
+      - How to set up your virtual environment using Visual Studio: 'https://youtu.be/SHdEqM5xydo'
       - How to implement Gradient Descent solver using Numpy: 'https://youtu.be/-ilAaJlUvYI'
       - How to compile your first Perceptron using Numpy: 'https://youtu.be/ENpJoyDc1rg'
       - How to compile your first model in PyTorch: 'https://youtu.be/PunWQMssqPU'
