@@ -11,6 +11,7 @@ These documents vary in their topics, from workplace guidances to technical dige
 ## Public Announcements
 | Documents | Description   |
 | ------------- |:-------------:|
+| [Computational Light Laboratory bridges student potential into scientific success across 2026 with global academic and industrial partners](./cll_in_2026.md) | Notes on our activities and presence in 2026 across ACM SIGGRAPH 2026, ECCV 2026, Eurographics 2026, CVPR 2026 and Display Week 2026 |
 | [Computational Light Laboratory at ACM SIGGRAPH Asia 2024](./siggraph_asia_2024.md) | Notes on our activities and presence in ACM SIGGRAPH Asia 2024 conference |
 | [Computational Light Laboratory bridges student potential into scientific success with global academic and industrial partners](./year_at_a_glance_2025.md) | Notes on our activities and presence in 2025 across ACM SIGGRAPH 2025, ACM Multimedia 2025 and ACM SIGGRAPH Asia 2025 conferenes |
 
