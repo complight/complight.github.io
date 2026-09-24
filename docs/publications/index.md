@@ -17,7 +17,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 :material-web: [Project site](gaussian_steganography.md)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
 :material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
-:material-file-code: [Code](https://github.com/tongwu-research/gaussian-image-steganography)
+:material-file-code: [Code](https://github.com/complight/gaussian-image-steganography)
 ??? info ":material-tag-text: BibTeX"
 	```
 	@inproceedings{wu2026gaussian,
