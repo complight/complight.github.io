@@ -222,5 +222,6 @@ BSc Student ([East China University of Science and Technology](https://www.ecust
 - [Koray Kavaklı](https://scholar.google.com/citations?user=rn6XtO4AAAAJ&hl=en&oi=ao), `Towards Improving Visual Quality in Computer-Generated Holography,` 2021, Next: Ph.D. Student at Koç University.
 - [Nerea Sainz De La Maza](https://www.linkedin.com/in/nerea-sainz-de-la-maza/), `Printable camera casing design,` 2022, Next: Bachelor of Science at University College London.
 - [Serhat Aksoy](https://www.linkedin.com/in/serhat-aksoy/), `Volume rendering tool,` 2022, Next: Bachelor of Science at Istanbul Technical University.
+- [Tong Wu](https://tongwu-research.github.io/), `Gaussian Image Steganography via Parameter-Domain Keyed Embeddings,` 2026, Next: -.
 - Josh Kaizer, as a part of [In2Science UK programme](https://in2scienceuk.org/), 2022, Next: -.
 - [Yichen Zou](https://www.linkedin.com/in/yichen-zou-9b7116240/), `3D Dataset generation,` 2022, Next: Graduate Student at McGill Univesity.
