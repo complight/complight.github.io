@@ -2,30 +2,28 @@
 
 ## People
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1.25rem;margin:1rem 0;text-align:center;">
-  <div>
-    <img src="../../people/tong_wu.png" width="120" height="120" alt="Tong Wu" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
-    <br><a href="https://tongwu-research.github.io/">Tong Wu</a><sup>1</sup>
-    <br><small><sup>1</sup> East China University of Science and Technology<br>Shanghai, China</small>
-  </div>
-  <div>
-    <img src="../../people/aiden_runze_cheng.png" width="120" height="120" alt="Runze Cheng" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
-    <br><a href="https://aidcheng.github.io/">Runze Cheng</a><sup>2,3</sup>
-    <br><small><sup>2</sup> University of Cambridge<br><sup>3</sup> Computational Light Laboratory, University College London</small>
-  </div>
-  <div>
-    <img src="../../people/merry_fan.png" width="120" height="120" alt="Xiaoyue Fan" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
-    <br><a href="https://merryxyfan.github.io/">Xiaoyue Fan</a><sup>4</sup>
-    <br><small><sup>4</sup> University College London<br>London, United Kingdom</small>
-  </div>
-  <div>
-    <img src="../../people/kaan_aksit.png" width="120" height="120" alt="Kaan Akşit" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
-    <br><a href="https://kaanaksit.com/">Kaan Akşit</a><sup>4</sup>
-    <br><small><sup>4</sup> University College London<br>London, United Kingdom</small>
-  </div>
-</div>
-
-<p style="text-align:center;"><strong>SIGGRAPH Asia 2026 Technical Communications</strong></p>
+<table class=""  style="margin: 10px auto;">
+  <tbody>
+    <tr>
+      <td> <img src="../../people/tong_wu.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/aiden_runze_cheng.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/merry_fan.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td> <img src="../../people/kaan_aksit.png" width="120" alt=/> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td><p style="text-align:center;"><a href="https://tongwu-research.github.io/">Tong Wu</a><sup>1</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://aidcheng.github.io/">Runze Cheng</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://merryxyfan.github.io/">Xiaoyue Fan</a><sup>3</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>3</sup></p></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align:center;">
+<sup>1</sup>East China University of Science and Technology,
+<sup>2</sup>University of Cambridge,
+<sup>3</sup>University College London
+</p>
+<p style="text-align:center;"><b>SIGGRAPH Asia 2026 Technical Communications</b></p>
 
 ## Resources
 
