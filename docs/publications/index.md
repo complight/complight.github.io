@@ -7,7 +7,7 @@
 </div>
 **Gaussian Image Steganography via Parameter-Domain Keyed Embeddings**
 
-SIGGRAPH Asia 2026 Technical Communications
+<img src="../badges/siggraph_asia.svg">
 
 [Tong Wu](https://tongwu-research.github.io/),
 [Runze Cheng](https://aidcheng.github.io/),

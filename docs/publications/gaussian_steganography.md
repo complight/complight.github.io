@@ -29,8 +29,8 @@
 
 ## Resources
 
-:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)<br>
-:material-newspaper-variant: [Supplementary material](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)<br>
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
+:material-newspaper-variant: [Supplementary material](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
 :material-file-code: [Code](https://github.com/complight/gaussian-image-steganography)
 
 ??? info ":material-tag-text: BibTeX"
