@@ -24,6 +24,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/gaussian_steganography/">
+        <b>Gaussian Image Steganography via Parameter-Domain Keyed Embeddings</b>
+        </a>
+        </h3>
+        <h5>
+        <b>SIGGRAPH Asia 2026 Technical Communications</b>
+        </h5>
+        <img height="300" width="414" src="publications/media/tc147/figure2.png" class="off-glb" alt="Source images, clean Gaussian fits, and embedded reconstructions">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/complex_valued_2d_gaussians/">
         <b>Complex-Valued 2D Gaussian Representation for Computer-Generated Holography</b>
         </a>

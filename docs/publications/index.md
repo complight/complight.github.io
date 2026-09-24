@@ -3,6 +3,35 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/tc147/figure2.png" width="200" alt="Original paper Figure 2 comparing source images, clean fits, and embedded reconstructions"/>
+</div>
+**Gaussian Image Steganography via Parameter-Domain Keyed Embeddings**
+
+SIGGRAPH Asia 2026 Technical Communications
+
+[Tong Wu](https://tongwu-research.github.io/),
+[Runze Cheng](https://aidcheng.github.io/),
+[Xiaoyue Fan](https://merryxyfan.github.io/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](gaussian_steganography.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
+:material-file-code: [Code](https://github.com/complight/gaussian-image-steganography)
+??? info ":material-tag-text: BibTeX"
+	```
+	@inproceedings{wu2026gaussian,
+	  author    = {Wu, Tong and Cheng, Runze and Fan, Xiaoyue and Ak{\c{s}}it, Kaan},
+	  title     = {Gaussian Image Steganography via Parameter-Domain Keyed Embeddings},
+	  booktitle = {SIGGRAPH Asia 2026 Technical Communications (SA Technical Communications '26)},
+	  year      = {2026},
+	  publisher = {Association for Computing Machinery},
+	  doi       = {10.1145/3829339.3847833}
+	}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
 </div>
 **Complex-Valued 2D Gaussian Representation for Computer-Generated Holography**
