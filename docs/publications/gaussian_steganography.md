@@ -171,10 +171,7 @@ Related projects and papers include:
 
 - [Clustered Codebook Quantization for 2D Gaussian-based Image Compression](clustercodebook2DGS.md)
 - [Foveation Improves Payload Capacity in Steganography](foveated_steganography.md)
-- [3D-GSW: 3D Gaussian Splatting for Robust Watermarking (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_3D-GSW_3D_Gaussian_Splatting_for_Robust_Watermarking_CVPR_2025_paper.html)
-- [GaussianMarker (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/39cee562b91611c16ac0b100f0bc1ea1-Abstract-Conference.html)
 
-3D-GSW extracts from rendered views; GaussianMarker studies extraction from both renderings and Gaussian parameters.
 Our experiments concern a fitted two-dimensional image representation and a decoder that also needs the paired clean fit and encoder-produced assignment map.
 Supplementary Section S5 compares the decoding inputs, payloads, and distortion references.
 
