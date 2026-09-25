@@ -17,18 +17,25 @@ Within that population, a commonly cited figure is that about 8 percent of men a
 ## What is affected?
 Human color vision is trichromatic, built from three classes of cone photoreceptors sensitive to long, medium, and short wavelengths.
 CVD most often reduces the long and medium classes, because their absorption curves overlap so strongly that red and green discrimination is the most fragile.
-Because these genes sit on the X chromosome, the condition appears far more often in men.
+Because the genes encoding the long and medium cones sit on the X chromosome, the condition appears far more often in men.
 It is a spectrum, not a switch.
 Some people are dichromats, with one cone class missing.
 Far more are anomalous trichromats, with one cone class present but shifted.
-Seeing essentially no color at all, as in achromatopsia, is rare.
+Seeing essentially no color at all, achromatopsia, is rare.
 
 
-## What it looks like?
+## How is CVD diagnosed?
+A well-known screening tool is the Ishihara Test, developed in 1917 and still widely used today.
+Each plate shows a circular field of dots of varying sizes. A figure formed by the dots, separates from the background by hue, while brightness stays roughly constant, a design called pseudoisochromatic.
+A viewer with normal color vision can naturally read an embedded number, while a viewer with colour deficiency will misread it or see no figure at all.
+The test also depends on faithful color reproduction, since a poorly calibrated screen or printer can undo the pseudoisochromatic effect the plates rely on.
+
+
+## What does it look like?
 The two panels below show the same image under normal vision and under a protanopia simulation.
-Vivid, saturated blooms collapse into a muted, low-contrast image, and hues that were distinct stop being distinct.
+Vivid, saturated blooms collapse into a muted, low-contrast image, and hues that were distinct become undifferentiated.
 This is the practical consequence that matters for design.
-The color contrast and hue distinctness that a typical viewer can rely on are simply not present for a person with CVD.
+The color contrast and hue differentiation that a typical viewer can rely on are simply not present for a person with CVD.
 
 ![The same flowers under normal vision, left, and under a protanopia simulation, right](../media/optica_it_cvd_flowers_normal_vs_protanopia.png)
 
@@ -36,7 +43,7 @@ The color contrast and hue distinctness that a typical viewer can rely on are si
 ## Designing for everyone
 Three practical consequences follow, and each has a way to check it.
 
-- Do not rely on color alone. Add a second channel, such as a label, an icon, a pattern, or a shape, so that the information survives when hue distinctness is lost.
+- Do not rely on color alone. Add a second channel, such as a label, an icon, a pattern, or a shape, so that the information survives when hue differentiation is lost.
 - Hold enough contrast. Choose separations in lightness and saturation that persist under CVD simulation, rather than assuming that a red and a green will read apart. This is consistent with accessibility contrast guidance.
 - Verify computationally. Simulate protanopia and deuteranopia using standard physiological models [^@machado2009_cvd_simulation], color metric approaches [^@abasi2020_colour_edge_metrics], or libraries such as DaltonLens [^@burrus2021_daltonlens] and Colour [^@colourdevelopers2025_colour_science], and check that the signal survives under the simulation.
 
