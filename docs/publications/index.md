@@ -3,6 +3,41 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/heartian_preview.png" width="200" alt=""/>
+</div>
+**💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar**
+
+<img src="../badges/siggraph_asia.svg">
+
+[Xiaoyue Fan](https://merryxyfan.github.io/),
+[Jose Echevarria](https://research.adobe.com/person/jose-echevarria/),
+[Akshay Paruchuri](https://akshayparuchuri.com/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](heartian.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/FanEtAl_SigAsia2026_Heartian_physiology_aware_relightable_gaussian_head_avatar.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/FanEtAl_SigAsia2026_Supplementary_Heartian_physiology_aware_relightable_gaussian_head_avatar.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2609.28539)
+:material-file-code: [Code](https://github.com/complight/Heartian-Physiology_Aware_Relightable_Gaussian_Head_Avatar)
+??? info ":material-tag-text: BibTeX"
+	```
+	inproceedings{fan2026heartian,
+		author = {Fan, Xiaoyue  and Echevarria, Jose  and Paruchuri, Akshay  and Ak{\c{s}}it, Kaan },
+		title = {{💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar}},
+		booktitle = {SIGGRAPH Asia 2026 Technical Communications (SA Technical Communications '26)},
+		year = {2026},
+		month = {December 01--04},
+		publisher = {Association for Computing Machinery},
+		location = {Kuala Lumpur, Malaysia}, 
+		pages = {4},
+		isbn = {979-8-4007-2841-9/2026/12},
+		doi = {10.1145/3829339.3847838},
+		url = {https://arxiv.org/abs/2609.28539}
+		}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/tc147/figure2.png" width="200" alt="Original paper Figure 2 comparing source images, clean fits, and embedded reconstructions"/>
 </div>
 **Gaussian Image Steganography via Parameter-Domain Keyed Embeddings**

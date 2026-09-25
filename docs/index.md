@@ -24,6 +24,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/heartian/">
+        <b>💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar</b>
+        </a>
+        </h3>
+        <h5>
+        <b>SIGGRAPH Asia 2026 Technical Communications</b>
+        </h5>
+        <img height="300" width="600" src="publications/media/heartian_represent.png" class="off-glb" alt="Source images, clean Gaussian fits, and embedded reconstructions">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/gaussian_steganography/">
         <b>Gaussian Image Steganography via Parameter-Domain Keyed Embeddings</b>
         </a>

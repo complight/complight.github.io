@@ -248,9 +248,8 @@ Furthermore, our strategy enables prescribed waveform and heart-rate control wit
 ## Relevant research works
 Here are relevant research works from the authors:
 
-- [rPPG-Toolbox: Deep Remote PPG Toolbox (NeurIPS 2023)](https://arxiv.org/abs/2210.00716)
-- [HRAvatar: High-Quality and Relightable Gaussian Head Avatar (CVPR 2025)](https://eastbeanzhang.github.io/HRAvatar/)
 - [Editing Physiological Signals in Videos Using Latent Representations](https://complightlab.com/publications/physiolatent/)
+- [Heart rate monitoring via remote photoplethysmography with motion artifacts reduction](https://www.kaanaksit.com/assets/pdf/CenniniEtAl_OpticsExpress2010_Heart_rate_monitoring_via_remote_photoplethysmography_with_motion_artifacts_reduction.pdf)
 
 ## Outreach
 We host a Slack group with more than 250 members.
