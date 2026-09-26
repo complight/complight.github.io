@@ -194,7 +194,7 @@ Our method enables the recovery of heart rate from embedded signals with a mean 
 </tbody>
 </table>
 
-Besides, our approach of embedding rPPG signals directly into the Gaussian albedo offers attribute-level signal preservation. As Table 2 shows, 💓Heartian make up the lack of static HRAvatar baseline in heart rate informattion. Compared with results derived from the rendered videos in Table 1, the extracted signals show stronger fidelity, suggesting that rPPG information is numerically preserved within the avatar representation when it attenuates through rendering or post-processing.
+Besides, our approach of embedding rPPG signals directly into the Gaussian albedo offers attribute-level signal preservation. As Table 2 shows, 💓Heartian Heartian recovers the heart rate information missing from the static HRAvatar baseline. Compared with results derived from the rendered videos in Table 1, the extracted signals show stronger fidelity, suggesting that rPPG information is numerically preserved within the avatar representation when it attenuates through rendering or post-processing.
 
 <table>
 <caption><b>Table 2. Attribute-level Evaluation.</b> rPPG signal metrics extracted from the Gaussian albedo of baseline and 💓Heartian.</caption>
