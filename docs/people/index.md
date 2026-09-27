@@ -131,6 +131,19 @@ BSc Student ([East China University of Science and Technology](https://www.ecust
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/jin_hyeong_park.png" width="160" alt/>
+</div>
+[Jin-Hyeong Park](https://jinpark.art/)
+
+Independent Researcher
+
+:material-email: [E-mail](mailto:jhpark.4745@gmail.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
 ## Alumni
 
 ### Post-Doctoral Researchers
