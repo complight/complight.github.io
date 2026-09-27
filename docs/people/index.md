@@ -119,20 +119,6 @@ MSc Student ([Medipol University](https://www.medipol.edu.tr/))
 
 
 <div style="float: left; height:200px;" class="boxed">
-<img align='left' src="../people/stefan_sarmo.png" width="160" alt/>
-</div>
-[Stefan Sarmo](http://linkedin.com/in/stefan-sarmo-377b6428a)
-
-BSc Student ([University College London](https://www.ucl.ac.uk))
-
-:material-email: [E-mail](mailto:stefan@sarmo.com)
-
-:material-office-building: Office: Hybrid (R404.186)
-<br clear="left"/>
-
-
-
-<div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/tong_wu.png" width="160" alt/>
 </div>
 [Tong Wu](https://tongwu-research.github.io/)
@@ -192,6 +178,7 @@ BSc Student ([East China University of Science and Technology](https://www.ecust
 - [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io), `Clustered Codebook Quantization for 2D Gaussian-based Image Compression`, 2026, Next: MSc at University of Cambridge.
 <!-- S -->
 - [Santtosh Sivaram](https://www.linkedin.com/in/santtosh-sivaram-b87594294/), `Driver assistance using IBM's large language models`, 2026, Next: -.
+- [Stefan Sarmo](https://about.me/sarmo), 2026, Next: Freelance software developer.
 <!-- T -->
 - [Tianwen Zhou](https://zhoutianwen.com/), `Editing Physiological Signals in Videos Using Latent Representations,` 2025, Next: Researcher in Huawei Technology Ltd. 
 - [Toma Kolev](https://www.linkedin.com/in/toma-kolev-18b550149/), `Learned methods for Lensless cameras,` 2025, Next: Software Engineer at Smartsoft Healthcare. 
