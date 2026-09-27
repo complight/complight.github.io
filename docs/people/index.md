@@ -134,7 +134,7 @@ BSc Student ([East China University of Science and Technology](https://www.ecust
 <div style="float: left; height:200px;" class="boxed">
 <img align='left' src="../people/jin_hyeong_park.png" width="160" alt/>
 </div>
-[Jin-Hyeong Park](https://jinpark.art/)
+[Jin-Hyeong Park (박진형)](https://jinpark.art/)
 
 Independent Researcher
 
