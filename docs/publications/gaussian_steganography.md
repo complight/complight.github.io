@@ -27,9 +27,11 @@
 
 ## Resources
 
-:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
-:material-newspaper-variant: [Supplementary material](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)
-:material-file-code: [Code](https://github.com/complight/gaussian-image-steganography)
+<span style="white-space:nowrap">:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)</span>
+<span style="white-space:nowrap">:material-newspaper-variant: [Supplementary material](https://www.kaanaksit.com/assets/pdf/WuEtAl_SigAsia26_Supplementary_Gaussian_image_steganography_via_parameter_domain_keyed_embeddings.pdf)</span>
+<span style="white-space:nowrap">:material-file-document-outline: [arXiv](https://arxiv.org/abs/2609.32131)</span>
+<span style="white-space:nowrap">:material-file-code: [Code](https://github.com/complight/gaussian-image-steganography)</span>
+<span style="white-space:nowrap">:material-presentation: [Slides](#slides)</span>
 
 ??? info ":material-tag-text: BibTeX"
 
@@ -39,8 +41,24 @@
       booktitle = {SIGGRAPH Asia 2026 Technical Communications (SA Technical Communications '26)},
       year      = {2026},
       publisher = {Association for Computing Machinery},
-      doi       = {10.1145/3829339.3847833}
+      doi       = {10.1145/3829339.3847833},
+      url       = {https://arxiv.org/abs/2609.32131}
     }</code></pre>
+
+## Slides
+
+<iframe
+  src="../../presentation_gaussian_steganography/#/1"
+  title="Gaussian Image Steganography — presentation slides"
+  width="100%"
+  height="600"
+  style="display:block; width:100%; height:auto; aspect-ratio:16/9; border:none; border-radius:8px;"
+  loading="lazy"
+  allowfullscreen
+></iframe>
+
+:material-open-in-new: <a href="../../presentation_gaussian_steganography/#/1" target="_blank" rel="noopener noreferrer">Open slides</a>
+:material-file-pdf-box: [Slides PDF](../presentation_gaussian_steganography/TC147_Slidev_10_slides.pdf)
 
 ## Video
 
