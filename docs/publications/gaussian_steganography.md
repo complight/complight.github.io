@@ -48,7 +48,7 @@
 ## Slides
 
 <iframe
-  src="../../presentation_gaussian_steganography/#/1"
+  src="https://complightlab.com/prsentation_gaussian_steganography/#/1"
   title="Gaussian Image Steganography — presentation slides"
   width="100%"
   height="600"
@@ -57,8 +57,8 @@
   allowfullscreen
 ></iframe>
 
-:material-open-in-new: <a href="../../presentation_gaussian_steganography/#/1" target="_blank" rel="noopener noreferrer">Open slides</a>
-:material-file-pdf-box: [Slides PDF](../presentation_gaussian_steganography/TC147_Slidev_10_slides.pdf)
+:material-open-in-new: <a href="https://complightlab.com/prsentation_gaussian_steganography/#/1" target="_blank" rel="noopener noreferrer">Open slides</a>
+:material-file-pdf-box: [Slides PDF](https://complightlab.com/prsentation_gaussian_steganography/TC147_Slidev_10_slides.pdf)
 
 ## Video
 
