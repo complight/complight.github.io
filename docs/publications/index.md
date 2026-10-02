@@ -3,6 +3,41 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/qwp_hologram_teaser.png" width="200" alt=""/>
+</div>
+**Hologram Representation via Quadratic Phase Gaussian Splatting**
+
+<img src="../badges/siggraph_asia.svg">
+
+Haolong Wang,
+[Yicheng Zhan](https://albertgary.github.io/),
+[Kaan Akşit](https://kaanaksit.com),
+and Simeng Qiu
+
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Supplementary_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2609.11434)
+:material-file-code: [Code](https://github.com/gsmark36/complex-valued-quadratic-phase-gaussian)
+:material-video-account: [Project video](https://www.kaanaksit.com/assets/video/WangSigAsia26HologramQuadratic.mp4)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{wang2026hologram,
+	  author = {Wang, Haolong and Zhan, Yicheng and Ak{\c{s}}it, Kaan and Qiu, Simeng},
+	  title = {Hologram Representation via Quadratic Phase Gaussian Splatting},
+	  booktitle = {SIGGRAPH Asia 2026 Technical Communications (SA Technical Communications '26)},
+	  year = {2026},
+	  month = {December 01--04},
+	  publisher = {Association for Computing Machinery},
+	  location = {Kuala Lumpur, Malaysia},
+	  pages = {4},
+	  isbn = {979-8-4007-2841-9/2026/12},
+	  doi = {10.1145/3829339.3847858},
+	  url = {https://arxiv.org/abs/2609.11434}
+	}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/heartian_preview.png" width="200" alt=""/>
 </div>
 **💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar**
