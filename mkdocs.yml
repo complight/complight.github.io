@@ -39,7 +39,6 @@ nav:
   - Publications:
     - List of publications: 'publications/index.md'
     - Highlighted works:
-      - 'Hologram Representation via Quadratic Phase Gaussian Splatting': 'publications/hologram_quadratic_gs.md'
       - '💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar': 'publications/heartian.md'
       - 'Gaussian Image Steganography via Parameter-Domain Keyed Embeddings': 'publications/gaussian_steganography.md'
       - 'Complex-Valued 2D Gaussian Representation for Computer-Generated Holography': 'publications/complex_valued_2d_gaussians.md'
