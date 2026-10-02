@@ -9,10 +9,10 @@
 
 <img src="../badges/siggraph_asia.svg">
 
-Haolong Wang,
+[Haolong Wang](https://scholar.google.com/citations?user=_tV0YKkAAAAJ&),
 [Yicheng Zhan](https://albertgary.github.io/),
 [Kaan Akşit](https://kaanaksit.com),
-and Simeng Qiu
+and [Simeng Qiu](https://qsimeng.github.io/)
 
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
 :material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Supplementary_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
