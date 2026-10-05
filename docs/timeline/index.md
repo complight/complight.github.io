@@ -5,7 +5,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/computer_vision_foundation.png" alt="ECCV" width="80" alt/>
 </div>
-📰 Our work, [`Complex-Valued 2D Gaussian Representation for Computer-Generated Holography`](https://complightlab.com/publications/complex_valued_2d_gaussians/), is presented at [ECCV 2026](https://eccv.ecva.net/Conferences/2026) in Malmö, Sweden. This work is a collaboration with [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Xiangjun Gao](https://gaoxiangjun.github.io/), [Long Quan](https://home.cse.ust.hk/~quan/) and [Kaan Akşit](https://kaanaksit.com).
+📰 Our work, [`Complex-Valued 2D Gaussian Representation for Computer-Generated Holography`](https://complightlab.com/publications/complex_valued_2d_gaussians/), is presented at [ECCV 2026](https://eccv.ecva.net/Conferences/2026) in Malmö, Sweden. This work is a collaboration between [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Xiangjun Gao](https://gaoxiangjun.github.io/), [Long Quan](https://home.cse.ust.hk/~quan/) and [Kaan Akşit](https://kaanaksit.com).
 <br />
 <br />
 
@@ -14,7 +14,7 @@
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
 🥇 [`All-optical selective target highlighting for augmented reality microscopy`](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708) is selected as the cover of (Optica Continuum's Issue 8 Volume 5](https://opg.optica.org/optcon/issue.cfm?volume=5&issue=8).
- This work is a collaboration with [Maha Sahloul (ﻢﻫﺍ ﺲﺤﻟﻮﻟ)](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
+ This work is a collaboration between [Maha Sahloul (ﻢﻫﺍ ﺲﺤﻟﻮﻟ)](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
 <br />
 <br />
 
@@ -23,7 +23,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
 </div>
-📰 Our work, [`All-optical selective target highlighting for augmented reality microscopy`](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708). This work is a collaboration with [Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
+📰 Our work, [`All-optical selective target highlighting for augmented reality microscopy`](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708), is published at [Optics Continuum](https://opg.optica.org/optcon/abstract.cfm?URI=optcon-5-8-2708). This work is a collaboration between [Maha Sahloul](https://biocil.github.io/author/maha-sahloul/), [Kaan Akşit](https://kaanaksit.com) and [M. Fatih Toy](https://biocil.github.io/).
 <br />
 <br />
 
@@ -31,7 +31,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm.png" alt="ACM" width="80" alt/>
 </div>
-📰 Our work, [`Clustered Codebook Quantization for 2D Gaussian-based Image Compression`](https://complightlab.com/publications/clustercodebook2DGS/), is presented under the poster program at ACM SIGGRAPH 2026 in Los Angeles, United States of America and was invited to the Technical Paper Talk Panel. This work is a collaboration with [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
+📰 Our work, [`Clustered Codebook Quantization for 2D Gaussian-based Image Compression`](https://complightlab.com/publications/clustercodebook2DGS/), is presented under the poster program at ACM SIGGRAPH 2026 in Los Angeles, United States of America and was invited to the Technical Paper Talk Panel. This work is a collaboration between [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Josef Spjut](https://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
 
 <br />
 <br />
@@ -40,20 +40,20 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/computer_vision_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
 </div>
-📰 Our work, [`Text-guided Fine-Grained Video Anomaly Understanding`](https://complightlab.com/publications/text_guided_video_anomaly_understanding/), is presented at [CVPR 2026 Workshop on Subtle Visual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Jihao (Geo) Gu (谷纪豪)](https://momiji-bit.github.io/), [Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ), [He Wang](https://drhewang.com/) and [Kaan Akşit](https://kaanaksit.com). 🏆 This work received the [best honorable mention award](https://kaanaksit.com/assets/img/awards/T-VAU_Best_Paper_Honorable_Mention_Award.png) in the same workshop at the conference.
+📰 Our work, [`Text-guided Fine-Grained Video Anomaly Understanding`](https://complightlab.com/publications/text_guided_video_anomaly_understanding/), is presented at [CVPR 2026 Workshop on Subtle Visual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration between a series of academic parties including [Jihao (Geo) Gu (谷纪豪)](https://momiji-bit.github.io/), [Kun Li](https://scholar.google.com/citations?user=UQ_bInoAAAAJ), [He Wang](https://drhewang.com/) and [Kaan Akşit](https://kaanaksit.com). 🏆 This work received the [best honorable mention award](https://kaanaksit.com/assets/img/awards/T-VAU_Best_Paper_Honorable_Mention_Award.png) in the same workshop at the conference.
 
 
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/computer_vision_foundation.png" alt="EUROGRAPHICS" width="80" alt/>
 </div>
-📰 Our work, [`Editing Physiological Signals in Videos Using Latent Representations`](https://complightlab.com/publications/physiolatent/), is presented at [CVPR 2026 Workshop on Subtle VIsual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration with a series of academic parties including [Tianwen Zhou (周添文)](https://zhoutianwen.com/), [Akshay Paruchuri](https://akshayparuchuri.com/), [Josef Spjut](http://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
+📰 Our work, [`Editing Physiological Signals in Videos Using Latent Representations`](https://complightlab.com/publications/physiolatent/), is presented at [CVPR 2026 Workshop on Subtle VIsual Computing](https://sites.google.com/view/svc-cvpr26) in Denver, Colorado, United States of America. This work is a collaboration between a series of academic parties including [Tianwen Zhou (周添文)](https://zhoutianwen.com/), [Akshay Paruchuri](https://akshayparuchuri.com/), [Josef Spjut](http://josef.spjut.me/) and [Kaan Akşit](https://kaanaksit.com).
 
 
 ### 4 May 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/eurographics.png" alt="EUROGRAPHICS" width="80" alt/>
 </div>
-📰 Our work, [`Compressing Double Phase Holograms using 2D Gaussians`](https://complightlab.com/publications/compressing_double_phase_gs/), is accepted to EuroGraphics 2026 Poster track and will be presented at EuroGraphics 2026 in Aachen, Germany. This work is a collaboration with a series of academic parties including [Xiaoyue (Merry) Fan](https://merryxyfan.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Amrita Mazumdar](https://amritamaz.net/), and [Kaan Akşit](https://kaanaksit.com)
+📰 Our work, [`Compressing Double Phase Holograms using 2D Gaussians`](https://complightlab.com/publications/compressing_double_phase_gs/), is accepted to EuroGraphics 2026 Poster track and will be presented at EuroGraphics 2026 in Aachen, Germany. This work is a collaboration between a series of academic parties including [Xiaoyue (Merry) Fan](https://merryxyfan.github.io/), [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Amrita Mazumdar](https://amritamaz.net/), and [Kaan Akşit](https://kaanaksit.com)
 <br />
 <br />
 
@@ -71,7 +71,7 @@
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_tog.png" alt="ACM Transaction on Graphics" width="80" alt/>
 </div>
-📰 Our work, [`Complex-Valued Holographic Radiance Fields`](https://complightlab.com/publications/complex_valued_holographic_radiance_fields), is accepted to ACM Transactions on Graphics and will be presented at ACM SIGGRAPH 2026 in Los Angeles, United States of America. This work is a collaboration with a series of academic parties including [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Dong-Ha Shin](https://dhsh.in/), [Seung-Hwan Baek (백승환)](https://www.shbaek.com/) and [Kaan Akşit](https://kaanaksit.com)
+📰 Our work, [`Complex-Valued Holographic Radiance Fields`](https://complightlab.com/publications/complex_valued_holographic_radiance_fields), is accepted to ACM Transactions on Graphics and will be presented at ACM SIGGRAPH 2026 in Los Angeles, United States of America. This work is a collaboration between a series of academic parties including [Yicheng Zhan (战弈诚)](https://albertgary.github.io/), [Dong-Ha Shin](https://dhsh.in/), [Seung-Hwan Baek (백승환)](https://www.shbaek.com/) and [Kaan Akşit](https://kaanaksit.com)
 <br />
 <br />
 
@@ -92,7 +92,7 @@
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
 </div>
 Our work, ["Learned Display Radiance Fields with Lensless Cameras",](../publications/lensless_display_radiance_field.md) is presented under the technical communications program at ACM SIGGRAPH Asia 2025 in Hong Kong, China.
-This work is a collaboration with a series of academic partners including
+This work is a collaboration between a series of academic partners including
 [Ziyang Chen (陈子扬)](https://ziyang.space/),
 [Yuta Itoh](https://augvislab.github.io/people/yuta-itoh),
 and [Kaan Akşit](https://kaanaksit.com).
@@ -102,7 +102,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2025" width="80" alt/>
 </div>
 Our work, ["Foveation Improves Payload Capacity in Steganography",](../publications/foveated_steganography.md) is presented under the poster program at ACM SIGGRAPH Asia 2025 in Hong Kong, China.
-This work is a collaboration with a series of academic partners including
+This work is a collaboration between a series of academic partners including
 [Lifeng Qiu Lin](https://github.com/Gnefil),
 [Henry Kam (甘皓宇)](https://gulpinhenry.github.io/),
 [Qi Sun](https://qisun.me/),
@@ -122,7 +122,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acmm2025.png" alt="ACM Multimedia 2025" width="80" alt/>
 </div>
 Our work, ["Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays",](../publications/multitasking_perceptual_graphics.md) is presented under the oral presentation program at ACM Multimedia 2025 in Dublin, Ireland.
-This work is a collaboration with a series of academic and industry partners including
+This work is a collaboration between a series of academic and industry partners including
 [Doğa Yılmaz](https://yilmazdoga.net/),
 [He Wang](https://drhewang.com/),
 [Towaki Takikawa](https://tovacinni.github.io/),
@@ -135,7 +135,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH 2025" width="80" alt/>
 </div>
 Our work, ["Assessing Learned Models for Phase-only Hologram Compression",](../publications/assess_hologram_compression.md) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
-This work is a collaboration with a series of academic and industry partners including
+This work is a collaboration between a series of academic and industry partners including
 [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN),
 [Yicheng Zhan (战弈诚)](https://albertgary.github.io/),
 [Josef Spjut](https://josef.spjut.me/),
@@ -146,7 +146,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acm_siggraph_2025.png" alt="ACM SIGGRAPH 2025" width="80" alt/>
 </div>
 Our work, ["Efficient Proxy Raytracer for Optical Systems using Implicit Neural Representations",](https://doi.org/10.1145/3721250.3742994) is presented under the posters program at ACM SIGGRAPH 2025 in Vancouver, Canada.
-This work is a collaboration with a series of academic partners including
+This work is a collaboration between a series of academic partners including
 [Shiva Sinaei](https://www.xr.sys.es.osaka-u.ac.jp/en/team/),
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&),
 [Kaan Akşit](https://kaanaksit.com),
@@ -159,7 +159,7 @@ and [Daisuke Iwai](https://daisukeiwai.org/).
 <img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
 Our work, ["SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging",](../publications/spec_track.md) won the honorable mention award under the posters program at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
-These works are collaborations with a series of academic and industry partners including
+These works are collaborations between a series of academic and industry partners including
 [Ziyang Chen (陈子扬)](https://ziyang.space/),
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),
@@ -173,7 +173,7 @@ and [Kaan Akşit](https://kaanaksit.com).
 <img align="left" src="../media/acm_siggraph_asia_2024.png" alt="ACM SIGGRAPH Asia 2024" width="80" alt/>
 </div>
 [Our innovative research on computational displays and lensless cameras](../documentation/siggraph_asia_2024.md) are presented at ACM SIGGRAPH Asia 2024 in Tokyo, Japan.
-These works are collaborations with a series of academic and industry partners including
+These works are collaborations between a series of academic and industry partners including
 [Chuanjun Zheng](https://scholar.google.com.hk/citations?user=9Jk_LC8AAAAJ&hl=zh-CN),
 [Liang Shi](https://people.csail.mit.edu/liangs/),
 [Ozan Cakmakci](https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en), 
@@ -330,7 +330,7 @@ In her latest article, "[The Promise of Holographic Displays](https://cacm.acm.o
 Our paper, 
 [`ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance`](http://complightlab.com/ChromaCorrect/), 
 is published at [Optica's Biomedical Optics Express](https://opg.optica.org/boe).
-This work is a result of a collaboration with 
+This work is a result of a collaboration between 
 [Ahmet H. Güzel](https://aguzel.github.io/), 
 [Jeanne Beyazian](https://www.linkedin.com/in/jeanne-beyazian/?trk=public_profile_browsemap&originalSubdomain=uk),
 [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/),
