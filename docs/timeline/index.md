@@ -1,6 +1,24 @@
 # Timeline
 ## 2026
 
+### 9 October 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+🗣️ [Kaan Akşit](https://kaanaksit.com) presented an invited webinar titled [`The Hologram as a Scene. Basics of Computer Generated Holography and the Rise of Gaussian Splatting`](https://kaanaksit.com/assets/img/calpoly_2026_optica.png) for the [OPTICA student chapter of California Polytechnic State University](https://now.calpoly.edu/organization/opticacalpoly).
+<br />
+<br />
+
+
+### 29-30 September 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/optica.png" width="80" alt/>
+</div>
+🗣️ [Kaan Akşit](https://kaanaksit.com) presented an invited talk titled `Computational Imaging at the Interface of Artificial Intelligence and Hardware Development` (FTu1B.1) at [Optica's Frontiers in Optics 2026](https://www.frontiersinoptics.com/).
+Kaan was also an invited panelist at the panel `AI in Optical System Design` at the same conference, hosted by Optica Silicon Valley and Optica Rochester.
+<br />
+<br />
+
 ### 8-12 September 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/computer_vision_foundation.png" alt="ECCV" width="80" alt/>
@@ -153,6 +171,36 @@ This work is a collaboration between a series of academic partners including
 and [Daisuke Iwai](https://daisukeiwai.org/).
 
 
+### 28 July 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ieee.png" width="80" alt/>
+</div>
+[Kaan Akşit](https://kaanaksit.com) is recognized as a `Senior Member` by both [IEEE](https://ieee-collabratec.ieee.org/app/p/KaanAksit1110065) and [SPIE](https://spie.org/profile/kaanaksit).
+<br />
+<br />
+
+
+### 3 June 2025
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/nature.png" alt="Nature Light Science and Applications" width="80" alt/>
+</div>
+🥇 Our paper, [`All-optical image denoising using a diffractive visual processor`](https://www.nature.com/articles/s41377-024-01385-6), is recognized as the most downloaded paper in the entire 2024 by [Nature's Light and Science Applications](https://www.nature.com/lsa/).
+This work is a collaboration between
+[Çağatay Işıl](https://cagatayisil.github.io/),
+[Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
+[Fazil Onuralp](https://www.linkedin.com/in/fazil-onuralp-ardic-72a501177),
+[Koray Mentesoglu](https://www.linkedin.com/in/korayucla2024/),
+[Jagrit Digani](https://www.linkedin.com/in/jagrit06),
+[Huseyin Karaca](https://www.linkedin.com/in/huseyinkaraca),
+[Hanlong Chen](https://www.linkedin.com/in/%E7%92%90%E5%93%B2-%E9%BB%84-59854b155),
+[Jingxi Li](https://scholar.google.com/citations?user=_FMlkBoAAAAJ&hl=en&oi=ao),
+[Deniz Mengu](https://scholar.google.com/citations?user=MpYPqXEAAAAJ&hl=en),
+[Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
+[Kaan Akşit](https://kaanaksit.com),
+and [Aydogan Ozcan](https://www.ee.ucla.edu/aydogan-ozcan).
+<br />
+<br />
+
 
 ### 6 February 2025
 <div style="float: left; height:100px;" class="boxed">
@@ -182,6 +230,16 @@ These works are collaborations between a series of academic and industry partner
 [Mustafa Doğa Doğan](https://www.dogadogan.com/),
 [Josef Spjut](https://josef.spjut.me/),
 and [Kaan Akşit](https://kaanaksit.com).
+
+
+### 26 November 2024
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_tog.png" alt="ACM Transaction on Graphics" width="80" alt/>
+</div>
+[Kaan Akşit](https://kaanaksit.com) starts serving as an Associate Editor at [`ACM Transactions on Graphics (TOG)`](https://dl.acm.org/journal/tog/editorial-board).
+Starting from January 2025, Kaan also serves as the chair of [`Optica's Display Technology group`](https://www.optica.org/get_involved/technical_groups/iapd/display_technology_(it)/) until January 2027.
+<br />
+<br />
 
 
 ### 22 April 2024
@@ -215,6 +273,28 @@ This work is a collaboration between
 [Hakan Urey](https://mysite.ku.edu.tr/hurey/),
 [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech),
 and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
+
+### 4 February 2024
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/nature.png" alt="Nature Light Science and Applications" width="80" alt/>
+</div>
+📰 Our paper, [`All-optical image denoising using a diffractive visual processor`](https://doi.org/10.1038/s41377-024-01385-6), is published at [Light: Science & Applications](https://www.nature.com/lsa/).
+This work is a collaboration between
+[Çağatay Işıl](https://cagatayisil.github.io/),
+[Tianyi Gan](https://www.linkedin.com/in/tianyi-gan-177214285),
+[Fazil Onuralp](https://www.linkedin.com/in/fazil-onuralp-ardic-72a501177),
+[Koray Mentesoglu](https://www.linkedin.com/in/korayucla2024/),
+[Jagrit Digani](https://www.linkedin.com/in/jagrit06),
+[Huseyin Karaca](https://www.linkedin.com/in/huseyinkaraca),
+[Hanlong Chen](https://www.linkedin.com/in/%E7%92%90%E5%93%B2-%E9%BB%84-59854b155),
+[Jingxi Li](https://scholar.google.com/citations?user=_FMlkBoAAAAJ&hl=en&oi=ao),
+[Deniz Mengu](https://scholar.google.com/citations?user=MpYPqXEAAAAJ&hl=en),
+[Mona Jarrahi](http://www.seas.ucla.edu/~mjarrahi/mjarrahi.html),
+[Kaan Akşit](https://kaanaksit.com),
+and [Aydogan Ozcan](https://www.ee.ucla.edu/aydogan-ozcan).
 <br />
 <br />
 
