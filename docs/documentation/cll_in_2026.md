@@ -15,7 +15,7 @@ _Written by [Kaan Akşit](https://kaanaksit.com), 15 December 2026_
 [**Computational Light Laboratory**](https://complightlab.com) continues its journey under the leadership of [Kaan Akşit](https://kaanaksit.com).
 Our students and interns carried ambitious ideas into high-impact publications at leading venues, including ACM SIGGRAPH 2026, ACM Transactions on Graphics, the European Conference on Computer Vision (ECCV 2026), Eurographics 2026, and the Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
 This work advanced the frontiers of computational displays, perceptual graphics, and deep learning for imaging.
-Kaan also represents the laboratory on the wider stage, with an invited talk at the Society of Information Display Display Week 2026 and an article for Optica.
+Kaan also represents the laboratory on the wider stage, with an invited talk at the Society of Information Display Display Week 2026, an invited talk and a panel at Optica's Frontiers in Optics 2026, and an article for Optica.
 
 This document introduces a selection of our 2026 work and the people behind it.
 Our stories are not limited to those reported here, and many more remain in the works.
@@ -178,6 +178,16 @@ Our doctoral students continued to advance their research, and [Ziyang Chen](htt
 ### Invited talk at the Society of Information Display Display Week 2026
 Kaan presented an invited talk titled **AI-Driven Optics, Catalyst of Future Computing, Imaging and Display Technology** at [Display Week 2026](https://www.displayweek.org/).
 The talk surveys how learned methods shape the next generation of imaging and display systems, from holographic rendering to perceptually guided graphics.
+
+### Invited talk and panel at Optica's Frontiers in Optics 2026
+Kaan presented an invited talk titled **Computational Imaging at the Interface of Artificial Intelligence and Hardware Development** (FTu1B.1) on 29 September 2026 at [Optica's Frontiers in Optics 2026](https://www.frontiersinoptics.com/).
+He was also an invited panelist on 30 September 2026 in the panel **AI in Optical System Design**, hosted by Optica Silicon Valley and Optica Rochester.
+
+<figure markdown>
+  ![](./optica_ai_panel_2026/optica_ai_panel_01.jpg){ width="400", align=left }
+  ![](./optica_ai_panel_2026/optica_ai_panel_02.jpg){ width="400", align=left }
+  <figcaption>The panel AI in Optical System Design at Optica's Frontiers in Optics 2026.</figcaption>
+</figure>
 
 ### An article for Optica
 Kaan also contributes an article for Optica on the role of learned methods in computational displays, computational imaging, and perceptual graphics.
