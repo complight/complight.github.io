@@ -15,7 +15,7 @@ _Written by [Kaan Akşit](https://kaanaksit.com), 15 December 2026_
 [**Computational Light Laboratory**](https://complightlab.com) continues its journey under the leadership of [Kaan Akşit](https://kaanaksit.com).
 Our students and interns carried ambitious ideas into high-impact publications at leading venues, including ACM SIGGRAPH 2026, ACM Transactions on Graphics, the European Conference on Computer Vision (ECCV 2026), Eurographics 2026, and the Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
 This work advanced the frontiers of computational displays, perceptual graphics, and deep learning for imaging.
-Kaan also represents the laboratory on the wider stage, with an invited talk at the Society of Information Display Display Week 2026, an invited talk and a panel at Optica's Frontiers in Optics 2026, and an article for Optica.
+Kaan also represents the laboratory on the wider stage, with an invited talk at the Society of Information Display Display Week 2026, an invited talk and a panel at Optica's Frontiers in Optics 2026, an invited webinar for the Optica student chapter of California Polytechnic State University, and an article for Optica.
 
 This document introduces a selection of our 2026 work and the people behind it.
 Our stories are not limited to those reported here, and many more remain in the works.
@@ -187,6 +187,16 @@ He was also an invited panelist on 30 September 2026 in the panel **AI in Optica
   ![](./optica_ai_panel_2026/optica_ai_panel_01.jpg){ width="400", align=left }
   ![](./optica_ai_panel_2026/optica_ai_panel_02.jpg){ width="400", align=left }
   <figcaption>The panel AI in Optical System Design at Optica's Frontiers in Optics 2026.</figcaption>
+</figure>
+
+### Invited webinar for the Optica student chapter of California Polytechnic State University
+Kaan presented an invited webinar titled **The Hologram as a Scene. Basics of Computer Generated Holography and the Rise of Gaussian Splatting** on 9 October 2026 for the [Optica student chapter of California Polytechnic State University](https://now.calpoly.edu/organization/opticacalpoly).
+The session was hosted by [Isinsu Baylam Toker](https://www.optica.org/history/biographies/bios/isinsu_baylam/), an assistant professor of physics and a faculty advisor of the Optica student chapter at the university.
+
+<figure markdown>
+  ![](./calpoly_webinar_2026/calpoly_webinar_01.jpg){ width="400", align=left }
+  ![](./calpoly_webinar_2026/calpoly_webinar_02.jpg){ width="400", align=left }
+  <figcaption>Photographs from the webinar for the Optica student chapter of California Polytechnic State University.</figcaption>
 </figure>
 
 ### An article for Optica
