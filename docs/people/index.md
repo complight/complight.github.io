@@ -144,6 +144,19 @@ Independent Researcher
 <br clear="left"/>
 
 
+<div style="float: left; height:200px;" class="boxed">
+<img align='left' src="../people/刘谦_照片.png" width="160" alt/>
+</div>
+[Qian Liu (刘谦)](https://owenl-520.github.io/)
+
+BSc Student ([University College London](https://www.ucl.ac.uk))
+
+:material-email: [E-mail](mailto:liuqianapply@126.com)
+
+:material-office-building: Office: Virtual
+<br clear="left"/>
+
+
 ## Alumni
 
 ### Post-Doctoral Researchers
