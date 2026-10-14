@@ -22,7 +22,7 @@ and [Kaan Akşit](https://kaanaksit.com)
         @inproceedings{liu2026lensplacement,
           author    = {Liu, Qian and Chen, Ziyang and Bektaş, Kenan and Dogan, Mustafa Doga and Ak{\c{s}}it, Kaan},
           title     = {Automatic Lens Placement for Personalized 3D Printed Eyewear},
-          booktitle = {SIGGRAPH China Frontiers 2026 (SCF)},
+          booktitle = {ACM Symposium on Computational Fabrication (SCF 2026)},
           year      = {2026},
           publisher = {Association for Computing Machinery},
           address   = {New York, NY, USA},
