@@ -349,6 +349,7 @@ and [Kaan Akşit](https://kaanaksit.com)
           year      = {2026},
           publisher = {Association for Computing Machinery},
           address   = {New York, NY, USA},
+          doi       = {10.1145/3828643.3858257},
           note      = {Poster},
           url       = {https://owenl-520.github.io/eyewear.html}
         }
