@@ -149,7 +149,7 @@ Independent Researcher
 </div>
 [Qian Liu (刘谦)](https://owenl-520.github.io/)
 
-BSc Student ([University College London](https://www.ucl.ac.uk))
+MSc Student ([University College London](https://www.ucl.ac.uk))
 
 :material-email: [E-mail](mailto:liuqianapply@126.com)
 
