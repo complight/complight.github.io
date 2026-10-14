@@ -14,6 +14,7 @@
 [Kaan Akşit](https://kaanaksit.com),
 and [Simeng Qiu](https://qsimeng.github.io/)
 
+:material-web: [Project site](https://gsmark36.github.io/complex-valued-quadratic-phase-gaussian/)
 :material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
 :material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/WangEtAl_SigAsia26_Supplementary_Hologram_representation_via_quadratic_phase_gaussian_splatting.pdf)
 :material-file-document-outline: [arXiv](https://arxiv.org/abs/2609.11434)
