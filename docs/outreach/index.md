@@ -36,6 +36,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Bailin Deng (Cardiff University)
+
+??? Details
+    **Date:**
+    14 October 2026
+
+    **Presenters:** [Bailin Deng](https://www.bdeng.me), Senior Lecturer, Cardiff University
+
+    **Title:** Mesh-Based Freeform Lens Optimisation for Light Control
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQCdElb6YeRATIj21bgw4W-QATFuvxvmAjASXU5AuOIWHdY?e=Ux5Ofd)
+
+
 #### İpek Öztaş (Bilkent University)
 
 ??? Details
