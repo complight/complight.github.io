@@ -16,7 +16,7 @@
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](https://owenl-520.github.io/eyewear.html)
-:material-newspaper-variant: [Manuscript](https://owenl-520.github.io/assets/scf26c-sub8458-i7.pdf)
+:material-newspaper-variant: [Manuscript](https://kaanaksit.com/assets/pdf/LiuEtAl_SCF2026_Automatic_lens_placement_for_personalized_3d_printed_eyewear.pdf)
 :material-newspaper-variant: [Poster](https://kaanaksit.com/assets/pdf/LiuEtAl_SCF2026_Poster_Automatic_lens_placement_for_personalized_3d_printed_eyewear.pdf)
 ??? info ":material-tag-text: Bibtex"
 	```
