@@ -199,6 +199,8 @@ BSc Student ([University College London](https://www.ucl.ac.uk))
 - [Oliver Kingshott](https://www.linkedin.com/in/oliland/), `Learned Point-spread Functions for Lensless Imaging,` 2021, Next: Ph.D. Student at University College London.
 <!-- P -->
 - [Pengze Li](https://linsonng.github.io/), `Text to hologram`, 2024, Next: -.
+<!-- Q -->
+- [Qian Liu (刘谦)](https://owenl-520.github.io/), `Automatic Lens Placement for Personalized 3D Printed Eyewear`, 2026, Next: -.
 <!-- R -->
 - Rasul Bakhodirov, `Robust Neural Audio Fingerprinting`, 2026, Next: -.
 - [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io), `Clustered Codebook Quantization for 2D Gaussian-based Image Compression`, 2026, Next: MSc at University of Cambridge.
