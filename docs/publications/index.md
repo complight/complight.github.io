@@ -3,6 +3,38 @@
 ## 2026
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/eyewear_lens_placement_teaser.png" width="200" alt=""/>
+</div>
+**Automatic Lens Placement for Personalized 3D Printed Eyewear**
+
+<img src="../badges/scf.svg">
+
+[Qian Liu](https://owenl-520.github.io/),
+[Ziyang Chen](https://ziyang.space/),
+[Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9),
+[Mustafa Doga Dogan](https://www.dogadogan.com/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](https://owenl-520.github.io/eyewear.html)
+:material-newspaper-variant: [Manuscript](https://owenl-520.github.io/assets/scf26c-sub8458-i7.pdf)
+??? info ":material-tag-text: Bibtex"
+	```
+        @inproceedings{liu2026lensplacement,
+          author    = {Liu, Qian and Chen, Ziyang and Bektaş, Kenan and Dogan, Mustafa Doga and Ak{\c{s}}it, Kaan},
+          title     = {Automatic Lens Placement for Personalized 3D Printed Eyewear},
+          booktitle = {SIGGRAPH China Frontiers 2026 (SCF)},
+          year      = {2026},
+          publisher = {Association for Computing Machinery},
+          address   = {New York, NY, USA},
+          doi       = {10.1145/3828643.3858257},
+          note      = {Poster},
+          url       = {https://owenl-520.github.io/eyewear.html}
+        }
+	```
+<br clear="left"/>
+
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/qwp_hologram_teaser.png" width="200" alt=""/>
 </div>
 **Hologram Representation via Quadratic Phase Gaussian Splatting**
@@ -320,38 +352,6 @@ and [Kaan Akşit](https://kaanaksit.com)
           journal = {ACM Transactions on Graphics (TOG)},
           year    = {2026},
           note    = {Presented at SIGGRAPH 2026}
-        }
-	```
-<br clear="left"/>
-
-
-<div style="float: left; height:340px;" class="boxed">
-<img align="left" src="media/eyewear_lens_placement_teaser.png" width="200" alt=""/>
-</div>
-**Automatic Lens Placement for Personalized 3D Printed Eyewear**
-
-<img src="../badges/siggraph.svg">
-
-[Qian Liu](https://owenl-520.github.io/),
-[Ziyang Chen](https://ziyang.space/),
-[Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9),
-[Mustafa Doga Dogan](https://www.dogadogan.com/),
-and [Kaan Akşit](https://kaanaksit.com)
-
-:material-web: [Project site](https://owenl-520.github.io/eyewear.html)
-:material-newspaper-variant: [Manuscript](https://owenl-520.github.io/assets/scf26c-sub8458-i7.pdf)
-??? info ":material-tag-text: Bibtex"
-	```
-        @inproceedings{liu2026lensplacement,
-          author    = {Liu, Qian and Chen, Ziyang and Bektaş, Kenan and Dogan, Mustafa Doga and Ak{\c{s}}it, Kaan},
-          title     = {Automatic Lens Placement for Personalized 3D Printed Eyewear},
-          booktitle = {SIGGRAPH China Frontiers 2026 (SCF)},
-          year      = {2026},
-          publisher = {Association for Computing Machinery},
-          address   = {New York, NY, USA},
-          doi       = {10.1145/3828643.3858257},
-          note      = {Poster},
-          url       = {https://owenl-520.github.io/eyewear.html}
         }
 	```
 <br clear="left"/>
