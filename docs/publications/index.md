@@ -42,7 +42,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 
 <img src="../badges/siggraph_asia.svg">
 
-[Haolong Wang](https://scholar.google.com/citations?user=_tV0YKkAAAAJ&),
+[Haolong Wang](https://gsmark36.github.io/),
 [Yicheng Zhan](https://albertgary.github.io/),
 [Kaan Akşit](https://kaanaksit.com),
 and [Simeng Qiu](https://qsimeng.github.io/)
