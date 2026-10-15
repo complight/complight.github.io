@@ -220,8 +220,10 @@ MSc Student ([University College London](https://www.ucl.ac.uk))
 - [Xinyu (Lina) Gu](https://www.linkedin.com/in/xinyu-gu-497b43218/), `Novel 3D Representations for assessing damages in cars`, 2025, Next: Research Intern at Tractable.
 <!-- Y -->
 - [Yilin Qu](https://www.linkedin.com/in/yilin-qu-b0a599149/), `Predicting Next Frames of a RGBD video,` 2022, Next: Machine Learning Software Engineer at Qualcomm Incorporated.
+- Yuchen Xiang, `A Three-Stage Large Language Model Framework for Student-Supervisor Matching`, 2026, Next: -.
 - Yuze Yang, `Learned 3D Representations: Point Cloud, Depth Maps and Holograms,` 2021, Next: -.
 <!-- Z -->
+- Ziang Shi, `Gameplay-Native Arousal State Recognition on AMuCS: Comparing Modalities and Fusion Strategies`, 2026, Next: -.
 - [Zhiren Zan](https://github.com/Koma002), `Detecting Fabrication Defects from images using multi-modal Large Language Models`, 2024, Next: -. 
 - [Zicong Peng](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN), `Assessing Learned Models for Phase-only Hologram Compression`, 2025, Next: Ph.D. student at Koç University.
 - [Zhuoxuan Jiang](https://orcid.org/0009-0004-5073-7753), `Enhancing Color and Brightness Contrast in Diffusion-Based Image Generation via Prompt Engineering`, 2025, Next: -.
