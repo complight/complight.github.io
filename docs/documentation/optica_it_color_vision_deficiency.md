@@ -25,10 +25,12 @@ Seeing essentially no color at all, achromatopsia, is rare.
 
 
 ## How is CVD diagnosed?
-A well-known screening tool is the Ishihara Test, developed in 1917 and still widely used today.
-Each plate shows a circular field of dots of varying sizes. A figure formed by the dots, separates from the background by hue, while brightness stays roughly constant, a design called pseudoisochromatic.
-A viewer with normal color vision can naturally read an embedded number, while a viewer with color deficiency will misread it or see no figure at all.
+A well-known screening tool is the Ishihara Test, developed in 1917 and still widely used today, presented below.
+Each plate shows a circular field of dots of varying sizes. A figure formed by the dots separates from the background by hue, while brightness stays roughly constant, a design called pseudoisochromatic.
+A viewer with normal color vision can naturally read an embedded number (from left to right: 74, 5, no number), while a viewer with color deficiency will misread it, for example as 21 in the left plate or 5 in the right plate, or see no figure at all (middle plate).
 The test also depends on faithful color reproduction, since a poorly calibrated screen or printer can undo the pseudoisochromatic effect the plates rely on.
+
+![Ishihara plates; from left to right, a viewer with normal color vision reads 74, then 5, then no number](../media/optica_it_cvd_ishihara_plates.png)
 
 
 ## What does it look like?
