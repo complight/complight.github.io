@@ -36,6 +36,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Stefanie Mueller (Massachusetts Institute of Technology)
+
+??? Details
+    **Date:**
+    28 October 2026
+
+    **Presenters:** [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html), Associate Professor, MIT EECS and CSAIL
+
+    **Title:** Beyond the Screen: Enabling AI to Create, Operate, and Edit Physical Objects
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQBGUJwHllGWS6ucGCKlxPyzAZByaZBOqK57TqUtAzK4MRk?e=YHF5gI)
+
+
 #### Bailin Deng (Cardiff University)
 
 ??? Details
