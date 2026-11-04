@@ -36,6 +36,19 @@ Overall, seminars are a blend of internal and external presenters.
 These seminars are organized by [Kaan Akşit](https://kaanaksit.com). 
 
 
+#### Alex Chapiro (Meta)
+
+??? Details
+    **Date:**
+    4 November 2026
+
+    **Presenters:** [Alex Chapiro](https://chapiro.net), Research Scientist, Meta
+
+    **Title:** Dynamic Range and Display Mapping for Immersive Displays
+
+    **Watch:** [Recording (Password protected)](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucackak_ucl_ac_uk/IQAkl42pLZ_JQYBgQLJTVcFIAf9yohsC3OSLADowvMyEYVU?e=jjvxCe)
+
+
 #### Stefanie Mueller (Massachusetts Institute of Technology)
 
 ??? Details
