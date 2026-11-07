@@ -58,7 +58,8 @@
 ></iframe>
 
 :material-open-in-new: <a href="https://complightlab.com/prsentation_gaussian_steganography/#/1" target="_blank" rel="noopener noreferrer">Open slides</a>
-:material-file-pdf-box: [Slides PDF](https://complightlab.com/prsentation_gaussian_steganography/TC147_Slidev_10_slides.pdf)
+:material-file-pdf-box: [Slides PDF](https://complightlab.com/prsentation_gaussian_steganography/TC147_slides.pdf)
+:material-download: [Download PowerPoint](https://complightlab.com/prsentation_gaussian_steganography/TC147_slides.pptx)
 
 ## Video
 
