@@ -1,5 +1,10 @@
 # MkDocs generated site
 /site/
+/docs/slides/gaussian_steganography/
+/presentations/gaussian_steganography/node_modules/
+/presentations/gaussian_steganography/.slidev/
+/presentations/gaussian_steganography/.cache/
+/presentations/gaussian_steganography/output/
 
 # Python
 __pycache__/

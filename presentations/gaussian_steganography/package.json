@@ -1,0 +1,17 @@
+{
+  "name": "tc147-native-slidev",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides.md --port 4391",
+    "build": "slidev build slides.md --without-notes --base /slides/gaussian_steganography/ --out ../../docs/slides/gaussian_steganography/ --router-mode hash",
+    "preview": "vite preview --host 127.0.0.1 --base /slides/gaussian_steganography/ --outDir ../../docs/slides/gaussian_steganography/",
+    "export": "slidev export slides.md --format pdf --output public/TC147_slides.pdf"
+  },
+  "devDependencies": {
+    "@slidev/cli": "53.0.0",
+    "@slidev/theme-default": "0.25.0",
+    "playwright-chromium": "1.63.0"
+  },
+  "type": "module"
+}

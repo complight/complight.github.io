@@ -1,0 +1,39 @@
+name: Check Gaussian steganography slides
+
+on:
+  pull_request:
+    paths:
+      - 'presentations/gaussian_steganography/**'
+      - 'docs/publications/gaussian_steganography.md'
+      - 'mkdocs.yml'
+      - '.github/workflows/ci.yml'
+      - '.github/workflows/slidev-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: presentations/gaussian_steganography/package-lock.json
+      - name: Install Slidev dependencies
+        working-directory: presentations/gaussian_steganography
+        env:
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+        run: npm ci
+      - name: Build Gaussian steganography slides
+        working-directory: presentations/gaussian_steganography
+        run: npm run build
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install website dependencies
+        run: pip install mkdocs-material mkdocs-glightbox mkdocs-bibtex mkdocs-redirects mkdocstrings setuptools
+      - name: Build project website
+        run: mkdocs build
