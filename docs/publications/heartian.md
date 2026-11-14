@@ -45,6 +45,14 @@
               url = {https://arxiv.org/abs/2609.28539}
               }
 
+## Slides
+<iframe
+  src="https://complightlab.com/presentation_heartian/" target="_blank" rel="noopener noreferrer/"
+  width="100%"
+  height="600"
+  style="border: none; border-radius: 8px;"
+  allowfullscreen
+></iframe>
 
 ## Video
 <video controls>
