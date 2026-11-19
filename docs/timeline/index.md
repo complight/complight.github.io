@@ -1,6 +1,24 @@
 # Timeline
 ## 2026
 
+### 18 November 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/cardiff_university.svg" alt="Cardiff University" width="80" alt/>
+</div>
+🗣️ [Kaan Akşit](https://kaanaksit.com) presented an invited seminar titled `The Hologram as a Scene. Basics of Computer Generated Holography and the Rise of Gaussian Splatting` for the [Visual Computing Research Section of Cardiff University](https://www.cardiff.ac.uk/).
+<br />
+<br />
+
+
+### 16 October 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/ucl_photonics_society_thorlabs_2026_short_talks.png" alt="UCL Photonics Society X Thorlabs" width="80" alt/>
+</div>
+🗣️ [Kaan Akşit](https://kaanaksit.com) presented a short talk titled `Holography in Ten Minutes. A Crash Course in Computer Generated Holography and Gaussian Splatting` at the [UCL Photonics Society X Thorlabs - Short Talks](https://www.ucl.ac.uk/engineering/news/2025/mar/new-ucl-photonics-society-foster-collaboration-and-innovation) event.
+<br />
+<br />
+
+
 ### 9 October 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/optica.png" width="80" alt/>
