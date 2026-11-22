@@ -75,6 +75,10 @@ Applying CVDLoss to the model outputs shows that accessibility-focused prompts d
 Here are relevant research works from the laboratory:
 
 - [They Still See Color](../documentation/optica_it_color_vision_deficiency.md)
+- [Foveation Improves Payload Capacity in Steganography](https://complightlab.com/publications/foveated_steganography/)
+- [Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays](https://complightlab.com/publications/multitasking_perceptual_graphics/)
+- [Multi-color Holograms Improve Brightness in Holographic Displays](https://complightlab.com/publications/multi_color/)
+- [ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance](https://complightlab.com/ChromaCorrect)
 
 ## Outreach
 We host a Slack group with more than 250 members.
