@@ -1,6 +1,14 @@
 # Timeline
 ## 2026
 
+### 6-8 December 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_scf_2026.png" alt="ACM SCF 2026" width="80" alt/>
+</div>
+📰 Our work, [`Automatic Lens Placement for Personalized 3D Printed Eyewear`](https://owenl-520.github.io/eyewear.html), is presented under the poster program at [ACM SCF 2026](https://scf.acm.org/2026/) in Tokyo, Japan. This work is a collaboration between a series of academic and industry partners including [Qian Liu](https://owenl-520.github.io/), [Ziyang Chen](https://ziyang.space/), [Kenan Bektaş](https://www.unisg.ch/en/personenverzeichnis/dc93dc3e-fad5-45ce-a9dd-fa7bf0b64cd9), [Mustafa Doga Dogan](https://www.dogadogan.com/) and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
 ### 1-4 December 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2026.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
