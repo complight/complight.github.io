@@ -50,6 +50,19 @@
       <div class="slide">
         <div style="text-align: center;">
         <h3>
+        <a href="publications/prompt_driven_color_accessibility/">
+        <b>Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models</b>
+        </a>
+        </h3>
+        <h5>
+        <b>SIGGRAPH Asia 2026 Posters</b>
+        </h5>
+        <img height="300" width="450" src="publications/media/generative_colorblind_teaser.jpg" class="off-glb" alt="Text prompt to CVD simulation pipeline with gradient magnitude maps and CVDLoss values">
+        </div>
+      </div>
+      <div class="slide">
+        <div style="text-align: center;">
+        <h3>
         <a href="publications/complex_valued_2d_gaussians/">
         <b>Complex-Valued 2D Gaussian Representation for Computer-Generated Holography</b>
         </a>
