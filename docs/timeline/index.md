@@ -16,6 +16,13 @@
 <br />
 <br />
 
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
+</div>
+📰 Our work, [`Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models`](https://complightlab.com/publications/prompt_driven_color_accessibility/), is presented under the posters program at [ACM SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/) in Kuala Lumpur, Malaysia. This work is a collaboration between a series of academic parties including [Xinyao Zhuang](https://www.linkedin.com/in/xinyao-zhuang-silvianz/), [Jose Echevarria](https://www.jiechevarria.com/) and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
 ### 18 November 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/cardiff_university.svg" alt="Cardiff University" width="80" alt/>
