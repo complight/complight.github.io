@@ -79,7 +79,7 @@ and [Simeng Qiu](https://qsimeng.github.io/)
 <img src="../badges/siggraph_asia.svg">
 
 [Xiaoyue Fan](https://merryxyfan.github.io/),
-[Jose Echevarria](https://research.adobe.com/person/jose-echevarria/),
+[Jose Echevarria](https://www.jiechevarria.com/),
 [Akshay Paruchuri](https://akshayparuchuri.com/),
 and [Kaan Akşit](https://kaanaksit.com)
 
@@ -143,7 +143,7 @@ and [Kaan Akşit](https://kaanaksit.com)
 <img src="../badges/siggraph_asia.svg">
 
 [Xinyao Zhuang](https://www.linkedin.com/in/xinyao-zhuang-silvianz/),
-[Jose Echevarria](https://research.adobe.com/person/jose-echevarria/),
+[Jose Echevarria](https://www.jiechevarria.com/),
 and [Kaan Akşit](https://kaanaksit.com)
 
 :material-web: [Project site](prompt_driven_color_accessibility.md)

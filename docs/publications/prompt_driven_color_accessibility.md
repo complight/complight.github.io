@@ -10,7 +10,7 @@
     </tr> 
     <tr>
       <td><p style="text-align:center;"><a href="https://www.linkedin.com/in/xinyao-zhuang-silvianz/">Xinyao Zhuang</a><sup>1</sup></p></td>
-      <td><p style="text-align:center;"><a href="https://research.adobe.com/person/jose-echevarria/">Jose Echevarria</a><sup>2</sup></p></td>
+      <td><p style="text-align:center;"><a href="https://www.jiechevarria.com/">Jose Echevarria</a><sup>2</sup></p></td>
       <td><p style="text-align:center;"><a href="https://kaanaksit.com">Kaan Akşit</a><sup>1</sup></p></td>
     </tr>
   </tbody>
