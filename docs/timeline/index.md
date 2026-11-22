@@ -1,7 +1,7 @@
 # Timeline
 ## 2026
 
-### 4 December 2026
+### 1-4 December 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
 </div>
@@ -9,7 +9,6 @@
 <br />
 <br />
 
-### 1-4 December 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
 </div>
