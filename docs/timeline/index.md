@@ -1,6 +1,14 @@
 # Timeline
 ## 2026
 
+### 1-4 December 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
+</div>
+📰 Our work, [`💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar`](https://complightlab.com/publications/heartian/), is presented under the Technical Communications program at [ACM SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/) in Kuala Lumpur, Malaysia. This work is a collaboration between a series of academic parties including [Xiaoyue (Merry) Fan](https://merryxyfan.github.io/), [Jose Echevarria](https://research.adobe.com/person/jose-echevarria/), [Akshay Paruchuri](https://akshayparuchuri.com/) and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
 ### 18 November 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/cardiff_university.svg" alt="Cardiff University" width="80" alt/>
