@@ -1,6 +1,14 @@
 # Timeline
 ## 2026
 
+### 4 December 2026
+<div style="float: left; height:100px;" class="boxed">
+<img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
+</div>
+📰 Our work, [`Gaussian Image Steganography via Parameter-Domain Keyed Embeddings`](https://complightlab.com/publications/gaussian_steganography/), is presented under the Technical Communications program at [ACM SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/) in Kuala Lumpur, Malaysia. This work is a collaboration between a series of academic parties including [Tong Wu](https://tongwu-research.github.io/), [Runze (Aiden) Cheng (程闰泽)](https://aidcheng.github.io/), [Xiaoyue (Merry) Fan](https://merryxyfan.github.io/) and [Kaan Akşit](https://kaanaksit.com).
+<br />
+<br />
+
 ### 1-4 December 2026
 <div style="float: left; height:100px;" class="boxed">
 <img align="left" src="../media/acm_siggraph_asia_2025.png" alt="ACM SIGGRAPH Asia 2026" width="80" alt/>
