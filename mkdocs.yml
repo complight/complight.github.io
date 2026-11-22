@@ -42,6 +42,7 @@ nav:
     - Highlighted works:
       - '💓Heartian: Physiology-Aware Relightable Gaussian Head Avatar': 'publications/heartian.md'
       - 'Gaussian Image Steganography via Parameter-Domain Keyed Embeddings': 'publications/gaussian_steganography.md'
+      - 'Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models': 'publications/prompt_driven_color_accessibility.md'
       - 'Complex-Valued 2D Gaussian Representation for Computer-Generated Holography': 'publications/complex_valued_2d_gaussians.md'
       - 'Clustered Codebook Quantization for 2D Gaussian-based Image Compression': 'publications/clustercodebook2DGS.md'
       - 'Editing Physiological Signals in Videos Using Latent Representations': 'publications/physiolatent.md'

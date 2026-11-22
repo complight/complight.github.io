@@ -136,6 +136,40 @@ and [Kaan Akşit](https://kaanaksit.com)
 <br clear="left"/>
 
 <div style="float: left; height:340px;" class="boxed">
+<img align="left" src="media/generative_colorblind_teaser.jpg" width="200" alt=""/>
+</div>
+**Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models**
+
+<img src="../badges/siggraph_asia.svg">
+
+[Xinyao Zhuang](https://www.linkedin.com/in/xinyao-zhuang-silvianz/),
+[Jose Echevarria](https://research.adobe.com/person/jose-echevarria/),
+and [Kaan Akşit](https://kaanaksit.com)
+
+:material-web: [Project site](prompt_driven_color_accessibility.md)
+:material-newspaper-variant: [Manuscript](https://www.kaanaksit.com/assets/pdf/ZhuangEtAl_SigAsia2026_Prompt_driven_color_accessibility_evaluation_in_diffusion_based_image_generation_models.pdf)
+:material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/ZhuangEtAl_SigAsia2026_Supplementary_Prompt_driven_color_accessibility_evaluation_in_diffusion_based_image_generation_models.pdf)
+:material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/ZhuangEtAl_SigAsia2026_Poster_Prompt_driven_color_accessibility_evaluation_in_diffusion_based_image_generation_models.pdf)
+:material-file-document-outline: [arXiv](https://arxiv.org/abs/2603.09832)
+??? info ":material-tag-text: Bibtex"
+	```
+	@inproceedings{zhuang2026promptdriven,
+	  title = {Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models},
+	  author = {Zhuang, Xinyao and Echevarria, Jose and Ak{\c{s}}it, Kaan},
+	  year = {2026},
+	  month = dec,
+	  booktitle = {SIGGRAPH Asia 2026 Posters (SA Posters '26)},
+	  location = {Kuala Lumpur, Malaysia},
+	  publisher = {ACM},
+	  address = {New York, NY, USA},
+	  pages = {3},
+	  doi = {https://doi.org/10.1145/3829333.3847900},
+	  isbn = {979-8-4007-2839-6/2026/12},
+	}
+	```
+<br clear="left"/>
+
+<div style="float: left; height:340px;" class="boxed">
 <img align="left" src="media/cv2dgs_teaser.png" width="200" alt/>
 </div>
 **Complex-Valued 2D Gaussian Representation for Computer-Generated Holography**
