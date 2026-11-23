@@ -27,6 +27,7 @@
 :material-newspaper-variant: [Supplementary](https://www.kaanaksit.com/assets/pdf/ZhuangEtAl_SigAsia2026_Supplementary_Prompt_driven_color_accessibility_evaluation_in_diffusion_based_image_generation_models.pdf)
 :material-newspaper-variant: [Poster](https://www.kaanaksit.com/assets/pdf/ZhuangEtAl_SigAsia2026_Poster_Prompt_driven_color_accessibility_evaluation_in_diffusion_based_image_generation_models.pdf)
 :material-file-document-outline: [arXiv](https://arxiv.org/abs/2603.09832)
+:material-file-code: [Code](https://github.com/complight/Prompt-Driven_Color_Accessibility_Evaluation_in_Diffusion-based_Image_Generation_Models)
 ??? info ":material-tag-text: Bibtex"
         @inproceedings{zhuang2026promptdriven,
           title = {Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models},
